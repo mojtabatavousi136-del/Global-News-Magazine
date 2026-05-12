@@ -11,50 +11,64 @@ def get_ultra_content(entry, source_name):
     full_text = None
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
         'Accept-Language': 'en-US,en;q=0.9',
         'Referer': 'https://www.google.com/',
-        'DNT': '1'
     }
 
     try:
-        time.sleep(2) # وقفه برای جلوگیری از حساسیت سرور
+        # وقفه کوتاه برای جلوگیری از بلاک شدن
+        time.sleep(1.5)
         response = requests.get(entry.link, headers=headers, timeout=25)
         
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # ۱. استخراج عکس با کیفیت بالا (مخصوص گاردین و بقیه)
-            img_meta = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
-            if img_meta:
-                image_url = img_meta.get("content")
+            # --- ۱. استخراج فوق پیشرفته عکس ---
+            # تلاش اول: متاتگ‌های استاندارد
+            img_tag = soup.find("meta", property="og:image") or \
+                      soup.find("meta", name="twitter:image") or \
+                      soup.find("meta", property="twitter:image")
+            
+            if img_tag:
+                image_url = img_tag.get("content")
+            
+            # تلاش دوم: مخصوص نیویورک تایمز (اگر متاتگ خالی بود)
+            if not image_url and source_name == "NY Times":
+                # جستجو در تصاویر داخل بدنه مقاله که کلاس های خاص NYT دارند
+                nyt_img = soup.find('img', class_=re.compile(r'css-.*'))
+                if nyt_img and nyt_img.get('src'):
+                    image_url = nyt_img.get('src')
 
-            # ۲. استخراج متن از داده‌های ساختاریافته (JSON-LD) - لایه امنیتی جدید
-            # این بخش متن را از جایی می‌کشد که معمولاً مسدود نمی‌شود
+            # تلاش سوم: بک‌آپ از فید RSS (مخصوصاً برای ناسا و TMZ)
+            if not image_url:
+                if 'media_content' in entry:
+                    image_url = entry.media_content[0]['url']
+                elif 'links' in entry:
+                    for link in entry.links:
+                        if 'image' in link.get('type', ''):
+                            image_url = link.get('href')
+
+            # --- ۲. استخراج متن از JSON-LD یا بدنه ---
             json_scripts = soup.find_all('script', type='application/ld+json')
             for script in json_scripts:
                 try:
                     data = json.loads(script.string)
                     if isinstance(data, dict):
-                        # جستجو در ساختارهای مختلف JSON خبری
                         content = data.get('articleBody') or data.get('description')
                         if content and len(content) > 300:
                             full_text = content
                             break
                 except: continue
 
-            # ۳. اگر روش بالا جواب نداد، از روش استخراج مستقیم با کلاس‌های جدید استفاده کن
             if not full_text:
-                # پاکسازی هوشمند
                 for junk in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'button', 'figcaption']):
                     junk.decompose()
                 
-                # کلاس‌های بسیار خاص برای الجزیره و نیویورک تایمز
                 selectors = [
                     'div.article__content', 'div.wysiwyg--all-content', # Al Jazeera
                     'section[name="articleBody"]', 'div.StoryBodyCompanionColumn', # NYT
-                    'div.article-body-commercial-selector', # Guardian
                     'article', 'main'
                 ]
                 
@@ -64,11 +78,11 @@ def get_ultra_content(entry, source_name):
                         paragraphs = content_area.find_all('p')
                         text_parts = [p.get_text().strip() for p in paragraphs if len(p.get_text().strip()) > 70]
                         if text_parts:
-                            full_text = '\n\n'.join(text_parts[:15])
+                            full_text = '\n\n'.join(text_parts[:12])
                             break
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error fetching {source_name}: {e}")
         
     return image_url, full_text
 
@@ -83,7 +97,9 @@ def main():
     }
 
     now = datetime.now()
-    markdown = f"<div align=\"center\">\n\n# 📰 MAHOOR WORLD PREMIER NEWS\n\n**📅 Update:** `{now.strftime('%Y/%m/%d - %H:%M')}`\n\n---\n\n### 📌 QUICK NAVIGATION\n"
+    now_str = now.strftime('%Y/%m/%d - %H:%M')
+    
+    markdown = f"<div align=\"center\">\n\n# 📰 MAHOOR WORLD PREMIER NEWS\n\n**📅 Update:** `{now_str}`\n\n---\n\n### 📌 QUICK NAVIGATION\n"
     nav_links = [f"[{name}](#{name.lower().replace(' ', '-')})" for name in sources.keys()]
     markdown += " | ".join(nav_links) + "\n\n--- \n</div>\n\n"
 
@@ -97,20 +113,19 @@ def main():
             
             markdown += f"### 📰 {entry.title}\n"
             
-            # نمایش عکس با اطمینان از کیفیت
             if img:
+                # اصلاح لینک‌های نسبی و بدون پروتکل
                 if img.startswith('//'): img = 'https:' + img
+                # اطمینان از اینکه عکس‌های NYT که پارامترهای تغییر سایز دارند درست نمایش داده می‌شوند
                 markdown += f"<img src='{img}' width='100%' style='border-radius:15px;'>\n\n"
             
             markdown += "<div align='justify'>\n<font size='4'>\n\n"
             
-            if content and len(content) > 100:
-                # پاکسازی متن از کاراکترهای اضافی
-                clean_text = content.replace('Advertisement', '').strip()
-                markdown += f"{clean_text}\n\n"
+            if content and len(content) > 150:
+                markdown += f"{content}\n\n"
             else:
-                # آخرین تلاش: استفاده از دیسکریپشن فید بدون زدن برچسب محدودیت
                 summary = re.sub('<[^<]+?>', '', entry.get('summary', ''))
+                if not summary: summary = entry.get('description', '')
                 markdown += f"{summary}\n\n"
             
             markdown += "</font>\n</div>\n\n"
