@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:04`
+**📅 Update:** `2026/05/12 - 05:08`
 
 ---
 
@@ -19,7 +19,7 @@
 <div align='justify'>
 <font size='4'>
 
-Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes, forcing some families to the streets. Gang violence has now displaced more than 1.4 million people across Haiti. Gangs control an estimated 90% of the capital after the former president was assassinated in his home in 2021.
+*Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes. (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -34,7 +34,7 @@ Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to fl
 <div align='justify'>
 <font size='4'>
 
-Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel, where he alleged he was tortured and witnessed abuse of Palestinian prisoners during his 10 days in custody.
+*Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel. (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -73,12 +73,6 @@ US Assistant Attorney General for National Security John A Eisenberg issued a st
 
 “Individuals elected to public office in the United States should act only for the people of the United States that they represent,” he said.
 
-“It is deeply concerning that someone who previously received and executed directives from PRC government officials is now in a position of public trust at all, but particularly so because that relationship with that foreign government had never been disclosed.”
-
-China’s embassy in Washington, DC, did not immediately respond to a request for comment.
-
-Wang’s prosecution comes as US President Donald Trump and Chinese President Xi Jinping are set to meet in Beijing on Wednesday for a summit expected to focus on the US-Israel war on Iran, trade, and the status of Taiwan, among other issues.
-
 </font>
 </div>
 
@@ -92,9 +86,7 @@ Wang’s prosecution comes as US President Donald Trump and Chinese President Xi
 <div align='justify'>
 <font size='4'>
 
-Lebanese in south refuse to flee again despite escalating Israeli strikes
-
-Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced residents say they will not leave again despite a sharp rise in deaths and intensifying Israeli strikes.
+*Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes. (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -133,12 +125,6 @@ Morales was already declared in contempt of court in January 2025, when he did n
 
 Wilfredo Chavez, one of his lawyers, told the AFP news agency on Friday that neither Morales nor his lawyers would show up in court, as they had not been “properly notified”.  The lawyer said the court did not send the summons to Morales’s address, but had instead served it through an edict.
 
-Morales, who rose from dire poverty to become one of Latin America’s longest-serving leaders, has slammed those “that persecute me and condemn me in record time”.
-
-His refusal to give up power in 2019 after three terms led to a tumultuous exit that cast a shadow over nearly 14 years of economic progress and poverty reduction.
-
-Forced to resign after elections tainted by fraud, he slipped away into exile in Mexico and later Argentina, but returned home a year later.
-
 </font>
 </div>
 
@@ -175,6 +161,10 @@ It also reportedly includes a demand for compensation for war damage and an emph
 
 Trump criticised the proposal, writing on Truth Social on Sunday: "I have just read the response from Iran's so-called 'Representatives.' I don't like it - TOTALLY UNACCEPTABLE."
 
+In response to Trump's comments, Baghaei said Iran would act "in any way necessary to secure our interests".
+
+Speaking in the Oval Office later on Monday, Trump addressed the ceasefire between the two countries which has largely been observed since April despite occasional exchanges of fire.
+
 </font>
 </div>
 
@@ -207,6 +197,10 @@ China is trying to quietly step in as a peacemaker with the war now in its third
 Officials in Beijing and Islamabad in March presented a five-point plan with the aim of bringing about a ceasefire and re-opening the Strait of Hormuz. And behind the scenes, Chinese officials have been gently nudging their Iranian counterparts towards the negotiation table.
 
 There's no doubt, despite its steady show of strength, that China is eager for an end to this war.
+
+The country's economy is already battling slower growth and higher unemployment. Increasing oil prices have driven up the cost of items made with petrochemicals, everything from textiles to plastics. For some producers in China, costs have gone up 20%.
+
+China has enviable oil reserves and the lead it has taken in renewables and electric cars has insulated it from the worst effects of the fuel crisis, but the war is causing more pain to a sluggish Chinese economy that is heavily reliant on exports. However, if China is to step in and help the US, it will still want something in return.
 
 </font>
 </div>
@@ -241,6 +235,10 @@ Hantaviruses are usually carried by rodents, but human transmission of the Andes
 
 Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomiting, diarrhoea and shortness of breath.
 
+As of Monday evening, the ship's operator Oceanwide Expeditions said 27 people remain on board the ship, including 25 crew members and two medical staff.
+
+These include 17 people from the Philippines, four from the Netherlands (including the two medical staff), four from Ukraine, one from Russia and one from Poland.
+
 </font>
 </div>
 
@@ -249,7 +247,7 @@ Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomitin
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Israel passes law to allow death penalty and public trials for those linked to 7 October
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/24ad/live/dd803850-4d56-11f1-a84e-777fb0e2277b.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6202/live/6bf5ec80-4dbe-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -273,6 +271,10 @@ The events triggered the deadliest ever war in Gaza, with 72,740 people killed t
 Although Israel's parliament passed the Death Penalty for Terrorists Law in March, aimed at Palestinians convicted of terrorism offences, it does not apply retroactively. This meant that separate legislation was required to deal with those alleged to have carried out the assault.
 
 Israeli politicians supporting the law say it will allow for a trial of historic significance, comparing it to that of the Nazi war criminal Adolf Eichmann.  Eichmann - an architect of the Jewish Holocaust - was hanged in 1962, becoming the only person previously sentenced to death by an Israeli civil court.
+
+The new law creates a special legal framework for prosecuting those accused of direct involvement in the attacks, including members of the Nukhba special forces unit of the al-Qassam Brigades, the military wing of Hamas, who were captured in Israel.
+
+They are expected to face charges ranging from terrorism and murder to sexual violence and also genocide - which will carry the death penalty. They will be tried before a special military court in Jerusalem with different rules from regular criminal trials.
 
 </font>
 </div>
@@ -307,6 +309,10 @@ There is still technical and legal work that must be done in the EU before the s
 
 EU officials said that seven settlers or settler organisations would be sanctioned. The EU also agreed to sanction more representatives from Hamas.
 
+Israeli media have reported that the sanctioned individuals and organisations include Daniella Weiss, who is already sanctioned by the UK and is known as the "godmother" of the settler movement.
+
+It is also reported that they include the organisations Nachala and Regavim, movements that promote settlements, as well as HaShomer Yosh and Amana, organisations that help to finance and assist unauthorised settlements known as outposts.
+
 </font>
 </div>
 
@@ -318,7 +324,7 @@ EU officials said that seven settlers or settler organisations would be sanction
 ---
 ## The Guardian
 ### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
-<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=140&quality=85&auto=format&fit=max&s=d19a9c185d1ded7c39262f1c1baac579' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4adcb1236732e90ee166d918d46cdab2' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -345,7 +351,7 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Body of missing US soldier recovered off coast of Morocco
-<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=140&quality=85&auto=format&fit=max&s=e5ad2a13eb5364bf318085cdac0f41c3' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e27913fead786dc953e927871d85b3a5' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -372,7 +378,7 @@ The largest part of the exercise takes place in Morocco, involving approximately
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 ‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere
-<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=3d70a65ae48caabd14de7d15d1f9ca7d' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=127eca0e06ecc59fee24862bc6240ba3' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -393,9 +399,13 @@ Guardian correspondents spoke to news influencers and analysts in the three coun
 
 Jaxa, 32, started posting explainer videos after an argument with her brother, who is 10 years younger than her, about him not voting. She realised “the generation coming after me was very disinterested”.
 
-“That was very concerning for me, because they are the next leaders,” she said.
-
 Jaxa considers herself to be a translator of the news for younger generations, not a replacement: “I don’t exist if there is no traditional media, because … all the content I do is from traditional media.”
+
+Recent topics tackled by Jaxa, who has degrees in philosophy, politics and economics and international relations, include the Iran war, the South African president’s annual state of the nation address and the budget, the last one sponsored by a bank. However, she makes most of her money from brand partnerships on Instagram, where she posts less news content.
+
+News used to be consumed communally in South Africa through a radio or TV, said Sisanda Nkoala, an associate professor at the University of the Western Cape. “The experience of the media being a place where people gather to watch the evening news, that has changed,” she said.
+
+She expressed concern that the shift to online news was widening South Africa’s digital divide. In the 2022 census, 21% of households reported not having internet access, many in rural areas.
 
 </font>
 </div>
@@ -405,7 +415,7 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Guardian reporter and colleagues detained and beaten by Somali police
-<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=c5604bd094625c43a7c8ea25bff35fc6' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8e493b85631d842360a066689e01fc9' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -430,6 +440,10 @@ He and the two other journalists had been facing sustained threats and intimidat
 
 At the police headquarters, the three reporters said they were threatened by Mahdi Omar Mumin, Mogadishu police chief, should they continue to report on the protests.
 
+In a statement released by Somali Journalists Syndicate (SJS), the journalists said that Mumin told them he was “tired of arresting journalists” and that if they did not remain silent about the protests and other developments in Mogadishu, including the case of Ali, the only option remaining for them would be “death”.
+
+Somali Stream, the media organisation which Mohamud works for, condemned the arrests as “an illegal and politically motivated attack on independent journalism”.
+
 </font>
 </div>
 
@@ -438,7 +452,7 @@ At the police headquarters, the three reporters said they were threatened by Mah
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital
-<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=1ac13619c2ec2285b71713f2b40ba663' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9286d5cbeca6c71a23ffde8517e7947' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -463,6 +477,10 @@ Spanish authorities have given permission for the ship to anchor in the Canary I
 
 It is estimated to arrive at the port of Granadilla in Tenerife in the early hours of Sunday.
 
+Morale on board has improved since the ship started its journey to Tenerife, the WHO said. Two doctors are on board along with infectious disease experts from the WHO and the European Centre for Disease Prevention and Control, who are conducting a medical assessment of everyone on board.
+
+While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director-general of the WHO, said there could be more cases due to the incubation period of the Andes virus – the variant of hantavirus linked to the outbreak – which can be up to six weeks.
+
 </font>
 </div>
 
@@ -474,12 +492,10 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 ---
 ## NY Times
 ### 📰 Xi Poised to Press Trump on Arms Sales to Taiwan
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-*Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.*
+*Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island. (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -489,12 +505,10 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Chinese A.I. Firms Push Beyond Nvidia as DeepSeek Turns to Huawei
-<img src='https://static01.nyt.com/images/2026/05/08/multimedia/00biz-china-chips-fqbm/00biz-china-chips-fqbm-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-*Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.*
+*Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency. (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -504,12 +518,10 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 China Increasingly Views Trump’s America as an Empire in Decline
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/00newworld-chinastrong-01-kpmb/00newworld-chinastrong-01-kpmb-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-*For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.*
+*For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image. (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -519,12 +531,10 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11dc-kennedy-measles-01-pqjf/11dc-kennedy-measles-01-pqjf-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-*Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.*
+*Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority. (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -534,12 +544,10 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Supreme Court Clears Path for Alabama to Use New Voting Map
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11dc-scotus-alabama-mhkj/11dc-scotus-alabama-mhkj-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-*A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.*
+*A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district. (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -576,6 +584,10 @@ NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSD
 Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
 
 Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
+
+As winter turned to spring, the skies over the Gulf of Alaska displayed textbook examples of numerous cloud formations.
+
+After the Laurentide Ice Sheet retreated from present-day Hudson Bay, rebounding land has revealed striking nearshore topography.
 
 </font>
 </div>
@@ -697,7 +709,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*Welcome to New York, Swift family ... it's been waiting for you!!! Taylor Swift kept it all in the family during a cozy NYC outing Monday night ... stepping out with her parents and brother Austin for a low-key post Mother's Day dinner. The&hellip;*
+*Welcome to New York, Swift family ... it's been waiting for you!!! Taylor Swift kept it all in the family during a cozy NYC outing Monday night ... stepping out with her parents and brother Austin for a low-key post Mother's Day dinner. The&hellip; (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -712,7 +724,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*Kim Kardashian scored a massive six-figure award in legal fees from a man who unsuccessfully sued her, TMZ has learned. According to court docs obtained by TMZ, the reality star and mogul was awarded $167K of the $186K she requested from Ivan Cantu&hellip;*
+*Kim Kardashian scored a massive six-figure award in legal fees from a man who unsuccessfully sued her, TMZ has learned. According to court docs obtained by TMZ, the reality star and mogul was awarded $167K of the $186K she requested from Ivan Cantu&hellip; (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -727,7 +739,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*George Floyd's family and friends are appalled Tony Hinchcliffe was invited back for a Netflix roast and they're blaming Kevin Hart for allegedly giving Tony the green light to do another joke about George ... a joke they didn't find funny in the&hellip;*
+*George Floyd's family and friends are appalled Tony Hinchcliffe was invited back for a Netflix roast and they're blaming Kevin Hart for allegedly giving Tony the green light to do another joke about George ... a joke they didn't find funny in the&hellip; (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -742,7 +754,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*'Real Housewives of Beverly Hills' star PK Kemsley’s alleged income was revealed as part of his divorce battle with his estranged wife, Dorit Kemsley ... TMZ has learned. TMZ obtained court docs, filed by PK, where he claims he's bringing in a&hellip;*
+*'Real Housewives of Beverly Hills' star PK Kemsley’s alleged income was revealed as part of his divorce battle with his estranged wife, Dorit Kemsley ... TMZ has learned. TMZ obtained court docs, filed by PK, where he claims he's bringing in a&hellip; (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
@@ -757,7 +769,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*TMZ may collect a share of sales or other compensation from links on this page. Sabrina Carpenter stans have a lot to celebrate today ... because it's the pop princess' birthday! Whether you want to honor the iconic artist by playing her hits,&hellip;*
+*TMZ may collect a share of sales or other compensation from links on this page. Sabrina Carpenter stans have a lot to celebrate today ... because it's the pop princess' birthday! Whether you want to honor the iconic artist by playing her hits,&hellip; (Note: Full text extraction was limited by source)*
 
 </font>
 </div>
