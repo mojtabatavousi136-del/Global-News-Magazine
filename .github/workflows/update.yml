@@ -3,7 +3,7 @@ name: Update Global Mahoor Magazine
 on:
   schedule:
     # اجرا دقیقاً هر 2 ساعت یکبار
-    - cron: '0 */2 * * *'
+    - cron: '10 */2 * * *'
   workflow_dispatch: # قابلیت اجرای دستی
 
 jobs:
