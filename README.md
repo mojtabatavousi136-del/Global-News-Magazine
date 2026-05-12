@@ -1,123 +1,139 @@
 
 <div align="center">
-    <h1>🌍 GLOBAL MAHOOR MAGAZINE</h1>
-    <p><i>Latest International Edition - High Quality News Coverage</i></p>
-    <p>📅 <b>Updated on:</b> Tuesday, 12 May 2026 | 03:57 UTC</p>
+    <h1>🌍 GLOBAL MAHOOR NEWSROOM</h1>
+    <p><i>Premium International Edition - Powered by Major US Networks</i></p>
+    <p>📅 <b>Last Update:</b> Tuesday, 12 May 2026 | 04:00 UTC</p>
     <hr>
 </div>
-## 🇮🇷 Iran & Middle East
+## 🇺🇸 CNN Top News
 
-### 📌 Iran war live: Trump slams Iranian proposal as ceasefire hangs by a thread
+### 📌 Trump pleads not guilty to 34 felony counts
 <details>
-<summary><b>📖 Click to Expand Full Article</b></summary>
+<summary><b>📖 READ FULL ARTICLE CONTENT</b></summary>
 
-Iran’s parliamentary speaker Mohammad Bagher Ghalibaf says US has ‘no alternative but to accept’ Tehran’s 14-point proposal to end war.
+Acting New York Supreme Court Judge Juan Merchan wrote his Monday night order that the media’s request to broadcast the arraignment of former President Donald Trump was understandable, but that the news organizations’ interests in providing the broadest possible access to the proceedings must be weighed against “competing interests.”
 
-Al Jazeera Live
+In rejecting the request to broadcast the arraignment live on television, Merchan still wrote about the historical significance of the proceeding in stark terms.
 
-Save
+News outlets will not be allowed to broadcast former President Donald Trump’s arraignment on Tuesday in a New York state court, a judge said Monday night, but he will allow some photographers to take pictures in the courtroom before the proceedings formally begin.
 
-Share
+Acting New York Supreme Court Judge Juan Merchan rejected the request by several media organizations, including CNN, for permission to broadcast the historic proceedings. Trump’s arraignment — like most arraignments in the Manhattan courthouse — is a public proceeding, but news cameras are not usually allowed to broadcast from inside the courtroom.
 
-Follow Al Jazeera English:
+However, the judge is allowing five pool photographers to take still photos at the beginning of the proceedings “until such time as they are directed to vacate the jury box by court personnel.”
 
-🔗 **Read more at:** [Source Link](https://www.aljazeera.com/news/liveblog/2026/5/12/iran-war-live-trump-slams-iranian-proposal-as-ceasefire-hangs-by-a-thread?traffic_source=rss)
+Earlier on Monday, Trump’s lawyers urged the judge to reject the media’s request for live cameras in the courtroom. The Manhattan District Attorney’s office told the judge they didn’t have a position.
+
+The media outlets that tried to get cameras into the courtroom argued that “the gravity of this proceeding … and, consequently, the need for the broadest possible public access, cannot be overstated.”
+
+Trump is now in Manhattan ahead of the arraignment. A grand jury indicted the former president last week.
+
+The arraignment is also expected to bring the unsealing of the criminal charges against Trump, which have not yet been seen by his lawyers or the public.
+
+The indictment stems from Manhattan District Attorney Alvin Bragg’s investigation into hush-money payments, made during the 2016 presidential campaign, to women who claimed they had extramarital affairs with Trump, which he denies.
+
+🔗 **Source:** [https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html](https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html)
 
 </details>
 
 ---
 
-### 📌 UK sanctions network accused of planning attacks for Iran
+### 📌 Haberman reveals why Trump attacked judge and his family in speech
+*CNN political contributor Maggie Haberman explains the reasoning behind Donald Trump's attacks on the judge and his family during a speech at his Mar-a-Lago resort after he was arraigned on felony cha...*
+
 <details>
-<summary><b>📖 Click to Expand Full Article</b></summary>
+<summary><b>📖 READ FULL ARTICLE CONTENT</b></summary>
 
-London freezes assets and travel for those accused of laundering billions and plotting Iranian-backed hostile activity.
+Note: Content is behind a paywall or requires JavaScript. Please visit the source link for the full story.
 
-Save
-
-Share
-
-The British government has imposed sanctions on an Iranian-linked network accused of plotting attacks in the UK and elsewhere.
-
-The Foreign Office issued travel bans, asset freezes and director disqualification orders to nine people and three entities linked to “Iranian-backed hostile activity” on Monday.
-
-The targets are accused of plotting attacks and financing efforts to destabilise Britain and its allies on behalf of Iran.
-
-The sanctioned include alleged members and associates of the Zindashti criminal network, accused of threatening, planning or conducting attacks against people and assets in Britain and elsewhere.
-
-Naji Ibrahim Sharifi-Zindashti, the network’s alleged leader, was sanctioned by both Britain and the United States in 2024. Authorities described him at the time as the head of an international drug and trafficking cartel directed by Iran’s Ministry of Intelligence and Security.
-
-🔗 **Read more at:** [Source Link](https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran?traffic_source=rss)
+🔗 **Source:** [https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn](https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn)
 
 </details>
 
 ---
 
-### 📌 Trump says ceasefire is on ‘life support’ after rejecting Iran’s proposal
+### 📌 What to know about the Trump indictment on the eve of his court appearance
 <details>
-<summary><b>📖 Click to Expand Full Article</b></summary>
+<summary><b>📖 READ FULL ARTICLE CONTENT</b></summary>
 
-Trump says ceasefire is on 'life support' after rejecting Iran's latest proposal
+Note: Content is behind a paywall or requires JavaScript. Please visit the source link for the full story.
 
-US President Donald Trump said the ceasefire with Iran was “on life support” after rejecting Tehran’s latest proposal, which he dismissed as “garbage”. Speaking from the Oval Office, Trump said Iran’s response failed to include nuclear concessions.
-
-Save
-
-Share
-
-Follow Al Jazeera English:
-
-🔗 **Read more at:** [Source Link](https://www.aljazeera.com/video/newsfeed/2026/5/11/trump-says-ceasefire-is-on-life-support-after-rejecting-irans-proposal?traffic_source=rss)
+🔗 **Source:** [https://www.cnn.com/collections/intl-trump-040223/](https://www.cnn.com/collections/intl-trump-040223/)
 
 </details>
 
 ---
 
-## 🇺🇸 US Top Stories
+### 📌 READ: Trump indictment related to hush money payment
+<details>
+<summary><b>📖 READ FULL ARTICLE CONTENT</b></summary>
+
+Former President Donald Trump has been charged with 34 felony counts in an indictment unsealed Tuesday. Read the indictment and statement of facts here.
+
+🔗 **Source:** [https://cnn.it/411KYN7](https://cnn.it/411KYN7)
+
+</details>
+
+---
+
+## 🗽 New York Times
 
 ### 📌 RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence
-<img src="https://static01.nyt.com/images/2026/05/11/multimedia/11dc-kennedy-measles-01-pqjf/11dc-kennedy-measles-01-pqjf-mediumSquareAt3X.jpg" width="100%" />
+*Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority....*
 
 <details>
-<summary><b>📖 Click to Expand Full Article</b></summary>
+<summary><b>📖 READ FULL ARTICLE CONTENT</b></summary>
 
-Full content is protected or requires a subscription. Please use the source link below.
+Note: Content is behind a paywall or requires JavaScript. Please visit the source link for the full story.
 
-🔗 **Read more at:** [Source Link](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
+🔗 **Source:** [https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
 
 </details>
 
 ---
 
 ### 📌 Trump Proposes Suspending Federal Gas Tax
-<img src="https://static01.nyt.com/images/2026/05/11/multimedia/11evening-nl-gas-tax-tcpf/11evening-nl-gas-tax-tcpf-mediumSquareAt3X.jpg" width="100%" />
+*Also, Kennedy is pushing a vast inquiry into vaccines. Here’s the latest at the end of Monday....*
 
 <details>
-<summary><b>📖 Click to Expand Full Article</b></summary>
+<summary><b>📖 READ FULL ARTICLE CONTENT</b></summary>
 
-Full content is protected or requires a subscription. Please use the source link below.
+Note: Content is behind a paywall or requires JavaScript. Please visit the source link for the full story.
 
-🔗 **Read more at:** [Source Link](https://www.nytimes.com/2026/05/11/briefing/trump-gas-tax-iran-truce.html)
+🔗 **Source:** [https://www.nytimes.com/2026/05/11/briefing/trump-gas-tax-iran-truce.html](https://www.nytimes.com/2026/05/11/briefing/trump-gas-tax-iran-truce.html)
 
 </details>
 
 ---
 
 ### 📌 Supreme Court Clears Path for Alabama to Use New Voting Map
-<img src="https://static01.nyt.com/images/2026/05/11/multimedia/11dc-scotus-alabama-mhkj/11dc-scotus-alabama-mhkj-mediumSquareAt3X.jpg" width="100%" />
+*A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district....*
 
 <details>
-<summary><b>📖 Click to Expand Full Article</b></summary>
+<summary><b>📖 READ FULL ARTICLE CONTENT</b></summary>
 
-Full content is protected or requires a subscription. Please use the source link below.
+Note: Content is behind a paywall or requires JavaScript. Please visit the source link for the full story.
 
-🔗 **Read more at:** [Source Link](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
+🔗 **Source:** [https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
 
 </details>
 
 ---
 
-## 🌍 World News
+### 📌 The Voting Rights Decision Might Silence Black People in Fayette County, Tennessee
+*Black residents, who make up 25 percent of Fayette County, Tenn., won a new electoral map last year to change an all-white board of commissioners. They worry the Supreme Court’s ruling could threaten ...*
 
-## 🎬 Celebrity & Style
+<details>
+<summary><b>📖 READ FULL ARTICLE CONTENT</b></summary>
+
+Note: Content is behind a paywall or requires JavaScript. Please visit the source link for the full story.
+
+🔗 **Source:** [https://www.nytimes.com/2026/05/11/us/fayette-county-tennessee-voting-rights.html](https://www.nytimes.com/2026/05/11/us/fayette-county-tennessee-voting-rights.html)
+
+</details>
+
+---
+
+## 🏛️ Reuters World
+
+## 🎬 Hollywood & Stars
 
