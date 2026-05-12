@@ -1,33 +1,41 @@
-name: Update Global News
+name: Update Global Mahoor Magazine
 
 on:
   schedule:
+    # اجرا هر 4 ساعت یکبار
     - cron: '0 */4 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # قابلیت اجرای دستی از تب Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # تنظیم مجوزها برای اینکه گیت‌هاب اجازه نوشتن در README را داشته باشد
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
       - name: Install dependencies
         run: |
-          pip install feedparser newspaper3k lxml_html_clean
-          
-      - name: Run script
+          python -m pip install --upgrade pip
+          pip install feedparser requests beautifulsoup4
+
+      - name: Run news scraper
         run: python main.py
 
-      - name: Commit and push
+      - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "Updated with full text content" || echo "No changes"
+          # جلوگیری از خطا در صورتی که تغییری وجود نداشته باشد
+          git commit -m "Update magazine content: $(date)" || echo "No changes to commit"
           git push origin main
