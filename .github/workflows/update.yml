@@ -22,11 +22,12 @@ jobs:
 
       - name: Run script
         run: python main.py
-
+        
       - name: Commit and push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "Update Global News" || exit 0
-          git push
+          git commit -m "Updated world news" || echo "No changes to commit"
+          git push origin main
+
