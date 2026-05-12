@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:19`
+**📅 Update:** `2026/05/12 - 05:22`
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## Al Jazeera
 ### 📰 Hundreds more displaced as gang violence escalates in Haiti’s capital
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -29,7 +29,7 @@ Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to fl
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Flotilla activist Thiago Ávila arrives in Brazil
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -44,7 +44,7 @@ Brazilian activist Thiago Ávila returned to São Paulo after being detained and
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 California ex-mayor admits acting as agent of China, US authorities say
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -81,7 +81,7 @@ US Assistant Attorney General for National Security John A Eisenberg issued a st
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Lebanese in south refuse to flee again despite escalating Israeli strikes
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png?resize=1920%2C1440' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -98,7 +98,7 @@ Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced resid
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Bolivia issues warrant for Evo Morales’s arrest after court no-show
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-08-04T060007Z_1755863889_RC2VZFAUI8X3_RTRMADP_3_BOLIVIA-POLITICS-RUNASUR-1778553996.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-08-04T060007Z_1755863889_RC2VZFAUI8X3_RTRMADP_3_BOLIVIA-POLITICS-RUNASUR-1778553996.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -326,7 +326,7 @@ It is also reported that they include the organisations Nachala and Regavim, mov
 ---
 ## The Guardian
 ### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
-<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4adcb1236732e90ee166d918d46cdab2' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -353,7 +353,7 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Body of missing US soldier recovered off coast of Morocco
-<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e27913fead786dc953e927871d85b3a5' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -380,7 +380,7 @@ The largest part of the exercise takes place in Morocco, involving approximately
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 ‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere
-<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=127eca0e06ecc59fee24862bc6240ba3' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -417,7 +417,7 @@ News used to be consumed communally in South Africa through a radio or TV, said 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Guardian reporter and colleagues detained and beaten by Somali police
-<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8e493b85631d842360a066689e01fc9' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -454,7 +454,7 @@ Somali Stream, the media organisation which Mohamud works for, condemned the arr
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital
-<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9286d5cbeca6c71a23ffde8517e7947' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
