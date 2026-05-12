@@ -2,57 +2,45 @@ import feedparser
 import datetime
 import requests
 from bs4 import BeautifulSoup
+import time
+import re
 
-def get_article_data(url):
+def get_article_image(url):
     try:
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36'
         }
-        # افزایش تایم‌اوت برای سایت‌های سنگین مثل NYT
-        response = requests.get(url, headers=headers, timeout=20)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        
-        # استخراج تصویر شاخص
-        img_url = None
-        meta_img = (soup.find("meta", property="og:image") or 
-                    soup.find("meta", attrs={"name": "twitter:image"}))
-        if meta_img:
-            img_url = meta_img.get('content')
+        response = requests.get(url, headers=headers, timeout=10)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            meta_img = (soup.find("meta", property="og:image") or 
+                        soup.find("meta", attrs={"name": "twitter:image"}))
+            if meta_img:
+                return meta_img.get('content')
+    except:
+        pass
+    return None
 
-        # استخراج متن (بهینه‌سازی شده برای عبور از محدودیت‌های NYT)
-        for el in soup(["script", "style", "nav", "header", "footer", "aside", "button", "form"]): 
-            el.decompose()
-            
-        paragraphs = soup.find_all('p')
-        # فیلتر کردن متن‌های کوتاه تبلیغاتی
-        text_blocks = [p.get_text().strip() for p in paragraphs if len(p.get_text()) > 90]
-        
-        if text_blocks:
-            full_text = "\n\n".join(text_blocks[:4])
-        else:
-            full_text = "The full preview is restricted by the publisher. Please use the link below to read the story on their official website."
-        
-        return full_text, img_url
-    except Exception as e:
-        print(f"Error fetching {url}: {e}")
-        return "Preview currently unavailable. Please click below to read the full story.", None
+def clean_html(raw_html):
+    """پاکسازی تگ‌های HTML از داخل توضیحات"""
+    cleanr = re.compile('<.*?>')
+    cleantext = re.sub(cleanr, '', raw_html)
+    return cleantext[:300] + "..." if len(cleantext) > 300 else cleantext
 
 def get_news():
     now = datetime.datetime.now()
     
-    # الجزیره به اول لیست منتقل شد و NYT به روز رسانی شد
     FEEDS = {
         '🇮🇷 IRAN & MIDDLE EAST': [
-            ('Al Jazeera', 'https://www.aljazeera.com/xml/rss/all.xml'),
-            ('Iran International', 'https://www.iranintl.com/en/rss')
+            ('Iran International', 'https://www.iranintl.com/en/rss'),
+            ('Al Jazeera', 'https://www.aljazeera.com/xml/rss/all.xml')
         ],
         '🌍 TOP GLOBAL AGENCIES': [
             ('BBC World', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
+            ('Reuters', 'https://www.reutersagency.com/feed/?best-topics=world-news&format=xml'),
             ('The Guardian', 'https://www.theguardian.com/world/rss'),
             ('NY Times', 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml'),
             ('Associated Press', 'https://newsatme.com/en/category/world/feed/')
-            ('Reuters', 'https://www.reutersagency.com/feed/?best-topics=world-news&format=xml')
         ],
         '🚀 SCIENCE & NATURE': [
             ('NASA News', 'https://www.nasa.gov/news-release/feed/'),
@@ -83,21 +71,28 @@ def get_news():
             content += f"<a name='{name.replace(' ', '_')}'></a>\n"
             content += f"<br><h3 align='center' style='color: #0d47a1;'>● {name} ●</h3>\n\n"
             
-            feed = feedparser.parse(url)
-            # نمایش ۱۰ خبر
-            for entry in feed.entries[:10]:
-                print(f"Processing ({name}): {entry.title}")
-                full_text, img_url = get_article_data(entry.link)
+            try:
+                feed = feedparser.parse(url)
+                for entry in feed.entries[:8]: # نمایش ۸ خبر از هر منبع
+                    img_url = get_article_image(entry.link)
+                    # استخراج توضیحات (خلاصه)
+                    description = clean_html(entry.get('summary', ''))
+                    
+                    content += f"<div align='center'>\n"
+                    content += f"<h4>{entry.title}</h4>\n"
+                    if img_url:
+                        content += f"<img src='{img_url}' width='85%' style='border-radius: 12px;' />\n"
+                    
+                    if description:
+                        content += f"<p style='color: #555; font-size: 14px;'>{description}</p>\n"
+                    
+                    content += f"<p>🔗 <a href='{entry.link}'>Read Full Story on {name}</a></p>\n"
+                    content += "<p>───</p>\n"
+                    content += f"</div>\n\n"
                 
-                content += f"<div align='center'>\n"
-                content += f"<h4>{entry.title}</h4>\n"
-                if img_url:
-                    content += f"<img src='{img_url}' width='85%' style='border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);' />\n"
-                content += f"</div>\n\n"
-                
-                content += f"<div align='justify' style='padding: 0 8%;'>\n\n{full_text}\n\n</div>\n"
-                content += f"<p align='center'>🔗 <a href='{entry.link}'>Read Full Article on {name}</a></p>\n"
-                content += "<p align='center'>───</p>\n\n"
+                time.sleep(1) # وقفه برای امنیت
+            except Exception as e:
+                print(f"Error fetching {name}: {e}")
                 
             content += f"<p align='right'><a href='#top'>🔼 Back to Top</a></p>\n<hr>\n"
             
