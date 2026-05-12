@@ -9,73 +9,67 @@ def get_full_content(entry, source_name):
     image_url = None
     full_text = None
     
-    # 1. تلاش برای استخراج عکس از فید (متد بهبود یافته)
+    # 1. استخراج عکس (فید یا متاتگ)
     if 'media_content' in entry:
         image_url = entry.media_content[0]['url']
-    elif 'links' in entry:
-        for link in entry.links:
-            if 'image' in link.get('type', '') or link.get('rel') == 'enclosure':
-                image_url = link.href
-                break
-
+    
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.9'
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Referer': 'https://www.google.com/'
         }
         
-        if source_name == "Al Jazeera":
-            time.sleep(1.5)
+        # وقفه برای جلوگیری از بلاک شدن
+        if source_name in ["Al Jazeera", "NY Times"]:
+            time.sleep(2)
 
-        response = requests.get(entry.link, headers=headers, timeout=20)
+        response = requests.get(entry.link, headers=headers, timeout=25)
         
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # رفع مشکل عکس ناسا و سایرین (استخراج مستقیم از متا تگ‌های سایت)
+            # استخراج عکس در صورت نبودن در فید
             if not image_url:
-                img_tag = soup.find("meta", property="og:image") or \
-                          soup.find("meta", name="twitter:image") or \
-                          soup.find("link", rel="image_src")
+                img_tag = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
                 if img_tag:
-                    image_url = img_tag.get("content") or img_tag.get("href")
+                    image_url = img_tag["content"]
 
-            # پاکسازی صفحه
-            for junk in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'button']):
+            # پاکسازی المان‌های مزاحم
+            for junk in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'button', 'ul', 'ol']):
                 junk.decompose()
 
-            # استخراج متن (با تمرکز ویژه روی الجزیره)
-            article_body = None
-            if source_name == "Al Jazeera":
-                article_body = soup.find('div', class_=re.compile(r'wysiwyg|article-body|all-content|main-content-column'))
-            elif source_name == "NASA News":
-                article_body = soup.find('div', class_='article-body') or soup.find('div', id='primary')
+            # --- موتور هوشمند تشخیص متن ---
+            # ابتدا دنبال تگ‌های استاندارد مقاله می‌گردیم
+            content_area = soup.find('article') or soup.find('main') or soup.find('div', class_=re.compile(r'article-body|wysiwyg|story-content|post-content'))
             
-            if not article_body:
-                article_body = soup.find('article') or soup.find('main')
-
-            source_to_use = article_body if article_body else soup
-            paragraphs = source_to_use.find_all('p')
-
+            if not content_area:
+                content_area = soup # اگر پیدا نشد، کل صفحه را بگرد
+            
+            # تمام پاراگراف‌ها را پیدا کن
+            paragraphs = content_area.find_all('p')
+            
             text_parts = []
             for p in paragraphs:
                 txt = p.get_text().strip()
-                if len(txt) > 60:
+                # فیلتر کردن متن‌های خیلی کوتاه (زیر 70 کاراکتر) یا متن‌های حاوی کلمات تبلیغاتی
+                if len(txt) > 70 and not any(x in txt.lower() for x in ['subscribe', 'follow us', 'sign up', 'copyright', 'advertisement']):
                     if txt not in text_parts:
                         text_parts.append(txt)
             
             if text_parts:
-                limit = 15 if source_name == "Al Jazeera" else 10
+                # برای الجزیره و نیویورک تایمز سقف پاراگراف را بالا بردیم
+                limit = 15 if source_name in ["Al Jazeera", "NY Times"] else 10
                 full_text = '\n\n'.join(text_parts[:limit])
                 
     except Exception as e:
-        print(f"Error scraping {source_name}: {e}")
+        print(f"Error extracting {source_name}: {e}")
         
     return image_url, full_text
 
 def main():
-    # لیست منابع نهایی (AP و The Verge حذف شدند)
+    # منابع نهایی شده بر اساس درخواست شما
     sources = {
         "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
         "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -88,36 +82,40 @@ def main():
     now = datetime.now()
     now_str = now.strftime('%Y/%m/%d - %H:%M')
     
+    # ساخت هدر و منوی ناوبری اصلاح شده برای گیت‌هاب
     markdown = f"<div align=\"center\">\n\n# 📰 MAHOOR WORLD PREMIER NEWS\n\n**📅 Update:** `{now_str}`\n\n---\n\n### 📌 QUICK NAVIGATION\n"
     
     nav_links = [f"[{name}](#{name.lower().replace(' ', '-')})" for name in sources.keys()]
     markdown += " | ".join(nav_links) + "\n\n--- \n</div>\n\n"
 
     for name, url in sources.items():
-        print(f"Processing: {name}...")
+        print(f"Reading from: {name}...")
         feed = feedparser.parse(url)
+        # آیدی هدر برای کارکردن منوی ناوبری
         markdown += f"## {name}\n"
         
         if not feed.entries:
-            markdown += "> ⚠️ *Source currently unavailable.*\n\n"
+            markdown += "> ⚠️ *Source temporarily unavailable.*\n\n"
             continue
         
-        for entry in feed.entries[:5]:
+        for entry in feed.entries[:5]: # ۵ خبر برتر از هر منبع
             markdown += f"### 📰 {entry.title}\n"
+            
             img, content = get_full_content(entry, name)
             
             if img:
-                # اطمینان از درست بودن فرمت لینک عکس
                 if img.startswith('//'): img = 'https:' + img
                 markdown += f"<img src='{img}' width='100%' style='border-radius:15px;'>\n\n"
             
             markdown += "<div align='justify'>\n<font size='4'>\n\n"
             
-            if content:
+            if content and len(content) > 200:
                 markdown += f"{content}\n\n"
             else:
+                # اگر استخراج متن شکست خورد، از خلاصه RSS استفاده کن (سیستم بک‌آپ)
                 summary = re.sub('<[^<]+?>', '', entry.get('summary', ''))
-                if not summary: summary = entry.get('description', 'Full content at the link.')
+                if not summary or len(summary) < 20: 
+                    summary = entry.get('description', 'Full content is available via the link below.')
                 markdown += f"*{summary}*\n\n"
             
             markdown += "</font>\n</div>\n\n"
