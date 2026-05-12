@@ -6,50 +6,55 @@ import time
 import json
 from datetime import datetime
 
-def get_ultra_content(entry, source_name):
+def get_best_image(entry, soup, source_name):
+    """استخراج بهترین و سازگارترین عکس برای گیت‌هاب"""
     image_url = None
+    
+    # اولویت ۱: جستجو در فید RSS (مطمئن‌ترین راه برای گاردین و ناسا)
+    if 'media_content' in entry and len(entry.media_content) > 0:
+        image_url = entry.media_content[0]['url']
+    elif 'links' in entry:
+        for link in entry.links:
+            if 'image' in link.get('type', '') or '.jpg' in link.get('href', ''):
+                image_url = link.get('href')
+                break
+
+    # اولویت ۲: اگر در فید نبود، جستجو در متاتگ‌های HTML
+    if not image_url and soup:
+        # برای نیویورک تایمز و بقیه، متاتگ og:image معمولاً بهترین است
+        tag = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
+        if tag:
+            image_url = tag.get("content")
+
+    # اصلاحات نهایی برای سازگاری با گیت‌هاب
+    if image_url:
+        if image_url.startswith('//'):
+            image_url = 'https:' + image_url
+        
+        # برای گاردین و NYT پارامترها را حذف نمی‌کنیم، اما اگر آدرس شامل فضا باشد اصلاح می‌کنیم
+        image_url = image_url.replace(' ', '%20')
+        
+    return image_url
+
+def get_ultra_content(entry, source_name):
     full_text = None
+    image_url = None
     
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     }
 
     try:
-        time.sleep(1.5)
-        response = requests.get(entry.link, headers=headers, timeout=25)
-        
+        time.sleep(1) # وقفه کوتاه
+        response = requests.get(entry.link, headers=headers, timeout=20)
+        soup = None
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # --- استخراج فوق حرفه‌ای عکس ---
-            # اولویت ۱: جستجوی متاتگ‌های اصلی
-            img_tag = soup.find("meta", property="og:image") or \
-                      soup.find("meta", name="twitter:image")
-            
-            if img_tag:
-                image_url = img_tag.get("content")
+            # ۱. استخراج عکس با متد جدید
+            image_url = get_best_image(entry, soup, source_name)
 
-            # اولویت ۲: اصلاح اختصاصی برای NY Times (اگر عکس پیدا نشد یا کوچک بود)
-            if source_name == "NY Times":
-                # پیدا کردن بزرگترین عکس در ساختار اسکریپت NYT
-                scripts = soup.find_all('script')
-                for s in scripts:
-                    if s.string and 'url' in s.string and '.jpg' in s.string:
-                        match = re.search(r'(https://static01.nyt.com/images/[^"\? ]+)', s.string)
-                        if match:
-                            image_url = match.group(1)
-                            break
-
-            # اولویت ۳: اصلاح برای NASA (برداشتن لینک مستقیم از فید اگر در صفحه نبود)
-            if not image_url and source_name == "NASA News":
-                if 'links' in entry:
-                    for link in entry.links:
-                        if 'image' in link.get('type', '') or '.jpg' in link.get('href', ''):
-                            image_url = link.get('href')
-
-            # --- استخراج متن ---
+            # ۲. استخراج متن (متد قبلی که برای الجزیره خوب عمل می‌کرد)
             json_scripts = soup.find_all('script', type='application/ld+json')
             for script in json_scripts:
                 try:
@@ -62,21 +67,21 @@ def get_ultra_content(entry, source_name):
                 except: continue
 
             if not full_text:
-                for junk in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'button', 'figcaption']):
+                for junk in soup(['script', 'style', 'nav', 'header', 'footer', 'aside']):
                     junk.decompose()
-                selectors = ['div.article__content', 'section[name="articleBody"]', 'article', 'main']
+                selectors = ['div.article__content', 'section[name="articleBody"]', 'div.wysiwyg', 'article']
                 for selector in selectors:
-                    content_area = soup.select_one(selector)
-                    if content_area:
-                        paragraphs = content_area.find_all('p')
+                    area = soup.select_one(selector)
+                    if area:
+                        paragraphs = area.find_all('p')
                         text_parts = [p.get_text().strip() for p in paragraphs if len(p.get_text().strip()) > 70]
                         if text_parts:
-                            full_text = '\n\n'.join(text_parts[:12])
+                            full_text = '\n\n'.join(text_parts[:10])
                             break
+    except:
+        # اگر لود نشد، حداقل عکس را از فید بگیر
+        image_url = get_best_image(entry, None, source_name)
 
-    except Exception as e:
-        print(f"Error: {e}")
-        
     return image_url, full_text
 
 def main():
@@ -95,6 +100,7 @@ def main():
     markdown += " | ".join(nav_links) + "\n\n--- \n</div>\n\n"
 
     for name, url in sources.items():
+        print(f"Processing {name}...")
         feed = feedparser.parse(url)
         markdown += f"## {name}\n"
         
@@ -102,12 +108,9 @@ def main():
             img, content = get_ultra_content(entry, name)
             markdown += f"### 📰 {entry.title}\n"
             
-            # اصلاح نهایی لینک عکس قبل از قرارگیری در Markdown
             if img:
-                if img.startswith('//'): img = 'https:' + img
-                # حذف پارامترهای محدودکننده اندازه در NYT برای نمایش با کیفیت
-                img = img.split('?')[0] 
-                markdown += f"<img src='{img}' width='100%' style='border-radius:15px;'>\n\n"
+                # استفاده از تگ img استاندارد برای اطمینان از نمایش
+                markdown += f"<img src='{img}' width='100%' style='border-radius:15px;' alt='News Image'>\n\n"
             
             markdown += "<div align='justify'>\n<font size='4'>\n\n"
             if content and len(content) > 150:
