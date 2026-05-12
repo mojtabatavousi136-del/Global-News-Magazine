@@ -2,12 +2,12 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 04:58`
+**📅 Update:** `2026/05/12 - 05:01`
 
 ---
 
 ### 📌 QUICK NAVIGATION
-[Al Jazeera](#al-jazeera) | [BBC World](#bbc-world) | [The Guardian](#the-guardian) | [NY Times](#ny-times) | [Associated Press](#associated-press) | [NASA News](#nasa-news) | [TMZ](#tmz) | [The Verge](#the-verge)
+[Al Jazeera](#al-jazeera) | [BBC World](#bbc-world) | [The Guardian](#the-guardian) | [NY Times](#ny-times) | [NASA News](#nasa-news) | [TMZ](#tmz)
 
 --- 
 </div>
@@ -19,9 +19,7 @@
 <div align='justify'>
 <font size='4'>
 
-Hundreds more displaced as gang violence escalates in Haiti's capital
-
-Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes, forcing some families to the streets. Gang violence has now displaced more than 1.4 million people across Haiti. Gangs control an estimated 90% of the capital after the former president was assassinated in his home in 2021.
+*Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes.*
 
 </font>
 </div>
@@ -36,7 +34,7 @@ Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to fl
 <div align='justify'>
 <font size='4'>
 
-Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel, where he alleged he was tortured and witnessed abuse of Palestinian prisoners during his 10 days in custody.
+*Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel.*
 
 </font>
 </div>
@@ -94,9 +92,7 @@ China’s embassy in Washington, DC, did not immediately respond to a request 
 <div align='justify'>
 <font size='4'>
 
-Lebanese in south refuse to flee again despite escalating Israeli strikes
-
-Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced residents say they will not leave again despite a sharp rise in deaths and intensifying Israeli strikes.
+*Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes.*
 
 </font>
 </div>
@@ -552,15 +548,32 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 
 
 ---
-## Associated Press
-> ⚠️ *Source currently unavailable.*
-
 ## NASA News
 ### 📰 Australia’s Cloudy Beauty
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
+
 <div align='justify'>
 <font size='4'>
 
-*Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.*
+Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.
+
+It’s autumn in the Southern Hemisphere, which means it's fog season in the Victorian Alps. NASA's Terra satellite captured this view of morning fog filling valleys in several national parks across the mountains of eastern Victoria in May.
+
+As nights lengthen with the season, the atmosphere has more time to cool and approach the dew point—the temperature at which the air becomes saturated and water vapor can condense into radiation fog. Because cold air is denser than warm air, it sinks and drains into valleys, allowing fog to develop there first. In low-elevation areas, radiation fog usually fades as the Sun warms the ground, but it tends to linger in mountain valleys because they remain shaded longer. On this day, geostationary satellite imagery shows the fog persisting for about two hours.
+
+Fog is a low-lying type of cloud composed of tiny water droplets suspended in the air. The main difference between a cloud and fog is that the base of fog reaches the ground, while the base of a cloud is generally well above the surface. Radiation fog forms in clear, calm conditions at night. In this case, a blast of cold, soggy weather primed the region by moistening land surfaces a few days prior to the arrival of a slow-moving high that brought calmer, warmer conditions that were conducive to fog formation.
+
+Many valleys in the mountains also have rivers, streams, and lakes, which amplified the process by providing a ready supply of water vapor. In the image above, zones of fog have formed along several water bodies, including the Mitta Mitta River, Buffalo River, Livingston Creek, Lake Dartmouth, and Snowy River.
+
+The same conditions fueled another noteworthy cloud a few hundred kilometers to the southwest. At about 8:19 a.m. local time (22:19 Universal Time), the Terra satellite captured an arch-shaped cloud over Port Phillip Bay, roughly stretching from St. Leonards on the bay’s western shore to Mount Eliza on the eastern side.
+
+The feature likely formed as converging land and sea breezes interacted with the horseshoe-shaped terrain that defines the bay. Geostationary satellite imagery shows the arch-shaped cloud moving southward across the bay as the valley fog to the northeast faded.
+
+NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Adam Voiland.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
 
 </font>
 </div>
@@ -570,10 +583,28 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
+<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
+
 <div align='justify'>
 <font size='4'>
 
-*Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, May 8, 2026 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was […]*
+Written by Michelle Minitti, MAHLI Deputy Principal Investigator
+
+While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was enabled by the ingenuity of the Curiosity engineers and scientists manifested in this extraordinary time lapse. It demonstrates the careful dance of arm motions employed — each one diligently planned by the team — to free Curiosity’s drill from the “Atacama” target. Watch the arm twist, bend, and turn with a rock slab attached, and be amazed.
+
+The highest-priority activities after liberating the drill included imaging the drill with Mastcam and ChemCam RMI, and imaging into the now-empty drill hole with MAHLI (the image above). The science team made the most of the freshly-broken surfaces created when Atacama fell back to Mars, and the freshly-exposed sand once hidden underneath Atacama. ChemCam targeted one of the clean fracture faces with two LIBS rasters at “Tamarugal” and “Tamarugo,” and followed with another raster on a light-toned patch of bedrock formerly under Atacama at “Colchane.”  MAHLI and APXS analyzed sand near Colchane at the target “Yerba Loca.” Beyond Atacama, Mastcam and ChemCam imaged the large buttes towering above our current and future drive paths. Mastcam also imaged two exposures of the polygonal fractures present in this area (targets “Cerro Elefantes” and “Azul Pampa”) and looked for wind-induced changes in the sand (“Playa los Metales”). ChemCam planned a passive spectroscopy observation of light-toned features on the “Paniri” butte and checked out a potential meteorite with a LIBS raster at "Isla Mocha.”
+
+As engineering assessments continued, Curiosity drove uphill to study a contact between two different rock types, which can indicate a change in formation conditions, a break in time, or both. MAHLI, APXS, and ChemCam teamed up to study both rock types at the lighter-toned, layered “Toro” target and the darker, flaky “Inca de Oro” target. Mastcam planned multiple mosaics capturing different structures and transitions exposed along the contact. Across the plans during the week, REMS, RAD, and DAN regularly measured the environment above and below the rover, and Navcam and Mastcam teamed up to look for clouds, dust devils, and dust in the atmosphere.
+
+With the health of the drill and arm confirmed by the engineers, Curiosity exhibited perseverance by heading toward a new workspace with a promising (larger) block for a new drill attempt. Our Martian exploration continues undaunted.
+
+Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
+
+Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
+
+Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
+
+The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
 
 </font>
 </div>
@@ -583,10 +614,18 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
+<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png/jcr:content/renditions/cq5dam.web.1280.1280.png' width='100%' style='border-radius:15px;'>
+
 <div align='justify'>
 <font size='4'>
 
-*Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days […]*
+NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose, finally detaching the rock on May 1.
+
+Atacama is estimated to be 1.5 feet in diameter at its base and 6 inches thick. It would weigh roughly 28.6 pounds (13 kilograms) on Earth (and about a third of that on Mars). The circular hole produced by Curiosity’s drill is visible in the rock.
+
+This mosaic is made up of eight images that were stitched together after being sent back to Earth. The color has been approximately white-balanced to resemble how the scene would appear under daytime lighting conditions on Earth.
+
+Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of NASA’s Mars Exploration Program portfolio. Malin Space Science Systems in San Diego built and operates Mastcam.
 
 </font>
 </div>
@@ -596,10 +635,24 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 May 2026 Satellite Puzzler
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
+
 <div align='justify'>
 <font size='4'>
 
-*Your challenge is to tell us the location of the satellite image and why it is interesting.*
+Every month, NASA Earth Observatory features a puzzling satellite image. The May 2026 puzzler appears above.
+
+Your ChallengeIdentify the location shown in this satellite image. Share what clues you see, where you think it is, and what makes this place interesting or unique to you.
+
+How to AnswerSubmit your response using this form and select “Puzzler Answer” as the topic. Please include your preferred name or alias.
+
+You can keep it simple and just guess the location. Want to impress us? Tell us which satellite and instrument captured the image, which spectral bands were used, or point out a subtle detail about the geology or history of the area. If something catches your eye, or if this is your home or means something to you, we’d love to hear about it.
+
+The PrizeWe can’t offer prize money or a trip to space to see Earth like satellites and astronauts do. But we can offer something almost as rewarding: puzzler bragging rights.
+
+About a week after the challenge, we’ll post the answer at the top of this page, along with a link to an Earth Observatory Image of the Day story that explains the image in more detail. We’ll recognize the first person who correctly guesses the location, and we may also highlight readers who share especially thoughtful or interesting answers. By submitting a response, you acknowledge that your comments may be edited, excerpted, and published on this page.
+
+Until then, zoom in, look closely, and enjoy the challenge. See you at the reveal!
 
 </font>
 </div>
@@ -609,10 +662,24 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
+<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;'>
+
 <div align='justify'>
 <font size='4'>
 
-*Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton&#160;later&#160;became&#160;a full-time engineer on the Orion Crew Survival Systems (OCSS) [&#8230;]*
+Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon.
+
+After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) team at NASA’s Johnson Space Center in Houston. The OCSS team designs and certifies the orange pressure suits that were worn by astronauts inside Orion during Artemis II, along with the survival hardware integrated into each suit system.
+
+Houghton manages key pieces of flight hardware that keep crew members safe during contingency scenarios before launch, in flight, and after landing, including the Orion Crew Survival Kits, Suit-Worn Survival Suite, and Life Preserver Units. He guides each system from design through testing and final certification to ensure it performs as required in flight.
+
+Like many complex engineering efforts at NASA, the work relies on close collaboration across disciplines. Houghton works alongside experts in electromagnetic interference, radiation, stress and loads, and materials to evaluate and refine each system. He also helps lead development of water survival and post-landing hardware, writing manufacturing and assembly procedures and troubleshooting issues during integration and testing.
+
+Beyond hardware development, Houghton prepares astronauts and recovery teams for real-world operations. He supports suit-up activities, helps train Department of Defense recovery forces, and participates in Underway Recovery Training alongside the U.S. Navy to rehearse post-splashdown operations.
+
+Ground testing plays a critical role in that preparation. During these tests, systems are pushed to their limits to uncover potential issues before flight.
+
+Outside of his NASA career, Houghton gives back by volunteering as a firefighter and emergency medical technician. “Serving my community is something that I have always been passionate about,” he said. “I am thankful to have the opportunity to support those around me.”
 
 </font>
 </div>
@@ -696,74 +763,6 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </div>
 
  [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-
----
-## The Verge
-### 📰 OpenAI just released its answer to Claude Mythos
-<div align='justify'>
-<font size='4'>
-
-*OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]*
-
-</font>
-</div>
-
- [🔗 Read Full Story on The Verge](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Yarbo says it will remove the intentional backdoor from its robot lawn mower
-<div align='justify'>
-<font size='4'>
-
-*The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder [&#8230;]*
-
-</font>
-</div>
-
- [🔗 Read Full Story on The Verge](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Here&#8217;s what Mira Murati&#8217;s AI company is up to
-<div align='justify'>
-<font size='4'>
-
-*Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called "interaction models." The idea behind interaction models, according to Thinking Machines, is that they will let people "collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, [&#8230;]*
-
-</font>
-</div>
-
- [🔗 Read Full Story on The Verge](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Govee’s new portable smart lamp is on sale for the first time
-<div align='justify'>
-<font size='4'>
-
-*If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), [&#8230;]*
-
-</font>
-</div>
-
- [🔗 Read Full Story on The Verge](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Palantir&#8217;s true believers are wearing this jacket
-<div align='justify'>
-<font size='4'>
-
-*In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement - announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat. At $239 and in bright [&#8230;]*
-
-</font>
-</div>
-
- [🔗 Read Full Story on The Verge](https://www.theverge.com/report/928026/palantir-chore-coat)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
