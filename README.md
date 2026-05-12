@@ -1,57 +1,51 @@
 
 <div align="center">
-    <img src="https://img.icons8.com/fluency/96/news.png" width="60" />
-    <h1>GLOBAL MAHOOR NEWSROOM</h1>
-    <p><i>Premium Daily Magazine - English Edition</i></p>
+    <h1>🌍 GLOBAL NEWS MAGAZINE</h1>
+    <p><i>Daily Updates from World's Best Agencies</i></p>
     <p>📅 <b>Tuesday, 12 May 2026</b></p>
-    <hr size="3" color="#333">
+    <hr>
 </div>
-
-<br><h2 align='center' style='color: #2c3e50;'>━━━━━━ 🌍 AL JAZEERA ━━━━━━</h2>
+<h2 align='center'>━━━━ 🌍 AL JAZEERA ━━━━</h2>
 
 <div align='center'>
-<h3>📢 Lebanese in south refuse to flee again despite escalating Israeli strikes</h3>
+<h3>California ex-mayor admits acting as agent of China, US authorities say</h3>
+<img src='https://www.aljazeera.com/wp-content/uploads/2020/12/AJ-Logo-English-Vertical.jpg' width='90%' style='max-height:400px; object-fit: cover; border-radius:15px;' />
+</div>
+
+The former mayor of a wealthy suburb in the United States city of Los Angeles has admitted to acting as an illegal agent of China, according to authorities.
+
+Eileen Wang, the former mayor of Arcadia, agreed to plead guilty to one count of acting as an illegal agent of a foreign government from late 2020 until 2022, the US Department of Justice said on Monday.
+
+Wang admitted that she did not notify the US government that she was acting on behalf of China while promoting pro-Beijing propaganda, the Justice Department said.
+
+Wang, 58, operated a website, called the US News Center, that published content supportive of the People’s Republic of China (PRC) while purporting to provide news for Chinese Americans, the department said.
+
+Wang ran the site with Yaoning Sun, a Californian man who was sentenced to four years in prison after pleading guilty to acting as an illegal agent of a foreign government in October 2025, according to US prosecutors.
+
+Wang’s activities included republishing a “PRC official-written essay” that denied allegations that the Chinese government was committing genocide against ethnic-minority Uighurs in its far-western region of Xinjiang, according to prosecutors.
+
+Wang resigned as mayor on Monday, according to a statement published on the City of Arcadia’s website.
+
+Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “mistakes she has made in her personal life”.
+
+<p align='right'>🔗 <i>Source: <a href='https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss'>Read More</a></i></p>
+<hr width='50%'>
+
+<div align='center'>
+<h3>Lebanese in south refuse to flee again despite escalating Israeli strikes</h3>
+<img src='https://www.aljazeera.com/wp-content/uploads/2020/12/AJ-Logo-English-Vertical.jpg' width='90%' style='max-height:400px; object-fit: cover; border-radius:15px;' />
 </div>
 
 Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced residents say they will not leave again despite a sharp rise in deaths and intensifying Israeli strikes.
 
-<div align='right'>🔗 <i>Source: <a href='https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss'>Click Here</a></i></div>
+<p align='right'>🔗 <i>Source: <a href='https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss'>Read More</a></i></p>
+<hr width='50%'>
 
-<hr width='70%' align='center' style='border: 0.5px dashed #bbb;'>
-
-<div align='center'>
-<h3>📢 Bolivia issues warrant for Evo Morales’s arrest after court no-show</h3>
-</div>
-
-A Bolivian judge has found former President Evo Morales in contempt of court and reissued a warrant for his arrest after he failed to turn up for the start of his trial on charges of trafficking a minor.
-
-The ruling on Monday renewed tensions in the South American country, with supporters of Morales warning they would “throw the country into turmoil” if the former leader is arrested.
-
-Morales, who is Bolivia’s first Indigenous president, is accused of fathering a child with a 15-year-old girl while in office. The parents of the teen are accused of consenting to the relationship in exchange for favours from Morales.
-
-The former socialist leader, who governed from 2006 to 2019, has rejected the accusations.
-
-Morales did not attend the scheduled start of his trial on Monday in the southern city of Tarija, forcing the proceedings to be suspended.
-
-The Public Prosecutor’s Office said Morales’s “unjustified absence” confirmed his fugitive status and warranted an arrest order as well as a travel ban.
-
-The former president has been hiding from the law in his central coca-growing stronghold of Chapare since late 2024, guarded by Indigenous supporters who have promised to resist any attempt to capture him.
-
-“They think that by arresting Evo Morales, they will succeed in quelling and demobilising the movement. They are very much mistaken,” supporter Dieter Mendoza said on Kawsachun Coca radio on Monday. “If they touch Evo Morales, this will cause an upheaval … There will be an insurgency across Bolivia.”
-
-Mendoza urged residents of the Cochabamba Tropics to remain on “high alert” and “ready for battle”.
-
-Authorities first issued an arrest warrant for Morales in October 2024, but could not execute it after his supporters blocked roads for 24 days, preventing officers from reaching the region where he remains sheltered.
-
-<div align='right'>🔗 <i>Source: <a href='https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show?traffic_source=rss'>Click Here</a></i></div>
-
-<hr width='70%' align='center' style='border: 0.5px dashed #bbb;'>
-
-<br><h2 align='center' style='color: #2c3e50;'>━━━━━━ 🇺🇸 CNN WORLD ━━━━━━</h2>
+<h2 align='center'>━━━━ 🇺🇸 CNN NEWS ━━━━</h2>
 
 <div align='center'>
-<h3>📢 Trump pleads not guilty to 34 felony counts</h3>
-<img src='https://cdn.cnn.com/cnnnext/dam/assets/230403164607-22-trump-indictment-travel-new-york-super-169.jpg' width='85%' style='border-radius: 15px; margin: 10px 0;' />
+<h3>Trump pleads not guilty to 34 felony counts</h3>
+<img src='https://cdn.cnn.com/cnnnext/dam/assets/230403164607-22-trump-indictment-travel-new-york-super-169.jpg' width='90%' style='max-height:400px; object-fit: cover; border-radius:15px;' />
 </div>
 
 Acting New York Supreme Court Judge Juan Merchan wrote his Monday night order that the media’s request to broadcast the arraignment of former President Donald Trump was understandable, but that the news organizations’ interests in providing the broadest possible access to the proceedings must be weighed against “competing interests.”
@@ -70,50 +64,42 @@ The media outlets that tried to get cameras into the courtroom argued that “th
 
 Trump is now in Manhattan ahead of the arraignment. A grand jury indicted the former president last week.
 
-The arraignment is also expected to bring the unsealing of the criminal charges against Trump, which have not yet been seen by his lawyers or the public.
-
-The indictment stems from Manhattan District Attorney Alvin Bragg’s investigation into hush-money payments, made during the 2016 presidential campaign, to women who claimed they had extramarital affairs with Trump, which he denies.
-
-<div align='right'>🔗 <i>Source: <a href='https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html'>Click Here</a></i></div>
-
-<hr width='70%' align='center' style='border: 0.5px dashed #bbb;'>
+<p align='right'>🔗 <i>Source: <a href='https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html'>Read More</a></i></p>
+<hr width='50%'>
 
 <div align='center'>
-<h3>📢 Haberman reveals why Trump attacked judge and his family in speech</h3>
-<img src='https://cdn.cnn.com/cnnnext/dam/assets/230405092519-trump-haberman-split-super-169.jpg' width='85%' style='border-radius: 15px; margin: 10px 0;' />
+<h3>Haberman reveals why Trump attacked judge and his family in speech</h3>
+<img src='https://cdn.cnn.com/cnnnext/dam/assets/230405092519-trump-haberman-split-super-169.jpg' width='90%' style='max-height:400px; object-fit: cover; border-radius:15px;' />
 </div>
 
-*(Full content is available on the main website via the link below)*
+Content available at source link.
 
-<div align='right'>🔗 <i>Source: <a href='https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn'>Click Here</a></i></div>
+<p align='right'>🔗 <i>Source: <a href='https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn'>Read More</a></i></p>
+<hr width='50%'>
 
-<hr width='70%' align='center' style='border: 0.5px dashed #bbb;'>
-
-<br><h2 align='center' style='color: #2c3e50;'>━━━━━━ 🗽 NEW YORK TIMES ━━━━━━</h2>
+<h2 align='center'>━━━━ 🗽 NY TIMES ━━━━</h2>
 
 <div align='center'>
-<h3>📢 RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence</h3>
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11dc-kennedy-measles-01-pqjf/11dc-kennedy-measles-01-pqjf-mediumSquareAt3X.jpg' width='85%' style='border-radius: 15px; margin: 10px 0;' />
+<h3>Xi Poised to Press Trump on Arms Sales to Taiwan</h3>
+<img src='https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-mediumSquareAt3X.jpg' width='90%' style='max-height:400px; object-fit: cover; border-radius:15px;' />
 </div>
 
-*(Full content is available on the main website via the link below)*
+Content available at source link.
 
-<div align='right'>🔗 <i>Source: <a href='https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html'>Click Here</a></i></div>
-
-<hr width='70%' align='center' style='border: 0.5px dashed #bbb;'>
+<p align='right'>🔗 <i>Source: <a href='https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html'>Read More</a></i></p>
+<hr width='50%'>
 
 <div align='center'>
-<h3>📢 Trump Proposes Suspending Federal Gas Tax</h3>
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11evening-nl-gas-tax-tcpf/11evening-nl-gas-tax-tcpf-mediumSquareAt3X.jpg' width='85%' style='border-radius: 15px; margin: 10px 0;' />
+<h3>Chinese A.I. Firms Push Beyond Nvidia as DeepSeek Turns to Huawei</h3>
+<img src='https://static01.nyt.com/images/2026/05/08/multimedia/00biz-china-chips-fqbm/00biz-china-chips-fqbm-mediumSquareAt3X.jpg' width='90%' style='max-height:400px; object-fit: cover; border-radius:15px;' />
 </div>
 
-*(Full content is available on the main website via the link below)*
+Content available at source link.
 
-<div align='right'>🔗 <i>Source: <a href='https://www.nytimes.com/2026/05/11/briefing/trump-gas-tax-iran-truce.html'>Click Here</a></i></div>
+<p align='right'>🔗 <i>Source: <a href='https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html'>Read More</a></i></p>
+<hr width='50%'>
 
-<hr width='70%' align='center' style='border: 0.5px dashed #bbb;'>
+<h2 align='center'>━━━━ 🏛️ REUTERS ━━━━</h2>
 
-<br><h2 align='center' style='color: #2c3e50;'>━━━━━━ 🏛️ REUTERS ━━━━━━</h2>
-
-<br><h2 align='center' style='color: #2c3e50;'>━━━━━━ 🎬 CELEBRITY & STYLE ━━━━━━</h2>
+<h2 align='center'>━━━━ 🎬 CELEBRITY ━━━━</h2>
 
