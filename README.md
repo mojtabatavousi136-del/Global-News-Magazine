@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 18:40`
+**📅 Update:** `2026/05/12 - 22:40`
 
 ---
 
@@ -18,164 +18,150 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 ‘Cotton picking’: US lawmaker condemned for racist comment about Jeffries
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0361ea-1778606570.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0392a83d30-1778619048.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-The office of Hakeem Jeffries, the top-ranking Democrat in the United States House of Representatives, has released a fiery statement condemning a fellow lawmaker who endorsed a racist comment about him.
+In a United States court, OpenAI chief executive Sam Altman has rejected claims from fellow tech mogul Elon Musk that he betrayed the artificial intelligence company’s original vision.
 
-Tuesday’s statement came a day after US Representative Jen Kiggans appeared on a conservative radio talk show, where she discussed the ongoing battle over redistricting in the state.
+Tuesday marked the start of Altman’s testimony in a contentious trial unfolding in Oakland, California, between some of tech’s richest and most powerful titans.
 
-During the show, host Rich Herrera criticised Jeffries, who is from New York, for his support of an effort to redraw Virginia’s congressional map.
+Musk, the wealthiest man in the world, has sued Altman and OpenAI president Greg Brockman on the basis that they “stole a charity” by shifting its purpose.
 
-Herrera said Jeffries should either relocate to Virginia and run for public office, or “get your cotton-picking hands off of Virginia”.
+He alleged that OpenAI’s leader persuaded him to invest $38bn, based on a goal of improving humanity, only to see the company pivot to a for-profit venture in 2019.
 
-“That’s right. Ditto,” Kiggans, a Republican, responded. “Yes. Yes to that.”
+On the witness stand on Tuesday, Altman instead framed Musk as a competitor obsessed with exercising control over OpenAI.
 
-The term “cotton picking” is typically seen to have racist roots in the US, where enslaved Black people were used as labour on southern cotton plantations until the mid-19th century.
+“It does not fit with my conception of the words ‘stealing a charity’ to look at what has actually happened here,” Altman told the court.
 
-Kiggans later denied approving of Herrera’s statement. She argued that she was instead agreeing with the broad sentiment about Democrats’ efforts in state redistricting.
+The two men have long had an acrimonious relationship, driven in part by differing views about artificial intelligence.
 
-“The radio host should not have used that language and I do not — and did not — condone it,” she said.
+Musk — a self-described free speech “absolutist” — currently runs his own AI chatbot, Grok, which has been accused of perpetuating right-wing conspiracy theories and offensive materials.
 
-“It was obvious to anyone listening that I was agreeing Hakeem Jefferies should stay out of Virginia.”
+He is seeking $150bn in damages from OpenAI and Microsoft, one of its principal investors.
 
-Still, a Jeffries spokesperson, Christie Stephenson, vehemently condemned Kiggans on Tuesday.
+Altman’s testimony comes more than two weeks into the trial, which has seen him and Musk square off against each other.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/cotton-picking-us-lawmaker-condemned-for-racist-comment-about-jeffries?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Kevin Warsh confirmed to US Federal Reserve board in close Senate vote
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0363cc-1778607052.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Basketball star Brandon Clarke, Memphis Grizzlies forward, dies at age 29
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26091831151338-1-1778614343.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Kevin Warsh has been confirmed by the United States Senate to join the Federal Reserve’s Board of Governors ahead of an expected vote that will have US President Donald Trump’s appointee lead the central bank.
+Brandon Clarke, an athlete for the National Basketball Association (NBA) in the United States, has died at the age of 29, according to his team, the Memphis Grizzlies.
 
-The Senate vote on Tuesday passed 51-45, with a single Democrat, John Fetterman of Pennsylvania, casting his vote with the Republican majority to confirm Warsh for a 14-year term.
+No cause of death was immediately announced. Local media reports indicate he was pronounced dead at a home in California’s San Fernando Valley after emergency workers responded to a call for help.
 
-The next step in the Senate confirmation process would be to confirm him for a four-year term as the central bank’s chair. The vote is expected as soon as Wednesday, ahead of the end of current Chair Jerome Powell’s term, which ends on Friday.
+“We are heartbroken by the tragic loss of Brandon Clarke,” the Grizzlies said in a statement on Tuesday.
 
-Warsh’s confirmation comes with questions about the central bank’s independence amid ongoing pressure by Trump to cut interest rates. In the Senate Banking Committee confirmation, Senator Elizabeth Warren accused Warsh, who served on the central bank’s Board of Governors in 2006-2011, of being a “sock puppet” for Trump, an assertion he has denied.
+“Brandon was an outstanding teammate and an even better person whose impact on the organization and the greater Memphis community will not be forgotten.”
 
-In December, Trump said he would only appoint someone to lead the central bank if they agreed with him on interest rates.
+Born in Vancouver, Canada, Clarke was selected as the 21st pick overall in the 2019 NBA draft by the Oklahoma City Thunder, before his rights were traded to Memphis on draft night.
 
-But the Fed chair has only so much control. He is one of 12 votes on the interest-rate-setting Federal Open Market Committee, and is one of 19 voices at the policy-setting table.
+He spent his entire NBA career with the Grizzlies and was named to the NBA All-Rookie First Team in 2020 after averaging 12.1 points and 5.9 rebounds in his debut season.
 
-Warsh’s confirmation comes amid efforts this past year by the Trump administration to exert control over the Fed, including attempting to fire Fed Governor Lisa Cook in a case now before the Supreme Court, and support for a Department of Justice (DOJ) investigation into Powell’s management of a building renovation that a federal judge ruled was a pretext for pressuring Powell to cut rates or resign.
+Injuries, including knee, calf and Achilles issues, limited his appearances in recent years. Clarke played just two games during the 2025-26 season.
 
-The DOJ dropped its investigation, but its lead prosecutor in Washington says she could reopen it.
+“We are devastated to learn of the passing of Brandon Clarke,” NBA Commissioner Adam Silver said in a statement.
 
-Powell plans to take the unusual step of staying on as governor after his term as chair ends in response to the “series of legal attacks on the Fed which threaten our ability to conduct monetary policy without considering political factors”, he said last month.
+“As one of the longest-tenured members of the Grizzlies, Brandon was a beloved teammate and leader who played the game with enormous passion and grit. Our thoughts are with Brandon’s family, friends and the Grizzlies organization.”
 
-Warsh says he plans “regime change” at the Fed, including tightening its coordination with the Treasury Department and the Trump administration on non-monetary policies and setting it on course for a smaller balance sheet, which he argues should allow for a lower policy rate.
+The agency that represented him, Priority Sports, wrote in a statement that its members were “beyond devastated” by Clarke’s death.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/12/basketball-star-brandon-clarke-memphis-grizzlies-forward-dies-at-age-29?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Serbia hosts first joint military exercise with NATO
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a035f7c63-1778605948.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Trump downplays US-Iran differences as he heads to Beijing to meet with Xi
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0371fd5064-1778610685.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Serbia and NATO have launched their first-ever joint military exercise, a landmark cooperation between the Balkan country and the alliance that bombed its capital less than 30 years ago.
+United States President Donald Trump has departed the White House en route to Beijing, where he will meet with his Chinese counterpart Xi Jinping.
 
-The two-week-long drills, which began on Tuesday and run until May 23, involve about 600 troops from Serbia, Italy, Romania and Turkiye. Military planners and observers from France, Germany, Italy, Montenegro, Romania, Serbia, Turkiye, the United Kingdom and the United States are also participating.
+Trump spoke briefly with reporters on Tuesday as he boarded the Marine One helicopter. He was then set to arrive in China aboard Air Force One on Wednesday, ahead of the planned meetings on Thursday and Friday.
 
-Photographs released on Tuesday showed Serbian and NATO soldiers standing side by side at a military training ground near Bujanovac in southern Serbia, alongside armoured vehicles from both forces.
+United States officials have taken pains in recent days to downplay how big a topic the US-Israel war on Iran will be during Trump’s visit.
 
-“The cooperation is aimed at preserving peace and stability in the region,” Serbia’s Ministry of Defence said.
+Beijing has made its opposition to the war clear, at times asserting behind-the-scenes pressure on its trading partner Iran. However, it has largely avoided being pulled into the fray.
 
-“The planning of this exercise has been an important part of this joint endeavour. Both NATO and the Serbian Armed Forces have a long track record of major international exercise planning, so the teams were able to collaborate and deliver in a seamless way, sharing ideas and experience,” Royal Navy Commander Ian Kewley said in the news release.
+In recent days, US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent have stepped up their calls for China to use its influence to help reopen the Strait of Hormuz, through which about 20 percent of the world’s oil supply flowed before the war began.
 
-The tactical exercise falls under NATO’s Partnership for Peace programme, which Serbia has been part of for nearly 20 years. The country regularly participates in drills with NATO members, though this marks the first exercise conducted directly with the alliance.
+But Trump again gave conflicting messages on Tuesday about how much the war would feature in his meetings in China.
 
-NATO remains a sensitive subject in Serbia following the alliance’s 1999 air campaign against Yugoslavia during the Kosovo war.
+“We’re going to have a long talk about it. I think he’s been relatively good, to be honest with you,” Trump said of his plans to discuss the conflict – and how it has roiled global oil markets – with Xi.
 
-A NATO-led peacekeeping force has been stationed in Kosovo since the 1999 war ended, and Serbia has never recognised its former province’s declaration of independence.
+Minutes later, he added, “We have a lot of things to discuss. I wouldn’t say Iran is one of them, to be honest with you, because we have Iran very much under control.”
 
-Serbia is one of the few Balkan countries not in the alliance, maintaining a policy of neutrality while balancing close ties with both NATO and Russia.
+“I don’t think we need ⁠any help with Iran. We’ll win it one way or the other, peacefully or otherwise,” he said.
 
-Serbia has significantly bolstered its military capabilities over the past 10 years, buying arms from NATO member countries alongside purchases from Russia and China.
+The upcoming meetings will be the first face-to-face exchanges since the leaders of the world’s two largest economies met on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in Busan, South Korea, in October 2025.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Voters head to the polls in the Bahamas for high-stakes snap election
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0361d3-1778606547.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 US court pauses decision blocking Trump’s 10 percent global tariff
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a037b5b-1778613083.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-A snap election is underway in the Bahamas, where voters are heading to the polls to decide whether to grant Prime Minister Philip Davis and his ruling Progressive Liberal Party (PLP) a rare second consecutive term in office.
+A federal appeals court in the United States has temporarily paused a lower court decision to block President Donald Trump’s 10 percent global tariff.
 
-If Davis wins the election on Tuesday, he would be the first leader of the Caribbean island nation to serve a second term in nearly 30 years. He is facing a challenge from the Free National Movement (FNM), led by Michael Pintard.
+On Tuesday, a US federal appeals court issued a short-term administrative stay as the court case continues.
 
-“Today, we vote to keep The Bahamas moving forward,” Davis said in a social media post. “Let’s protect our progress, keep our momentum, and secure what comes next. Vote PLP. Choose Progress.”
+At stake is whether the tariff issued under Section 122 of the 1974 Trade Act falls within the scope of Trump’s presidential authority.
 
-Concerns about affordability, poor wage growth, and rising housing costs are top of mind for voters, with parties competing for 41 seats in the country’s House of Assembly.
+Trump imposed the sweeping 10 percent import tax in January, after the Supreme Court struck down another set of far-reaching tariffs that the president justified using the International Emergency Economic Powers Act (IEEPA).
 
-The Bahamian paper The Nassau Guardian reported that no political party has successfully formed a government for two consecutive terms since 1997, when Hubert Ingraham of the FNM beat the PLP for the second election in a row.
+In that case, the Supreme Court ruled that the IEEPA does not authorise the president to impose blanket tariffs, as Trump had argued.
 
-The election was initially scheduled for October, but was called early by Davis due to concerns about holding the vote during hurricane season, Reuters reported.
+Similar questions have arisen about Trump’s new tariff policy. On Friday, a panel at the US Court of International Trade ruled two to one that Trump had failed to meet the criteria under Section 122 to apply the new tariffs.
 
-Davis first came to power in a snap election in 2021, and the PLP is hoping to further capitalise on a strong majority of 32 seats in the 39-seat legislature. Two additional seats are being added to this election following recommendations from the independent Constituencies Commission, bringing the total to 41.
+“The President’s Proclamation fails to assert that those required conditions have been satisfied,” the lower-court ruling asserts.
 
-The Nassau Guardian reported that the campaign has seen high spending, along with false claims that have spread on social media and sometimes utilised artificial intelligence. The paper stated that the race has become closer in recent weeks following revelations of potentially improper government spending, including hundreds of millions of dollars in no-bid contracts.
+It added that the proclamation “is invalid, and the tariffs imposed on Plaintiffs are unauthorized by law”.
+
+Tuesday’s appeals court decision paused that ruling temporarily, to allow the White House time to respond.
+
+But the plaintiffs — a coalition of 24 states — have argued that Trump’s tariff campaign is an abuse of executive power. They have also pointed to the downstream effects, as consumers shoulder the costs of the added taxes.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26058408362354-1778605484.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Cannes juror denounces Hollywood boycott of actors for Gaza war views
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260512__B2LT8FU__v1__HighRes__FranceFilmFestivalCannes2026-1778619314.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-US diplomat Mike Huckabee has revealed that Israel deployed Iron Dome batteries and “personnel to help operate them” to the United Arab Emirates (UAE) to help fend off Iranian attacks.
-
-The United States ambassador to Israel heaped praise on the UAE during an event in Tel Aviv on Tuesday, saying that Abu Dhabi serves as an “example” of strong ties between Israel and Gulf states.
-
-“They were the first Abraham Accord member,” he said, referring to the agreements that established formal relations between Israel and several Arab countries in 2020.
-
-“But look at the benefits that they have had as a result: Israel just sent them Iron Dome batteries and personnel to help operate them. How come? Because there’s an extraordinary relationship between the UAE and Israel.”
-
-Several media outlets had reported on the deployment of the Iron Drone in the UAE over the past weeks. Huckabee’s comment offers the first official confirmation of the move, which highlights the deepening relationship between Israel and Abu Dhabi amid the war with Iran.
-
-This is the first known instance of the advanced air defence technology – which has been funded by billions of dollars from the US government – being used outside Israel.
-
-Previously, Israel refused to transfer Iron Dome batteries to Ukraine to shoot down Russian missiles.
-
-The UAE and other Gulf countries have come under Iranian missile and drone strikes since the US and Israel started attacking Iran on February 28.
-
-While Iran claims that it has been attacking US assets in the Middle East, regional countries have accused Tehran of targeting civilian sites, including airports, hotels and energy infrastructure.
-
-UAE and Bahrain are the only two countries in the Gulf that have official ties with Israel as part of the so-called Abraham Accords.
+2026 Cannes Film Festival juror Paul Laverty denounced Hollywood for boycotting actors who’ve opposed the Gaza war.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -248,13 +234,13 @@ Trump criticised the proposal, writing on Truth Social on Sunday: "I have just r
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Lebanon says two paramedics among 10 killed in Israeli strikes
+### 📰 Lebanon says two paramedics among 13 killed in Israeli strikes
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/e3ef/live/68ba80e0-4e1c-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Israeli air strikes have killed at least 10 people in southern Lebanon, state media say, where a ceasefire has failed to stop the war between Israel and the Lebanese armed group Hezbollah.
+Israeli air strikes have killed at least 13 people in southern Lebanon, state media say, where a ceasefire has failed to stop the war between Israel and the Lebanese armed group Hezbollah.
 
 Overnight, six people were killed and seven others were injured when a house in Kfar Dounine was hit, according to Lebanon's state-run National News Agency (NNA).
 
@@ -506,6 +492,56 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
+### 📰 Jimmy Kimmel Jokes About Trump's Cancelation Outcry, Taylor Frankie Paul at Upfront
+<img src='https://imagez.tmz.com/image/de/16by9/2026/05/12/dead5f4785094d0a81ae933997c29103_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Jimmy Kimmel let the jokes fly at Disney's upfront event on Tuesday ... telling the advertisers he was just as surprised to see them as they were him, given all the recent drama with President Trump and the White House.
+
+According to multiple people at the event ... Kimmel also quipped that the only way to get tossed off the air at ABC was to throw a chair at your Mormon boyfriend -- an obvious shot at Taylor Frankie Paul's drama that led to her season of "The Bachelorette" being pulled.
+
+As we reported ... Trump and the First Lady once again pushed for ABC to pull Kimmel from the air for a joke he made about Melania being a widow ... a joke he made days before a suspect opened fire at the White House Correspondents' Dinner. Kimmel clarified his joke was about the couple's age difference.
+
+Despite the outcry ... ABC stuck by Kimmel ... and the drama has since fizzled away. Kimmel being at the upfront event on Tuesday is just business as usual.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/jimmy-kimmel-jokes-about-trump-and-taylor-frankie-paul-at-abc-upfront/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Hayden Panettiere's Ex Says Her New Memoir Could Help Reform Abusers
+<img src='https://imagez.tmz.com/image/4d/16by9/2026/05/12/4dffaf58b34043538cf42c1a6f730aaf_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Hayden Panettiere's ex Brian Hickerson says reading about his abusive relationship in her upcoming memoir was brutal ... but he also thinks alleged abusers need to hear stories like his the most.
+
+Hickerson spoke with TMZ's Charlie Neff ahead of the release of Hayden's memoir, "This Is Me: A Reckoning" ... and admitted there was one particularly dark moment from their relationship he requested her to leave out of the book -- but it made the final cut anyway.
+
+According to Brian, the passage details a drunken incident where he allegedly threatened to throw a phone at Hayden. He recalled telling her, "I'll give you 10 seconds to run as fast as you can before I throw it at you."
+
+Brian admitted to Charlie, "Who wants to read something about themselves like that?" ... before adding, "I did it. I did it."
+
+The ex-couple dated on and off from 2018 to 2022 ... and their relationship exploded into public legal drama ... with Brian arrested multiple times over alleged domestic violence incidents involving Hayden. He pleaded no contest to felony charges, was sentenced to jail time and probation, and was hit with a five-year restraining order requiring him to stay away from her.
+
+Brian also pushed the conversation beyond survivors ... saying people accused of abuse should also be forced to confront these stories head-on. He believes domestic violence education comes too late in life ... adding he was never taught what abuse actually looked like growing up.
+
+And in a striking moment of self-awareness, Hickerson suggested Hayden's memoir could end up serving as a warning manual for the very kind of person he became ... proof that sometimes, it really does take one to know one.
+
+Check out Charlie's full interview with Brian ... he talks about how he still has love for the actress, what their current status is, and what his thoughts are on Hayden's ex-fiancé and baby daddy Wladimir Klitschko.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/brian-hickerson-supports-hayden-panettieres-new-book/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Brandon Clarke, Memphis Grizzlies Player, Dead At 29
 <img src='https://imagez.tmz.com/image/5c/16by9/2026/05/12/5c3d971828ee4cb284c2ff5d653c551f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
@@ -514,7 +550,7 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 
 Brandon Clarke -- power forward for the Memphis Grizzlies -- died on Monday, TMZ Sports has learned. He was only 29 years old.
 
-The details surrounding Clarke's tragic death aren't clear.
+His passing is being investigated as a possible overdose.
 
 Clarke was the 21st overall pick in the 2019 NBA Draft, selected by the Oklahoma City Thunder, and immediately traded to Memphis.
 
@@ -555,86 +591,26 @@ Rest in peace.
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Brandon Clarke's Death Investigated As Possible Overdose, Drug Paraphernalia Found
-<img src='https://imagez.tmz.com/image/c8/16by9/2026/05/12/c8a59cb4c535475d8b4e8915c9ed96b1_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 FBI Director Kash Patel Slams Senator for Bringing Up Reports of His Drinking
+<img src='https://imagez.tmz.com/image/28/16by9/2026/05/12/28dc83fe499c4d0a98eefa3a9809f3f9_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Brandon Clarke's death is being investigated as a possible overdose ... with officials finding drug paraphernalia inside the home the Memphis Grizzlies player was staying at on Monday.
+Kash Patel pulled out some schoolyard-level debate tactics on Tuesday when he was grilled about allegedly drinking on the job.
 
-The Los Angeles Fire Department responded to a medical emergency call around 5 PM on Monday ... and when paramedics got to the scene, Clarke was declared deceased, according to NBC4.
+During a Senate Appropriations Committee hearing Tuesday, Democratic Senator from Maryland Chris Van Hollen raised concerns about reports of the FBI director's alleged excessive drinking.
 
-An autopsy will determine the cause and manner of death.
+Patel tried to flip the script on Van Hollen ... talking over him, slamming him for meeting with Kilmar Abrego Garcia -- the Salvadoran man wrongfully deported by the U.S. government last year -- and accusing him of "slinging margaritas" and running up a $7K bar tab "on taxpayer dime."
 
-Clarke's death sent shockwaves through the basketball community ... with his agency, the Grizzlies and NBA commissioner mourning the loss.
+Van Hollen was visibly fed up and -- when he was finally able to get a word in -- told Patel straight-up ... "The fact that you mentioned that indicates that you don't know what you are talking about."
 
-"We are heartbroken by the tragic loss of Brandon Clarke," the Grizzlies said. "Brandon was an outstanding teammate and an even better person whose impact on the organization and the greater Memphis community will not be forgotten."
-
-"We express our deepest condolences to his family and loved ones during this difficult time."
-
-Clark was arrested in Arkansas last month on allegations of speeding, reckless driving and possession of a controlled substance.
-
-Clarke joined the NBA as the 21st overall pick in the 2019 NBA Draft, selected by the Oklahoma City Thunder, and immediately traded to Memphis. He played seven seasons in the NBA, averaging 10.2 points, 5.5 rebounds, and 1.3 assists over 309 games.
-
-He was just 29 years old.
-
-Story developing ...
+Check out the video to see the whole thing play out.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/brandon-clarke-death-investigation-possible-overdose/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Man Killed by Plane at Denver Airport Identified, Manner of Death Determined
-<img src='https://imagez.tmz.com/image/d2/16by9/2026/05/12/d21f7ce85fc4497396e18c210ab2d011_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-<font size='4'>
-
-The man who was struck and killed by a plane at Denver International Airport over the weekend died by suicide ... though questions remain about why he wanted to end his life.
-
-Denver Medical Examiner Sterling McLaren said 41-year-old Michael Mott is the man who was consumed by the jet engine of a Frontier Airlines plane late Friday night as he walked on the runway. McLaren's office determined the man's cause of death was multiple blunt force injuries, and the manner of death was suicide.
-
-However, there was no note found near the scene, so investigators are still trying to piece together what led up to the shocking method of suicide.
-
-We told you about the horrific incident -- a plane plowed down Mott as he was seen strolling along the runway during takeoff. Air traffic personnel immediately confirmed there were human remains on the runway and swiftly began evacuating the plane.
-
-Five people were sent to the hospital following the incident, and four have reportedly been released, KDVR-TV reports.
-
-Investigators say Mott jumped an 8-foot-tall fence to gain access to the runway. At the same time he scaled the fence, the airport's motion sensors detected a herd of deer just near where he was -- about 2 miles from the airport's terminal, according to authorities.
-
-The investigation is ongoing.
-
-If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat&nbsp;988lifeline.org.
-
-</font>
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/man-killed-by-plane-at-denver-airport-identified/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!
-<img src='https://imagez.tmz.com/image/17/16by9/2026/05/12/1766707856f4452386cbc74b1837124f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-<font size='4'>
-
-We want you to be a part of TMZ, so every weekday, between 10:30 AM and 12:00 PM PT, we take you inside our newsroom via live stream.
-
-You never know what you're gonna get ... a big story that breaks, an argument erupts in the room, or someone's just joking around.
-
-Your comments are a big part of the stream, and the staff spends a lot of time speaking directly to you. Every day is different!
-
-We also use our live stream to produce our "TMZ Live" TV show.
-
-</font>
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/watch-tmz-live-today/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/kash-patel-calls-out-chris-van-hollen-for-bringing-up-alcohol-article/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -698,7 +674,33 @@ All prices &amp; availability subject to change. Not official merchandise unless
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Distracted and Bogged Down, Trump and Xi Enter a Summit of Reduced Ambitions
+### 📰 U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities
+<div align='justify'>
+<font size='4'>
+
+Secret new assessments say Iran has operational access to 30 of its 33 missile sites along the Strait of Hormuz, suggesting that its military remains far stronger than President Trump has asserted.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Inflation Accelerates as Iran War Drives Up Energy Costs
+<div align='justify'>
+<font size='4'>
+
+Also, Russia keeps attacking U.S. companies in Ukraine. Here’s the latest at the end of Tuesday.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/briefing/iran-war-costs-inflation.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Trump and Xi Enter China Summit Distracted by Iran War
 <div align='justify'>
 <font size='4'>
 
@@ -724,48 +726,55 @@ Defense secretaries have previously traveled with presidents on overseas trips, 
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Pentagon Puts Iran War Cost at $29 Billion as Hegseth Deflects on Funding
+### 📰 Reflecting Pool Repairs Appear Uneven and Behind Schedule, Officials Say
 <div align='justify'>
 <font size='4'>
 
-The estimate from the Defense Department’s top budget official was $4 billion higher than two weeks ago. Secretary Pete Hegseth declined to say when the administration would request extra money for the Iran conflict.
+Work on the iconic National Mall basin appears behind schedule. President Trump initially said he had picked the contractor, then said he did not know it.
 
 </font>
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Kuwait Accuses Iran of Trying to Infiltrate Its Territory
-<div align='justify'>
-<font size='4'>
-
-Kuwait’s interior ministry said a group of armed Iranians arrived at Bubiyan Island in the Persian Gulf on May 1 aboard a rented fishing boat and exchanged fire with Kuwaiti soldiers.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags
-<div align='justify'>
-<font size='4'>
-
-The food giant Calbee said shortages of naphtha, a crude-oil derivative used in inks, were forcing it to switch to black-and-white packaging for its salty products.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/lincoln-memorial-pool-repairs.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 NASA Langley Engineer Attends FAA Training
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/okc-tower-outside-edit.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+<font size='4'>
+
+At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost. Communications like “clearance delivery,” which require long transmissions and readbacks, are challenging in high-traffic areas, particularly when weather or other factors require many aircraft to communicate with controllers at once. Going digital clears that channel for urgent, time-critical calls, among other things. And it’s the current practice at some airports, where pilots can confirm clearances with the touch of a button, that the response goes directly to the controller’s screen, and the updated information loads into their flight management system.
+
+Will Cummings-Grande, aerospace engineer with the Systems Analysis and Concepts Directorate based at NASA’s Langley Research Center, is leading technical work that centers around Communications Architecture and Performance for Digital Clearance in NASA’s Air Traffic Management and Safety (ATMS) project. He’s researching the next layer of digital clearance, extending that same logic down to taxi instructions on the ground, so that pushback timing, routing, and runway assignments could also arrive digitally rather than over the radio.
+
+He sought out the most current, ground-level knowledge about how digital clearance delivery works in practice — not in a research paper, but in a real tower, on real systems, with the people who run them every day. The Federal Aviation Administration (FAA) offers the training he wanted to air traffic controllers, so he reached out to the FAA Academy “on a hope and a prayer” that they might accept him as a student.
+
+And in early April, Cummings-Grande traveled to the Mike Monroney Aeronautical Center (MMAC) in Oklahoma City to complete the Tower Data Link Services (TDLS) Application Specialist training — the same two-day, hands-on course required of working controllers at the 72 U.S. airports currently equipped with digital clearance delivery capability.
+
+Cumming-Grande shadowed a working controller during exercises, trading off at the terminal during breaks so both got time on the system. His classmates were application specialists from Seattle, Sacramento, San Jose, and Fort Lauderdale, all controllers with day jobs managing high-traffic airspace who were there to become the designated system maintainers at their home airports. During breaks, Cummings-Grande had a luxury: time to test. “I got to bounce some of my ideas and concepts off of controllers who are out there interacting with the TDLS and all of the tools it touches in the current system,” he said. “It was great to have both — here’s what the controller-in-training gets, and here’s what I get as a researcher — kind of lumped into the same experience.”
+
+The FAA Academy also connected him with the systems engineers responsible for developing, testing, and implementing new TDLS hardware and software versions, and arranged a visit to the OKC tower to observe the system in live operation.
+
+The TDLS runs on fully air-gapped software, completely isolated from standard operating systems — a deliberate cybersecurity design that made the hands-on experience revelatory in ways a research paper couldn’t replicate. “Interacting with the system was just very eye-opening as to how different these systems are from other computers that we commonly interact with,” he said.
+
+The more significant discovery came from the curriculum itself. Reviewing the FAA’s system architecture during training, Cummings-Grande noticed something he didn’t know to look for: a link between the TDLS and the Terminal Flight Data Manager (TFDM), which does not yet exist operationally. That gap is now the center of his research questions. “I didn’t realize I was missing this piece until I took this course,” he said.
+
+The research Cummings-Grande is pursuing connects to a long thread of NASA work on surface safety and digital communications, including the Terminal Area Productivity program, the Surface Operation Automation Research (SOAR) project, the Low Visibility Landing and Surface Operations (LVLASO) project, and Surface Trajectory Based Operations (STBO) studies. These efforts kicked off in the mid-90s to inform FAA NextGen and demonstrated digital taxi clearances in a series of simulations at multiple facilities and ultimately flight tests at the Atlanta Airport. Those findings showed meaningful workload reductions, but the cost-benefit case wasn’t there yet, and the technology wasn’t ready in the fleet or in the facilities.
+
+What’s changed, in Cummings-Grande’s view, is the convergence of new infrastructure investments, including the rollout of systems derived from Airspace Technology Demonstration (ATD-2) technologies like the Spot and Runway Departure Advisor and the Precision Departure Release Capability through the TFDM, with renewed industry interest from a partner on the aircraft side. “We have all this homework that people have been doing for the last 20-30 years,” he said. “Can we take advantage of the renewed interest from FAA and industry to enable this safety-enhancement?”
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Perseverance Stuns in New Selfie
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/pia26650-watson-take-6-up-small.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -858,39 +867,6 @@ NASA’s Jet Propulsion Laboratory, which is managed for the agency by Caltech i
 </div>
 
  [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/1-photolab-hpsc-processor.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-<font size='4'>
-
-NASA’s High Performance Spaceflight Computing project aims to dramatically improve the computing power of spacecraft. Missions need processors that can withstand the harsh space environment, so they use chips developed years ago that are hardy and reliable. But upgraded chips are needed to enable the development of autonomous spacecraft, accelerate the rate of scientific discovery through faster data analysis, and support astronauts on missions to the Moon and Mars.
-
-“Building on the legacy of previous space processors, this new multicore system is fault-tolerant, flexible, and extremely high-performing,” said Eugene Schwanbeck, program element manager in NASA’s Game Changing Development program at the agency’s Langley Research Center, in Hampton, Virginia. “NASA’s commitment to advancing spaceflight computing is a triumph of technical achievement and collaboration.”
-
-The centerpiece of the High Performance Spaceflight Computing project is a new radiation-hardened, high-performance processor, designed to provide up to 100 times the computational capacity of current spaceflight computers while enduring a barrage of challenges in space. NASA’s Jet Propulsion Laboratory in Southern California has been conducting various tests that replicate those challenges.
-
-“We are putting these new chips through the wringer by carrying out radiation, thermal, and shock tests while also evaluating their performance through a rigorous functional test campaign,” said Jim Butler, High Performance Space Computing project manager at JPL.
-
-The processor must endure myriad tests to prove it can survive the rigors of spaceflight, including electromagnetic radiation and extreme temperature swings, both of which can degrade electronics. High-energy particles from the Sun and interstellar space can cause errors that send a spacecraft into “safe mode,” where nonessential operations are shut down until mission operators resolve the issue.
-
-There are also unique challenges associated with landing on planetary bodies. “To simulate real-world performance, we are using high-fidelity landing scenarios from real NASA missions that would typically require power-intensive hardware to process huge volumes of landing-sensor data,” said Butler. “This is an exciting time for us to be working on hardware that will enable NASA’s next giant leaps.”
-
-Testing at JPL, which began in February, will continue for several months. Results have been promising: The processor is working as designed and indications show it operating at 500 times the performance of the radiation-hardened chips currently in use. In a symbolic milestone, the team sent an email at the start of testing with the subject line “Hello Universe” — a nod to the test message that was popular in early computer development.
-
-Built by Microchip Technology Inc., headquartered in Chandler, Arizona, the High Performance Spaceflight Computing processor is being developed by the company and JPL through a commercial partnership. Samples have been provided to early access partners in the broader defense and commercial aerospace industry. The technology will enable autonomous spacecraft to use artificial intelligence to respond in real time to complex situations and environments where human input isn’t possible. It will help deep space missions analyze, store, and transmit troves of data to Earth, accelerating the rate of science discoveries. It could also support future human missions to the Moon and Mars.
-
-Known as a system-on-a-chip (or SoC), the processor can fit in the palm of a hand and includes all the key components of a computer, such as central processing units, computational offloads, advanced networking units, memory, and input/output interfaces. Compact and energy-efficient, SoCs are commonly found in smartphones and tablets. But only the SoCs JPL is testing are built to survive for years, millions (or even billions) of miles from the nearest repair technician, enduring conditions that even the toughest home user couldn’t replicate.
-
-Once certified for spaceflight, NASA will incorporate the chip into the computing hardware for many of the agency’s Earth orbiters, rovers exploring planetary surfaces, crewed habitats, and deep-space missions. The technology will be adapted by Microchip for Earth-based industries too, such as aviation and automotive manufacturing. The versatility of High Performance Spaceflight Computing supports NASA’s continued advancements in space exploration while providing transformative tools for numerous fields on Earth.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
