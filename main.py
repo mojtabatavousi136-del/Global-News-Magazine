@@ -2,11 +2,12 @@ import feedparser
 import datetime
 import requests
 from bs4 import BeautifulSoup
+import re
 
 def get_article_data(url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-        response = requests.get(url, headers=headers, timeout=12)
+        response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
         
         # استخراج تصویر اصلی
@@ -16,21 +17,20 @@ def get_article_data(url):
         if meta_img:
             img_url = meta_img.get('content')
 
-        # استخراج متن
+        # استخراج متن (۳ پاراگراف اول برای جلوگیری از طولانی شدن بیش از حد)
         for el in soup(["script", "style", "nav", "header", "footer", "aside", "button", "form"]): 
             el.decompose()
         paragraphs = soup.find_all('p')
         text_blocks = [p.get_text().strip() for p in paragraphs if len(p.get_text()) > 80]
-        full_text = "\n\n".join(text_blocks[:6]) if text_blocks else "Visit the official site for full coverage."
+        full_text = "\n\n".join(text_blocks[:3]) if text_blocks else "Visit the source for full coverage."
         
         return full_text, img_url
     except:
-        return "Content is temporarily unavailable.", None
+        return "Summary available at the source link.", None
 
 def get_news():
     now = datetime.datetime.now()
     
-    # لیست کامل تمام خبرگزاری‌های درخواستی (قدیم + جدید)
     FEEDS = {
         '🌍 TOP GLOBAL AGENCIES': [
             ('BBC World', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
@@ -47,49 +47,66 @@ def get_news():
             ('NASA News', 'https://www.nasa.gov/news-release/feed/'),
             ('National Geographic', 'https://www.nationalgeographic.com/rss/index.xml')
         ],
-        '🎬 CELEBRITY & ENTERTAINMENT': [
+        '🎬 CELEBRITY & GOSSIP': [
             ('People Magazine', 'https://people.com/celebrity/feed/'),
             ('TMZ News', 'https://www.tmz.com/rss.xml'),
-            ('The Verge (Tech)', 'https://www.theverge.com/rss/index.xml')
+            ('The Verge', 'https://www.theverge.com/rss/index.xml')
         ]
     }
 
-    header = f"""
+    # ۱. هدر اصلی
+    content = f"""
 <div align="center">
-    <br>
-    <img src="https://img.icons8.com/fluency/100/globe-earth.png" width="80" />
-    <h1 align="center">MAHOOR WORLD PREMIER NEWS</h1>
-    <p align="center"><b>Comprehensive Global Coverage: From Iran to the Stars</b></p>
-    <p align="center">📅 {now.strftime('%A, %d %B %Y')} | 🕒 Updated every 4 hours</p>
-    <hr width="90%" size="2">
-</div>\n"""
+    <img src="https://img.icons8.com/fluency/100/news.png" width="80" />
+    <h1>MAHOOR WORLD PREMIER NEWS</h1>
+    <p>📅 {now.strftime('%A, %d %B %Y')} | 🕒 Updated every 4 hours</p>
+</div>
 
-    content = header
-    
+---
+
+### 📌 QUICK NAVIGATION
+<div align="center">
+"""
+    # ۲. ایجاد منوی دسترسی سریع خودکار
     for section, sources in FEEDS.items():
-        content += f"<br><br><h2 align='center' style='background-color: #f0f0f0; padding: 10px; border-radius: 10px;'>{section}</h2>\n\n"
+        content += f"**{section}**<br>\n"
+        links = []
+        for name, _ in sources:
+            anchor = name.lower().replace(" ", "-").replace("(", "").replace(")", "")
+            links.append(f"[{name}](#{anchor})")
+        content += " | ".join(links) + "<br>\n"
+    
+    content += "</div>\n\n---"
+
+    # ۳. استخراج و نمایش اخبار (۱۰ خبر برای هر منبع)
+    for section, sources in FEEDS.items():
+        content += f"\n<br><h2 align='center' style='background-color: #f8f9fa; padding: 10px; border-radius: 10px;'>{section}</h2>\n"
         
         for name, url in sources:
+            anchor = name.lower().replace(" ", "-").replace("(", "").replace(")", "")
+            content += f"<br><h3 id='{anchor}' align='center' style='color: #0056b3;'>━━━ {name} ━━━</h3>\n\n"
+            
             feed = feedparser.parse(url)
-            if not feed.entries: continue
+            # انتخاب ۱۰ خبر اول
+            entries = feed.entries[:10]
             
-            # نمایش ۱ خبر از هر منبع (برای مدیریت حجم صفحه با توجه به تعداد زیاد منابع)
-            entry = feed.entries[0]
-            print(f"Fetching ({name}): {entry.title}")
-            full_text, img_url = get_article_data(entry.link)
+            for entry in entries:
+                print(f"Fetching: {name} - {entry.title}")
+                full_text, img_url = get_article_data(entry.link)
 
-            content += f"<div align='center'>\n"
-            content += f"<h3><span style='color: #d32f2f;'>{name}</span>: {entry.title}</h3>\n"
-            
-            if img_url:
-                content += f"<img src='{img_url}' width='85%' style='border-radius: 15px; border: 1px solid #eee;' />\n"
-            else:
-                content += f"<img src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800' width='85%' style='border-radius: 15px;' />\n"
-            
-            content += f"</div>\n\n"
-            content += f"<div align='justify' style='padding: 0 8%;'>\n\n{full_text}\n\n</div>\n"
-            content += f"<p align='center'>🔗 <a href='{entry.link}'>Read Full Article</a></p>\n"
-            content += "<br><hr width='30%' align='center'>\n\n"
+                content += f"<div align='center'>\n"
+                content += f"<h4>{entry.title}</h4>\n"
+                
+                if img_url:
+                    content += f"<img src='{img_url}' width='80%' style='border-radius: 10px;' />\n"
+                
+                content += f"</div>\n\n"
+                content += f"<div align='justify' style='padding: 0 10%; font-size: 0.9em;'>\n\n{full_text}\n\n</div>\n"
+                content += f"<p align='center'>🔗 <a href='{entry.link}'>Read more on {name}</a></p>\n"
+                content += "<p align='center'>---</p>\n\n"
+                
+            content += "<p align='right'><a href='#-quick-navigation'>🔼 Back to Top</a></p>\n"
+            content += "<hr width='100%'>\n"
             
     return content
 
