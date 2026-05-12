@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 04:55`
+**📅 Update:** `2026/05/12 - 04:58`
 
 ---
 
@@ -19,7 +19,9 @@
 <div align='justify'>
 <font size='4'>
 
-*Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes.*
+Hundreds more displaced as gang violence escalates in Haiti's capital
+
+Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes, forcing some families to the streets. Gang violence has now displaced more than 1.4 million people across Haiti. Gangs control an estimated 90% of the capital after the former president was assassinated in his home in 2021.
 
 </font>
 </div>
@@ -34,7 +36,7 @@
 <div align='justify'>
 <font size='4'>
 
-*Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel.*
+Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel, where he alleged he was tortured and witnessed abuse of Palestinian prisoners during his 10 days in custody.
 
 </font>
 </div>
@@ -73,6 +75,12 @@ Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “m
 
 US Assistant Attorney General for National Security John A Eisenberg issued a statement expressing deep concern over Wang’s activities.
 
+“Individuals elected to public office in the United States should act only for the people of the United States that they represent,” he said.
+
+“It is deeply concerning that someone who previously received and executed directives from PRC government officials is now in a position of public trust at all, but particularly so because that relationship with that foreign government had never been disclosed.”
+
+China’s embassy in Washington, DC, did not immediately respond to a request for comment.
+
 </font>
 </div>
 
@@ -86,7 +94,9 @@ US Assistant Attorney General for National Security John A Eisenberg issued a st
 <div align='justify'>
 <font size='4'>
 
-*Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes.*
+Lebanese in south refuse to flee again despite escalating Israeli strikes
+
+Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced residents say they will not leave again despite a sharp rise in deaths and intensifying Israeli strikes.
 
 </font>
 </div>
@@ -125,6 +135,12 @@ Morales was already declared in contempt of court in January 2025, when he did n
 
 Wilfredo Chavez, one of his lawyers, told the AFP news agency on Friday that neither Morales nor his lawyers would show up in court, as they had not been “properly notified”.  The lawyer said the court did not send the summons to Morales’s address, but had instead served it through an edict.
 
+Morales, who rose from dire poverty to become one of Latin America’s longest-serving leaders, has slammed those “that persecute me and condemn me in record time”.
+
+His refusal to give up power in 2019 after three terms led to a tumultuous exit that cast a shadow over nearly 14 years of economic progress and poverty reduction.
+
+Forced to resign after elections tainted by fraud, he slipped away into exile in Mexico and later Argentina, but returned home a year later.
+
 </font>
 </div>
 
@@ -161,10 +177,6 @@ It also reportedly includes a demand for compensation for war damage and an emph
 
 Trump criticised the proposal, writing on Truth Social on Sunday: "I have just read the response from Iran's so-called 'Representatives.' I don't like it - TOTALLY UNACCEPTABLE."
 
-In response to Trump's comments, Baghaei said Iran would act "in any way necessary to secure our interests".
-
-Speaking in the Oval Office later on Monday, Trump addressed the ceasefire between the two countries which has largely been observed since April despite occasional exchanges of fire.
-
 </font>
 </div>
 
@@ -197,10 +209,6 @@ China is trying to quietly step in as a peacemaker with the war now in its third
 Officials in Beijing and Islamabad in March presented a five-point plan with the aim of bringing about a ceasefire and re-opening the Strait of Hormuz. And behind the scenes, Chinese officials have been gently nudging their Iranian counterparts towards the negotiation table.
 
 There's no doubt, despite its steady show of strength, that China is eager for an end to this war.
-
-The country's economy is already battling slower growth and higher unemployment. Increasing oil prices have driven up the cost of items made with petrochemicals, everything from textiles to plastics. For some producers in China, costs have gone up 20%.
-
-China has enviable oil reserves and the lead it has taken in renewables and electric cars has insulated it from the worst effects of the fuel crisis, but the war is causing more pain to a sluggish Chinese economy that is heavily reliant on exports. However, if China is to step in and help the US, it will still want something in return.
 
 </font>
 </div>
@@ -235,10 +243,6 @@ Hantaviruses are usually carried by rodents, but human transmission of the Andes
 
 Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomiting, diarrhoea and shortness of breath.
 
-As of Monday evening, the ship's operator Oceanwide Expeditions said 27 people remain on board the ship, including 25 crew members and two medical staff.
-
-These include 17 people from the Philippines, four from the Netherlands (including the two medical staff), four from Ukraine, one from Russia and one from Poland.
-
 </font>
 </div>
 
@@ -271,10 +275,6 @@ The events triggered the deadliest ever war in Gaza, with 72,740 people killed t
 Although Israel's parliament passed the Death Penalty for Terrorists Law in March, aimed at Palestinians convicted of terrorism offences, it does not apply retroactively. This meant that separate legislation was required to deal with those alleged to have carried out the assault.
 
 Israeli politicians supporting the law say it will allow for a trial of historic significance, comparing it to that of the Nazi war criminal Adolf Eichmann.  Eichmann - an architect of the Jewish Holocaust - was hanged in 1962, becoming the only person previously sentenced to death by an Israeli civil court.
-
-The new law creates a special legal framework for prosecuting those accused of direct involvement in the attacks, including members of the Nukhba special forces unit of the al-Qassam Brigades, the military wing of Hamas, who were captured in Israel.
-
-They are expected to face charges ranging from terrorism and murder to sexual violence and also genocide - which will carry the death penalty. They will be tried before a special military court in Jerusalem with different rules from regular criminal trials.
 
 </font>
 </div>
@@ -309,10 +309,6 @@ There is still technical and legal work that must be done in the EU before the s
 
 EU officials said that seven settlers or settler organisations would be sanctioned. The EU also agreed to sanction more representatives from Hamas.
 
-Israeli media have reported that the sanctioned individuals and organisations include Daniella Weiss, who is already sanctioned by the UK and is known as the "godmother" of the settler movement.
-
-It is also reported that they include the organisations Nachala and Regavim, movements that promote settlements, as well as HaShomer Yosh and Amana, organisations that help to finance and assist unauthorised settlements known as outposts.
-
 </font>
 </div>
 
@@ -328,6 +324,8 @@ It is also reported that they include the organisations Nachala and Regavim, mov
 
 <div align='justify'>
 <font size='4'>
+
+Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape
 
 Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well above the seasonal norm. Daytime highs are forecast to reach 10-15C above average in some areas.
 
@@ -354,6 +352,8 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 <div align='justify'>
 <font size='4'>
 
+1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries
+
 A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Morocco, the US army said on Sunday.
 
 Moroccan searchers found the remains on Saturday in the water within a mile (1.6km) of where the soldier went missing on 2 May, the army said in a statement.
@@ -379,6 +379,8 @@ The largest part of the exercise takes place in Morocco, involving approximately
 <div align='justify'>
 <font size='4'>
 
+Africa is leading a change in news consumption habits  – and transforming the lives of current affairs enthusiasts
+
 Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. She explained an argument that had erupted between the South African and Rwandan presidents, then listed roles different South African groups would play in a war with Rwanda: the Sotho strategists, the Xhosa negotiators, the Afrikaner muscle. The video went viral and she racked up 100,000 followers in three days.
 
 This breakout video enabled Jaxa to pivot from being a marketing and restaurant entrepreneur to a “professional yapper and current affairs enthusiast”, part of a group of content creators explaining the news to young South Africans who, like many of their global peers, are eschewing traditional news in favour of social media.
@@ -397,12 +399,6 @@ Jaxa, 32, started posting explainer videos after an argument with her brother, w
 
 Jaxa considers herself to be a translator of the news for younger generations, not a replacement: “I don’t exist if there is no traditional media, because … all the content I do is from traditional media.”
 
-Recent topics tackled by Jaxa, who has degrees in philosophy, politics and economics and international relations, include the Iran war, the South African president’s annual state of the nation address and the budget, the last one sponsored by a bank. However, she makes most of her money from brand partnerships on Instagram, where she posts less news content.
-
-News used to be consumed communally in South Africa through a radio or TV, said Sisanda Nkoala, an associate professor at the University of the Western Cape. “The experience of the media being a place where people gather to watch the evening news, that has changed,” she said.
-
-She expressed concern that the shift to online news was widening South Africa’s digital divide. In the 2022 census, 21% of households reported not having internet access, many in rural areas.
-
 </font>
 </div>
 
@@ -415,6 +411,8 @@ She expressed concern that the shift to online news was widening South Africa’
 
 <div align='justify'>
 <font size='4'>
+
+Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison
 
 A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali authorities, along with two others, for his reporting for the Guardian.
 
@@ -434,12 +432,6 @@ He and the two other journalists had been facing sustained threats and intimidat
 
 At the police headquarters, the three reporters said they were threatened by Mahdi Omar Mumin, Mogadishu police chief, should they continue to report on the protests.
 
-In a statement released by Somali Journalists Syndicate (SJS), the journalists said that Mumin told them he was “tired of arresting journalists” and that if they did not remain silent about the protests and other developments in Mogadishu, including the case of Ali, the only option remaining for them would be “death”.
-
-Somali Stream, the media organisation which Mohamud works for, condemned the arrests as “an illegal and politically motivated attack on independent journalism”.
-
-AbdiKani Hamud Abokor, the outlet’s managing director, said: “Somali Stream strongly condemns the unlawful detention of Abdishakur [Mohamed] Mohamud, Abdihafid Nor [Barre], and Mohamed Bulbul. This is a deliberate attempt to terrorise journalists, suppress independent reporting and instil fear across Somalia’s media community.”
-
 </font>
 </div>
 
@@ -452,6 +444,8 @@ AbdiKani Hamud Abokor, the outlet’s managing director, said: “Somali Stream 
 
 <div align='justify'>
 <font size='4'>
+
+Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands
 
 Two Britons who were medically evacuated from the hantavirus-hit cruise ship are improving, global health officials have said.
 
@@ -470,12 +464,6 @@ The outbreak, linked to three deaths, has been connected to a birdwatching trip 
 Spanish authorities have given permission for the ship to anchor in the Canary Islands, despite concerns from locals and officials, and the boat left the shores of Cape Verde at 3.15pm local time on Wednesday, the tour operator Oceanwide Expeditions said.
 
 It is estimated to arrive at the port of Granadilla in Tenerife in the early hours of Sunday.
-
-Morale on board has improved since the ship started its journey to Tenerife, the WHO said. Two doctors are on board along with infectious disease experts from the WHO and the European Centre for Disease Prevention and Control, who are conducting a medical assessment of everyone on board.
-
-While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director-general of the WHO, said there could be more cases due to the incubation period of the Andes virus – the variant of hantavirus linked to the outbreak – which can be up to six weeks.
-
-He said: “While this is a serious incident, WHO assesses the public health risk as low.” He thanked the ship’s operator for its cooperation, and the passengers and crew, “who are going through a very difficult and frightening situation”.
 
 </font>
 </div>
@@ -565,38 +553,14 @@ He said: “While this is a serious incident, WHO assesses the public health ris
 
 ---
 ## Associated Press
-> ⚠️ *Currently unavailable.*
+> ⚠️ *Source currently unavailable.*
 
 ## NASA News
 ### 📰 Australia’s Cloudy Beauty
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.
-
-It’s autumn in the Southern Hemisphere, which means it's fog season in the Victorian Alps. NASA's Terra satellite captured this view of morning fog filling valleys in several national parks across the mountains of eastern Victoria in May.
-
-As nights lengthen with the season, the atmosphere has more time to cool and approach the dew point—the temperature at which the air becomes saturated and water vapor can condense into radiation fog. Because cold air is denser than warm air, it sinks and drains into valleys, allowing fog to develop there first. In low-elevation areas, radiation fog usually fades as the Sun warms the ground, but it tends to linger in mountain valleys because they remain shaded longer. On this day, geostationary satellite imagery shows the fog persisting for about two hours.
-
-Fog is a low-lying type of cloud composed of tiny water droplets suspended in the air. The main difference between a cloud and fog is that the base of fog reaches the ground, while the base of a cloud is generally well above the surface. Radiation fog forms in clear, calm conditions at night. In this case, a blast of cold, soggy weather primed the region by moistening land surfaces a few days prior to the arrival of a slow-moving high that brought calmer, warmer conditions that were conducive to fog formation.
-
-Many valleys in the mountains also have rivers, streams, and lakes, which amplified the process by providing a ready supply of water vapor. In the image above, zones of fog have formed along several water bodies, including the Mitta Mitta River, Buffalo River, Livingston Creek, Lake Dartmouth, and Snowy River.
-
-The same conditions fueled another noteworthy cloud a few hundred kilometers to the southwest. At about 8:19 a.m. local time (22:19 Universal Time), the Terra satellite captured an arch-shaped cloud over Port Phillip Bay, roughly stretching from St. Leonards on the bay’s western shore to Mount Eliza on the eastern side.
-
-The feature likely formed as converging land and sea breezes interacted with the horseshoe-shaped terrain that defines the bay. Geostationary satellite imagery shows the arch-shaped cloud moving southward across the bay as the valley fog to the northeast faded.
-
-NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Adam Voiland.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
-
-As winter turned to spring, the skies over the Gulf of Alaska displayed textbook examples of numerous cloud formations.
-
-After the Laurentide Ice Sheet retreated from present-day Hudson Bay, rebounding land has revealed striking nearshore topography.
+*Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.*
 
 </font>
 </div>
@@ -606,28 +570,10 @@ After the Laurentide Ice Sheet retreated from present-day Hudson Bay, rebounding
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-Written by Michelle Minitti, MAHLI Deputy Principal Investigator
-
-While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was enabled by the ingenuity of the Curiosity engineers and scientists manifested in this extraordinary time lapse. It demonstrates the careful dance of arm motions employed — each one diligently planned by the team — to free Curiosity’s drill from the “Atacama” target. Watch the arm twist, bend, and turn with a rock slab attached, and be amazed.
-
-The highest-priority activities after liberating the drill included imaging the drill with Mastcam and ChemCam RMI, and imaging into the now-empty drill hole with MAHLI (the image above). The science team made the most of the freshly-broken surfaces created when Atacama fell back to Mars, and the freshly-exposed sand once hidden underneath Atacama. ChemCam targeted one of the clean fracture faces with two LIBS rasters at “Tamarugal” and “Tamarugo,” and followed with another raster on a light-toned patch of bedrock formerly under Atacama at “Colchane.”  MAHLI and APXS analyzed sand near Colchane at the target “Yerba Loca.” Beyond Atacama, Mastcam and ChemCam imaged the large buttes towering above our current and future drive paths. Mastcam also imaged two exposures of the polygonal fractures present in this area (targets “Cerro Elefantes” and “Azul Pampa”) and looked for wind-induced changes in the sand (“Playa los Metales”). ChemCam planned a passive spectroscopy observation of light-toned features on the “Paniri” butte and checked out a potential meteorite with a LIBS raster at "Isla Mocha.”
-
-As engineering assessments continued, Curiosity drove uphill to study a contact between two different rock types, which can indicate a change in formation conditions, a break in time, or both. MAHLI, APXS, and ChemCam teamed up to study both rock types at the lighter-toned, layered “Toro” target and the darker, flaky “Inca de Oro” target. Mastcam planned multiple mosaics capturing different structures and transitions exposed along the contact. Across the plans during the week, REMS, RAD, and DAN regularly measured the environment above and below the rover, and Navcam and Mastcam teamed up to look for clouds, dust devils, and dust in the atmosphere.
-
-With the health of the drill and arm confirmed by the engineers, Curiosity exhibited perseverance by heading toward a new workspace with a promising (larger) block for a new drill attempt. Our Martian exploration continues undaunted.
-
-Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
-
-Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
-
-Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
-
-The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
+*Written by Michelle Minitti, MAHLI Deputy Principal Investigator Earth planning date: Friday, May 8, 2026 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was […]*
 
 </font>
 </div>
@@ -637,18 +583,10 @@ The key to understanding the past, present or future potential for life on Mars 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png/jcr:content/renditions/cq5dam.web.1280.1280.png' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose, finally detaching the rock on May 1.
-
-Atacama is estimated to be 1.5 feet in diameter at its base and 6 inches thick. It would weigh roughly 28.6 pounds (13 kilograms) on Earth (and about a third of that on Mars). The circular hole produced by Curiosity’s drill is visible in the rock.
-
-This mosaic is made up of eight images that were stitched together after being sent back to Earth. The color has been approximately white-balanced to resemble how the scene would appear under daytime lighting conditions on Earth.
-
-Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of NASA’s Mars Exploration Program portfolio. Malin Space Science Systems in San Diego built and operates Mastcam.
+*Description NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days […]*
 
 </font>
 </div>
@@ -658,24 +596,10 @@ Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by C
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 May 2026 Satellite Puzzler
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-Every month, NASA Earth Observatory features a puzzling satellite image. The May 2026 puzzler appears above.
-
-Your ChallengeIdentify the location shown in this satellite image. Share what clues you see, where you think it is, and what makes this place interesting or unique to you.
-
-How to AnswerSubmit your response using this form and select “Puzzler Answer” as the topic. Please include your preferred name or alias.
-
-You can keep it simple and just guess the location. Want to impress us? Tell us which satellite and instrument captured the image, which spectral bands were used, or point out a subtle detail about the geology or history of the area. If something catches your eye, or if this is your home or means something to you, we’d love to hear about it.
-
-The PrizeWe can’t offer prize money or a trip to space to see Earth like satellites and astronauts do. But we can offer something almost as rewarding: puzzler bragging rights.
-
-About a week after the challenge, we’ll post the answer at the top of this page, along with a link to an Earth Observatory Image of the Day story that explains the image in more detail. We’ll recognize the first person who correctly guesses the location, and we may also highlight readers who share especially thoughtful or interesting answers. By submitting a response, you acknowledge that your comments may be edited, excerpted, and published on this page.
-
-Until then, zoom in, look closely, and enjoy the challenge. See you at the reveal!
+*Your challenge is to tell us the location of the satellite image and why it is interesting.*
 
 </font>
 </div>
@@ -685,24 +609,10 @@ Until then, zoom in, look closely, and enjoy the challenge. See you at the revea
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
-<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon.
-
-After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) team at NASA’s Johnson Space Center in Houston. The OCSS team designs and certifies the orange pressure suits that were worn by astronauts inside Orion during Artemis II, along with the survival hardware integrated into each suit system.
-
-Houghton manages key pieces of flight hardware that keep crew members safe during contingency scenarios before launch, in flight, and after landing, including the Orion Crew Survival Kits, Suit-Worn Survival Suite, and Life Preserver Units. He guides each system from design through testing and final certification to ensure it performs as required in flight.
-
-Like many complex engineering efforts at NASA, the work relies on close collaboration across disciplines. Houghton works alongside experts in electromagnetic interference, radiation, stress and loads, and materials to evaluate and refine each system. He also helps lead development of water survival and post-landing hardware, writing manufacturing and assembly procedures and troubleshooting issues during integration and testing.
-
-Beyond hardware development, Houghton prepares astronauts and recovery teams for real-world operations. He supports suit-up activities, helps train Department of Defense recovery forces, and participates in Underway Recovery Training alongside the U.S. Navy to rehearse post-splashdown operations.
-
-Ground testing plays a critical role in that preparation. During these tests, systems are pushed to their limits to uncover potential issues before flight.
-
-Outside of his NASA career, Houghton gives back by volunteering as a firefighter and emergency medical technician. “Serving my community is something that I have always been passionate about,” he said. “I am thankful to have the opportunity to support those around me.”
+*Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon. After joining NASA as a Pathways intern, Houghton&#160;later&#160;became&#160;a full-time engineer on the Orion Crew Survival Systems (OCSS) [&#8230;]*
 
 </font>
 </div>
@@ -793,12 +703,10 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 ---
 ## The Verge
 ### 📰 OpenAI just released its answer to Claude Mythos
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization’s code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.
+*OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher [&#8230;]*
 
 </font>
 </div>
@@ -808,12 +716,10 @@ OpenAI is launching Daybreak, an AI initiative focused on detecting and patching
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Yarbo says it will remove the intentional backdoor from its robot lawn mower
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&strip=all&crop=0%2C3.4797855362992%2C100%2C93.040428927402&w=1200' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder Kenneth Kohlmann pledges to The Verge.
+*The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder [&#8230;]*
 
 </font>
 </div>
@@ -823,12 +729,10 @@ The company behind the robot lawn mower that ran me over has changed its tune. Y
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Here&#8217;s what Mira Murati&#8217;s AI company is up to
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it’s working on something called “interaction models.” The idea behind interaction models, according to Thinking Machines, is that they will let people “collaborate with AI the way we naturally collaborate with each other — they continuously take in audio, video, and text, and think, respond, and act in real time.”
+*Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called "interaction models." The idea behind interaction models, according to Thinking Machines, is that they will let people "collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, [&#8230;]*
 
 </font>
 </div>
@@ -838,12 +742,10 @@ Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, anno
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Govee’s new portable smart lamp is on sale for the first time
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&strip=all&crop=0,10.715601816121,100,78.568796367758' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), which makes it less than half the price of Philips’ portable smart lamp.
+*If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), [&#8230;]*
 
 </font>
 </div>
@@ -853,12 +755,10 @@ If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Palantir&#8217;s true believers are wearing this jacket
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268519_Why_would_Palantir_make_a_chore_coat__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:15px;'>
-
 <div align='justify'>
 <font size='4'>
 
-In late April, Palantir — the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement — announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat.
+*In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement - announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat. At $239 and in bright [&#8230;]*
 
 </font>
 </div>
