@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:01`
+**📅 Update:** `2026/05/12 - 05:04`
 
 ---
 
@@ -19,7 +19,7 @@
 <div align='justify'>
 <font size='4'>
 
-*Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes.*
+Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes, forcing some families to the streets. Gang violence has now displaced more than 1.4 million people across Haiti. Gangs control an estimated 90% of the capital after the former president was assassinated in his home in 2021.
 
 </font>
 </div>
@@ -34,7 +34,7 @@
 <div align='justify'>
 <font size='4'>
 
-*Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel.*
+Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel, where he alleged he was tortured and witnessed abuse of Palestinian prisoners during his 10 days in custody.
 
 </font>
 </div>
@@ -69,8 +69,6 @@ Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “m
 
 “Her love and devotion for the Arcadia community have not changed and did not waver,” they added.
 
-“She asks for the community’s understanding and continued support.”
-
 US Assistant Attorney General for National Security John A Eisenberg issued a statement expressing deep concern over Wang’s activities.
 
 “Individuals elected to public office in the United States should act only for the people of the United States that they represent,” he said.
@@ -78,6 +76,8 @@ US Assistant Attorney General for National Security John A Eisenberg issued a st
 “It is deeply concerning that someone who previously received and executed directives from PRC government officials is now in a position of public trust at all, but particularly so because that relationship with that foreign government had never been disclosed.”
 
 China’s embassy in Washington, DC, did not immediately respond to a request for comment.
+
+Wang’s prosecution comes as US President Donald Trump and Chinese President Xi Jinping are set to meet in Beijing on Wednesday for a summit expected to focus on the US-Israel war on Iran, trade, and the status of Taiwan, among other issues.
 
 </font>
 </div>
@@ -92,7 +92,9 @@ China’s embassy in Washington, DC, did not immediately respond to a request 
 <div align='justify'>
 <font size='4'>
 
-*Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes.*
+Lebanese in south refuse to flee again despite escalating Israeli strikes
+
+Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced residents say they will not leave again despite a sharp rise in deaths and intensifying Israeli strikes.
 
 </font>
 </div>
@@ -587,8 +589,6 @@ Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of
 
 <div align='justify'>
 <font size='4'>
-
-Written by Michelle Minitti, MAHLI Deputy Principal Investigator
 
 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was enabled by the ingenuity of the Curiosity engineers and scientists manifested in this extraordinary time lapse. It demonstrates the careful dance of arm motions employed — each one diligently planned by the team — to free Curiosity’s drill from the “Atacama” target. Watch the arm twist, bend, and turn with a rock slab attached, and be amazed.
 
