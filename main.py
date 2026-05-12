@@ -16,40 +16,37 @@ def get_ultra_content(entry, source_name):
         response = requests.get(entry.link, headers=headers, timeout=20)
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        # ۱. استخراج عکس از متاتگ‌ها (بهترین کیفیت معمولاً اینجاست)
+        # 1. Image extraction from meta tags
         img_tag = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
         if img_tag:
             image_url = img_tag.get("content")
 
-        # --- اصلاحات اختصاصی برای کیفیت و نمایش ---
-        
+        # --- Specific Fixes for English Sources ---
         if image_url:
-            # الف) اصلاح ناسا: حذف هرگونه متن اضافه بعد از پسوند فایل
+            # NASA Fix
             if source_name == "NASA News":
-                # این رنکنی تمام مسیرهای اضافه مثل /jcr:content را حذف می‌کند
                 match = re.search(r'(^.*?\.(jpg|jpeg|png))', image_url, re.IGNORECASE)
                 if match:
                     image_url = match.group(1)
 
-            # ب) اصلاح گاردین: بازگرداندن بالاترین کیفیت ممکن
+            # Guardian Fix
             elif source_name == "The Guardian":
-                # حذف پارامترهای طول و عرض برای دریافت نسخه اصلی (Master)
                 image_url = re.sub(r'\?width=\d+&quality=\d+', '', image_url)
                 if '?' in image_url and 'static.guim.co.uk' in image_url:
                     image_url = image_url.split('?')[0]
 
-            # ج) اصلاح نیویورک تایمز: استفاده از پروکسی برای دور زدن مسدودیت گیت‌هاب
+            # NY Times Fix (Using wsrv.nl proxy for GitHub compatibility)
             elif source_name == "NY Times":
                 image_url = f"https://wsrv.nl/?url={image_url}"
 
-        # بک‌آپ از فید در صورت نبود عکس در سایت
+        # Backup image from feed
         if not image_url:
             if 'media_content' in entry: image_url = entry.media_content[0]['url']
             elif 'links' in entry:
                 for link in entry.links:
                     if 'image' in link.get('type', ''): image_url = link.get('href')
 
-        # ۲. استخراج متن (بدون تغییر - بهینه شده برای الجزیره و غیره)
+        # 2. Text extraction
         json_scripts = soup.find_all('script', type='application/ld+json')
         for script in json_scripts:
             try:
@@ -82,25 +79,42 @@ def main():
         "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
         "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
         "The Guardian": "https://www.theguardian.com/world/rss",
-        "TMZ": "https://www.tmz.com/rss.xml"
+        "TMZ": "https://www.tmz.com/rss.xml", # کما اضافه شد
         "NY Times": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
         "NASA News": "https://www.nasa.gov/news-release/feed/",
     }
 
+    # لینک مجله فارسی شما
+    persian_version_url = "https://github.com/mojtabatavousi136-del/my-news-feed"
+
     now_str = datetime.now().strftime('%Y/%m/%d - %H:%M')
-    markdown = f"<div align=\"center\">\n\n# 📰 MAHOOR WORLD PREMIER NEWS\n\n**📅 Update:** `{now_str}`\n\n---\n\n### 📌 QUICK NAVIGATION\n"
+    markdown = f"""<div align="center">
+
+# 📰 MAHOOR WORLD PREMIER NEWS
+
+**📅 Update:** `{now_str}`
+
+---
+
+### 🌐 Language Switcher
+[**🇮🇷 مشاهده مجله خبری فارسی (Persian Version)**]({persian_version_url})
+
+---
+
+### 📌 QUICK NAVIGATION
+"""
     nav_links = [f"[{name}](#{name.lower().replace(' ', '-')})" for name in sources.keys()]
     markdown += " | ".join(nav_links) + "\n\n--- \n</div>\n\n"
 
     for name, url in sources.items():
         feed = feedparser.parse(url)
-        markdown += f"## {name}\n"
+        anchor = name.lower().replace(' ', '-')
+        markdown += f"## <a name='{anchor}'></a>🌍 {name}\n"
         for entry in feed.entries[:5]:
             img, content = get_ultra_content(entry, name)
             markdown += f"### 📰 {entry.title}\n"
             
             if img:
-                # نمایش عکس با تگ HTML برای تمیزی بیشتر
                 markdown += f"<img src='{img}' width='100%' style='border-radius:15px;' alt='{name} Image'>\n\n"
             
             markdown += "<div align='justify'>\n<font size='4'>\n\n"
