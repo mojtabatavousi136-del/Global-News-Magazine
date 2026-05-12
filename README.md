@@ -2,17 +2,22 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:39`
+**📅 Update:** `2026/05/12 - 05:52`
+
+---
+
+### 🌐 Language Switcher
+[**🇮🇷 مشاهده مجله خبری فارسی (Persian Version)**](https://github.com/mojtabatavousi136-del/my-news-feed)
 
 ---
 
 ### 📌 QUICK NAVIGATION
-[Al Jazeera](#al-jazeera) | [BBC World](#bbc-world) | [The Guardian](#the-guardian) | [NY Times](#ny-times) | [NASA News](#nasa-news) | [TMZ](#tmz)
+[Al Jazeera](#al-jazeera) | [BBC World](#bbc-world) | [The Guardian](#the-guardian) | [TMZ](#tmz) | [NY Times](#ny-times) | [NASA News](#nasa-news)
 
 --- 
 </div>
 
-## Al Jazeera
+## <a name='al-jazeera'></a>🌍 Al Jazeera
 ### 📰 Israel approves law on public trials, death penalty for October 7 detainees
 <img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-31T151240Z_941610984_RC2QFKANIOUN_RTRMADP_3_ISRAEL-PALESTINIANS-DEATH-PENALTY-JERUSALEM-PROTEST-1778560861.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
@@ -82,7 +87,7 @@ Brazilian activist Thiago Ávila returned to São Paulo after being detained and
 <div align='justify'>
 <font size='4'>
 
-The former mayor of a wealthy suburb in the United States city of Los Angeles has admitted to acting as an illegal agent of China, according to authorities.
+The former mayor of a wealthy suburb in Los Angeles, the United States, has admitted to acting as an illegal agent of China, according to authorities.
 
 Eileen Wang, the former mayor of Arcadia, agreed to plead guilty to one count of acting as an illegal agent of a foreign government from late 2020 until 2022, the US Department of Justice said on Monday.
 
@@ -126,7 +131,7 @@ Obaida Hitto reports from southern Lebanon, where residents say they will not le
 
 
 ---
-## BBC World
+## <a name='bbc-world'></a>🌍 BBC World
 ### 📰 Trump says Iran ceasefire is on 'massive life support'
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -215,9 +220,9 @@ French Health Minister Stéphanie Rist said a woman was isolating in Paris and t
 
 Two British nationals with confirmed cases are currently being treated in the Netherlands and South Africa.
 
-Hantaviruses are usually carried by rodents, but human transmission of the Andes strain - which the WHO believes some of the ship's passengers contracted in South America -  is possible.
+Seventeen Filipino crew members of the MV Hondius arrived in the Netherlands on Tuesday morning, according to the Philippine Embassy. Four crew members arrived earlier on Sunday evening.
 
-Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomiting, diarrhoea and shortness of breath.
+The embassy said the crew underwent medical testing and will be quarantined in local facilities.
 
 </font>
 </div>
@@ -294,7 +299,7 @@ On Tuesday morning, Dela Rosa urged his supporters, who have gathered outside th
 
 
 ---
-## The Guardian
+## <a name='the-guardian'></a>🌍 The Guardian
 ### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
 <img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4adcb1236732e90ee166d918d46cdab2' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -450,215 +455,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 
 
 ---
-## NY Times
-### 📰 Xi Poised to Press Trump on Arms Sales to Taiwan
-<div align='justify'>
-<font size='4'>
-
-Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 China Seeks A.I. Independence, Weakening Trump’s Leverage
-<div align='justify'>
-<font size='4'>
-
-Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 China Increasingly Views Trump’s America as an Empire in Decline
-<div align='justify'>
-<font size='4'>
-
-For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence
-<div align='justify'>
-<font size='4'>
-
-Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Supreme Court Clears Path for Alabama to Use New Voting Map
-<div align='justify'>
-<font size='4'>
-
-A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-
----
-## NASA News
-### 📰 Australia’s Cloudy Beauty
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.
-
-It’s autumn in the Southern Hemisphere, which means it's fog season in the Victorian Alps. NASA's Terra satellite captured this view of morning fog filling valleys in several national parks across the mountains of eastern Victoria in May.
-
-As nights lengthen with the season, the atmosphere has more time to cool and approach the dew point—the temperature at which the air becomes saturated and water vapor can condense into radiation fog. Because cold air is denser than warm air, it sinks and drains into valleys, allowing fog to develop there first. In low-elevation areas, radiation fog usually fades as the Sun warms the ground, but it tends to linger in mountain valleys because they remain shaded longer. On this day, geostationary satellite imagery shows the fog persisting for about two hours.
-
-Fog is a low-lying type of cloud composed of tiny water droplets suspended in the air. The main difference between a cloud and fog is that the base of fog reaches the ground, while the base of a cloud is generally well above the surface. Radiation fog forms in clear, calm conditions at night. In this case, a blast of cold, soggy weather primed the region by moistening land surfaces a few days prior to the arrival of a slow-moving high that brought calmer, warmer conditions that were conducive to fog formation.
-
-Many valleys in the mountains also have rivers, streams, and lakes, which amplified the process by providing a ready supply of water vapor. In the image above, zones of fog have formed along several water bodies, including the Mitta Mitta River, Buffalo River, Livingston Creek, Lake Dartmouth, and Snowy River.
-
-The same conditions fueled another noteworthy cloud a few hundred kilometers to the southwest. At about 8:19 a.m. local time (22:19 Universal Time), the Terra satellite captured an arch-shaped cloud over Port Phillip Bay, roughly stretching from St. Leonards on the bay’s western shore to Mount Eliza on the eastern side.
-
-The feature likely formed as converging land and sea breezes interacted with the horseshoe-shaped terrain that defines the bay. Geostationary satellite imagery shows the arch-shaped cloud moving southward across the bay as the valley fog to the northeast faded.
-
-NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Adam Voiland.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-<font size='4'>
-
-While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was enabled by the ingenuity of the Curiosity engineers and scientists manifested in this extraordinary time lapse. It demonstrates the careful dance of arm motions employed — each one diligently planned by the team — to free Curiosity’s drill from the “Atacama” target. Watch the arm twist, bend, and turn with a rock slab attached, and be amazed.
-
-The highest-priority activities after liberating the drill included imaging the drill with Mastcam and ChemCam RMI, and imaging into the now-empty drill hole with MAHLI (the image above). The science team made the most of the freshly-broken surfaces created when Atacama fell back to Mars, and the freshly-exposed sand once hidden underneath Atacama. ChemCam targeted one of the clean fracture faces with two LIBS rasters at “Tamarugal” and “Tamarugo,” and followed with another raster on a light-toned patch of bedrock formerly under Atacama at “Colchane.”  MAHLI and APXS analyzed sand near Colchane at the target “Yerba Loca.” Beyond Atacama, Mastcam and ChemCam imaged the large buttes towering above our current and future drive paths. Mastcam also imaged two exposures of the polygonal fractures present in this area (targets “Cerro Elefantes” and “Azul Pampa”) and looked for wind-induced changes in the sand (“Playa los Metales”). ChemCam planned a passive spectroscopy observation of light-toned features on the “Paniri” butte and checked out a potential meteorite with a LIBS raster at "Isla Mocha.”
-
-As engineering assessments continued, Curiosity drove uphill to study a contact between two different rock types, which can indicate a change in formation conditions, a break in time, or both. MAHLI, APXS, and ChemCam teamed up to study both rock types at the lighter-toned, layered “Toro” target and the darker, flaky “Inca de Oro” target. Mastcam planned multiple mosaics capturing different structures and transitions exposed along the contact. Across the plans during the week, REMS, RAD, and DAN regularly measured the environment above and below the rover, and Navcam and Mastcam teamed up to look for clouds, dust devils, and dust in the atmosphere.
-
-With the health of the drill and arm confirmed by the engineers, Curiosity exhibited perseverance by heading toward a new workspace with a promising (larger) block for a new drill attempt. Our Martian exploration continues undaunted.
-
-Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
-
-Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
-
-Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
-
-The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
-
-</font>
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-<font size='4'>
-
-NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose, finally detaching the rock on May 1.
-
-Atacama is estimated to be 1.5 feet in diameter at its base and 6 inches thick. It would weigh roughly 28.6 pounds (13 kilograms) on Earth (and about a third of that on Mars). The circular hole produced by Curiosity’s drill is visible in the rock.
-
-This mosaic is made up of eight images that were stitched together after being sent back to Earth. The color has been approximately white-balanced to resemble how the scene would appear under daytime lighting conditions on Earth.
-
-Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of NASA’s Mars Exploration Program portfolio. Malin Space Science Systems in San Diego built and operates Mastcam.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 May 2026 Satellite Puzzler
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Every month, NASA Earth Observatory features a puzzling satellite image. The May 2026 puzzler appears above.
-
-Your ChallengeIdentify the location shown in this satellite image. Share what clues you see, where you think it is, and what makes this place interesting or unique to you.
-
-How to AnswerSubmit your response using this form and select “Puzzler Answer” as the topic. Please include your preferred name or alias.
-
-You can keep it simple and just guess the location. Want to impress us? Tell us which satellite and instrument captured the image, which spectral bands were used, or point out a subtle detail about the geology or history of the area. If something catches your eye, or if this is your home or means something to you, we’d love to hear about it.
-
-The PrizeWe can’t offer prize money or a trip to space to see Earth like satellites and astronauts do. But we can offer something almost as rewarding: puzzler bragging rights.
-
-About a week after the challenge, we’ll post the answer at the top of this page, along with a link to an Earth Observatory Image of the Day story that explains the image in more detail. We’ll recognize the first person who correctly guesses the location, and we may also highlight readers who share especially thoughtful or interesting answers. By submitting a response, you acknowledge that your comments may be edited, excerpted, and published on this page.
-
-Until then, zoom in, look closely, and enjoy the challenge. See you at the reveal!
-
-</font>
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
-<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon.
-
-After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) team at NASA’s Johnson Space Center in Houston. The OCSS team designs and certifies the orange pressure suits that were worn by astronauts inside Orion during Artemis II, along with the survival hardware integrated into each suit system.
-
-Houghton manages key pieces of flight hardware that keep crew members safe during contingency scenarios before launch, in flight, and after landing, including the Orion Crew Survival Kits, Suit-Worn Survival Suite, and Life Preserver Units. He guides each system from design through testing and final certification to ensure it performs as required in flight.
-
-Like many complex engineering efforts at NASA, the work relies on close collaboration across disciplines. Houghton works alongside experts in electromagnetic interference, radiation, stress and loads, and materials to evaluate and refine each system. He also helps lead development of water survival and post-landing hardware, writing manufacturing and assembly procedures and troubleshooting issues during integration and testing.
-
-Beyond hardware development, Houghton prepares astronauts and recovery teams for real-world operations. He supports suit-up activities, helps train Department of Defense recovery forces, and participates in Underway Recovery Training alongside the U.S. Navy to rehearse post-splashdown operations.
-
-Ground testing plays a critical role in that preparation. During these tests, systems are pushed to their limits to uncover potential issues before flight.
-
-Outside of his NASA career, Houghton gives back by volunteering as a firefighter and emergency medical technician. “Serving my community is something that I have always been passionate about,” he said. “I am thankful to have the opportunity to support those around me.”
-
-</font>
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-
----
-## TMZ
+## <a name='tmz'></a>🌍 TMZ
 ### 📰 Taylor Swift Steps Out for Family Dinner in NYC
 <img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
@@ -827,6 +624,214 @@ All prices &amp; availability subject to change. Products are not official merch
 </div>
 
  [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+
+---
+## <a name='ny-times'></a>🌍 NY Times
+### 📰 Xi Poised to Press Trump on Arms Sales to Taiwan
+<div align='justify'>
+<font size='4'>
+
+Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 China Seeks A.I. Independence, Weakening Trump’s Leverage
+<div align='justify'>
+<font size='4'>
+
+Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 China Increasingly Views Trump’s America as an Empire in Decline
+<div align='justify'>
+<font size='4'>
+
+For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence
+<div align='justify'>
+<font size='4'>
+
+Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Supreme Court Clears Path for Alabama to Use New Voting Map
+<div align='justify'>
+<font size='4'>
+
+A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+
+---
+## <a name='nasa-news'></a>🌍 NASA News
+### 📰 Australia’s Cloudy Beauty
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.
+
+It’s autumn in the Southern Hemisphere, which means it's fog season in the Victorian Alps. NASA's Terra satellite captured this view of morning fog filling valleys in several national parks across the mountains of eastern Victoria in May.
+
+As nights lengthen with the season, the atmosphere has more time to cool and approach the dew point—the temperature at which the air becomes saturated and water vapor can condense into radiation fog. Because cold air is denser than warm air, it sinks and drains into valleys, allowing fog to develop there first. In low-elevation areas, radiation fog usually fades as the Sun warms the ground, but it tends to linger in mountain valleys because they remain shaded longer. On this day, geostationary satellite imagery shows the fog persisting for about two hours.
+
+Fog is a low-lying type of cloud composed of tiny water droplets suspended in the air. The main difference between a cloud and fog is that the base of fog reaches the ground, while the base of a cloud is generally well above the surface. Radiation fog forms in clear, calm conditions at night. In this case, a blast of cold, soggy weather primed the region by moistening land surfaces a few days prior to the arrival of a slow-moving high that brought calmer, warmer conditions that were conducive to fog formation.
+
+Many valleys in the mountains also have rivers, streams, and lakes, which amplified the process by providing a ready supply of water vapor. In the image above, zones of fog have formed along several water bodies, including the Mitta Mitta River, Buffalo River, Livingston Creek, Lake Dartmouth, and Snowy River.
+
+The same conditions fueled another noteworthy cloud a few hundred kilometers to the southwest. At about 8:19 a.m. local time (22:19 Universal Time), the Terra satellite captured an arch-shaped cloud over Port Phillip Bay, roughly stretching from St. Leonards on the bay’s western shore to Mount Eliza on the eastern side.
+
+The feature likely formed as converging land and sea breezes interacted with the horseshoe-shaped terrain that defines the bay. Geostationary satellite imagery shows the arch-shaped cloud moving southward across the bay as the valley fog to the northeast faded.
+
+NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Adam Voiland.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
+<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+<font size='4'>
+
+While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was enabled by the ingenuity of the Curiosity engineers and scientists manifested in this extraordinary time lapse. It demonstrates the careful dance of arm motions employed — each one diligently planned by the team — to free Curiosity’s drill from the “Atacama” target. Watch the arm twist, bend, and turn with a rock slab attached, and be amazed.
+
+The highest-priority activities after liberating the drill included imaging the drill with Mastcam and ChemCam RMI, and imaging into the now-empty drill hole with MAHLI (the image above). The science team made the most of the freshly-broken surfaces created when Atacama fell back to Mars, and the freshly-exposed sand once hidden underneath Atacama. ChemCam targeted one of the clean fracture faces with two LIBS rasters at “Tamarugal” and “Tamarugo,” and followed with another raster on a light-toned patch of bedrock formerly under Atacama at “Colchane.”  MAHLI and APXS analyzed sand near Colchane at the target “Yerba Loca.” Beyond Atacama, Mastcam and ChemCam imaged the large buttes towering above our current and future drive paths. Mastcam also imaged two exposures of the polygonal fractures present in this area (targets “Cerro Elefantes” and “Azul Pampa”) and looked for wind-induced changes in the sand (“Playa los Metales”). ChemCam planned a passive spectroscopy observation of light-toned features on the “Paniri” butte and checked out a potential meteorite with a LIBS raster at "Isla Mocha.”
+
+As engineering assessments continued, Curiosity drove uphill to study a contact between two different rock types, which can indicate a change in formation conditions, a break in time, or both. MAHLI, APXS, and ChemCam teamed up to study both rock types at the lighter-toned, layered “Toro” target and the darker, flaky “Inca de Oro” target. Mastcam planned multiple mosaics capturing different structures and transitions exposed along the contact. Across the plans during the week, REMS, RAD, and DAN regularly measured the environment above and below the rover, and Navcam and Mastcam teamed up to look for clouds, dust devils, and dust in the atmosphere.
+
+With the health of the drill and arm confirmed by the engineers, Curiosity exhibited perseverance by heading toward a new workspace with a promising (larger) block for a new drill attempt. Our Martian exploration continues undaunted.
+
+Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
+
+Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
+
+Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
+
+The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
+<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+<font size='4'>
+
+NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose, finally detaching the rock on May 1.
+
+Atacama is estimated to be 1.5 feet in diameter at its base and 6 inches thick. It would weigh roughly 28.6 pounds (13 kilograms) on Earth (and about a third of that on Mars). The circular hole produced by Curiosity’s drill is visible in the rock.
+
+This mosaic is made up of eight images that were stitched together after being sent back to Earth. The color has been approximately white-balanced to resemble how the scene would appear under daytime lighting conditions on Earth.
+
+Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of NASA’s Mars Exploration Program portfolio. Malin Space Science Systems in San Diego built and operates Mastcam.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 May 2026 Satellite Puzzler
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Every month, NASA Earth Observatory features a puzzling satellite image. The May 2026 puzzler appears above.
+
+Your ChallengeIdentify the location shown in this satellite image. Share what clues you see, where you think it is, and what makes this place interesting or unique to you.
+
+How to AnswerSubmit your response using this form and select “Puzzler Answer” as the topic. Please include your preferred name or alias.
+
+You can keep it simple and just guess the location. Want to impress us? Tell us which satellite and instrument captured the image, which spectral bands were used, or point out a subtle detail about the geology or history of the area. If something catches your eye, or if this is your home or means something to you, we’d love to hear about it.
+
+The PrizeWe can’t offer prize money or a trip to space to see Earth like satellites and astronauts do. But we can offer something almost as rewarding: puzzler bragging rights.
+
+About a week after the challenge, we’ll post the answer at the top of this page, along with a link to an Earth Observatory Image of the Day story that explains the image in more detail. We’ll recognize the first person who correctly guesses the location, and we may also highlight readers who share especially thoughtful or interesting answers. By submitting a response, you acknowledge that your comments may be edited, excerpted, and published on this page.
+
+Until then, zoom in, look closely, and enjoy the challenge. See you at the reveal!
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
+<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon.
+
+After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) team at NASA’s Johnson Space Center in Houston. The OCSS team designs and certifies the orange pressure suits that were worn by astronauts inside Orion during Artemis II, along with the survival hardware integrated into each suit system.
+
+Houghton manages key pieces of flight hardware that keep crew members safe during contingency scenarios before launch, in flight, and after landing, including the Orion Crew Survival Kits, Suit-Worn Survival Suite, and Life Preserver Units. He guides each system from design through testing and final certification to ensure it performs as required in flight.
+
+Like many complex engineering efforts at NASA, the work relies on close collaboration across disciplines. Houghton works alongside experts in electromagnetic interference, radiation, stress and loads, and materials to evaluate and refine each system. He also helps lead development of water survival and post-landing hardware, writing manufacturing and assembly procedures and troubleshooting issues during integration and testing.
+
+Beyond hardware development, Houghton prepares astronauts and recovery teams for real-world operations. He supports suit-up activities, helps train Department of Defense recovery forces, and participates in Underway Recovery Training alongside the U.S. Navy to rehearse post-splashdown operations.
+
+Ground testing plays a critical role in that preparation. During these tests, systems are pushed to their limits to uncover potential issues before flight.
+
+Outside of his NASA career, Houghton gives back by volunteering as a firefighter and emergency medical technician. “Serving my community is something that I have always been passionate about,” he said. “I am thankful to have the opportunity to support those around me.”
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
