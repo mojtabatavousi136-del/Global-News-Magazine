@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 17:36`
+**📅 Update:** `2026/05/12 - 18:40`
 
 ---
 
@@ -18,168 +18,164 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Israel’s war creating a ‘lost generation’ of Lebanese students
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69ec3491-1777087633.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 ‘Cotton picking’: US lawmaker condemned for racist comment about Jeffries
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0361ea-1778606570.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Beirut, Lebanon – Israel’s war has created a lost generation of Lebanese students, widening societal disparities and, in turn, damaging national unity, experts have told Al Jazeera.
+The office of Hakeem Jeffries, the top-ranking Democrat in the United States House of Representatives, has released a fiery statement condemning a fellow lawmaker who endorsed a racist comment about him.
 
-Israel has destroyed schools across southern Lebanon and displaced hundreds of thousands of students. Hundreds of educational institutions have turned into makeshift shelters for thousands of displaced people, causing a compounding series of disruptions to an education system that was already struggling as a result of a debilitating economic crisis.
+Tuesday’s statement came a day after US Representative Jen Kiggans appeared on a conservative radio talk show, where she discussed the ongoing battle over redistricting in the state.
 
-Schools in Lebanon have responded by using online learning and other programs to reach students, but education experts in the country said many were still falling through the gaps. And in an effort to catch up on all the lost schooling, the focus has been on subjects such as the sciences and mathematics, with topics such as citizenship ignored.
+During the show, host Rich Herrera criticised Jeffries, who is from New York, for his support of an effort to redraw Virginia’s congressional map.
 
-In a country like Lebanon, with its numerous religious sects, that could lead to a dangerous future.
+Herrera said Jeffries should either relocate to Virginia and run for public office, or “get your cotton-picking hands off of Virginia”.
 
-“The mission of an education system is to build citizens,” Carlos Naffah, an academic researcher, told Al Jazeera.
+“That’s right. Ditto,” Kiggans, a Republican, responded. “Yes. Yes to that.”
 
-“We don’t want to face the fact that we lost a generation,” said Naffah.
+The term “cotton picking” is typically seen to have racist roots in the US, where enslaved Black people were used as labour on southern cotton plantations until the mid-19th century.
 
-On March 2, Israel intensified its war on Lebanon for the second time in under two years. It came on the back of Hezbollah’s first response to months of unanswered Israeli attacks on Lebanon, including more than 10,000 violations of the November 2024 ceasefire between the two sides.
+Kiggans later denied approving of Herrera’s statement. She argued that she was instead agreeing with the broad sentiment about Democrats’ efforts in state redistricting.
 
-Since March, Israeli attacks have displaced more than 1.2 million people in Lebanon, among them 500,000 school-aged children, according to UNESCO. Not only are hundreds of thousands of students displaced, but many of the schools they learned in are no longer accessible.
+“The radio host should not have used that language and I do not — and did not — condone it,” she said.
 
-According to UNESCO, 339 schools are located in warzones in Lebanon, while hundreds more are now acting as collective shelters to the displaced, affecting access to education for another 250,000 children. Another 100 schools are in high-risk areas, meaning they could soon become inaccessible to students.
+“It was obvious to anyone listening that I was agreeing Hakeem Jefferies should stay out of Virginia.”
 
-With so many students out of school, some learning institutions have turned to online learning. But education experts said this had its drawbacks, particularly for students from lower-income families, and that a series of compounding crises has meant that every year of schooling since 2019 has been interrupted for one reason or another.
+Still, a Jeffries spokesperson, Christie Stephenson, vehemently condemned Kiggans on Tuesday.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/cotton-picking-us-lawmaker-condemned-for-racist-comment-about-jeffries?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Kuwait says it foils infiltration operation by Iran’s IRGC
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a034352d1ac1-1778598738.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Kevin Warsh confirmed to US Federal Reserve board in close Senate vote
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0363cc-1778607052.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Kuwait has arrested four men it accuses of being members of Iran’s Islamic Revolutionary Guard Corps (IRGC) after they allegedly tried to infiltrate Bubiyan Island by sea and injured a Kuwaiti soldier.
+Kevin Warsh has been confirmed by the United States Senate to join the Federal Reserve’s Board of Governors ahead of an expected vote that will have US President Donald Trump’s appointee lead the central bank.
 
-The Ministry of Interior said in a statement published on X on Tuesday that the operation took place on May 1 and the naval officers arrested “aboard a fishing boat specially chartered to carry out hostile actions against Kuwait” admitted they had been tasked by the IRGC with “infiltrating”.
+The Senate vote on Tuesday passed 51-45, with a single Democrat, John Fetterman of Pennsylvania, casting his vote with the Republican majority to confirm Warsh for a 14-year term.
 
-The ministry identified the group members as Colonels Amir Hussein Abd Mohammed Zara’i and Abdulsamad Yadallah Qanwati, Captain Ahmed Jamshid Gholam Reza Zulfiqari and First Lieutenant Mohammed Hussein Sehrab Faroughi Rad.
+The next step in the Senate confirmation process would be to confirm him for a four-year term as the central bank’s chair. The vote is expected as soon as Wednesday, ahead of the end of current Chair Jerome Powell’s term, which ends on Friday.
 
-During a confrontation with Kuwaiti forces on the island, gunfire wounded one Kuwaiti service member, the ministry said. Two other members of the group – navy Captain Mansour Qambari and the boat’s captain, Abdulali Kazem Siamari – escaped during the clash.
+Warsh’s confirmation comes with questions about the central bank’s independence amid ongoing pressure by Trump to cut interest rates. In the Senate Banking Committee confirmation, Senator Elizabeth Warren accused Warsh, who served on the central bank’s Board of Governors in 2006-2011, of being a “sock puppet” for Trump, an assertion he has denied.
 
-Bubiyan is Kuwait’s largest island, located at the northern tip of the Gulf near the Iraqi border. It holds significant strategic value due to its proximity to key shipping lanes and its location near Kuwait’s northern oilfields and military installations.
+In December, Trump said he would only appoint someone to lead the central bank if they agreed with him on interest rates.
 
-Kuwait’s Ministry of Foreign Affairs condemned the alleged incursion as a “flagrant violation” of Kuwaiti sovereignty and a grave breach of international law. It demanded that Iran immediately and unconditionally cease “unlawful hostile acts”.
+But the Fed chair has only so much control. He is one of 12 votes on the interest-rate-setting Federal Open Market Committee, and is one of 19 voices at the policy-setting table.
 
-The deputy foreign minister summoned Iran’s ambassador to Kuwait to hand over a formal protest note, reserving Kuwait’s right to self-defence under Article 51 of the United Nations Charter. The ministry said it holds Tehran fully responsible for the violation.
+Warsh’s confirmation comes amid efforts this past year by the Trump administration to exert control over the Fed, including attempting to fire Fed Governor Lisa Cook in a case now before the Supreme Court, and support for a Department of Justice (DOJ) investigation into Powell’s management of a building renovation that a federal judge ruled was a pretext for pressuring Powell to cut rates or resign.
 
-Kuwait’s foreign minister received a phone call from his Bahraini counterpart, who condemned the infiltration and affirmed “Kuwait’s full right to take all necessary measures to safeguard its sovereignty and protect its people”.
+The DOJ dropped its investigation, but its lead prosecutor in Washington says she could reopen it.
 
-Earlier this week, Kuwait also reported intercepting “a number of hostile drones” in its airspace but did not specify where the drones were launched from.
+Powell plans to take the unusual step of staying on as governor after his term as chair ends in response to the “series of legal attacks on the Fed which threaten our ability to conduct monetary policy without considering political factors”, he said last month.
 
-The incursion followed strikes in April that hit Kuwait’s Mina al-Ahmadi oil refinery, one of the Middle East’s largest, and a power and desalination plant. Kuwait said Iran was responsible.
+Warsh says he plans “regime change” at the Fed, including tightening its coordination with the Treasury Department and the Trump administration on non-monetary policies and setting it on course for a smaller balance sheet, which he argues should allow for a lower policy rate.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Pentagon gives new $29bn Iran war price tag, downplays munitions concerns
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a033be22948-1778596834_ec15bc-1778602588.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Serbia hosts first joint military exercise with NATO
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a035f7c63-1778605948.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-The Pentagon has released a new price tag for the US-Israel war with Iran, saying it has cost the United States $29bn.
+Serbia and NATO have launched their first-ever joint military exercise, a landmark cooperation between the Balkan country and the alliance that bombed its capital less than 30 years ago.
 
-The department’s comptroller revealed the new total during a Senate committee hearing on Tuesday alongside Pentagon chief Pete Hegseth.
+The two-week-long drills, which began on Tuesday and run until May 23, involve about 600 troops from Serbia, Italy, Romania and Turkiye. Military planners and observers from France, Germany, Italy, Montenegro, Romania, Serbia, Turkiye, the United Kingdom and the United States are also participating.
 
-The estimate is an increase from the $25bn the official, Jules Hurst, reported to members of Congress in late April, the first time the administration of US President Donald Trump had given an official figure. Several experts have questioned the Pentagon’s ledger, saying the real cost to US taxpayers was likely much higher.
+Photographs released on Tuesday showed Serbian and NATO soldiers standing side by side at a military training ground near Bujanovac in southern Serbia, alongside armoured vehicles from both forces.
 
-Fighting has remained generally paused in the US-Israeli war since April 8, barring a handful of flare-ups. Hurst attributed the discrepancy in the earlier to an “updated repair and replacement of equipment … and also just general operational costs”.
+“The cooperation is aimed at preserving peace and stability in the region,” Serbia’s Ministry of Defence said.
 
-The administration has so far not offered a clear picture of damage sustained at US military installations across the Middle East since the US and Israel began launching attacks on February 28, nor has it revealed the true extent to which the fighting has affected the military’s munitions stockpile.
+“The planning of this exercise has been an important part of this joint endeavour. Both NATO and the Serbian Armed Forces have a long track record of major international exercise planning, so the teams were able to collaborate and deliver in a seamless way, sharing ideas and experience,” Royal Navy Commander Ian Kewley said in the news release.
 
-Asked about concerns over the US’s ability to replenish its weapons supply without weakening its global posture, Hegseth said the Pentagon was “well aware of all those dynamics”.
+The tactical exercise falls under NATO’s Partnership for Peace programme, which Serbia has been part of for nearly 20 years. The country regularly participates in drills with NATO members, though this marks the first exercise conducted directly with the alliance.
 
-“The munitions issue has been foolishly and unhelpfully overstated,” Hegseth told the House Appropriations subcommittee. “We know exactly what we have; we have plenty of what we need.”
+NATO remains a sensitive subject in Serbia following the alliance’s 1999 air campaign against Yugoslavia during the Kosovo war.
 
-The Pentagon chief also gave little indication of long-term plans for the war, a day after Trump rejected a new ceasefire proposal from Iran.
+A NATO-led peacekeeping force has been stationed in Kosovo since the 1999 war ended, and Serbia has never recognised its former province’s declaration of independence.
 
-Trump told reporters the ongoing pause in fighting was “on life support” and was “unbelievably weak”.
+Serbia is one of the few Balkan countries not in the alliance, maintaining a policy of neutrality while balancing close ties with both NATO and Russia.
 
-Hegseth said there were plans to both resume fighting and to de-escalate.
+Serbia has significantly bolstered its military capabilities over the past 10 years, buying arms from NATO member countries alongside purchases from Russia and China.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel kills, injures average of 4 children daily amid Lebanon ‘ceasefire’
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/AA-20260410-41074710-41074704-DESTRUCTION_IN_BEIRUTS_CORNICHE_ALMAZRAA_AFTER_ISRAELI_STRIKES-1775870343.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Voters head to the polls in the Bahamas for high-stakes snap election
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0361d3-1778606547.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Israeli attacks on Lebanon have killed or injured more than four children on average per day in the first 25 days of the “ceasefire” that came into effect last month, according to the global charity Save the Children.
+A snap election is underway in the Bahamas, where voters are heading to the polls to decide whether to grant Prime Minister Philip Davis and his ruling Progressive Liberal Party (PLP) a rare second consecutive term in office.
 
-The report published on Tuesday cited figures from Lebanon’s Health Ministry, saying at least 22 children have been killed and 89 injured since the temporary ceasefire between Hezbollah and Israel came into effect on April 16.
+If Davis wins the election on Tuesday, he would be the first leader of the Caribbean island nation to serve a second term in nearly 30 years. He is facing a challenge from the Free National Movement (FNM), led by Michael Pintard.
 
-This brings the number of children killed in Israeli strikes since the renewed escalation in hostilities in Lebanon on March 2 to almost 200, with about 2,900 people killed.
+“Today, we vote to keep The Bahamas moving forward,” Davis said in a social media post. “Let’s protect our progress, keep our momentum, and secure what comes next. Vote PLP. Choose Progress.”
 
-“I just want the war to end so I can go home to my village and sleep in my own bed. I really miss school. I want to see my teachers and be with my friends, and study and play again,” the report quoted a 10-year-old named Tala as saying in a collective shelter after being displaced from southern Lebanon.
+Concerns about affordability, poor wage growth, and rising housing costs are top of mind for voters, with parties competing for 41 seats in the country’s House of Assembly.
 
-Israel has said its air force had hit more than 1,100 sites across Lebanon since mid-April, claiming that the target was the armed Lebanese group Hezbollah.
+The Bahamian paper The Nassau Guardian reported that no political party has successfully formed a government for two consecutive terms since 1997, when Hubert Ingraham of the FNM beat the PLP for the second election in a row.
 
-“Attacks on civilians have not stopped – it has simply continued under another name,” said Nora Ingdal, Save the Children’s director for Lebanon. “Colleagues have told me that the air strikes feel more intense in some areas than they ever did before. Children are not safe until there is a permanent and definitive ceasefire with no violations.”
+The election was initially scheduled for October, but was called early by Davis due to concerns about holding the vote during hurricane season, Reuters reported.
 
-More than one million people have been displaced by the fighting, and since the ceasefire, the number of families seeking temporary housing in collective shelters has risen by five percent. About 125,000 people are currently living in such shelters, including 44,800 children – equivalent to 36 percent of occupants.
+Davis first came to power in a snap election in 2021, and the PLP is hoping to further capitalise on a strong majority of 32 seats in the 39-seat legislature. Two additional seats are being added to this election following recommendations from the independent Constituencies Commission, bringing the total to 41.
 
-Conditions in the shelters remain poor due to overcrowding and inadequate sanitation facilities, increasing the risk of disease outbreaks.
-
-Lebanon and Israel are due to hold direct talks aimed at ending the war on Thursday and Friday in Washington, DC, the United States.
-
-Both countries have committed to disarming the Iran-backed group Hezbollah, which holds significant political influence in Lebanon and is a key member of Tehran’s “axis of resistance”.
+The Nassau Guardian reported that the campaign has seen high spending, along with false claims that have spread on social media and sometimes utilised artificial intelligence. The paper stated that the race has become closer in recent weeks following revelations of potentially improper government spending, including hundreds of millions of dollars in no-bid contracts.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/israel-kills-injures-average-of-4-children-daily-amid-lebanon-ceasefire?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/voters-head-to-the-polls-in-the-bahamas-for-high-stakes-snap-election?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 What to know about Curacao at the FIFA World Cup 2026
-<img src='https://www.aljazeera.com/wp-content/uploads/2025/11/afp_691ed3287ee2-1763627816.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26058408362354-1778605484.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-The ‘Blue Wave’ – the enviable nickname given to Curacao’s national football team – will soon be surging across to North America.
+US diplomat Mike Huckabee has revealed that Israel deployed Iron Dome batteries and “personnel to help operate them” to the United Arab Emirates (UAE) to help fend off Iranian attacks.
 
-The tiny Caribbean island of just over 150,000 people and covering only 443 square kilometres (171 square miles) will become the smallest country ever to compete at a FIFA World Cup when the 2026 tournament kicks off on June 11.
+The United States ambassador to Israel heaped praise on the UAE during an event in Tel Aviv on Tuesday, saying that Abu Dhabi serves as an “example” of strong ties between Israel and Gulf states.
 
-Curacao, a self-governing entity within the Kingdom of the Netherlands, scripted a fairytale story to secure qualification. Now, as one of four debutants at the tournament, the island nation will look to give its people more reasons to celebrate as their team plays in football’s most prestigious global competition.
+“They were the first Abraham Accord member,” he said, referring to the agreements that established formal relations between Israel and several Arab countries in 2020.
 
-Here’s everything you need to know about Curacao in Al Jazeera’s World Cup minnows series:
+“But look at the benefits that they have had as a result: Israel just sent them Iron Dome batteries and personnel to help operate them. How come? Because there’s an extraordinary relationship between the UAE and Israel.”
 
-Curacao endured two challenging qualification rounds to punch their maiden World Cup final ticket.
+Several media outlets had reported on the deployment of the Iron Drone in the UAE over the past weeks. Huckabee’s comment offers the first official confirmation of the move, which highlights the deepening relationship between Israel and Abu Dhabi amid the war with Iran.
 
-They played 10 matches, won seven and finished their campaign unbeaten.
+This is the first known instance of the advanced air defence technology – which has been funded by billions of dollars from the US government – being used outside Israel.
 
-Curacao’s journey began in the second round of the CONCACAF qualifiers. They upset Barbados, Aruba, Saint Lucia and Haiti, scoring 15 goals to remain unbeaten.
+Previously, Israel refused to transfer Iron Dome batteries to Ukraine to shoot down Russian missiles.
 
-In the third and final qualification round, they were in Group B alongside heavyweights Jamaica, Trinidad and Tobago and Bermuda.
+The UAE and other Gulf countries have come under Iranian missile and drone strikes since the US and Israel started attacking Iran on February 28.
 
-Curacao drew 0-0 in Trinidad and Tobago in the first match before defeating Bermuda 3-2 on their home turf. Playing at home, they beat Jamaica 2-0, sending an unequivocal warning to their opponents that World Cup qualification was their clear goal.
+While Iran claims that it has been attacking US assets in the Middle East, regional countries have accused Tehran of targeting civilian sites, including airports, hotels and energy infrastructure.
 
-In the next game, they drew 1-1 with Trinidad and Tobago before thrashing Bermuda 7-0.
+UAE and Bahrain are the only two countries in the Gulf that have official ties with Israel as part of the so-called Abraham Accords.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/12/what-to-know-about-curacao-at-the-fifa-world-cup-2026?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -196,9 +192,11 @@ There is "no sign" of a larger hantavirus outbreak after the evacuation of the l
 
 But the World Health Organization's (WHO) chief Tedros Adhanom Ghebreyesus warned "the situation could change" and there could be more confirmed virus cases.
 
-The MV Hondius left Spain's Tenerife island on Monday and is sailing to the Dutch port of Rotterdam. Two flights carrying the final 28 passengers landed in nearby Eindhoven on Tuesday.
+The MV Hondius left Tenerife on Monday and is sailing to the Dutch port of Rotterdam. Two flights carrying the final 28 passengers landed in nearby Eindhoven on Tuesday.
 
-Three people have died after travelling on the ship. A Spaniard and a French national who previously returned home have tested positive. The WHO has confirmed nine cases, with two others suspected.
+Three people have died after travelling on the ship. A French national and a Spaniard who previously returned home have tested positive. The WHO has confirmed nine cases, with two others suspected.
+
+The French woman is in intensive care in hospital in Paris and doctors say she has "the most severe form" of the disease and is being treated with an artificial lung.
 
 Twelve employees at a Dutch hospital are now in quarantine over possible exposure to the virus after treating one of the evacuated passengers.
 
@@ -209,8 +207,6 @@ At Tuesday's press conference in Madrid, Ghebreyesus said: "At the moment, there
 "But of course the situation could change and, given the long incubation period of the virus, it's possible we might see more cases in the coming weeks."
 
 And he stressed that "our work is not over" to contain the outbreak from the cruise ship.
-
-Hantaviruses are usually carried by rodents, but human transmission of the Andes strain - which the WHO believes some of the ship's passengers contracted in South America - is possible.
 
 </font>
 </div>
@@ -252,6 +248,39 @@ Trump criticised the proposal, writing on Truth Social on Sunday: "I have just r
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 Lebanon says two paramedics among 10 killed in Israeli strikes
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e3ef/live/68ba80e0-4e1c-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Israeli air strikes have killed at least 10 people in southern Lebanon, state media say, where a ceasefire has failed to stop the war between Israel and the Lebanese armed group Hezbollah.
+
+Overnight, six people were killed and seven others were injured when a house in Kfar Dounine was hit, according to Lebanon's state-run National News Agency (NNA).
+
+On Tuesday afternoon, Lebanon's health ministry said two paramedics from the state-run Lebanese Civil Defense emergency service were killed and a third was injured in an Israeli strike on Nabatieh, as they carried out a mission in response to an earlier attack that killed one person.
+
+Lebanese President Joseph Aoun expressed "sadness and regret at the killing of two Civil Defence members" in Nabatieh - who were identified as Hussein Jaber and Ahmad Noura - and emphasised that "the continued Israeli aggression hinders efforts to restore calm".
+
+The health ministry accused Israeli forces of deliberately targeting the paramedics.
+
+"This targeting constitutes further evidence of the Israeli enemy's blatant violation of international humanitarian law and its full disregard for all international norms," it said.
+
+The ministry said on Monday that 108 emergency medical services and healthcare workers had been killed in Lebanon during the war, with more than 140 Israeli attacks recorded on ambulances and medical facilities.
+
+NNA also reported that a Syrian man was killed and his wife was wounded when an Israeli drone targeted a motorcycle they were riding on a road in the Tayr Debba area on Tuesday.
+
+The Israeli military said it struck a suspect who was fleeing after what it described as an unsuccessful attempt to launch a surface-to-air missile towards one of its aircraft.
+
+Hezbollah fighters had also launched explosive-laden drones towards Israeli troops operating in southern Lebanon without causing any casualties, it added.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/815a/live/6abed600-4e14-11f1-bd2e-5b25b00aa23c.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -266,11 +295,11 @@ Hours before the court hearing Yermak told reporters "I do not have any house, I
 
 For years he was a close friend of Zelensky, and led Ukraine's talks with the US until an anti-corruption raid on his flat last November prompted his resignation.
 
-Ukraine's Anticorruption Prosecutor's Office (Sapo) said it was asking the Kyiv court to either place him in preventive detention or give him bail of about $4m (£3m).
+Ukraine's Anti-corruption Prosecutor's Office (Sap) said it was asking the Kyiv court to either place him in preventive detention or give him bail of about $4m (£3m).
 
 The head of the National anti-corruption bureau (Nabu) stressed that Zelensky himself was not part of the pre-trial investigation.
 
-Yermak had been the president's closest adviser throughout Russia's full-scale invasion launched in 2022, until he became caught up in a broader inquiry by Sapo and Nabu into an alleged $100m (£74m) embezzlement scheme in Ukraine's nuclear energy sector.
+Yermak had been the president's closest adviser throughout Russia's full-scale invasion launched in 2022, until he became caught up in a broader inquiry by Sap and Nabu into an alleged $100m (£74m) embezzlement scheme in Ukraine's nuclear energy sector.
 
 He was not charged or formally named as a suspect at the time, however the swirling allegations have cast a shadow over Ukraine's bid to join the European Union. Last year, Zelensky had to scrap a law that weakened the independence of the two anti-corruption agencies, following widespread protests and criticism from the EU.
 
@@ -315,39 +344,6 @@ Trump had clashed with Powell over his reluctance to cut the central bank's inte
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 South Africa's top court bars repeat asylum applications
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e0fc/live/23acc040-4e20-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-<font size='4'>
-
-South Africa's highest court has ruled that foreign nationals cannot reapply for asylum once their application has been rejected.
-
-The Constitutional Court said that allowing unlimited repeat applications without proper legislation in place could create a "never-ending cycle", preventing deportations and causing administrative chaos.
-
-Leon Schreiber, the minister of home affairs in South Africa's coalition government, welcomed the ruling as a "major victory" against the "abuse" of the refugee system.
-
-The ruling ends a long-running case that was brought by two nationals from Burundi, who reapplied for asylum in 2018 after their applications were rejected in 2014.
-
-The two argued that their new applications should be considered as Burundi had been hit by political violence during the 2015 presidential election.
-
-At least 70 people were killed in unrest after then-President Pierre Nkurunziza took the controversial decision to run for a third term.
-
-The Burundians won the case in the Supreme Court of Appeal, but, in a majority judgement, the Constitutional Court overturned its ruling. It is the final court of appeal.
-
-The UN refugee agency (UNHCR) says that in 2025, South Africa was hosting more than 167,000 refugees and asylum seekers, primarily from Burundi, the Democratic Republic of Congo, Somalia, South Sudan, Rwanda and Zimbabwe.
-
-Schreiber called the ruling important for government efforts to bring about a more "effective and fair system to manage refugees and asylum seekers".
-
-Speaking to local broadcaster Newzroom Afrika, he explained that the Department of Home Affairs led the argument against the Supreme Court of Appeal's ruling.
-
-</font>
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cy42yx1kn90o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -510,111 +506,135 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Prosecutors to Subpoena Tiger Woods' Drug Records in DUI Case
-<img src='https://imagez.tmz.com/image/e4/16by9/2026/05/12/e4e04994466d46179b056c03f2555fee_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Brandon Clarke, Memphis Grizzlies Player, Dead At 29
+<img src='https://imagez.tmz.com/image/5c/16by9/2026/05/12/5c3d971828ee4cb284c2ff5d653c551f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Prosecutors will get the chance to see Tiger Woods' prescription drug records, a judge has ruled.
+Brandon Clarke -- power forward for the Memphis Grizzlies -- died on Monday, TMZ Sports has learned. He was only 29 years old.
 
-In a hearing at Martin County Circuit Court in Florida on Tuesday, the judge granted the state's request to subpoena records of Tiger's meds as part of their DUI investigation.
+The details surrounding Clarke's tragic death aren't clear.
 
-The judge gave prosecutors permission to access his prescription records on file at Lewis Pharmacy in Palm Beach ... following his arrest in Florida earlier this year.
+Clarke was the 21st overall pick in the 2019 NBA Draft, selected by the Oklahoma City Thunder, and immediately traded to Memphis.
 
-Tiger's lawyer, Douglas Duncan, was the one who requested Tuesday's hearing ... saying the subpoena violates Tiger's privacy.
+Clarke was limited to only two games this season after suffering a significant calf strain in March.
 
-While the judge OK'd the subpoena, a protective order will be issued to limit access to the golf champ's records. The order will ensure that only prosecutors, law enforcement, expert witnesses and Tiger's team have permission to obtain.
+Brandon played 7 seasons in the NBA, averaging 10.2 points, 5.5 rebounds, and 1.3 assists over 309 games in The Association.
 
-They're not going to be available through state open records law ... which means no peeping from the public.
+As a first-year pro, he was named to the NBA's All-Rookie team.
 
-Prosecutors say they need to look at the records to figure out how often Tiger filled his prescriptions before he rolled his car.
+Clarke -- born in Vancouver -- played college basketball at San Jose State before transferring to Gonzaga in 2017.
 
-According to ESPN, the motion for the subpoena shows the state is also after info about how many pills were in his prescriptions, what the dosage amounts were, and whether or not they included warnings about driving while taking them.
+After sitting out a year, he played for the Zags, helping to lead Mark Few's squad to a deep run in the NCAA Tourney, ultimately losing in the Elite 8.
 
-As you know, police say Tiger had two hydrocodone&nbsp;pills in his pocket at the time of the March 27 crash. He pleaded not guilty to the DUI.
+Clarke averaged 16.9 PPG in Spokane and was named to the Associated Press and Sporting News All-American teams.
+
+Last month, Clarke was arrested in Arkansas after allegedly leading law enforcement on a high-speed chase, before being taken into custody.
+
+He was charged with possession and trafficking a controlled substance, and fleeing.
+
+The case was still open when Clarke passed away.
+
+Brandon's sports agency, Priority Sports, released a statement on his passing, saying, "We are all beyond devastated by the passing of Brandon Clarke. He was so loved by all of us here, and everyone whose life he touched. He was the gentlest soul who was the first to be there for all of his friends and family."
+
+"Our hearts are so broken as we think about his mom, Whitney, his entire family, and all of his friends and teammates. From high school to San Jose State to Gonzaga to the Grizzlies, Brandon impacted everyone who was part of his life."
+
+The statement continued ... "Everyone loved BC because he was always there as the most supportive friend you could ever imagine. He was so unique in the joy he brought to all of those in his life. It's just impossible to put into words how much he'll be missed."
+
+"We love you, BC."
+
+The Grizzlies also reacted to the horrible news on social media, saying, "We are heartbroken by the tragic loss of Brandon Clarke. Brandon was an outstanding teammate and an even better person whose impact on the organization and the greater Memphis community will not be forgotten. We express our deepest condolences to his family and loved ones during this difficult time."
+
+Rest in peace.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/prosecutors-granted-request-to-subpoena-tiger-woods-medication-history/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/brandon-clarke-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Benny Blanco Mistook Friend for Home Intruder, Nearly Stabbed Him
-<img src='https://imagez.tmz.com/image/2b/16by9/2026/05/12/2b93ed9d80f7435c879728cda2eb09fa_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Brandon Clarke's Death Investigated As Possible Overdose, Drug Paraphernalia Found
+<img src='https://imagez.tmz.com/image/c8/16by9/2026/05/12/c8a59cb4c535475d8b4e8915c9ed96b1_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Benny Blanco is reflecting on a VERY close call ... AKA the night he almost stabbed his friend to death after mistaking him for a home intruder!
+Brandon Clarke's death is being investigated as a possible overdose ... with officials finding drug paraphernalia inside the home the Memphis Grizzlies player was staying at on Monday.
 
-He spilled the story on his "Friends Keep Secrets" podcast ... saying he woke up hearing a weird noise in the house and immediately tiptoed to the kitchen to arm himself with a knife.
+The Los Angeles Fire Department responded to a medical emergency call around 5 PM on Monday ... and when paramedics got to the scene, Clarke was declared deceased, according to NBC4.
 
-Things got hilarious fast when Lil Dicky asked why he didn't just grab a gun ... but Benny admitted he'd probably accidentally shoot himself if he had one -- so a knife was the more responsible choice.
+An autopsy will determine the cause and manner of death.
 
-Benny explained he was crouched low behind furniture, planning to stab upward if the "intruder" popped out.
+Clarke's death sent shockwaves through the basketball community ... with his agency, the Grizzlies and NBA commissioner mourning the loss.
 
-Plot twist -- the "intruder" was actually one of his friends ... who ALSO heard noise, ALSO panicked, and ALSO grabbed a knife for protection. 🙈
+"We are heartbroken by the tragic loss of Brandon Clarke," the Grizzlies said. "Brandon was an outstanding teammate and an even better person whose impact on the organization and the greater Memphis community will not be forgotten."
 
-Benny joked it was basically a 50/50 shot one of them was getting stabbed before they realized what was happening ... but thankfully everyone survived the knife standoff!
+"We express our deepest condolences to his family and loved ones during this difficult time."
+
+Clark was arrested in Arkansas last month on allegations of speeding, reckless driving and possession of a controlled substance.
+
+Clarke joined the NBA as the 21st overall pick in the 2019 NBA Draft, selected by the Oklahoma City Thunder, and immediately traded to Memphis. He played seven seasons in the NBA, averaging 10.2 points, 5.5 rebounds, and 1.3 assists over 309 games.
+
+He was just 29 years old.
+
+Story developing ...
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/benny-blanco-nearly-stabs-friend/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/brandon-clarke-death-investigation-possible-overdose/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Mel Gibson Is Single Despite Rome PDA Pics, Back in U.S. With 'Passion 2' Wrapped
-<img src='https://imagez.tmz.com/image/8e/16by9/2026/05/12/8e555c94813c4134b4f05175e58e4113_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Man Killed by Plane at Denver Airport Identified, Manner of Death Determined
+<img src='https://imagez.tmz.com/image/d2/16by9/2026/05/12/d21f7ce85fc4497396e18c210ab2d011_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Mel Gibson was snapped in the middle of some PDA with a babe in Rome ... but TMZ has learned he's back in the U.S. -- and very single -- having just wrapped on a massive project.
+The man who was struck and killed by a plane at Denver International Airport over the weekend died by suicide ... though questions remain about why he wanted to end his life.
 
-Here's the deal ... the actor-director star and the&nbsp;Italian celeb&nbsp;Antonella Salvucci&nbsp;were snapped smooching in Rome ... which, of course, led fans to ask "What's going on, Romeo?"
+Denver Medical Examiner Sterling McLaren said 41-year-old Michael Mott is the man who was consumed by the jet engine of a Frontier Airlines plane late Friday night as he walked on the runway. McLaren's office determined the man's cause of death was multiple blunt force injuries, and the manner of death was suicide.
 
-Sources with knowledge tell TMZ ... the pictures were of Mel saying goodbye to a good friend ... he's single and has been back in the U.S. for about a month, having just wrapped "The Resurrection of the Christ: Part One" -- the follow-up to his 2004 blockbuster "The Passion of the Christ."
+However, there was no note found near the scene, so investigators are still trying to piece together what led up to the shocking method of suicide.
 
-As we reported ... Mel and longtime partner Rosalind Ross separated last year ... after nine years and one child together. And those pics with Antonella were the first of Mel and a possible new squeeze -- so, a big deal.
+We told you about the horrific incident -- a plane plowed down Mott as he was seen strolling along the runway during takeoff. Air traffic personnel immediately confirmed there were human remains on the runway and swiftly began evacuating the plane.
 
-But, as we said, Mel is single ... and ready to get down to work on 'Resurrection' post-production duties.
+Five people were sent to the hospital following the incident, and four have reportedly been released, KDVR-TV reports.
+
+Investigators say Mott jumped an 8-foot-tall fence to gain access to the runway. At the same time he scaled the fence, the airport's motion sensors detected a herd of deer just near where he was -- about 2 miles from the airport's terminal, according to authorities.
+
+The investigation is ongoing.
+
+If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat&nbsp;988lifeline.org.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/mel-gibson-single-despite-romance-rumor-pics/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/man-killed-by-plane-at-denver-airport-identified/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Jamie Foxx Expecting Baby With Girlfriend Alyce Huckstepp
-<img src='https://imagez.tmz.com/image/9f/16by9/2026/02/19/9f5b8cbecfef431f80b2dd8503bccc16_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 TMZ Streaming Live, Come Into Our Newsroom and Watch Things Happen!
+<img src='https://imagez.tmz.com/image/17/16by9/2026/05/12/1766707856f4452386cbc74b1837124f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Jamie Foxx is about to be a dad again ... 'cause TMZ has learned his girlfriend, Alyce Huckstepp, is pregnant with his baby.
+We want you to be a part of TMZ, so every weekday, between 10:30 AM and 12:00 PM PT, we take you inside our newsroom via live stream.
 
-Multiple sources with direct knowledge tell TMZ the couple -- who got back together last year after splitting in January 2025 -- are already several months along.
+You never know what you're gonna get ... a big story that breaks, an argument erupts in the room, or someone's just joking around.
 
-It's unclear exactly when the baby's due or whether they're having a boy or girl.
+Your comments are a big part of the stream, and the staff spends a lot of time speaking directly to you. Every day is different!
 
-Jamie and Alyce were first linked in August 2022 when she attended the world premiere of his movie "Day Shift" ... and things started to really heat up in the summer of 2023, when we saw them at the Nobu Hotel in Los Cabos, Mexico.
-
-This will be Jamie's third kid. He first became a father way back in 1994 when his ex, Connie Kline, gave birth to their daughter, Corinne.
-
-Jamie had his second kid 14 years later in 2008 when his ex, Kristin Grannis, gave birth to their daughter, Anelise Bishop.
-
-It's Alyce's first pregnancy.
-
-Congrats!!!
+We also use our live stream to produce our "TMZ Live" TV show.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/jamie-foxx-alyce-huckstepp-expecting-baby/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/watch-tmz-live-today/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -678,6 +698,45 @@ All prices &amp; availability subject to change. Not official merchandise unless
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
+### 📰 Distracted and Bogged Down, Trump and Xi Enter a Summit of Reduced Ambitions
+<div align='justify'>
+<font size='4'>
+
+The war in Iran has cast a shadow of uncertainty on both superpowers, dimming early hopes that they could begin to address the larger issues that have frayed their relationship.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/trump-xi-summit.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Hegseth to Accompany Trump on Trip to China
+<div align='justify'>
+<font size='4'>
+
+Defense secretaries have previously traveled with presidents on overseas trips, to provide advice and represent the U.S. military.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Pentagon Puts Iran War Cost at $29 Billion as Hegseth Deflects on Funding
+<div align='justify'>
+<font size='4'>
+
+The estimate from the Defense Department’s top budget official was $4 billion higher than two weeks ago. Secretary Pete Hegseth declined to say when the administration would request extra money for the Iran conflict.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/iran-war-cost-hegseth-congress.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Kuwait Accuses Iran of Trying to Infiltrate Its Territory
 <div align='justify'>
 <font size='4'>
@@ -701,45 +760,6 @@ The food giant Calbee said shortages of naphtha, a crude-oil derivative used in 
 </div>
 
  [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran
-<div align='justify'>
-<font size='4'>
-
-The Consumer Price Index rose 3.8% in April from a year earlier as higher energy costs replaced tariffs as the driver of higher prices for Americans.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Xi Is Poised to Press Trump on Arms Sales to Taiwan During China Summit
-<div align='justify'>
-<font size='4'>
-
-Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Hegseth to Accompany Trump on Trip to China
-<div align='justify'>
-<font size='4'>
-
-Defense secretaries have previously traveled with presidents on overseas trips, to provide advice and represent the U.S. military.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
