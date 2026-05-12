@@ -7,24 +7,19 @@
 
 ### 📌 QUICK NAVIGATION
 <div align='center'>
-**🇮🇷 IRAN & MIDDLE EAST**<br>
-<a href='#Iran_International'>Iran International</a> | <a href='#Al_Jazeera'>Al Jazeera</a><br>
+**🇮🇷 MIDDLE EAST NEWS**<br>
+<a href='#Al_Jazeera'>Al Jazeera</a><br>
 **🌍 TOP GLOBAL AGENCIES**<br>
-<a href='#BBC_World'>BBC World</a> | <a href='#Reuters'>Reuters</a> | <a href='#The_Guardian'>The Guardian</a> | <a href='#NY_Times'>NY Times</a> | <a href='#Associated_Press'>Associated Press</a><br>
-**🚀 SCIENCE & NATURE**<br>
-<a href='#NASA_News'>NASA News</a> | <a href='#National_Geographic'>National Geographic</a><br>
-**🎬 CELEBRITY & GOSSIP**<br>
-<a href='#People_Magazine'>People Magazine</a> | <a href='#TMZ_News'>TMZ News</a> | <a href='#The_Verge'>The Verge</a><br>
+<a href='#BBC_World'>BBC World</a> | <a href='#The_Guardian'>The Guardian</a> | <a href='#NY_Times'>NY Times</a> | <a href='#Associated_Press'>Associated Press</a><br>
+**🚀 SCIENCE**<br>
+<a href='#NASA_News'>NASA News</a><br>
+**🎬 ENTERTAINMENT & TECH**<br>
+<a href='#TMZ_News'>TMZ News</a> | <a href='#The_Verge'>The Verge</a><br>
 </div>
 
 ---
 
-<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🇮🇷 IRAN & MIDDLE EAST</h2>
-<a name='Iran_International'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● Iran International ●</h3>
-
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
+<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🇮🇷 MIDDLE EAST NEWS</h2>
 <a name='Al_Jazeera'></a>
 <br><h3 align='center' style='color: #d32f2f;'>● Al Jazeera ●</h3>
 
@@ -257,11 +252,6 @@ Successive Israeli governments have allowed and encouraged settlements to grow. 
 
 <p align='right'><a href='#top'>🔼 Back to Top</a></p>
 <hr>
-<a name='Reuters'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● Reuters ●</h3>
-
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
 <a name='The_Guardian'></a>
 <br><h3 align='center' style='color: #d32f2f;'>● The Guardian ●</h3>
 
@@ -396,50 +386,13 @@ The outbreak, linked to three deaths, has been connected to a birdwatching trip 
 <a name='NY_Times'></a>
 <br><h3 align='center' style='color: #d32f2f;'>● NY Times ●</h3>
 
-<div align='center'>
-<h3>Xi Poised to Press Trump on Arms Sales to Taiwan</h3>
-<p align='justify'>Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.</p>
-<p>🔗 <a href='https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html'>Source: NY Times</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<div align='center'>
-<h3>Chinese A.I. Firms Push Beyond Nvidia as DeepSeek Turns to Huawei</h3>
-<p align='justify'>Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.</p>
-<p>🔗 <a href='https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html'>Source: NY Times</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<div align='center'>
-<h3>China Increasingly Views Trump’s America as an Empire in Decline</h3>
-<p align='justify'>For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.</p>
-<p>🔗 <a href='https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html'>Source: NY Times</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<div align='center'>
-<h3>RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence</h3>
-<p align='justify'>Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.</p>
-<p>🔗 <a href='https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html'>Source: NY Times</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<div align='center'>
-<h3>Supreme Court Clears Path for Alabama to Use New Voting Map</h3>
-<p align='justify'>A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.</p>
-<p>🔗 <a href='https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html'>Source: NY Times</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
+<p align='center' style='color: red;'>⚠️ Failed to load news for NY Times. Error: name 'headers' is not defined</p>
 <a name='Associated_Press'></a>
 <br><h3 align='center' style='color: #d32f2f;'>● Associated Press ●</h3>
 
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
+<p align='center' style='color: red;'>⚠️ Could not retrieve news from Associated Press.</p>
 
-<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🚀 SCIENCE & NATURE</h2>
+<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🚀 SCIENCE</h2>
 <a name='NASA_News'></a>
 <br><h3 align='center' style='color: #d32f2f;'>● NASA News ●</h3>
 
@@ -563,18 +516,8 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 
 <p align='right'><a href='#top'>🔼 Back to Top</a></p>
 <hr>
-<a name='National_Geographic'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● National Geographic ●</h3>
 
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
-
-<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🎬 CELEBRITY & GOSSIP</h2>
-<a name='People_Magazine'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● People Magazine ●</h3>
-
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
+<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🎬 ENTERTAINMENT & TECH</h2>
 <a name='TMZ_News'></a>
 <br><h3 align='center' style='color: #d32f2f;'>● TMZ News ●</h3>
 
@@ -788,9 +731,7 @@ The cordless lamp features a built-in 4,800mAh battery, which can last up to 30 
 
 In addition, the Govee supports adjustable color temperatures ranging from a warm 2700K to a cooler 6500K, and like with many of its smart lighting products, offers a slew of fun, colorful lights effects. You can have it sync to music while you’re hosting people, or switch between different preset scenes to set the mood, many of which are organized around specific moods and themes like “romance,” holidays, and more. Through Govee’s app, you can even type in prompts describing the vibe you want and the lamp will generate matching lighting effects for you. The lamp also supports Matter, meaning you can control it through major smart home platforms.
 
-Sign up to get the best deals on products we’ve found and tested sent to your inbox.
-
-Sign up to get the best deals on products we’ve found and tested sent to your inbox.
+Sign in to see your notifications or create an account to join the conversation.
 
 </div>
 <p>🔗 <a href='https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale'>Source: The Verge</a></p>
