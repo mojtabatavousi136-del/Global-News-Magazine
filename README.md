@@ -2,11 +2,11 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:52`
+**📅 Update:** `2026/05/12 - 05:56`
 
 ---
 
-### 🌐 Language Switcher
+
 [**🇮🇷 مشاهده مجله خبری فارسی (Persian Version)**](https://github.com/mojtabatavousi136-del/my-news-feed)
 
 ---
