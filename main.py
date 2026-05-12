@@ -9,83 +9,70 @@ def get_full_text(url):
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'}
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
-        # حذف المان‌های مزاحم
-        for el in soup(["script", "style", "nav", "header", "footer", "aside", "button", "form"]): 
-            el.decompose()
-        
+        for el in soup(["script", "style", "nav", "header", "footer", "aside", "button", "form"]): el.decompose()
         paragraphs = soup.find_all('p')
-        # فیلتر کردن پاراگراف‌های معنادار
         text_blocks = [p.get_text().strip() for p in paragraphs if len(p.get_text()) > 80]
-        
-        if not text_blocks:
-            return "*(Full content is available on the main website via the link below)*"
-        
-        # ترکیب ۱۰ پاراگراف اول برای نمایش متن کامل
-        return "\n\n".join(text_blocks[:10])
+        return "\n\n".join(text_blocks[:8]) if text_blocks else "Content available at source link."
     except:
-        return "*(Content could not be extracted at this time. Please use the source link.)*"
+        return "Visit source for full story."
 
 def extract_image(entry):
-    # استخراج عکس از تگ‌های مختلف فید
+    # روش اول: جستجو در تگ‌های مدیا
     if 'media_content' in entry:
         return entry.media_content[0]['url']
+    if 'media_thumbnail' in entry:
+        return entry.media_thumbnail[0]['url']
+    
+    # روش دوم: جستجوی عمیق در توضیحات HTML
+    desc = entry.get('summary', '') or entry.get('description', '')
+    if desc:
+        img_match = re.search(r'<img.+?src=["\'](.+?)["\']', desc)
+        if img_match:
+            return img_match.group(1)
+            
+    # روش سوم: جستجو در لینک‌های پیوست
     if 'links' in entry:
         for link in entry.links:
             if 'image' in link.get('type', ''):
                 return link.get('href')
-    if 'summary' in entry:
-        img_match = re.search(r'<img.+?src=["\'](.+?)["\']', entry.summary)
-        if img_match:
-            return img_match.group(1)
     return None
 
 def get_news():
     now = datetime.datetime.now()
-    # منابع منتخب شما
     RSS_FEEDS = {
-        '🌍 AL JAZEERA': 'https://www.aljazeera.com/xml/rss/all.xml',
-        '🇺🇸 CNN WORLD': 'http://rss.cnn.com/rss/edition.rss',
-        '🗽 NEW YORK TIMES': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
-        '🏛️ REUTERS': 'https://www.reutersagency.com/feed/?best-topics=world-news&format=xml',
-        '🎬 CELEBRITY & STYLE': 'https://people.com/celebrity/feed/'
+        '🌍 AL JAZEERA': ('https://www.aljazeera.com/xml/rss/all.xml', 'https://www.aljazeera.com/wp-content/uploads/2020/12/AJ-Logo-English-Vertical.jpg'),
+        '🇺🇸 CNN NEWS': ('http://rss.cnn.com/rss/edition.rss', 'https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg'),
+        '🗽 NY TIMES': ('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml', 'https://1000logos.net/wp-content/uploads/2017/04/Symbol-New-York-Times.png'),
+        '🏛️ REUTERS': ('https://www.reutersagency.com/feed/?best-topics=world-news&format=xml', 'https://www.reuters.com/pf/resources/images/reuters/logo-vertical-default.png'),
+        '🎬 CELEBRITY': ('https://people.com/celebrity/feed/', 'https://people.com/thmb/m_U5_XpZ-Z6l_H1bO4o3YqN6b4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/people-logo-red-background-7d0e4e5e4d5d4d3d8d3d2d1d0d9d8d7.jpg')
     }
 
     header = f"""
 <div align="center">
-    <img src="https://img.icons8.com/fluency/96/news.png" width="60" />
-    <h1>GLOBAL MAHOOR NEWSROOM</h1>
-    <p><i>Premium Daily Magazine - English Edition</i></p>
+    <h1>🌍 GLOBAL NEWS MAGAZINE</h1>
+    <p><i>Daily Updates from World's Best Agencies</i></p>
     <p>📅 <b>{now.strftime('%A, %d %B %Y')}</b></p>
-    <hr size="3" color="#333">
-</div>
-\n"""
+    <hr>
+</div>\n"""
     content = header
     
-    for category, url in RSS_FEEDS.items():
+    for category, (url, fallback_img) in RSS_FEEDS.items():
         feed = feedparser.parse(url)
-        content += f"<br><h2 align='center' style='color: #2c3e50;'>━━━━━━ {category} ━━━━━━</h2>\n\n"
+        content += f"<h2 align='center'>━━━━ {category} ━━━━</h2>\n\n"
         
-        count = 0
-        for entry in feed.entries:
-            if count >= 2: break # دو خبر برتر از هر منبع برای جلوگیری از طولانی شدن بیش از حد
-            
-            img_url = extract_image(entry)
+        for entry in feed.entries[:2]: # ۲ خبر از هر کدام
+            img_url = extract_image(entry) or fallback_img
             full_text = get_full_text(entry.link)
 
-            # استایل مشابه مجله فارسی (تیتر، عکس، متن)
             content += f"<div align='center'>\n"
-            content += f"<h3>📢 {entry.title}</h3>\n"
-            
-            if img_url:
-                content += f"<img src='{img_url}' width='85%' style='border-radius: 15px; margin: 10px 0;' />\n"
-            
+            content += f"<h3>{entry.title}</h3>\n"
+            # استفاده از تگ img با قابلیت ریسپانسیو
+            content += f"<img src='{img_url}' width='90%' style='max-height:400px; object-fit: cover; border-radius:15px;' />\n"
             content += f"</div>\n\n"
             
-            # نمایش مستقیم متن کامل
             content += f"{full_text}\n\n"
-            content += f"<div align='right'>🔗 <i>Source: <a href='{entry.link}'>Click Here</a></i></div>\n\n"
-            content += "<hr width='70%' align='center' style='border: 0.5px dashed #bbb;'>\n\n"
-            count += 1
+            content += f"<p align='right'>🔗 <i>Source: <a href='{entry.link}'>Read More</a></i></p>\n"
+            content += "<hr width='50%'>\n\n"
             
     return content
 
