@@ -1,129 +1,102 @@
-<div align='center'>
-<h1 id='top'>MAHOOR WORLD PREMIER NEWS</h1>
-<p>📅 Tuesday, 12 May 2026 | 🕒 Full Text Edition</p>
-</div>
+
+<div align="center">
+
+# 📰 MAHOOR WORLD PREMIER NEWS
+
+**📅 Update:** `2026/05/12 - 04:45` | **⏰ This page updates every 3 hours**
 
 ---
 
 ### 📌 QUICK NAVIGATION
-<div align='center'>
-**🇮🇷 MIDDLE EAST NEWS**<br>
-<a href='#Al_Jazeera'>Al Jazeera</a><br>
-**🌍 TOP GLOBAL AGENCIES**<br>
-<a href='#BBC_World'>BBC World</a> | <a href='#The_Guardian'>The Guardian</a> | <a href='#NY_Times'>NY Times</a> | <a href='#Associated_Press'>Associated Press</a><br>
-**🚀 SCIENCE**<br>
-<a href='#NASA_News'>NASA News</a><br>
-**🎬 ENTERTAINMENT & TECH**<br>
-<a href='#TMZ_News'>TMZ News</a> | <a href='#The_Verge'>The Verge</a><br>
+[Al Jazeera](#Al-Jazeera) | [BBC World](#BBC-World) | [The Guardian](#The-Guardian) | [NY Times](#NY-Times) | [Associated Press](#Associated-Press) | [NASA News](#NASA-News) | [TMZ](#TMZ) | [The Verge](#The-Verge)
+
+--- 
 </div>
+
+## <a name='Al-Jazeera'></a> 🌍 Al Jazeera
+### 📰 Hundreds more displaced as gang violence escalates in Haiti’s capital
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
+
+*Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes.*
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Source Website](https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Flotilla activist Thiago Ávila arrives in Brazil
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
+
+*Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel.*
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Source Website](https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_flotilla-acvtivist-returns-to-brazil-110526?traffic_source=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 California ex-mayor admits acting as agent of China, US authorities say
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
+
+*Ex-mayor of wealthy Los Angeles suburb promoted pro-China propaganda at behest of Chinese officials, prosecutors say.*
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Source Website](https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Lebanese in south refuse to flee again despite escalating Israeli strikes
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png?resize=1920%2C1440' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
+
+*Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes.*
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Source Website](https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Bolivia issues warrant for Evo Morales’s arrest after court no-show
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-08-04T060007Z_1755863889_RC2VZFAUI8X3_RTRMADP_3_BOLIVIA-POLITICS-RUNASUR-1778553996.jpg?resize=1920%2C1440' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
+
+*The ex-Bolivian president is on trial for allegedly fathering a child with a 15-year-old girl while in office.*
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Source Website](https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show?traffic_source=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 
 ---
+## <a name='BBC-World'></a> 🌍 BBC World
+### 📰 Trump says Iran ceasefire is on 'massive life support'
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:12px;'>
 
-<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🇮🇷 MIDDLE EAST NEWS</h2>
-<a name='Al_Jazeera'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● Al Jazeera ●</h3>
-
-<div align='center'>
-<h3>Hundreds more displaced as gang violence escalates in Haiti’s capital</h3>
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
-
-Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes, forcing some families to the streets. Gang violence has now displaced more than 1.4 million people across Haiti. Gangs control an estimated 90% of the capital after the former president was assassinated in his home in 2021.
-
-</div>
-<p>🔗 <a href='https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss'>Source: Al Jazeera</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<div align='center'>
-<h3>Flotilla activist Thiago Ávila arrives in Brazil</h3>
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg?resize=1920%2C1080&quality=80' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
-
-Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel, where he alleged he was tortured and witnessed abuse of Palestinian prisoners during his 10 days in custody.
-
-</div>
-<p>🔗 <a href='https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_flotilla-acvtivist-returns-to-brazil-110526?traffic_source=rss'>Source: Al Jazeera</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<div align='center'>
-<h3>California ex-mayor admits acting as agent of China, US authorities say</h3>
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg?resize=1200%2C630&quality=80' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
-
-The former mayor of a wealthy suburb in the United States city of Los Angeles has admitted to acting as an illegal agent of China, according to authorities.
-
-Eileen Wang, the former mayor of Arcadia, agreed to plead guilty to one count of acting as an illegal agent of a foreign government from late 2020 until 2022, the US Department of Justice said on Monday.
-
-Wang admitted that she did not notify the US government that she was acting on behalf of China while promoting pro-Beijing propaganda, the Justice Department said.
-
-Wang, 58, operated a website, called the US News Center, that published content supportive of the People’s Republic of China (PRC) while purporting to provide news for Chinese Americans, the department said.
-
-Wang ran the site with Yaoning Sun, a Californian man who was sentenced to four years in prison after pleading guilty to acting as an illegal agent of a foreign government in October 2025, according to US prosecutors.
-
-Wang’s activities included republishing a “PRC official-written essay” that denied allegations that the Chinese government was committing genocide against ethnic-minority Uighurs in its far-western region of Xinjiang, according to prosecutors.
-
-Wang resigned as mayor on Monday, according to a statement published on the City of Arcadia’s website.
-
-Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “mistakes she has made in her personal life”.
-
-</div>
-<p>🔗 <a href='https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss'>Source: Al Jazeera</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<div align='center'>
-<h3>Lebanese in south refuse to flee again despite escalating Israeli strikes</h3>
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png?resize=1920%2C1440' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
-
-Lebanese in south refuse to flee again despite escalating Israeli strikes
-
-Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced residents say they will not leave again despite a sharp rise in deaths and intensifying Israeli strikes.
-
-</div>
-<p>🔗 <a href='https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss'>Source: Al Jazeera</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<div align='center'>
-<h3>Bolivia issues warrant for Evo Morales’s arrest after court no-show</h3>
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-08-04T060007Z_1755863889_RC2VZFAUI8X3_RTRMADP_3_BOLIVIA-POLITICS-RUNASUR-1778553996.jpg?resize=1920%2C1440' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
-
-A Bolivian judge has found former President Evo Morales in contempt of court and reissued a warrant for his arrest after he failed to turn up for the start of his trial on charges of trafficking a minor.
-
-The ruling on Monday renewed tensions in the South American country, with supporters of Morales warning they would “throw the country into turmoil” if the former leader is arrested.
-
-Morales, who is Bolivia’s first Indigenous president, is accused of fathering a child with a 15-year-old girl while in office. The parents of the teen are accused of consenting to the relationship in exchange for favours from Morales.
-
-The former socialist leader, who governed from 2006 to 2019, has rejected the accusations.
-
-Morales did not attend the scheduled start of his trial on Monday in the southern city of Tarija, forcing the proceedings to be suspended.
-
-The Public Prosecutor’s Office said Morales’s “unjustified absence” confirmed his fugitive status and warranted an arrest order as well as a travel ban.
-
-The former president has been hiding from the law in his central coca-growing stronghold of Chapare since late 2024, guarded by Indigenous supporters who have promised to resist any attempt to capture him.
-
-“They think that by arresting Evo Morales, they will succeed in quelling and demobilising the movement. They are very much mistaken,” supporter Dieter Mendoza said on Kawsachun Coca radio on Monday. “If they touch Evo Morales, this will cause an upheaval … There will be an insurgency across Bolivia.”
-
-</div>
-<p>🔗 <a href='https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show?traffic_source=rss'>Source: Al Jazeera</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-</div>
-
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
-
-<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🌍 TOP GLOBAL AGENCIES</h2>
-<a name='BBC_World'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● BBC World ●</h3>
-
-<div align='center'>
-<h3>Trump says Iran ceasefire is on 'massive life support'</h3>
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+<div align='justify'>
+<font size='4'>
 
 US President Donald Trump has said the month-long ceasefire between the US and Iran is on "massive life support".
 
@@ -141,15 +114,22 @@ After his comments saying Iran's armed forces ready to respond, Ghalibaf said in
 
 Tehran's offer includes an immediate end to the war on all fronts - a reference to the continued Israeli attacks against Iran-supported Hezbollah in Lebanon - a halt to the US naval blockade of Iranian ports and guarantees of no further attacks on Iran, according to Iran's semi-official Tasnim news agency.
 
-</div>
-<p>🔗 <a href='https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss'>Source: BBC World</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+It also reportedly includes a demand for compensation for war damage and an emphasis on Iranian sovereignty over the Strait of Hormuz.
+
+Trump criticised the proposal, writing on Truth Social on Sunday: "I have just read the response from Iran's so-called 'Representatives.' I don't like it - TOTALLY UNACCEPTABLE."
+
+</font>
 </div>
 
-<div align='center'>
-<h3>How the Trump-Xi summit could set superpower relations for many years to come</h3>
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 How the Trump-Xi summit could set superpower relations for many years to come
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Security around Beijing's historic Tiananmen Square has been heightened for days, with rumours on social media swirling of a special parade or some big, choreographed event.
 
@@ -167,15 +147,22 @@ This visit could set the groundwork for future cooperation – or conflict – i
 
 China is trying to quietly step in as a peacemaker with the war now in its third month. Beijing has joined Pakistan as a mediator in the US-Israel war against Iran.
 
-</div>
-<p>🔗 <a href='https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss'>Source: BBC World</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+Officials in Beijing and Islamabad in March presented a five-point plan with the aim of bringing about a ceasefire and re-opening the Strait of Hormuz. And behind the scenes, Chinese officials have been gently nudging their Iranian counterparts towards the negotiation table.
+
+There's no doubt, despite its steady show of strength, that China is eager for an end to this war.
+
+</font>
 </div>
 
-<div align='center'>
-<h3>Last passengers leave virus-hit cruise ship as three more test positive</h3>
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1688/live/697a7c50-4daa-11f1-ac78-2112837ce2aa.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Last passengers leave virus-hit cruise ship as three more test positive
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1688/live/697a7c50-4daa-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 The last passengers have left the hantavirus-hit cruise ship, as authorities confirmed three new positive cases linked to the deadly outbreak.
 
@@ -193,15 +180,22 @@ French Health Minister Stéphanie Rist said a woman was isolating in Paris and t
 
 Two British nationals with confirmed cases are currently being treated in the Netherlands and South Africa.
 
-</div>
-<p>🔗 <a href='https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss'>Source: BBC World</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+Hantaviruses are usually carried by rodents, but human transmission of the Andes strain - which the WHO believes some of the ship's passengers contracted in South America -  is possible.
+
+Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomiting, diarrhoea and shortness of breath.
+
+</font>
 </div>
 
-<div align='center'>
-<h3>Israel passes law to allow death penalty and public trials for those linked to 7 October</h3>
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/24ad/live/dd803850-4d56-11f1-a84e-777fb0e2277b.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Israel passes law to allow death penalty and public trials for those linked to 7 October
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/24ad/live/dd803850-4d56-11f1-a84e-777fb0e2277b.jpg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Israel has passed a new law to impose the death penalty and conduct public trials for those involved in the unprecedented Hamas-led attacks and mass hostage-taking in Israel in October 2023.
 
@@ -219,15 +213,22 @@ Israeli human rights groups have spoken out against the new law, opposing the pr
 
 The events triggered the deadliest ever war in Gaza, with 72,740 people killed to date - the majority children, women and the elderly, according to the Hamas-run Health Ministry.
 
-</div>
-<p>🔗 <a href='https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss'>Source: BBC World</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+Although Israel's parliament passed the Death Penalty for Terrorists Law in March, aimed at Palestinians convicted of terrorism offences, it does not apply retroactively. This meant that separate legislation was required to deal with those alleged to have carried out the assault.
+
+Israeli politicians supporting the law say it will allow for a trial of historic significance, comparing it to that of the Nazi war criminal Adolf Eichmann.  Eichmann - an architect of the Jewish Holocaust - was hanged in 1962, becoming the only person previously sentenced to death by an Israeli civil court.
+
+</font>
 </div>
 
-<div align='center'>
-<h3>EU agrees sanctions on Israeli settlers over West Bank violence</h3>
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 EU agrees sanctions on Israeli settlers over West Bank violence
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 The twenty-seven foreign ministers of the European Union approved new sanctions on Monday on Israeli settlers over rising violence against Palestinians in the occupied West Bank.
 
@@ -245,20 +246,25 @@ Israel's foreign minister Gideon Sa'ar said the decision was "arbitrary and poli
 
 Successive Israeli governments have allowed and encouraged settlements to grow. Expansion has risen sharply since Prime Minister Benjamin Netanyahu returned to power in late 2022 at the head of a right-wing, pro-settler coalition, as well as the start of the Gaza war, triggered by the armed Palestinian group Hamas's 7 October 2023 attack on Israel.
 
-</div>
-<p>🔗 <a href='https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss'>Source: BBC World</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+There is still technical and legal work that must be done in the EU before the sanctions are officially imposed.
+
+EU officials said that seven settlers or settler organisations would be sanctioned. The EU also agreed to sanction more representatives from Hamas.
+
+</font>
 </div>
 
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
-<a name='The_Guardian'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● The Guardian ●</h3>
+ [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss)
 
-<div align='center'>
-<h3>Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa</h3>
-<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4adcb1236732e90ee166d918d46cdab2' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+
+---
+## <a name='The-Guardian'></a> 🌍 The Guardian
+### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
+<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=140&quality=85&auto=format&fit=max&s=d19a9c185d1ded7c39262f1c1baac579' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape
 
@@ -274,15 +280,18 @@ Heavy rainfall is also expected to coincide with strong, potentially damaging wi
 
 The latest warnings come shortly after heavy rain triggered flooding, road closures and infrastructure damage across the Western and Eastern Cape on 5-7 May. More than 300mm of rain fell in some areas, forcing evacuations in Gamtoos Valley after the Kouga dam exceeded capacity. Power outages and at least 45 road closures left many communities isolated. One person died in Knysna, Western Cape, while more than 2,000 people were evacuated to emergency shelters.
 
-</div>
-<p>🔗 <a href='https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa'>Source: The Guardian</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>Body of missing US soldier recovered off coast of Morocco</h3>
-<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e27913fead786dc953e927871d85b3a5' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Body of missing US soldier recovered off coast of Morocco
+<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=140&quality=85&auto=format&fit=max&s=e5ad2a13eb5364bf318085cdac0f41c3' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries
 
@@ -298,15 +307,18 @@ The US service members were participating in African Lion, the US Africa Command
 
 The largest part of the exercise takes place in Morocco, involving approximately 5,000 personnel from more than 40 countries, according to Africom.
 
-</div>
-<p>🔗 <a href='https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco'>Source: The Guardian</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere</h3>
-<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=127eca0e06ecc59fee24862bc6240ba3' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 ‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere
+<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=3d70a65ae48caabd14de7d15d1f9ca7d' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Africa is leading a change in news consumption habits  – and transforming the lives of current affairs enthusiasts
 
@@ -324,15 +336,22 @@ Guardian correspondents spoke to news influencers and analysts in the three coun
 
 Jaxa, 32, started posting explainer videos after an argument with her brother, who is 10 years younger than her, about him not voting. She realised “the generation coming after me was very disinterested”.
 
-</div>
-<p>🔗 <a href='https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media'>Source: The Guardian</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+“That was very concerning for me, because they are the next leaders,” she said.
+
+Jaxa considers herself to be a translator of the news for younger generations, not a replacement: “I don’t exist if there is no traditional media, because … all the content I do is from traditional media.”
+
+</font>
 </div>
 
-<div align='center'>
-<h3>Guardian reporter and colleagues detained and beaten by Somali police</h3>
-<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8e493b85631d842360a066689e01fc9' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Guardian reporter and colleagues detained and beaten by Somali police
+<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=c5604bd094625c43a7c8ea25bff35fc6' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison
 
@@ -350,15 +369,22 @@ It is believed Bulbul’s detention was linked to reporting on the case of Sadia
 
 On Thursday, the Guardian published a story by Bulbul, where Ali spoke about being tortured in Mogadishu central prison. She said she was stripped naked by two male guards in a room monitored by CCTV, kicked, beaten with a baton and left for two days in a small cell without food. The article was shared widely across Somali media, Facebook and X.
 
-</div>
-<p>🔗 <a href='https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police'>Source: The Guardian</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+He and the two other journalists had been facing sustained threats and intimidation in recent weeks. Their detention happened at a time of heightened political pressure surrounding planned protests expected to take place on Sunday.
+
+At the police headquarters, the three reporters said they were threatened by Mahdi Omar Mumin, Mogadishu police chief, should they continue to report on the protests.
+
+</font>
 </div>
 
-<div align='center'>
-<h3>Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital</h3>
-<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9286d5cbeca6c71a23ffde8517e7947' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital
+<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=1ac13619c2ec2285b71713f2b40ba663' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands
 
@@ -376,30 +402,106 @@ As of Thursday there are eight suspected cases, five confirmed by lab tests as h
 
 The outbreak, linked to three deaths, has been connected to a birdwatching trip to Argentina, Chile and Uruguay that two of the passengers went on before boarding the ship.
 
+Spanish authorities have given permission for the ship to anchor in the Canary Islands, despite concerns from locals and officials, and the boat left the shores of Cape Verde at 3.15pm local time on Wednesday, the tour operator Oceanwide Expeditions said.
+
+It is estimated to arrive at the port of Granadilla in Tenerife in the early hours of Sunday.
+
+</font>
 </div>
-<p>🔗 <a href='https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital'>Source: The Guardian</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+ [🔗 Read Full Story on Source Website](https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+
+---
+## <a name='NY-Times'></a> 🌍 NY Times
+### 📰 Xi Poised to Press Trump on Arms Sales to Taiwan
+<img src='https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
+
+*Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.*
+
+</font>
 </div>
 
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
-<a name='NY_Times'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● NY Times ●</h3>
+ [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html)
 
-<p align='center' style='color: red;'>⚠️ Failed to load news for NY Times. Error: name 'headers' is not defined</p>
-<a name='Associated_Press'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● Associated Press ●</h3>
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<p align='center' style='color: red;'>⚠️ Could not retrieve news from Associated Press.</p>
+### 📰 Chinese A.I. Firms Push Beyond Nvidia as DeepSeek Turns to Huawei
+<img src='https://static01.nyt.com/images/2026/05/08/multimedia/00biz-china-chips-fqbm/00biz-china-chips-fqbm-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
 
-<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🚀 SCIENCE</h2>
-<a name='NASA_News'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● NASA News ●</h3>
+<div align='justify'>
+<font size='4'>
 
-<div align='center'>
-<h3>Australia’s Cloudy Beauty</h3>
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+*Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.*
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 China Increasingly Views Trump’s America as an Empire in Decline
+<img src='https://static01.nyt.com/images/2026/05/11/multimedia/00newworld-chinastrong-01-kpmb/00newworld-chinastrong-01-kpmb-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
+
+*For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.*
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence
+<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11dc-kennedy-measles-01-pqjf/11dc-kennedy-measles-01-pqjf-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
+
+*Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.*
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Supreme Court Clears Path for Alabama to Use New Voting Map
+<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11dc-scotus-alabama-mhkj/11dc-scotus-alabama-mhkj-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
+
+*A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.*
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+
+---
+## <a name='Associated-Press'></a> 🌍 Associated Press
+> ⚠️ *Source temporarily unavailable.*
+
+## <a name='NASA-News'></a> 🌍 NASA News
+### 📰 Australia’s Cloudy Beauty
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.
 
@@ -417,15 +519,22 @@ The feature likely formed as converging land and sea breezes interacted with the
 
 NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Adam Voiland.
 
-</div>
-<p>🔗 <a href='https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/'>Source: NASA News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
+
+</font>
 </div>
 
-<div align='center'>
-<h3>Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style</h3>
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
+<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was enabled by the ingenuity of the Curiosity engineers and scientists manifested in this extraordinary time lapse. It demonstrates the careful dance of arm motions employed — each one diligently planned by the team — to free Curiosity’s drill from the “Atacama” target. Watch the arm twist, bend, and turn with a rock slab attached, and be amazed.
 
@@ -443,15 +552,18 @@ Each robotic explorer sent to the Red Planet has its own unique capabilities dri
 
 The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
 
-</div>
-<p>🔗 <a href='https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/'>Source: NASA News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill</h3>
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png/jcr:content/renditions/cq5dam.web.1280.1280.png' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
+<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png/jcr:content/renditions/cq5dam.web.1280.1280.png' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose, finally detaching the rock on May 1.
 
@@ -461,15 +573,18 @@ This mosaic is made up of eight images that were stitched together after being s
 
 Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of NASA’s Mars Exploration Program portfolio. Malin Space Science Systems in San Diego built and operates Mastcam.
 
-</div>
-<p>🔗 <a href='https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/'>Source: NASA News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>May 2026 Satellite Puzzler</h3>
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 May 2026 Satellite Puzzler
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Every month, NASA Earth Observatory features a puzzling satellite image. The May 2026 puzzler appears above.
 
@@ -485,15 +600,18 @@ About a week after the challenge, we’ll post the answer at the top of this pag
 
 Until then, zoom in, look closely, and enjoy the challenge. See you at the reveal!
 
-</div>
-<p>🔗 <a href='https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/'>Source: NASA News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions</h3>
-<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
+<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon.
 
@@ -509,143 +627,99 @@ Ground testing plays a critical role in that preparation. During these tests, sy
 
 Outside of his NASA career, Houghton gives back by volunteering as a firefighter and emergency medical technician. “Serving my community is something that I have always been passionate about,” he said. “I am thankful to have the opportunity to support those around me.”
 
-</div>
-<p>🔗 <a href='https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/'>Source: NASA News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
+ [🔗 Read Full Story on Source Website](https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/)
 
-<br><h2 align='center' style='background-color: #f8f9fa; border-bottom: 2px solid #0d47a1; padding: 10px;'>🎬 ENTERTAINMENT & TECH</h2>
-<a name='TMZ_News'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● TMZ News ●</h3>
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<div align='center'>
-<h3>Taylor Swift Steps Out for Family Dinner in NYC</h3>
-<img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
 
-Welcome to New York, Swift family ... it's been waiting for you!!! Taylor Swift kept it all in the family during a cozy NYC outing Monday night ... stepping out with her parents and brother Austin for a low-key post Mother's Day dinner.
+---
+## <a name='TMZ'></a> 🌍 TMZ
+### 📰 Taylor Swift Steps Out for Family Dinner in NYC
+<img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:12px;'>
 
-The superstar singer looked relaxed in a petite black dress, silver pumps, and her signature red lip ... as the family made their way across the street before heading into a private dining spot at The Eighty Six in the West Village.
+<div align='justify'>
+<font size='4'>
 
-Taylor's dad, Scott, and her brother played security as cameras gathered near the entrance, while her mom, Andrea, smiled while holding hands with her Hall of Fame daughter.
+*Welcome to New York, Swift family ... it's been waiting for you!!! Taylor Swift kept it all in the family during a cozy NYC outing Monday night ... stepping out with her parents and brother Austin for a low-key post Mother's Day dinner. The&hellip;*
 
-Notably absent from the outing ... Taylor's soon-to-be hubby Travis Kelce -- but judging from her mood, she didn’t seem bothered one bit as she enjoyed a rare public night out with her fam.
-
-These adorbs pics have us thinking ... maybe the next time we see the Swift family all together it will be when they are walking Tay down the aisle!!!
-
-</div>
-<p>🔗 <a href='https://www.tmz.com/2026/05/11/taylor-swift-new-york-family-dinner-pictures/'>Source: TMZ News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>Kim Kardashian Awarded Big Payday Despite Man Claiming Judgment Would Ruin Him</h3>
-<img src='https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/taylor-swift-new-york-family-dinner-pictures/)
 
-Kim Kardashian scored a massive six-figure award in legal fees from a man who unsuccessfully sued her, TMZ has learned.
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-According to court docs obtained by TMZ, the reality star and mogul was awarded $167K of the $186K she requested from Ivan Cantu after she successfully shut down his lawsuit.
+### 📰 Kim Kardashian Awarded Big Payday Despite Man Claiming Judgment Would Ruin Him
+<img src='https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg' width='100%' style='border-radius:12px;'>
 
-As TMZ first reported, Cantu sued after Kim posted his photo on social media when she intended to post a photo of a different man with the same name — a death row inmate she was advocating for. Kim argued the mix-up was an honest mistake that she corrected immediately, while Cantu claimed the incident caused significant harm to his life.
+<div align='justify'>
+<font size='4'>
 
-Ultimately, the judge sided with Kim and dismissed the claims. She then sought to recover her legal fees from Cantu.
+*Kim Kardashian scored a massive six-figure award in legal fees from a man who unsuccessfully sued her, TMZ has learned. According to court docs obtained by TMZ, the reality star and mogul was awarded $167K of the $186K she requested from Ivan Cantu&hellip;*
 
-As TMZ previously reported, Cantu -- a father of two -- argued that being forced to pay a six-figure judgment to Kim would financially devastate him. The judge was not persuaded.
-
-</div>
-<p>🔗 <a href='https://www.tmz.com/2026/05/11/kim-kardashian-awarded-money-from-ivan-cantu/'>Source: TMZ News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>George Floyd's Family Rips Tony Hinchcliffe, Kevin Hart Over 'Roast' Joke</h3>
-<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/kim-kardashian-awarded-money-from-ivan-cantu/)
 
-George Floyd's family and friends are appalled Tony Hinchcliffe was invited back for a Netflix roast and they're blaming Kevin Hart for allegedly giving Tony the green light to do another joke about George ... a joke they didn't find funny in the slightest.
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-Travis Cains, a spokesman for The Gianna and George Floyd Foundation, tells TMZ … Kevin condoning Tony's joke is "sad for the culture."
+### 📰 George Floyd's Family Rips Tony Hinchcliffe, Kevin Hart Over 'Roast' Joke
+<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg' width='100%' style='border-radius:12px;'>
 
-Tony was among the comedians roasting Kevin, and during his set he proclaimed ... "The Black community is so proud of you… right now George Floyd is looking up at us all laughing so hard he can't breathe."
+<div align='justify'>
+<font size='4'>
 
-We're told George's family and friends feels like Kevin should've told Tony to stay off that topic if nothing else ... and they're baffled and disgusted by Tony's apparent obsession with telling George Floyd jokes.
+*George Floyd's family and friends are appalled Tony Hinchcliffe was invited back for a Netflix roast and they're blaming Kevin Hart for allegedly giving Tony the green light to do another joke about George ... a joke they didn't find funny in the&hellip;*
 
-During the Tom Brady roast, Tony joked that Rob Gronkowski "looked like the final boss in George Floyd the video game."
-
-George's daughter, Gianna, is 12 years old now -- she was only 6 when he died -- and the foundation says she's being bullied in school ... so it sounds like the jokes aren't helping.
-
-We're told George's family and friends feel Tony is a "racist comedian" ... and they're wondering how Kevin would feel about these jokes if "one of his friends" died instead of George.
-
-Bottom line from the foundation ... "We are trying to rebuild things for our community and make things better in our community. Let's try to be a little bit more positive and not sit up there doing colon inspections by white comedians."
-
-</div>
-<p>🔗 <a href='https://www.tmz.com/2026/05/11/george-floyd-family-angry-over-kevin-hart-roast/'>Source: TMZ News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>RHOBH’s Dorit Kemsley’s Estranged Husband PK’s Monthly Income Revealed in Court</h3>
-<img src='https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/george-floyd-family-angry-over-kevin-hart-roast/)
 
-'Real Housewives of Beverly Hills' star PK Kemsley’s alleged income was revealed as part of his divorce battle with his estranged wife, Dorit Kemsley ... TMZ has learned.
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-TMZ obtained court docs, filed by PK, where he claims he's bringing in a massive 5-figure monthly income.
+### 📰 RHOBH’s Dorit Kemsley’s Estranged Husband PK’s Monthly Income Revealed in Court
+<img src='https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg' width='100%' style='border-radius:12px;'>
 
-PK says he earned around $887,180 from April 2025 to March 2026 ... bringing in around $91,999 in net income each month.
+<div align='justify'>
+<font size='4'>
 
-PK claims his monthly expenses include $16,500 on rent, $800 on health care, $6,402 on groceries, $3K on utilities, $1,770 on entertainment and gifts, and various other bills.
+*'Real Housewives of Beverly Hills' star PK Kemsley’s alleged income was revealed as part of his divorce battle with his estranged wife, Dorit Kemsley ... TMZ has learned. TMZ obtained court docs, filed by PK, where he claims he's bringing in a&hellip;*
 
-The docs state that he has around $435K in cash and bank accounts and another $2 Million in property.
-
-In his filing, PK says he believed Dorit was earning at least $166K per month.
-
-As TMZ first reported, PK is asking a judge to authorize the immediate listing of their marital home on the market. He claims Dorit has spent over $1 Million on luxury clothes and travel while not paying the mortgage on their $6 Million home, which he says has put the home in danger of foreclosure.
-
-</div>
-<p>🔗 <a href='https://www.tmz.com/2026/05/11/pk-kemsley-salary-revealed/'>Source: TMZ News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>Sabrina Carpenter's Birthday: Celebrate with These Products</h3>
-<img src='https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/pk-kemsley-salary-revealed/)
 
-TMZ may collect a share of sales or other compensation from links on this page.
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-Sabrina Carpenter stans have a lot to celebrate today ... because it's the pop princess' birthday!
+### 📰 Sabrina Carpenter's Birthday: Celebrate with These Products
+<img src='https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg' width='100%' style='border-radius:12px;'>
 
-Whether you want to honor the iconic artist by playing her hits, stealing her style or showing off some memorabilia ... we've got you covered.
+<div align='justify'>
+<font size='4'>
 
-We've rounded up some pop star-inspired picks that are sure to Mountain Dew it for ya!
+*TMZ may collect a share of sales or other compensation from links on this page. Sabrina Carpenter stans have a lot to celebrate today ... because it's the pop princess' birthday! Whether you want to honor the iconic artist by playing her hits,&hellip;*
 
-The Sweet Tooth by Sabrina Carpenter perfume line will have you smelling like you just stepped off Pretty Girl Avenue.
-
-There are a few fragrances to choose from -- Sweet Tooth, Me Espresso, Cherry Baby and Caramel Dream -- if you love a sweet scent.
-
-These white knee-high-boots are reminiscent of Sabrina's "Emails I Can't Send" era ... and are great for fans who want to strut their stuff just like the pint-sized pop star.
-
-The platform and chunky heel give that go-go effect ... and they're perfect if you're looking for a little lift.
-
-</div>
-<p>🔗 <a href='https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/'>Source: TMZ News</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
-<a name='The_Verge'></a>
-<br><h3 align='center' style='color: #d32f2f;'>● The Verge ●</h3>
+ [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/)
 
-<div align='center'>
-<h3>OpenAI just released its answer to Claude Mythos</h3>
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+
+---
+## <a name='The-Verge'></a> 🌍 The Verge
+### 📰 OpenAI just released its answer to Claude Mythos
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization’s code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.
 
@@ -655,17 +729,18 @@ However, OpenAI has so far lacked a similar security product. Like Glasswing, Da
 
 Daybreak also involves specialized cyber models, including GPT-5.5 with Trusted Access for Cyber and GPT-5.5-Cyber, which began rolling out last week. OpenAI also says it’s working with its “industry and government partners” while it prepares to “deploy increasingly more cyber-capable models.”
 
-Sign in to see your notifications or create an account to join the conversation.
-
-</div>
-<p>🔗 <a href='https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai'>Source: The Verge</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>Yarbo says it will remove the intentional backdoor from its robot lawn mower</h3>
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&strip=all&crop=0%2C3.4797855362992%2C100%2C93.040428927402&w=1200' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Yarbo says it will remove the intentional backdoor from its robot lawn mower
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&strip=all&crop=0%2C3.4797855362992%2C100%2C93.040428927402&w=1200' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder Kenneth Kohlmann pledges to The Verge.
 
@@ -683,17 +758,18 @@ It may be difficult to tell if Yarbo keeps its promise to remove the remote acce
 
 But Kohlmann says the company is now in touch with Makris, and it’s possible the security researcher will be able to validate the changes.
 
-</div>
-<p>🔗 <a href='https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor'>Source: The Verge</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>Here&#8217;s what Mira Murati&#8217;s AI company is up to</h3>
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor)
 
-Thinking Machines is demonstrating AI ‘interaction models’ that respond to users in real time.
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Here&#8217;s what Mira Murati&#8217;s AI company is up to
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Thinking Machines is demonstrating AI ‘interaction models’ that respond to users in real time.
 
@@ -709,17 +785,18 @@ You can read a deeper explanation of interaction models on the Thinking Machines
 
 Murati founded Thinking Machines in February 2025 after leaving OpenAI. The AI lab has already had to grapple with many major departures, with key members defecting to Meta and even back to OpenAI.
 
-</div>
-<p>🔗 <a href='https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model'>Source: The Verge</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>Govee’s new portable smart lamp is on sale for the first time</h3>
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&strip=all&crop=0,10.715601816121,100,78.568796367758' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)
 
-Govee’s cordless Table Lamp Classic is like the significantly cheaper version of the portable Philips Hue Go.
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Govee’s new portable smart lamp is on sale for the first time
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&strip=all&crop=0,10.715601816121,100,78.568796367758' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 Govee’s cordless Table Lamp Classic is like the significantly cheaper version of the portable Philips Hue Go.
 
@@ -731,17 +808,18 @@ The cordless lamp features a built-in 4,800mAh battery, which can last up to 30 
 
 In addition, the Govee supports adjustable color temperatures ranging from a warm 2700K to a cooler 6500K, and like with many of its smart lighting products, offers a slew of fun, colorful lights effects. You can have it sync to music while you’re hosting people, or switch between different preset scenes to set the mood, many of which are organized around specific moods and themes like “romance,” holidays, and more. Through Govee’s app, you can even type in prompts describing the vibe you want and the lamp will generate matching lighting effects for you. The lamp also supports Matter, meaning you can control it through major smart home platforms.
 
-Sign in to see your notifications or create an account to join the conversation.
-
-</div>
-<p>🔗 <a href='https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale'>Source: The Verge</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+</font>
 </div>
 
-<div align='center'>
-<h3>Palantir&#8217;s true believers are wearing this jacket</h3>
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268519_Why_would_Palantir_make_a_chore_coat__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='85%' style='border-radius: 12px; margin-bottom: 15px;' />
-<div align='justify' style='line-height: 1.6; color: #333; padding: 0 15px;'>
+ [🔗 Read Full Story on Source Website](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Palantir&#8217;s true believers are wearing this jacket
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268519_Why_would_Palantir_make_a_chore_coat__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:12px;'>
+
+<div align='justify'>
+<font size='4'>
 
 ﻿The data mining company with extensive defense contracts is making merch to signal which side you’re on.
 
@@ -759,10 +837,20 @@ As Articles of Interest documented, fashion and the military have a deeply entan
 
 Palantir’s merch is a new way for the laptop class to signal brand alignment
 
-</div>
-<p>🔗 <a href='https://www.theverge.com/report/928026/palantir-chore-coat'>Source: The Verge</a></p>
-<p>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+It’s also not so unusual that a defense contractor would wind up making products for the consumer market, Trufelman says: synthetic insulation by PrimaLoft was initially developed for the US military but now lines jackets sold at REI and bedding at L.L. Bean. Camouflage prints intended for elite soldiers are now also part of the uniform of fashionable civilians. The difference, of course, is that Palantir doesn’t really make clothes: It makes powerful (and sometimes poorly understood) software that even some of its own employees are increasingly concerned about. Palantir’s merch serves no tactical purpose for “warfighters,” but is a new way for the laptop class to signal brand alignment.
+
+“Palantir doing their version of it is sensible, because who are the people that are buying their clothes? They’re often urban knowledge workers, people that send email all day,” says Derek Guy, a menswear writer. (You may know him as “The Menswear Guy” on social media.) “It’s just a very fashionable garment at the moment for that kind of class.”
+
+</font>
 </div>
 
-<p align='right'><a href='#top'>🔼 Back to Top</a></p>
-<hr>
+ [🔗 Read Full Story on Source Website](https://www.theverge.com/report/928026/palantir-chore-coat)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+
+---
+
+<div align='center'>
+<h2>☕ Have a Great Day!</h1>
+</div>
