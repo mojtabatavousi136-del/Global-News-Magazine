@@ -2,42 +2,44 @@ import feedparser
 import datetime
 import requests
 from bs4 import BeautifulSoup
-import re
 
 def get_article_data(url):
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-        response = requests.get(url, headers=headers, timeout=10)
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36'}
+        response = requests.get(url, headers=headers, timeout=15)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # استخراج تصویر اصلی
+        # استخراج تصویر با اولویت بالا
         img_url = None
         meta_img = (soup.find("meta", property="og:image") or 
-                    soup.find("meta", attrs={"name": "twitter:image"}))
+                    soup.find("meta", attrs={"name": "twitter:image"}) or
+                    soup.find("meta", property="og:image:secure_url"))
+        
         if meta_img:
             img_url = meta_img.get('content')
 
-        # استخراج متن (۳ پاراگراف اول برای جلوگیری از طولانی شدن بیش از حد)
-        for el in soup(["script", "style", "nav", "header", "footer", "aside", "button", "form"]): 
+        # استخراج متن - بهینه‌شده برای خبرگزاری‌های سخت‌گیر مثل NYT
+        for el in soup(["script", "style", "nav", "header", "footer", "aside", "button", "form", "meta"]): 
             el.decompose()
+            
         paragraphs = soup.find_all('p')
-        text_blocks = [p.get_text().strip() for p in paragraphs if len(p.get_text()) > 80]
-        full_text = "\n\n".join(text_blocks[:3]) if text_blocks else "Visit the source for full coverage."
+        text_blocks = [p.get_text().strip() for p in paragraphs if len(p.get_text()) > 70]
+        full_text = "\n\n".join(text_blocks[:4]) if text_blocks else "Click 'Read Full Article' to view the content on the original website."
         
         return full_text, img_url
-    except:
-        return "Summary available at the source link.", None
+    except Exception as e:
+        return "Content preview is currently unavailable for this article.", None
 
 def get_news():
     now = datetime.datetime.now()
     
     FEEDS = {
-        '🌍 TOP GLOBAL AGENCIES': [
+        '🌍 GLOBAL AGENCIES': [
             ('BBC World', 'https://feeds.bbci.co.uk/news/world/rss.xml'),
             ('Reuters', 'https://www.reutersagency.com/feed/?best-topics=world-news&format=xml'),
-            ('Associated Press', 'https://newsatme.com/en/category/world/feed/'),
             ('The Guardian', 'https://www.theguardian.com/world/rss'),
-            ('NY Times', 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml')
+            ('NY Times', 'https://rss.nytimes.com/services/xml/rss/nyt/World.xml'),
+            ('Associated Press', 'https://newsatme.com/en/category/world/feed/')
         ],
         '🇮🇷 IRAN & MIDDLE EAST': [
             ('Al Jazeera', 'https://www.aljazeera.com/xml/rss/all.xml'),
@@ -54,59 +56,42 @@ def get_news():
         ]
     }
 
-    # ۱. هدر اصلی
-    content = f"""
-<div align="center">
-    <img src="https://img.icons8.com/fluency/100/news.png" width="80" />
-    <h1>MAHOOR WORLD PREMIER NEWS</h1>
-    <p>📅 {now.strftime('%A, %d %B %Y')} | 🕒 Updated every 4 hours</p>
-</div>
+    # هدر اصلی
+    content = f"<div align='center'>\n<h1 id='top'>MAHOOR WORLD PREMIER NEWS</h1>\n"
+    content += f"<p>📅 {now.strftime('%A, %d %B %Y')} | 🕒 Updated every 4 hours</p>\n</div>\n\n---\n\n"
 
----
-
-### 📌 QUICK NAVIGATION
-<div align="center">
-"""
-    # ۲. ایجاد منوی دسترسی سریع خودکار
+    # منوی دسترسی سریع (اصلاح شده با تگ A)
+    content += "### 📌 QUICK NAVIGATION\n<div align='center'>\n"
     for section, sources in FEEDS.items():
         content += f"**{section}**<br>\n"
-        links = []
-        for name, _ in sources:
-            anchor = name.lower().replace(" ", "-").replace("(", "").replace(")", "")
-            links.append(f"[{name}](#{anchor})")
+        links = [f"<a href='#{name.replace(' ', '_')}'>{name}</a>" for name, _ in sources]
         content += " | ".join(links) + "<br>\n"
-    
-    content += "</div>\n\n---"
+    content += "</div>\n\n---\n"
 
-    # ۳. استخراج و نمایش اخبار (۱۰ خبر برای هر منبع)
+    # بدنه اصلی اخبار
     for section, sources in FEEDS.items():
-        content += f"\n<br><h2 align='center' style='background-color: #f8f9fa; padding: 10px; border-radius: 10px;'>{section}</h2>\n"
+        content += f"\n<br><h2 align='center' style='background-color: #f0f0f0; border-radius: 8px;'>{section}</h2>\n"
         
         for name, url in sources:
-            anchor = name.lower().replace(" ", "-").replace("(", "").replace(")", "")
-            content += f"<br><h3 id='{anchor}' align='center' style='color: #0056b3;'>━━━ {name} ━━━</h3>\n\n"
+            # ایجاد لنگرگاه برای منو
+            content += f"<a name='{name.replace(' ', '_')}'></a>\n"
+            content += f"<br><h3 align='center' style='color: #0d47a1;'>● {name} ●</h3>\n\n"
             
             feed = feedparser.parse(url)
-            # انتخاب ۱۰ خبر اول
-            entries = feed.entries[:10]
-            
-            for entry in entries:
-                print(f"Fetching: {name} - {entry.title}")
+            for entry in feed.entries[:10]:
                 full_text, img_url = get_article_data(entry.link)
-
+                
                 content += f"<div align='center'>\n"
                 content += f"<h4>{entry.title}</h4>\n"
-                
                 if img_url:
-                    content += f"<img src='{img_url}' width='80%' style='border-radius: 10px;' />\n"
-                
+                    content += f"<img src='{img_url}' width='85%' style='border-radius: 12px;' />\n"
                 content += f"</div>\n\n"
-                content += f"<div align='justify' style='padding: 0 10%; font-size: 0.9em;'>\n\n{full_text}\n\n</div>\n"
-                content += f"<p align='center'>🔗 <a href='{entry.link}'>Read more on {name}</a></p>\n"
-                content += "<p align='center'>---</p>\n\n"
                 
-            content += "<p align='right'><a href='#-quick-navigation'>🔼 Back to Top</a></p>\n"
-            content += "<hr width='100%'>\n"
+                content += f"<div align='justify' style='padding: 0 8%;'>\n\n{full_text}\n\n</div>\n"
+                content += f"<p align='center'>🔗 <a href='{entry.link}'>Read Full Article</a></p>\n"
+                content += "<p align='center'>───</p>\n\n"
+                
+            content += f"<p align='right'><a href='#top'>🔼 Back to Navigation</a></p>\n<hr>\n"
             
     return content
 
