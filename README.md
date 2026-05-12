@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:08`
+**📅 Update:** `2026/05/12 - 05:11`
 
 ---
 
@@ -19,7 +19,7 @@
 <div align='justify'>
 <font size='4'>
 
-*Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes. (Note: Full text extraction was limited by source)*
+Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes, forcing some families to the streets. Gang violence has now displaced more than 1.4 million people across Haiti. Gangs control an estimated 90% of the capital after the former president was assassinated in his home in 2021.
 
 </font>
 </div>
@@ -34,7 +34,7 @@
 <div align='justify'>
 <font size='4'>
 
-*Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel. (Note: Full text extraction was limited by source)*
+Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel, where he alleged he was tortured and witnessed abuse of Palestinian prisoners during his 10 days in custody.
 
 </font>
 </div>
@@ -73,6 +73,12 @@ US Assistant Attorney General for National Security John A Eisenberg issued a st
 
 “Individuals elected to public office in the United States should act only for the people of the United States that they represent,” he said.
 
+“It is deeply concerning that someone who previously received and executed directives from PRC government officials is now in a position of public trust at all, but particularly so because that relationship with that foreign government had never been disclosed.”
+
+China’s embassy in Washington, DC, did not immediately respond to a request for comment.
+
+Wang’s prosecution comes as US President Donald Trump and Chinese President Xi Jinping are set to meet in Beijing on Wednesday for a summit expected to focus on the US-Israel war on Iran, trade, and the status of Taiwan, among other issues.
+
 </font>
 </div>
 
@@ -86,7 +92,9 @@ US Assistant Attorney General for National Security John A Eisenberg issued a st
 <div align='justify'>
 <font size='4'>
 
-*Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes. (Note: Full text extraction was limited by source)*
+Lebanese in south refuse to flee again despite escalating Israeli strikes
+
+Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced residents say they will not leave again despite a sharp rise in deaths and intensifying Israeli strikes.
 
 </font>
 </div>
@@ -124,6 +132,12 @@ Authorities first issued an arrest warrant for Morales in October 2024, but coul
 Morales was already declared in contempt of court in January 2025, when he did not show for a pretrial detention hearing.
 
 Wilfredo Chavez, one of his lawyers, told the AFP news agency on Friday that neither Morales nor his lawyers would show up in court, as they had not been “properly notified”.  The lawyer said the court did not send the summons to Morales’s address, but had instead served it through an edict.
+
+Morales, who rose from dire poverty to become one of Latin America’s longest-serving leaders, has slammed those “that persecute me and condemn me in record time”.
+
+His refusal to give up power in 2019 after three terms led to a tumultuous exit that cast a shadow over nearly 14 years of economic progress and poverty reduction.
+
+Forced to resign after elections tainted by fraud, he slipped away into exile in Mexico and later Argentina, but returned home a year later.
 
 </font>
 </div>
@@ -165,6 +179,12 @@ In response to Trump's comments, Baghaei said Iran would act "in any way necessa
 
 Speaking in the Oval Office later on Monday, Trump addressed the ceasefire between the two countries which has largely been observed since April despite occasional exchanges of fire.
 
+He told reporters: "I would say the ceasefire is on massive life support... when the doctor walks in and says, 'Sir, your loved one has approximately a 1 percent chance of living'."
+
+The US president said Iran's leaders were "very dishonourable people", adding: "Look, I've had to deal with them four or five times - they change their mind."
+
+"That piece of garbage they sent us - I didn't even finish reading it," he said.
+
 </font>
 </div>
 
@@ -201,6 +221,12 @@ There's no doubt, despite its steady show of strength, that China is eager for a
 The country's economy is already battling slower growth and higher unemployment. Increasing oil prices have driven up the cost of items made with petrochemicals, everything from textiles to plastics. For some producers in China, costs have gone up 20%.
 
 China has enviable oil reserves and the lead it has taken in renewables and electric cars has insulated it from the worst effects of the fuel crisis, but the war is causing more pain to a sluggish Chinese economy that is heavily reliant on exports. However, if China is to step in and help the US, it will still want something in return.
+
+The visit of Iranian Foreign Minister Abbas Araghchi to Beijing last week seemed designed to show the kind of hold and influence China has in the Middle East.
+
+The US was watching closely. "I hope the Chinese tell him what he needs to be told," said US Secretary of State Marco Rubio. "And that is that what you are doing in the Strait is causing you to be globally isolated. You're the bad guy in this."
+
+The US has also attempted to convince China not to block a new UN Security Council resolution condemning Iran's attacks on ships attempting to transit Hormuz after it, and Russia vetoed an earlier proposal.
 
 </font>
 </div>
@@ -239,6 +265,12 @@ As of Monday evening, the ship's operator Oceanwide Expeditions said 27 people r
 
 These include 17 people from the Philippines, four from the Netherlands (including the two medical staff), four from Ukraine, one from Russia and one from Poland.
 
+Ukraine's foreign ministry said the Ukrainians on board would help with the ships transfer to the Netherlands and would quarantine at a medical facility on arrival. It added that they had shown no signs of illness.
+
+More than 90 passengers of the MV Hondius, which was docked in Spain's Canary Islands, have been repatriated over the past few days.
+
+Four Canadian passengers landed in Victoria, British Columbia, on Sunday after taking a chartered flight from Tenerife to Quebec. Authorities said they would self-isolate and be monitored for at least three weeks.
+
 </font>
 </div>
 
@@ -275,6 +307,12 @@ Israeli politicians supporting the law say it will allow for a trial of historic
 The new law creates a special legal framework for prosecuting those accused of direct involvement in the attacks, including members of the Nukhba special forces unit of the al-Qassam Brigades, the military wing of Hamas, who were captured in Israel.
 
 They are expected to face charges ranging from terrorism and murder to sexual violence and also genocide - which will carry the death penalty. They will be tried before a special military court in Jerusalem with different rules from regular criminal trials.
+
+Key moments of hearings including the opening, verdict, and sentencing are due to be filmed and broadcast on a dedicated website.
+
+Victims of the 7 October assault and bereaved families joined parliamentary committee discussions about the new legislation.
+
+Carmit Palty Katzir said she took part to safeguard the rights of those who were worst affected.  Her brother, Elad Katzir was taken hostage from their childhood home in Kibbutz Nir Oz and killed in captivity. Her father, Rami was killed and her late mother, Hana, was taken hostage and later released.
 
 </font>
 </div>
@@ -313,6 +351,12 @@ Israeli media have reported that the sanctioned individuals and organisations in
 
 It is also reported that they include the organisations Nachala and Regavim, movements that promote settlements, as well as HaShomer Yosh and Amana, organisations that help to finance and assist unauthorised settlements known as outposts.
 
+Meir Deutsch, the CEO of Regavim, and Avichai Suissa, the CEO of HaShomer Yosh, are also reportedly on the list. Suissa was sanctioned by the US in 2024, but removed from the sanctions list under Donald Trump.
+
+Israel has built about 160 settlements housing some 700,000 Jews since it occupied the West Bank and East Jerusalem in the 1967 Middle East war. There are periods of near-daily reports of violence by settlers towards Palestinians. The UN documented more than 1,800 settler attacks in 2025 that resulted in casualties or damage to property, in around 280 communities across the West Bank.
+
+Recent examples include allegations Israeli settlers forced Palestinians to exhume a grave, which the UN human rights office condemned as "appalling"; a Palestinian man shot dead by an Israeli during a settler attack in the village of Tayasir; and a spate of attacks on villages including homes, vehicles, and agricultural fields set on fire.
+
 </font>
 </div>
 
@@ -328,8 +372,6 @@ It is also reported that they include the organisations Nachala and Regavim, mov
 
 <div align='justify'>
 <font size='4'>
-
-Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape
 
 Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well above the seasonal norm. Daytime highs are forecast to reach 10-15C above average in some areas.
 
@@ -356,8 +398,6 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 <div align='justify'>
 <font size='4'>
 
-1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries
-
 A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Morocco, the US army said on Sunday.
 
 Moroccan searchers found the remains on Saturday in the water within a mile (1.6km) of where the soldier went missing on 2 May, the army said in a statement.
@@ -383,8 +423,6 @@ The largest part of the exercise takes place in Morocco, involving approximately
 <div align='justify'>
 <font size='4'>
 
-Africa is leading a change in news consumption habits  – and transforming the lives of current affairs enthusiasts
-
 Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. She explained an argument that had erupted between the South African and Rwandan presidents, then listed roles different South African groups would play in a war with Rwanda: the Sotho strategists, the Xhosa negotiators, the Afrikaner muscle. The video went viral and she racked up 100,000 followers in three days.
 
 This breakout video enabled Jaxa to pivot from being a marketing and restaurant entrepreneur to a “professional yapper and current affairs enthusiast”, part of a group of content creators explaining the news to young South Africans who, like many of their global peers, are eschewing traditional news in favour of social media.
@@ -399,6 +437,8 @@ Guardian correspondents spoke to news influencers and analysts in the three coun
 
 Jaxa, 32, started posting explainer videos after an argument with her brother, who is 10 years younger than her, about him not voting. She realised “the generation coming after me was very disinterested”.
 
+“That was very concerning for me, because they are the next leaders,” she said.
+
 Jaxa considers herself to be a translator of the news for younger generations, not a replacement: “I don’t exist if there is no traditional media, because … all the content I do is from traditional media.”
 
 Recent topics tackled by Jaxa, who has degrees in philosophy, politics and economics and international relations, include the Iran war, the South African president’s annual state of the nation address and the budget, the last one sponsored by a bank. However, she makes most of her money from brand partnerships on Instagram, where she posts less news content.
@@ -406,6 +446,12 @@ Recent topics tackled by Jaxa, who has degrees in philosophy, politics and econo
 News used to be consumed communally in South Africa through a radio or TV, said Sisanda Nkoala, an associate professor at the University of the Western Cape. “The experience of the media being a place where people gather to watch the evening news, that has changed,” she said.
 
 She expressed concern that the shift to online news was widening South Africa’s digital divide. In the 2022 census, 21% of households reported not having internet access, many in rural areas.
+
+Valerie Keter got into news creation by chance in 2023 after watching Shaka iLembe, a South African historical drama series on King Shaka of the Zulu Kingdom. As a history buff who grew up watching international historical programmes, she was amazed by the production quality and accuracy and posted a reaction video on TikTok, describing the show as an example of how to preserve African stories for future generations. It blew up, with curious people asking in the comment section about other kingdoms from pre-colonial Africa.
+
+Keter took that as a challenge and started making videos on African history – including explainers and narrations of buried stories – from different countries across the continent and posting them online.
+
+She is part of a class of independent news creators in Kenya who, through the use of social and video platforms, are reaching audiences who are not engaging in traditional media.
 
 </font>
 </div>
@@ -419,8 +465,6 @@ She expressed concern that the shift to online news was widening South Africa’
 
 <div align='justify'>
 <font size='4'>
-
-Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison
 
 A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali authorities, along with two others, for his reporting for the Guardian.
 
@@ -444,6 +488,12 @@ In a statement released by Somali Journalists Syndicate (SJS), the journalists s
 
 Somali Stream, the media organisation which Mohamud works for, condemned the arrests as “an illegal and politically motivated attack on independent journalism”.
 
+AbdiKani Hamud Abokor, the outlet’s managing director, said: “Somali Stream strongly condemns the unlawful detention of Abdishakur [Mohamed] Mohamud, Abdihafid Nor [Barre], and Mohamed Bulbul. This is a deliberate attempt to terrorise journalists, suppress independent reporting and instil fear across Somalia’s media community.”
+
+The news follows the arrest of several journalists earlier this week. On 6 May, at least five local journalists were arrested and had their equipment confiscated, according to SJS. Two other broadcast journalists, Ja’far Mohamed Jim’ale and cameraman Nur Hasan Ali remain in detention – their whereabouts are unknown, the organisation added.
+
+According to the World Press Freedom Index, Somalia ranks 126 out of 180 countries. Journalists in the country work in an environment of great insecurity, according to Reporters Without Borders, which runs the index. With more than 50 media professionals killed since 2010, Somalia is one of the most dangerous countries for journalists in Africa.
+
 </font>
 </div>
 
@@ -456,8 +506,6 @@ Somali Stream, the media organisation which Mohamud works for, condemned the arr
 
 <div align='justify'>
 <font size='4'>
-
-Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands
 
 Two Britons who were medically evacuated from the hantavirus-hit cruise ship are improving, global health officials have said.
 
@@ -481,6 +529,14 @@ Morale on board has improved since the ship started its journey to Tenerife, the
 
 While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director-general of the WHO, said there could be more cases due to the incubation period of the Andes virus – the variant of hantavirus linked to the outbreak – which can be up to six weeks.
 
+He said: “While this is a serious incident, WHO assesses the public health risk as low.” He thanked the ship’s operator for its cooperation, and the passengers and crew, “who are going through a very difficult and frightening situation”.
+
+The WHO is not expecting the outbreak to be an epidemic, according to Dr Abdirahman Mahamud, the director at the alert and response coordination department. He highlighted a similar outbreak in Argentina in 2018-19 which led to 34 cases.
+
+Seven British people were among 30 from 12 nations who left the ship when it docked in the remote South Atlantic island of Saint Helena, including a Dutch woman who became unwell during onward travel and died. The woman was accompanying her husband’s body, which was being repatriated after he died on the ship on 11 April.
+
+On Thursday, a woman in Amsterdam, reported to be a flight attendant who came into contact with the woman who died, came forward with potential symptoms.
+
 </font>
 </div>
 
@@ -495,7 +551,7 @@ While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director
 <div align='justify'>
 <font size='4'>
 
-*Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island. (Note: Full text extraction was limited by source)*
+Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping is likely to focus on getting President Trump to slow approval of more weapons for the self-governing island.
 
 </font>
 </div>
@@ -508,7 +564,7 @@ While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director
 <div align='justify'>
 <font size='4'>
 
-*Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency. (Note: Full text extraction was limited by source)*
+Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.
 
 </font>
 </div>
@@ -521,7 +577,7 @@ While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director
 <div align='justify'>
 <font size='4'>
 
-*For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image. (Note: Full text extraction was limited by source)*
+For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.
 
 </font>
 </div>
@@ -534,7 +590,7 @@ While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director
 <div align='justify'>
 <font size='4'>
 
-*Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority. (Note: Full text extraction was limited by source)*
+Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.
 
 </font>
 </div>
@@ -547,7 +603,7 @@ While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director
 <div align='justify'>
 <font size='4'>
 
-*A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district. (Note: Full text extraction was limited by source)*
+A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.
 
 </font>
 </div>
@@ -588,6 +644,8 @@ Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of
 As winter turned to spring, the skies over the Gulf of Alaska displayed textbook examples of numerous cloud formations.
 
 After the Laurentide Ice Sheet retreated from present-day Hudson Bay, rebounding land has revealed striking nearshore topography.
+
+NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
 
 </font>
 </div>
@@ -709,7 +767,15 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*Welcome to New York, Swift family ... it's been waiting for you!!! Taylor Swift kept it all in the family during a cozy NYC outing Monday night ... stepping out with her parents and brother Austin for a low-key post Mother's Day dinner. The&hellip; (Note: Full text extraction was limited by source)*
+Welcome to New York, Swift family ... it's been waiting for you!!! Taylor Swift kept it all in the family during a cozy NYC outing Monday night ... stepping out with her parents and brother Austin for a low-key post Mother's Day dinner.
+
+The superstar singer looked relaxed in a petite black dress, silver pumps, and her signature red lip ... as the family made their way across the street before heading into a private dining spot at The Eighty Six in the West Village.
+
+Taylor's dad, Scott, and her brother played security as cameras gathered near the entrance, while her mom, Andrea, smiled while holding hands with her Hall of Fame daughter.
+
+Notably absent from the outing ... Taylor's soon-to-be hubby Travis Kelce -- but judging from her mood, she didn’t seem bothered one bit as she enjoyed a rare public night out with her fam.
+
+These adorbs pics have us thinking ... maybe the next time we see the Swift family all together it will be when they are walking Tay down the aisle!!!
 
 </font>
 </div>
@@ -724,7 +790,15 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*Kim Kardashian scored a massive six-figure award in legal fees from a man who unsuccessfully sued her, TMZ has learned. According to court docs obtained by TMZ, the reality star and mogul was awarded $167K of the $186K she requested from Ivan Cantu&hellip; (Note: Full text extraction was limited by source)*
+Kim Kardashian scored a massive six-figure award in legal fees from a man who unsuccessfully sued her, TMZ has learned.
+
+According to court docs obtained by TMZ, the reality star and mogul was awarded $167K of the $186K she requested from Ivan Cantu after she successfully shut down his lawsuit.
+
+As TMZ first reported, Cantu sued after Kim posted his photo on social media when she intended to post a photo of a different man with the same name — a death row inmate she was advocating for. Kim argued the mix-up was an honest mistake that she corrected immediately, while Cantu claimed the incident caused significant harm to his life.
+
+Ultimately, the judge sided with Kim and dismissed the claims. She then sought to recover her legal fees from Cantu.
+
+As TMZ previously reported, Cantu -- a father of two -- argued that being forced to pay a six-figure judgment to Kim would financially devastate him. The judge was not persuaded.
 
 </font>
 </div>
@@ -739,7 +813,21 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*George Floyd's family and friends are appalled Tony Hinchcliffe was invited back for a Netflix roast and they're blaming Kevin Hart for allegedly giving Tony the green light to do another joke about George ... a joke they didn't find funny in the&hellip; (Note: Full text extraction was limited by source)*
+George Floyd's family and friends are appalled Tony Hinchcliffe was invited back for a Netflix roast and they're blaming Kevin Hart for allegedly giving Tony the green light to do another joke about George ... a joke they didn't find funny in the slightest.
+
+Travis Cains, a spokesman for The Gianna and&nbsp;George Floyd Foundation, tells TMZ … Kevin condoning Tony's joke is "sad for the culture."
+
+Tony was among the comedians roasting Kevin, and during his set he proclaimed ... "The Black community is so proud of you… right now George Floyd is looking up at us all laughing so hard he can't breathe."
+
+We're told George's family and friends feels like Kevin should've told Tony to stay off that topic if nothing else ... and they're baffled and disgusted by Tony's apparent obsession with telling George Floyd jokes.
+
+During the Tom Brady roast, Tony joked that Rob Gronkowski "looked like the final boss in George Floyd the video game."
+
+George's daughter, Gianna, is 12 years old now -- she was only 6 when he died -- and the foundation says she's being bullied in school ... so it sounds like the jokes aren't helping.
+
+We're told George's family and friends feel Tony is a "racist comedian" ... and they're wondering how Kevin would feel about these jokes if "one of his friends" died instead of George.
+
+Bottom line from the foundation ... "We are trying to rebuild things for our community and make things better in our community. Let's try to be a little bit more positive and not sit up there doing colon inspections by white comedians."
 
 </font>
 </div>
@@ -754,7 +842,19 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*'Real Housewives of Beverly Hills' star PK Kemsley’s alleged income was revealed as part of his divorce battle with his estranged wife, Dorit Kemsley ... TMZ has learned. TMZ obtained court docs, filed by PK, where he claims he's bringing in a&hellip; (Note: Full text extraction was limited by source)*
+'Real Housewives of Beverly Hills' star PK Kemsley’s alleged income was revealed as part of his divorce battle with his estranged wife, Dorit Kemsley ... TMZ has learned.
+
+TMZ obtained court docs, filed by PK, where he claims he's bringing in a massive 5-figure monthly income.
+
+PK says he earned around $887,180 from April 2025 to March 2026 ... bringing in around $91,999 in net income each month.
+
+PK claims his monthly expenses include $16,500 on rent, $800 on health care, $6,402 on groceries, $3K on utilities, $1,770 on entertainment and gifts, and various other bills.
+
+The docs state that he has around $435K in cash and bank accounts and another $2 Million in property.
+
+In his filing, PK says he believed Dorit was earning at least $166K per month.
+
+As TMZ first reported, PK is asking a judge to authorize the immediate listing of their marital home on the market. He claims Dorit has spent over $1 Million on luxury clothes and travel while not paying the mortgage on their $6 Million home, which he says has put the home in danger of foreclosure.
 
 </font>
 </div>
@@ -769,7 +869,61 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
-*TMZ may collect a share of sales or other compensation from links on this page. Sabrina Carpenter stans have a lot to celebrate today ... because it's the pop princess' birthday! Whether you want to honor the iconic artist by playing her hits,&hellip; (Note: Full text extraction was limited by source)*
+TMZ may collect a share of sales or other compensation from links on this page.
+
+Sabrina Carpenter stans have a lot to celebrate today ... because it's the pop princess' birthday!
+
+Whether you want to honor the iconic artist by playing her hits, stealing her style or showing off some memorabilia ... we've got you covered.
+
+We've rounded up some pop star-inspired picks that are sure to Mountain Dew it for ya!
+
+Want more great finds? Head to&nbsp;TMZ Deals.
+
+Sweet Tooth by Sabrina Carpenter
+
+The Sweet Tooth by Sabrina Carpenter perfume line will have you smelling like you just stepped off Pretty Girl Avenue.
+
+There are a few fragrances to choose from -- Sweet Tooth, Me Espresso, Cherry Baby and Caramel Dream -- if you love a sweet scent.
+
+White Knee-High Boots
+
+These white knee-high-boots are reminiscent of Sabrina's "Emails I Can't Send" era ... and are great for fans who want to strut their stuff just like the pint-sized pop star.
+
+The platform and chunky heel give that go-go effect ... and they're perfect if you're looking for a little lift.
+
+Short n' Sweet Vinyl
+
+You already know we had to have the "Short n' Sweet" vinyl on our list! Sabrina already had some hits on her hands ... but this record really solidified her superstardom.
+
+It's got "Please Please Please," "Taste," and, of course, "Espresso" ... so it's definitely a fun one to play top to bottom!
+
+Redken Acidic Bonding Concentrate
+
+If you love Sabrina's luscious locks, you'll want to try the Redken Acidic Bonding Concentrate. She's a Redken partner ... so she's personally plugging the stuff.
+
+The Acidic Bonding Concentrate is listed as part of her hair routine on the brand's site ... and adding it into your own rotation seems like a much safer choice than chopping curtain bangs on a whim.
+
+Sabrina Carpenter Funko Pop!
+
+The Sabrina Carpenter Funko Pop! is just what you need if you want another a cute collectible to deck out your desk.
+
+It's styled in the iconic outfit she sported in her "Manchild" music video ... posed with the hitchhiking thumbs up and everything!
+
+Red Gingham Dress
+
+Anyone looking to steal Sabrina's style will love this red gingham dress ... similar to the one she wore when she celebrated the release of "Man's Best Friend."
+
+The lace detail adds a little flirty fun to the square neckline, and the spaghetti straps are adjustable so you can find your perfect fit.
+
+Man's Best Friend CD
+
+Last -- but certainly not least -- we have the "Man’s Best Friend" CD. If you love scream-singing to "Manchild" or dancing around your room to "House Tour" ... this is for you.
+
+Forget about your situationship ... just put on the Grammy-nominated CD have yourself a pop party instead.
+
+Sign up for Amazon Prime to get the best deals!
+
+All prices &amp; availability subject to change. Products are not official merchandise and are not affiliated with or endorsed by the celebrity unless explicitly stated.
 
 </font>
 </div>
