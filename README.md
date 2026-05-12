@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:59`
+**📅 Update:** `2026/05/12 - 09:56`
 
 ---
 
@@ -18,132 +18,150 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 US moves to release more oil stockpiles under IEA agreement
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-20T163141Z_958203687_RC23TKA36O31_RTRMADP_3_OIL-INVENTORIES-EIA-1778555463.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Live: First UK minister quits amid calls for PM Starmer’s resignation
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-02-27T160039Z_1652682126_RC213DAP5FTQ_RTRMADP_3_ASTRAZENECA-EMISSIONS-1778575895.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-The United States has announced its latest release of emergency oil stockpiles in coordination with the International Energy Agency (IEA).
-
-The US Department of Energy said on Monday that it had begun transferring 53.3 million barrels from the strategic petroleum reserve after awarding contracts to nine companies under its emergency exchange programme.
-
-Trafigura Trading LLC, a Texas-based commodities trading company, was granted the biggest haul of nearly 13 million barrels, with Marathon Petroleum Corporation and ExxonMobil set to receive 12.4 million barrels and 11.4 million barrels, respectively.
-
-Macquarie Commodities Trading US, Atlantic Trading & Marketing, BP Products North America, Energy Transfer Crude Marketing, Mercuria Energy America and Phillips 66 will receive between 1.05 million and 6.55 million barrels each, according to the Energy Department.
-
-Under the department’s exchange scheme, participating firms are required to replenish the stockpile with new barrels at a later date.
-
-“These actions continue to move oil swiftly into the market, address near-term supply needs, and ensure that the Strategic Petroleum Reserve remains strong through the return of premium barrels,” Kyle Haustveit, the head of the department’s Hydrocarbons and Geothermal Energy Office, said in a statement.
-
-The transfer comes after US President Donald Trump’s administration agreed in March to release 172 million barrels of crude as part of the IEA’s coordination of the largest unloading of global stockpiles in history.
-
-Oil prices have surged since the US and Israel launched their war on Iran in late February, with Tehran’s retaliatory blockade of the Strait of Hormuz paralysing one of the world’s most important trade routes.
-
-Maritime traffic in the strait has ground to a halt amid Iranian threats against commercial shipping, disrupting about one-fifth of the global oil trade.
-
-Oil prices continued to edge higher on Monday after Trump dismissed Iran’s latest peace proposal and warned that the ceasefire between the sides was “on life support”, dampening hopes for a quick resolution to the conflict.
+The British premier is under pressure to quit after his Labour Party suffered election losses.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/12/us-moves-to-release-more-oil-stockpiles-under-iea-agreement?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/12/live-first-uk-minister-resigns-amid-calls-for-pm-stamers-resignation?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel approves law on public trials, death penalty for October 7 detainees
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-31T151240Z_941610984_RC2QFKANIOUN_RTRMADP_3_ISRAEL-PALESTINIANS-DEATH-PENALTY-JERUSALEM-PROTEST-1778560861.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Zelenskyy says Russia fired over 200 drones at Ukraine as truce expires
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a02d20200a7-1778569730.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Israeli legislators have approved a bill to establish a special tribunal with the power to impose the death penalty on Palestinians accused of involvement in the Hamas-led attacks of October 7, 2023.
+Russia and Ukraine have resumed air attacks after a United States-brokered three-day truce expired, with President Volodymyr Zelenskyy saying more than 200 drones were used to attack Ukraine overnight.
 
-The bill passed 93-0 in Israel’s 120-seat parliament, the Knesset, late on Monday.
+Russian aerial attacks across Ukraine’s Dnipropetrovsk region on Tuesday morning killed at least one person and injured four others, according to regional administration chief Oleksandr Ganzha.
 
-Israeli and Palestinian rights groups warn that the bill will make the death penalty too easy to impose while also doing away with procedures safeguarding the right to a fair trial.
+Russian drones also hit energy infrastructure in Ukraine’s Mykolaiv region, causing outages, and struck residential buildings and a kindergarten in the Kyiv region, according to local authorities. Russia also carried out attacks on the regions of Kharkiv, Zhytomyr, Sumy and Chernihiv, according to authorities.
 
-Muna Haddad, a lawyer with Adalah – The Legal Center for Arab Minority Rights in Israel, told Al Jazeera that the bill intentionally lowers the legal protections to a fair trial to secure the mass conviction of Palestinians.
+More than 200 long-range drones were used in the wave of attacks, Zelenskyy said. “Russia itself chose to end the partial silence that had lasted for several days,” he said in a post on X.
 
-“The bill explicitly permits mass trials that deviate from standard rules of evidence, including broad judicial discretion to admit evidence obtained under coercive conditions that may amount to torture or ill-treatment,” Haddad said.
+Russia’s military, meanwhile, said its defences downed 27 Ukrainian drones over the regions of Belgorod, Voronezh and Rostov.
 
-“This constitutes a severe violation of fair trial guarantees that falls well short of international law requirements.”
+The exchange of aerial attacks came after the expiry of a 72-hour truce announced by US President Donald Trump on Friday, which he said he hoped would mark “the beginning of the end” of Russia’s four-year war on Ukraine.
 
-In a departure from standard Israeli judicial practice, which typically prohibits courtroom cameras, the bill mandates the filming and public broadcasting of key moments in the trials on a dedicated website.
+The May 9-11 truce overlapped with Russia’s Victory Day, which celebrates the defeat of Nazi Germany in the second world war.
 
-Haddad warned that this provision effectively “transforms proceedings into show trials at the expense of the accused’s rights”.
+But even before it expired, both sides accused each other of violating the truce by attacking civilians.
 
-“The provisions governing public hearings… violate the presumption of innocence, the right to a fair trial, and the right to dignity,” Haddad explained. “The framework effectively treats indictment as a finding of guilt, before any judicial examination has begun.”
+Zelenskyy said Russia was neither observing the truce nor “even particularly trying to”, adding there had been no calm in front-line areas despite a lull in large-scale attacks.
 
-Israel has been holding an estimated 200-300 Palestinians, including those captured in the country during the October 7 attacks, who have not yet been charged.
+Meanwhile, Russia’s Ministry of Defence accused Ukraine of committing more than 1,000 ceasefire violations. It said Ukrainian forces attacked civilian targets in several Russian regions and carried out strikes against Russian military positions on the front line.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/zelenskyy-says-russia-fired-over-200-drones-at-ukraine-as-truce-expires?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hundreds more displaced as gang violence escalates in Haiti’s capital
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 France’s Macron announces $27bn investment in Africa at Kenya summit
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a01a4c6-1778492614.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes.
+French President Emmanuel Macron has announced 23 billion euros ($27bn) of investment during the Africa Forward summit in Kenya.
+
+Macron said on Monday that Africa and France had a “partnership of equals” with common objectives, as he announced 14 billion euros ($16.4bn) of investments in private and public funds from French companies, and 9 billion euros ($10.5bn) from African ones, on energy transition, agriculture and artificial intelligence (AI).
+
+These investments would create 250,000 jobs in France and Africa, Macron said at the two-day summit – France’s first in an English-speaking African country – which started on Monday.
+
+“We are not simply here to come and invest on the African continent alongside you – we need great African business leaders to come and invest in France,” he told the heads of state and leaders of more than 30 African nations, including Francophone countries, at Nairobi’s convention centre.
+
+“And that too is what underpins this relationship, now entirely free of hang-ups,” Macron said.
+
+The summit is seen as an attempt by France to strengthen its ties with English-speaking African countries amid waning ties with its former colonies on the continent.
+
+Africa’s richest man, Nigerian industrialist Aliko Dangote, was in attendance, as were executives from leading French firms TotalEnergies and Orange.
+
+The French shipping group CMA CGM committed an investment of 700 million euros ($8.2m) to modernise a terminal at the Kenyan port of Mombasa.
+
+Many have observed that the summit comes as France’s influence in Africa has faded, with French forces recently forced to withdraw from former colonies. Macron aims to renew France’s engagement with the African continent, which he said he views as a “whole”, while positioning Europe as a more reliable trade partner than China or the United States.
+
+In advance of the summit, Macron told Paris-based magazine The Africa Report that colonialism could no longer be blamed for all of Africa’s challenges. “We must not exonerate from all responsibility the seven decades that followed independence,” he said, calling on African leaders to improve governance.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/frances-macron-announces-27bn-investment-in-africa-at-kenya-summit?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Flotilla activist Thiago Ávila arrives in Brazil
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 ‘Whole morning revolves around gas’: Pakistan’s fuel crisis enters kitchens
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Farhat-Qureshi-2-1778566104.jpg?resize=1200%2C630' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel.
+Karachi, Pakistan – Farhat Qureshi had been cooking most of her life without watching the clock. Now, at 60, her mornings begin with one question: how much can she finish before the gas in her kitchen disappears once again?
+
+The cooking gas at her Karachi home comes in short windows in the morning, afternoon and evening. If she misses a window, the cooking is delayed, food is reheated, plans are changed, and the kitchen waits.
+
+“I don’t think I have ever seen this happening in my whole life,” Qureshi told Al Jazeera. “My whole morning revolves around gas.”
+
+Pakistan’s energy crisis has intensified since the United States and Israel attacked Iran on February 28, turning a recent surplus of liquefied natural gas (LNG) into a looming shortage. Pakistan’s LNG imports had already fallen from 8.2 million tonnes in 2021 to 6.1 million tonnes by late 2025.
+
+The US-Israel war on Iran put further pressure on a system already strained by years of declining domestic production. Pakistan meets most of its daily gas needs from domestic gasfields, which have been in slow decline for years. Imported LNG, supplied mainly under long-term contracts, fills part of that gap when shipments flow normally. Almost all of Pakistan’s LNG comes from Qatar and the United Arab Emirates, and imported LNG powers roughly a quarter of the country’s electricity.
+
+With the onset of the war, LNG shipments dropped drastically. Monthly cargo data from Pakistan’s Oil and Gas Regulatory Authority (OGRA) shows that the country received between eight and 12 LNG shipments a month in 2025 and early 2026. In March, only two shipments arrived. Over the weekend, however, a Qatari LNG tanker crossed the Strait ⁠of Hormuz on its way to Pakistan – the first such transit since the start of the war.
+
+Pakistani households are experiencing the energy crisis differently: through the unpaid labour of women who wake up earlier, cook more quickly, rearrange meals, delay rest, and plan their entire days around the prospect of getting gas in their stoves.
+
+The timetable has altered the manner in which Qureshi navigates her house – or life. She cooks for four people, including her husband and two children, without any help, making the gas schedule central to how she plans the day.
+
+For her, cooking is a chore now broken into forced shifts. The gas in most Karachi households is first available between about 6am and 9:30am, for about two hours starting around noon, and again from 6pm to about 9:30pm. While it appears to be a manageable schedule, the supply is erratic, with low pressure making cooking a lengthier process.
+
+“It is very irritating that when it is time, the gas does not come. It is tiring to live like this,” she said.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_flotilla-acvtivist-returns-to-brazil-110526?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/12/whole-morning-revolves-around-gas-pakistans-fuel-crisis-enters-kitchens?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 California ex-mayor admits acting as agent of China, US authorities say
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Trump and Xi: The history of encounters between two superpower leaders
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a02281a3c-1778526234_a077c5-1778562124.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-The former mayor of a wealthy suburb in Los Angeles, the United States, has admitted to acting as an illegal agent of China, according to authorities.
+United States President Donald Trump’s visit to China this week will mark his seventh face-to-face meeting with Chinese President Xi Jinping.
 
-Eileen Wang, the former mayor of Arcadia, agreed to plead guilty to one count of acting as an illegal agent of a foreign government from late 2020 until 2022, the US Department of Justice said on Monday.
+The visit will also be the first trip by a US leader to China since 2017.
 
-Wang admitted that she did not notify the US government that she was acting on behalf of China while promoting pro-Beijing propaganda, the Justice Department said.
+Trump and Xi’s three-day summit, which kicks off on Wednesday, is expected to focus on the US-Israel war on Iran, trade, and the status of Taiwan, among other issues.
 
-The 58-year-old operated a website called the US News Center, which published content supportive of the People’s Republic of China (PRC) while purporting to provide news for Chinese Americans, the department said.
+Here’s a rundown of the past meetings between the leaders of the world’s two most powerful nations:
 
-She ran the site with Yaoning Sun, a Californian man who was sentenced to four years in prison after pleading guilty to acting as an illegal agent of a foreign government in October 2025, according to US prosecutors.
+The two first met at Trump’s private Mar-a-Lago resort on April 6, 2017, just a few months into his first term.
 
-Wang’s activities included republishing a “PRC official-written essay” that denied allegations that the Chinese government was committing genocide against ethnic-minority Uighurs in its far-western region of Xinjiang, according to prosecutors.
+At the time of their meeting, Trump was coming off a presidential campaign that had heavily criticised China’s trade practices and their impact on the US economy.
 
-She resigned as mayor on Monday, according to a statement published on the City of Arcadia’s website.
+Trump had also angered China by accepting a congratulatory phone call from then-Taiwanese President Tsai Ing-wen, breaking decades of diplomatic precedent set in 1979 when Washington cut off relations with Taipei.
 
-Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “mistakes she has made in her personal life”.
+During their Mar-a-Lago meeting, Trump appeared to build a personal rapport with Xi and said the two sides had made “tremendous progress” towards improving US-China relations.
 
-“It is important to note, however, that the conduct underlying the information and the agreement with the government relates solely to Ms. Wang’s personal life – i.e., a media platform that she once operated with someone whom she believed to be her fiancé – and not to her conduct as an elected public official,” Sun and Liang said in a statement.
+The summit was largely overshadowed, however, by Trump’s decision to launch airstrikes on Syria, then led by Beijing-backed Bashar al-Assad, during Xi’s visit.
 
-“Her love and devotion for the Arcadia community have not changed and did not waver,” they added.
+Xi and Trump met on the sidelines of the G20 summit on July 8, 2017, beginning a pattern of engagement that would see the leaders repeatedly cross paths at major international gatherings.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/trump-and-xi-a-recap-of-talks-between-two-of-the-worlds-most-powerful-men?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -183,8 +201,107 @@ Trump criticised the proposal, writing on Truth Social on Sunday: "I have just r
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 No sign of larger hantavirus outbreak, says UN health agency
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/dbe2/live/42e6f820-4dd2-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+<font size='4'>
+
+There is "no sign" of a larger hantavirus outbreak after the evacuation of the last passengers from a disease-stricken cruise ship, the head of the UN health agency has said.
+
+But the World Health Organisation's chief Tedros Adhanom Ghebreyesus warned "the situation could change" and there could still be more confirmed virus cases.
+
+The MV Hondius left Spain's Tenerife island on Monday and is sailing to the Dutch port of Rotterdam. Two flights with the final group of 28 passengers landed in nearby Eindhoven on Tuesday.
+
+Three people have died after travelling on the ship. An American and a French national who previously returned home have tested positive. Overall, seven cases have been confirmed.
+
+Twelve employees at a Dutch hospital are now in quarantine over possible exposure to the virus after treating one of the evacuated passengers.
+
+The hospital in the city of Nijmegen said on Monday this was a precautionary measure, as the workers did not follow strict protocols while handling the patient's blood and urine samples.
+
+At Tuesday's press conference in Madrid, Ghebreyesus said: "At the moment, there is no sign that we are seeing the start of a larger outbreak.
+
+"But of course the situation could change and, given the long incubation period of the virus, it's possible we might see more cases in the coming weeks."
+
+And he stressed that "our work is not over" to contain the outbreak from the cruise ship.
+
+Hantaviruses are usually carried by rodents, but human transmission of the Andes strain - which the World Health Organisation (WHO) believes some of the ship's passengers contracted in South America - is possible.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Snack giant switches to black and white packaging as Iran war hits ink supplies
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a8d6/live/3982e4b0-4dcd-11f1-b9c0-3f2598570d49.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Japanese snack giant Calbee says it will temporarily switch to black and white packaging for some its best-known products as supplies of an ingredient used in ink have been disrupted by the Iran war.
+
+The firm says new-style packets for 14 of its products, including crisps and prawn crackers, will start to appear in shops in Japan from 25 May.
+
+It marks the latest example of how everyday goods are being impacted after Iran effectively closed the key Strait of Hormuz waterway in retaliation for US and Israeli strikes on the country.
+
+In recent weeks, companies around the world have warned that supply disruptions to things like fuel, plastics and helium are pushing up costs for their businesses.
+
+Calbee said in a statement that the design change is a response to "supply instability affecting raw materials amid ongoing tensions in the Middle East."
+
+"This measure is intended to help maintain a stable supply of products," said Calbee.
+
+Oil and gas prices have surged since the conflict started on 28 February as shipments through the Strait of Hormuz halted.
+
+Supplies of naphtha, a byproduct of oil refining used in ink and plastics, have also been hit hard.
+
+Naphtha prices in Asia have almost doubled since the conflict started, pushing up costs for businesses in the region.
+
+Before the war, around 40% of Japan's naphtha was imported from the Middle East, Japan's deputy chief cabinet secretary Kei Sato told reporters on Tuesday.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 France seeks to move beyond colonial ties by meeting African leaders in Kenya
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/30fe/live/b976b1a0-4d42-11f1-b2c7-71155caf7f79.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Accused of neo-colonial meddling in many African countries where it has traditionally had close ties, France is broadening its horizons by co-hosting a summit of African leaders in English-speaking Kenya for the first time.
+
+Speaking at the Africa Forward Summit in the capital Nairobi on Monday, French President Emmanuel Macron announced investments worth $27bn (£20bn) in Africa in areas such as energy transition, digital and AI, the maritime economy and agriculture.
+
+"Africa is succeeding. It's the youngest continent in the world… and needs investment to become more self-reliant," he said, adding that this would create some 250,000 jobs in Africa, and in France.
+
+"We are not simply here to come and invest on the African continent alongside you - we need the great African business leaders to come and invest in France," he told the audience at Nairobi's convention centre, reports the AFP news agency.
+
+The two-day summit is aimed at broadening Paris's partnerships and making investment deals on the continent against a backdrop of rising anti-French sentiment and diminishing power in its former colonies, especially in West Africa. This reflects a step-change in how Paris thinks of its relationships with Africa.
+
+For many years after independence in the 1960s, France maintained close economic, political and security ties in many of its former colonies, leading to widespread accusations that little had changed.
+
+And French presidents over the years have held regular summits with African leaders - either in France or French-speaking Africa - until now.
+
+Gilles Yabi, a Senegal-based political analyst focusing on relations between France and Africa, told the BBC's Newsday programme: "There's a new generation of Africans who… want to turn the page on colonialism and post-colonial influence."
+
+Kenya's Foreign Minister Musalia Mudavadi called it an "opportunity for Africa to start speaking as one".
+
+"Having this summit being held in a non-French-speaking African country on the continent, to me, is a very, very big message that we should not be looking at engagements on the basis of the official languages that are spoken in those countries," he told the BBC.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 How the Trump-Xi summit could set superpower relations for many years to come
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ee1d/live/92cf9410-4ddb-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -216,108 +333,75 @@ There's no doubt, despite its steady show of strength, that China is eager for a
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Last passengers leave virus-hit cruise ship as three more test positive
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1688/live/697a7c50-4daa-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-<font size='4'>
-
-The last passengers have left the hantavirus-hit cruise ship, as authorities confirmed three new positive cases linked to the deadly outbreak.
-
-The MV Hondius departed Tenerife for the Netherlands on Monday after its final six passengers - four Australians, one Briton and one New Zealander - and some crew members disembarked.
-
-Three passengers have died after travelling on the ship, two of whom were confirmed to have had the virus.
-
-An American and a French national who had previously returned home have tested positive, authorities said. Seven cases of hantavirus linked to the MV Hondius have been confirmed, with two others suspected, according to the World Health Organization (WHO).
-
-Spain's health ministry said one Spaniard who is quarantining in Madrid after being evacuated from the vessel had also provisionally tested positive for hantavirus on Monday.
-
-On Monday, the US health department said a second American national on Sunday's repatriation flight had also shown mild symptoms, adding that both passengers had travelled back in "biocontainment units out of an abundance of caution".
-
-French Health Minister Stéphanie Rist said a woman was isolating in Paris and that her health was deteriorating, with 22 contacts traced.
-
-Two British nationals with confirmed cases are currently being treated in the Netherlands and South Africa.
-
-Seventeen Filipino crew members of the MV Hondius arrived in the Netherlands on Tuesday morning, according to the Philippine Embassy. Four crew members arrived earlier on Sunday evening.
-
-The embassy said the crew underwent medical testing and will be quarantined in local facilities.
-
-</font>
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Israel passes law to allow death penalty and public trials for those linked to 7 October
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6202/live/6bf5ec80-4dbe-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Israel has passed a new law to impose the death penalty and conduct public trials for those involved in the unprecedented Hamas-led attacks and mass hostage-taking in Israel in October 2023.
-
-The legislation was passed by 93 votes to 0 in Israel's parliament - the Knesset - and was unusually jointly sponsored by government and opposition politicians.
-
-"May everyone see how the victims and their families look into the whites of the eyes of those murderers, rapists and kidnappers," Yulia Malinovsky, a co-sponsor of the bill, told a news conference ahead of the parliamentary votes.
-
-"May everyone see how the State of Israel is a sovereign state which knows how to hold those who harmed it to account," the opposition politician said.
-
-"We have reached the finish line, which is actually the starting line: the beginning of historic trials, which the whole world will see."
-
-Israeli human rights groups have spoken out against the new law, opposing the principle of capital punishment but also warning against "show trials" based on confessions allegedly extracted under torture.
-
-7 October 2023 was the deadliest day in the history of Israel. Hamas-led fighters killed over 1,200 people in southern Israel, mostly civilians. Another 251 were kidnapped and held in captivity in the Gaza Strip, including men, women, children, and foreign nationals.
-
-The events triggered the deadliest ever war in Gaza, with 72,740 people killed to date - the majority children, women and the elderly, according to the Hamas-run Health Ministry.
-
-Although Israel's parliament passed the Death Penalty for Terrorists Law in March, aimed at Palestinians convicted of terrorism offences, it does not apply retroactively. This meant that separate legislation was required to deal with those alleged to have carried out the assault.
-
-Israeli politicians supporting the law say it will allow for a trial of historic significance, comparing it to that of the Nazi war criminal Adolf Eichmann.  Eichmann - an architect of the Jewish Holocaust - was hanged in 1962, becoming the only person previously sentenced to death by an Israeli civil court.
-
-</font>
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bac7/live/23515ea0-4dc4-11f1-a63a-f9b11b0b3303.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-<font size='4'>
-
-A Filipino senator who oversaw former president Rodrigo Duterte's deadly war on drugs has taken refuge inside the country's Senate, hours before the International Criminal Court unsealed a warrant for his arrest.
-
-Ronald Dela Rosa was pictured fleeing into the Senate on Monday as officers chased after him. He narrowly escaped and was placed under protective custody.
-
-Police later said they would not arrest him while he was in custody of the Senate.
-
-Dela Rosa is accused of the killing of at least 32 people between 2016 and 2018, as an "indirect co-perpetrator" in Duterte's anti-drugs campaign, in which thousands of alleged drug dealers were shot and killed.
-
-Former president Duterte has been in ICC custody in The Hague since his arrest in March 2025.
-
-Security camera footage played to lawmakers on Monday showed National Bureau of Investigation agents chasing Dela Rosa up flights of stairs and a corridor in the Senate building after he arrived.
-
-An ensuing standoff ended hours later with the chief of the National Bureau of Investigation telling reporters that they would not arrest Dela Rosa while he was in the custody of the Senate.
-
-Dela Rosa has said that he would remain within the Senate's premises and "do everything" to avoid being taken to the Hague.
-
-His lawyers say they have asked the Supreme Court to block his arrest in the absence of a valid Philippine judicial warrant.
-
-On Tuesday morning, Dela Rosa urged his supporters, who have gathered outside the Senate building, to "keep vigil in front of the Senate until the Supreme Court decides".
-
-</font>
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Internal displacements caused by violence or conflict at record high in 2025
+<img src='https://i.guim.co.uk/img/media/b811e0f2e21092d50146ecede9734b90a211d2bd/1170_0_6385_5108/master/6385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa70d4c74181ff74212064c03628d829' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+<font size='4'>
+
+The 32.3m surpasses those caused by disasters for the first time, as 82.2m people displaced in total around world
+
+The number of internal displacements triggered by conflict or violence around the world reached a record high in 2025, surpassing the number of disaster-driven internal displacements for the first time.
+
+A report published by the Internal Displacement Monitoring Centre (IDMC) shows that by the end of 2025 there were 32.3m conflict-driven internal displacements. That is 60% higher than those recorded the previous year, and – for the first time since data collection began in 2008 – above displacements driven by natural disasters, which reached 29.9m in 2025.
+
+Jan Egeland, the secretary general of the Norwegian Refugee Council, described the figures as a “sign of a global collapse” in basic protection of civilians.
+
+“Countless families are returning to destroyed homes and disappearing services – or cannot return at all. From DR Congo and Sudan to Iran and Lebanon, we see millions more displaced on top of the previous record numbers driven out of their homes,” he added.
+
+Internal displacements refer to each new instance that a person is forced to flee within the borders of their own country. The same person can be displaced several times.
+
+The IDMC’s Global Report on Internal Displacement also shows that the number of people displaced – during 2025 or earlier but who still remain displaced – remains high.
+
+In total, 82.2 million people were displaced in 2025, the second-highest figure after the historical peak in 2024 of 83.5 million and the first decrease in the number of people forced to flee since data collection began 20 years ago. The total number of internal displacements was 62.2m in 2025.
+
+The decline in the number of people displaced is due to people returning in parts of Sudan, the Democratic Republic of the Congo and Syria, and lack of data availability. However, the report highlights the decline in number “should not be mistaken for progress” as behind the numbers “lie hundreds of thousands of forced returns, destroyed infrastructure and deepening social and environmental pressures” that make permanent solutions for people unrealistic.
+
+More than 83% of the people displaced in 2025 were forced to flee their homes in their countries because of conflict and violence, with the remainder having left because of natural disasters.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Gaborone gold rush: how Botswana rose to the top of men’s sprinting
+<img src='https://i.guim.co.uk/img/media/58631b3978281c186bf828d106951ace8bda8298/0_0_3713_2971/master/3713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a5b98815ffdd8ef95a0739a43acd79c' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat
+
+It was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surged past South Africa’s Zakithi Nene to win the men’s 4x400m relay for Botswana. The home crowd, a sea of light blue, went wild.
+
+“It means so many things to us,” Letsile Tebogo, 22, the reigning 200m Olympic champion, who ran the second leg, told reporters afterwards. “Not just the team … but for the people that always cheer for us behind the TV. Now they had that experience to see first-hand how much effort, how much pressure, how much we give for them.”
+
+In an interview after the championships, the World Athletics president, Sebastian Coe, said: “I put that atmosphere in the top three that I’ve experienced live in athletics. The first was Cathy Freeman winning in Sydney. The second was Mo Farah hitting the front with a lap or so to go in the 10,000 in London, when the wall of noise was deafening … [This] comfortably sits in the top three for me.”
+
+Botswana, a country larger by area than Spain but with a population of just 2.5 million, has had a meteoric rise to the top of men’s sprinting. Tebogo’s Olympic gold in Paris in 2024 was the country’s first, and only its fourth medal of any colour. The men’s 4x400m relay team took silver, improving on bronze from three years earlier. Then, at the world championships in Tokyo last year, Kebinatshipi won the 400m while the relay team he anchored also took home gold.
+
+The athletes are superstars in Botswana, their faces plastered on billboards advertising everything from mobile phone contracts to milk. “My life has changed a lot,” Kebinatshipi told a press conference before the relays.
+
+The 22-year-old, who started running at school, said he now allowed half an hour for photos with fans when he went out shopping. “At first I was a bit nervous, because I wasn’t used to it … Nowadays I’m used to it, so it’s cool with me,” he said.
+
+Years-long investment in young athletes is one of the biggest reasons for the southern African country’s recent success, sports officials said. The Botswana Athletics Association’s chief executive, Mabua Mabua, said: “I must thank the school sports programmes that we used to have, because basically all of the athletes that you are seeing, the youthful ones, are coming from that programme.”
+
+He also highlighted the country’s infrastructure. “All of the preparations for the team are done locally. Normally people say: ‘No, they should go to Europe, USA, for preparations’. It’s local coaches, a local environment.”
+
+The Botswana National Sports Commission runs programmes for 15 sports to spot and nurture talent. Re Ba Bona Ha (“We See Them Here” in Setswana) is a coaching initiative for children aged five to 13 that was launched for football in 2002, with athletics added in 2008. Up to 300 children attended athletics sessions every year, said Frederick Kebadiretse, the BNSC’s sports development manager.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
 <img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4adcb1236732e90ee166d918d46cdab2' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -405,75 +489,96 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Guardian reporter and colleagues detained and beaten by Somali police
-<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8e493b85631d842360a066689e01fc9' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison
-
-A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali authorities, along with two others, for his reporting for the Guardian.
-
-Mohamed Bulbul was arrested with the journalists Abdihafid Nor Barre and Abdishakur Mohamed Mohamud on Friday evening while in a restaurant in the centre of the Somali capital, Mogadishu. They said they were assaulted by members of Somalia’s US-trained counter-terrorism police unit and taken to be questioned by police. All three were released in the early hours of Saturday morning.
-
-Media outlets and MPs said the arrests were unlawful and politically motivated. They come amid an intensifying crackdown as public anger grows with the ruling establishment, and the presidential term is due to end on 15 May.
-
-Abdirahman Abdishakur, an MP and leader of the opposition Wadajir party, condemned the arrests of the journalists. He wrote in a post on X that the president of Somalia’s administration “appears consumed by fear, confusion as the end of its mandate approaches”.
-
-He added: “Instead of addressing the growing public anger over forced displacement, land grabbing, and pursuing an inclusive political settlement to guide the country through this fragile transitional period, the administration has intensified repression against journalists, activists and outspoken young people.”
-
-It is believed Bulbul’s detention was linked to reporting on the case of Sadia Moalim Ali, a 27-year-old rickshaw driver who is in prison for peaceful protest and her activism on social media. He has also been speaking out about security forces’ violations and forced evictions in Mogadishu.
-
-On Thursday, the Guardian published a story by Bulbul, where Ali spoke about being tortured in Mogadishu central prison. She said she was stripped naked by two male guards in a room monitored by CCTV, kicked, beaten with a baton and left for two days in a small cell without food. The article was shared widely across Somali media, Facebook and X.
-
-He and the two other journalists had been facing sustained threats and intimidation in recent weeks. Their detention happened at a time of heightened political pressure surrounding planned protests expected to take place on Sunday.
-
-At the police headquarters, the three reporters said they were threatened by Mahdi Omar Mumin, Mogadishu police chief, should they continue to report on the protests.
-
-</font>
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital
-<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9286d5cbeca6c71a23ffde8517e7947' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands
-
-Two Britons who were medically evacuated from the hantavirus-hit cruise ship are improving, global health officials have said.
-
-A British passenger, understood to be a 69-year-old man, was taken to South Africa on 27 April and is receiving care at a private health facility in Sandton, Johannesburg.
-
-Another Briton, Martin Anstee, 56, an expedition guide, was taken off the MV Hondius on Wednesday and flown to the Netherlands to receive specialist medical care.
-
-Dr Maria Van Kerkhove, from the World Health Organization (WHO), said two patients – known to include a Briton – remained in hospital in the Netherlands and another Briton was in intensive care in South Africa.
-
-She told a WHO press briefing: “I am very happy to say the patient in South Africa is doing better, and the two patients in the Netherlands we hear are stable. So that is actually very good news.”
-
-As of Thursday there are eight suspected cases, five confirmed by lab tests as hantavirus, a rare family of viruses carried by rodents.
-
-The outbreak, linked to three deaths, has been connected to a birdwatching trip to Argentina, Chile and Uruguay that two of the passengers went on before boarding the ship.
-
-Spanish authorities have given permission for the ship to anchor in the Canary Islands, despite concerns from locals and officials, and the boat left the shores of Cape Verde at 3.15pm local time on Wednesday, the tour operator Oceanwide Expeditions said.
-
-It is estimated to arrive at the port of Granadilla in Tenerife in the early hours of Sunday.
-
-</font>
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
+### 📰 Dorit Kemsley's Pal Details Convo of Alleged Threat of 'Dirty Games' Against PK
+<img src='https://imagez.tmz.com/image/a1/16by9/2026/05/11/a1b3cb1bd85e4e05910092fa35fdc1ac_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+<font size='4'>
+
+"The Real Housewives of Beverly Hills" star Dorit Kemsley and her estranged husband, PK Kemsley, have a mutual friend who made shocking claims in the couple's bitter divorce ... TMZ has learned.
+
+Justin Levine -- who says he's known the couple for many years -- filed a bombshell declaration stating he tried to talk to Dorit in an effort to help resolve their ongoing issues over money and their $6 million marital home. Justin claims he tried to convince Dorit in early April to work with PK on an agreement over the property.
+
+Levine says, "During the call, [Dorit] became highly agitated before I was able to complete my explanation of the purpose of the call. While she has previously expressed frustration, this conversation was notably different in both tone and intensity."
+
+She allegedly told Justin to write down her demands and pass them along to PK. Justin claimed Dorit made it clear if the demands weren't met, she would "disclose private information" about PK to the public.
+
+Justin said Dorit wanted PK to send her $50K -- followed by another $50K -- to help with expenses for the kids. He claimed Dorit said if the $100K was sent, it would prevent her from engaging in what she described as "dirty games."
+
+When she was pressed about the $1 million, PK claims Dorit spent on clothes and travel, she told Justin that he had no idea about her contractual requirements with Bravo and that such "expenditures were necessary for her career." He claimed Dorit then became "increasingly hostile."
+
+Justin said he also asked if Dorit planned to travel internationally with the kids. He said she should ask PK for permission ... to which he says Dorit replied she was "not going to ask a f***ing thing.”
+
+As TMZ first reported, PK claims Dorit is spending widely on luxury clothes and travel, while ignoring mortgage payments ... leaving the property at risk of foreclosure.
+
+PK used the declaration as evidence in his effort to get the judge to authorize the immediate listing of the $6 million home Dorit is living in.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/dorit-kemsleys-pal-details-convo-where-she-allegedly-threatened-dirty-games-against-pk/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Hulk Hogan's Ex-Accountant Indicted for Allegedly Embezzling From Unidentified “Public Figure”
+<img src='https://imagez.tmz.com/image/43/16by9/2026/05/06/4382fcbdb3ef4b5ea35ef97deeda80bd_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Hulk Hogan's former accountant is facing a slew of federal charges for allegedly stealing more than $890,000 from a "public figure" in Florida, TMZ Sports has learned.
+
+The wrestling legend is not identified as the victim.
+
+Melissia Gauthreaux has been charged with six counts of wire fraud, after the feds say she used her business, Accounting Resources and Management Services, to embezzle enormous amounts of money between 2017 and 2021.
+
+Our sources tell us Hogan employed Gauthreaux during that time period ... and one of her duties was bookkeeping.
+
+Gauthreaux had signatory authority, according to the federal indictment, meaning she could sign docs on behalf of the alleged victim, allegedly allowing her to divert funds without consent.
+
+Of course, Hulk died last summer after suffering cardiac arrest at his Clearwater Beach home.
+
+Gauthreaux faces up to 20&nbsp;years in federal prison for each count, if convicted.
+
+The indictment follows a lengthy FBI investigation.
+
+Story developing ...
+
+</font>
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/hulk-hogan-cpa-indicted-for-alleged-theft/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Hayden Panettiere Reveals Harrowing Experience With 'Very Famous' Naked Man in Bed
+<img src='https://imagez.tmz.com/image/ed/16by9/2026/05/11/ed27872a55b34ea0abe30dbe2ea60e8a_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Hayden Panettiere is opening up about a terrifying experience she had with a naked Hollywood star, revealing she was trapped alone in bed with him on a boat.
+
+The actress sat down for an interview with Jay Shetty during Monday's episode of his "On Purpose" podcast and, at one point, their convo turned to the traumatic boat incident, which Hayden wrote about in her new memoir, "This Is Me: A Reckoning."
+
+Check out the clip ... Shetty first brings up the harrowing memory, and then Hayden goes into a long explanation, saying she was only 18 at the time and incapable of being fully aware of her surroundings. Even worse, Hayden said she was set up by an industry friend she trusted and viewed as a protector. &nbsp;
+
+That so-called friend led her down into a small room on the boat while at sea and physically put her into bed with the "undressed man," who Hayden described as "very famous."
+
+Hayden said after the friend left the room, she became "ferocious," telling herself "this is not happening," while scrambling around for some place to hide. Watch the rest of the clip to find out how it all ended.
+
+Scary stuff!
+
+</font>
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/hayden-panettiere-jay-shetty/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Taylor Swift Steps Out for Family Dinner in NYC
 <img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
@@ -497,158 +602,67 @@ These adorbs pics have us thinking ... maybe the next time we see the Swift fami
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Kim Kardashian Awarded Big Payday Despite Man Claiming Judgment Would Ruin Him
-<img src='https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Kim Kardashian scored a massive six-figure award in legal fees from a man who unsuccessfully sued her, TMZ has learned.
-
-According to court docs obtained by TMZ, the reality star and mogul was awarded $167K of the $186K she requested from Ivan Cantu after she successfully shut down his lawsuit.
-
-As TMZ first reported, Cantu sued after Kim posted his photo on social media when she intended to post a photo of a different man with the same name — a death row inmate she was advocating for. Kim argued the mix-up was an honest mistake that she corrected immediately, while Cantu claimed the incident caused significant harm to his life.
-
-Ultimately, the judge sided with Kim and dismissed the claims. She then sought to recover her legal fees from Cantu.
-
-As TMZ previously reported, Cantu -- a father of two -- argued that being forced to pay a six-figure judgment to Kim would financially devastate him. The judge was not persuaded.
-
-</font>
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/kim-kardashian-awarded-money-from-ivan-cantu/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 George Floyd's Family Rips Tony Hinchcliffe, Kevin Hart Over 'Roast' Joke
-<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-<font size='4'>
-
-George Floyd's family and friends are appalled Tony Hinchcliffe was invited back for a Netflix roast and they're blaming Kevin Hart for allegedly giving Tony the green light to do another joke about George ... a joke they didn't find funny in the slightest.
-
-Travis Cains, a spokesman for The Gianna and&nbsp;George Floyd Foundation, tells TMZ … Kevin condoning Tony's joke is "sad for the culture."
-
-Tony was among the comedians roasting Kevin, and during his set he proclaimed ... "The Black community is so proud of you… right now George Floyd is looking up at us all laughing so hard he can't breathe."
-
-We're told George's family and friends feels like Kevin should've told Tony to stay off that topic if nothing else ... and they're baffled and disgusted by Tony's apparent obsession with telling George Floyd jokes.
-
-During the Tom Brady roast, Tony joked that Rob Gronkowski "looked like the final boss in George Floyd the video game."
-
-George's daughter, Gianna, is 12 years old now -- she was only 6 when he died -- and the foundation says she's being bullied in school ... so it sounds like the jokes aren't helping.
-
-We're told George's family and friends feel Tony is a "racist comedian" ... and they're wondering how Kevin would feel about these jokes if "one of his friends" died instead of George.
-
-Bottom line from the foundation ... "We are trying to rebuild things for our community and make things better in our community. Let's try to be a little bit more positive and not sit up there doing colon inspections by white comedians."
-
-</font>
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/george-floyd-family-angry-over-kevin-hart-roast/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 RHOBH’s Dorit Kemsley’s Estranged Husband PK’s Monthly Income Revealed in Court
-<img src='https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-<font size='4'>
-
-'Real Housewives of Beverly Hills' star PK Kemsley’s alleged income was revealed as part of his divorce battle with his estranged wife, Dorit Kemsley ... TMZ has learned.
-
-TMZ obtained court docs, filed by PK, where he claims he's bringing in a massive 5-figure monthly income.
-
-PK says he earned around $887,180 from April 2025 to March 2026 ... bringing in around $91,999 in net income each month.
-
-PK claims his monthly expenses include $16,500 on rent, $800 on health care, $6,402 on groceries, $3K on utilities, $1,770 on entertainment and gifts, and various other bills.
-
-The docs state that he has around $435K in cash and bank accounts and another $2 Million in property.
-
-In his filing, PK says he believed Dorit was earning at least $166K per month.
-
-As TMZ first reported, PK is asking a judge to authorize the immediate listing of their marital home on the market. He claims Dorit has spent over $1 Million on luxury clothes and travel while not paying the mortgage on their $6 Million home, which he says has put the home in danger of foreclosure.
-
-</font>
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/pk-kemsley-salary-revealed/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Sabrina Carpenter's Birthday: Celebrate with These Products
-<img src='https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 From Top Gun to Barbie: Best Movie Sunglasses to Shop Now
+<img src='https://imagez.tmz.com/image/68/16by9/2026/05/08/687d432001aa4e2694b165da79f1a525_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
-Sabrina Carpenter stans have a lot to celebrate today ... because it's the pop princess' birthday!
+Nothing says you're cool like a cool pair of sunglasses. And no one makes cool sunglasses look cooler than the iconic movie characters that wear 'em!
 
-Whether you want to honor the iconic artist by playing her hits, stealing her style or showing off some memorabilia ... we've got you covered.
-
-We've rounded up some pop star-inspired picks that are sure to Mountain Dew it for ya!
+From ol' classics to the hot new stuff, here are some sweet selections of sick sunglasses from beyond the silver screen that can accompany you this summer!
 
 Want more great finds? Head to&nbsp;TMZ Deals.
 
-Sweet Tooth by Sabrina Carpenter
+The Fall Guy
 
-The Sweet Tooth by Sabrina Carpenter perfume line will have you smelling like you just stepped off Pretty Girl Avenue.
+You'll fall head over heels like a stuntman for these BlueBlocker Viper Sunglasses ... kinda like how Colt does for Jody in 2024's The Fall Guy! These glasses are for the fellas who do hardcore sh*t and then cry their feelings to some Taylor Swift by the beach.
 
-There are a few fragrances to choose from -- Sweet Tooth, Me Espresso, Cherry Baby and Caramel Dream -- if you love a sweet scent.
+Don't be embarrassed by the callout ... if Ryan Gosling can do it and make it look cool, we know you can too! Sorta.
 
-White Knee-High Boots
+Barbie
 
-These white knee-high-boots are reminiscent of Sabrina's "Emails I Can't Send" era ... and are great for fans who want to strut their stuff just like the pint-sized pop star.
+Alright ladies, tell the patriarchy to shove it and do it in style ... with these Cat Eye sunglasses that look straight outta the Barbie movie! If there's any pair of shades you can put on that tell the world you're a queen who has got no time for mansplaining, these are certainly the ones. So dig your heels into the ground and take the world by storm just the way Margot Robbie does in Greta Gerwig's summer 2023 classic!
 
-The platform and chunky heel give that go-go effect ... and they're perfect if you're looking for a little lift.
+And if that's not your vibe at the moment, they're also good for hiding your boredom when Ryan Gosling strums his guitar at you.
 
-Short n' Sweet Vinyl
+Top Gun / Sex and the City 2
 
-You already know we had to have the "Short n' Sweet" vinyl on our list! Sabrina already had some hits on her hands ... but this record really solidified her superstardom.
+Whether you want to feel sexy in a Top Gun kinda way, or a Sex and the City kinda way, these classic aviator sunglasses are the perfect choice!
 
-It's got "Please Please Please," "Taste," and, of course, "Espresso" ... so it's definitely a fun one to play top to bottom!
+Ray Bans are a classic look no matter what inspires you to get them. And it just so happens that these glasses are SO versatile that you can find them on jet-flying icons like Maverick to classic New York City socialites like Carrie Bradshaw!
 
-Redken Acidic Bonding Concentrate
+"Mr. Orange" Reservoir Dogs
 
-If you love Sabrina's luscious locks, you'll want to try the Redken Acidic Bonding Concentrate. She's a Redken partner ... so she's personally plugging the stuff.
+What's wrong with being Mr. Pink? Well, Mr. Pink doesn't have these Clubmaster sunglasses worn by Mr. Orange in Reservoir Dogs!
 
-The Acidic Bonding Concentrate is listed as part of her hair routine on the brand's site ... and adding it into your own rotation seems like a much safer choice than chopping curtain bangs on a whim.
+If your dream is to walk down some back-alley in slow-mo, with some cool sunglasses, a cigarette, a nice black suit, and not tipping your waiter because you don't believe in it ... then these are the sunglasses for you! They're so good, Tarantino had to put them in his debut film ... how's that for style?
 
-Sabrina Carpenter Funko Pop!
+Fast & Furious Presents: Hobbs & Shaw
 
-The Sabrina Carpenter Funko Pop! is just what you need if you want another a cute collectible to deck out your desk.
+If you want fast, get a car. If you want furious, hit the gym. But if you want both ... Get these Ray-Ban sunglasses sported by the one-and-only Dwayne Johnson in Fast &amp; Furious Presents: Hobbs &amp; Shaw!
 
-It's styled in the iconic outfit she sported in her "Manchild" music video ... posed with the hitchhiking thumbs up and everything!
+There are no better glasses on this list that tell people you're an ice-cold can of whoop-a** than these!
 
-Red Gingham Dress
-
-Anyone looking to steal Sabrina's style will love this red gingham dress ... similar to the one she wore when she celebrated the release of "Man's Best Friend."
-
-The lace detail adds a little flirty fun to the square neckline, and the spaghetti straps are adjustable so you can find your perfect fit.
-
-Man's Best Friend CD
-
-Last -- but certainly not least -- we have the "Man’s Best Friend" CD. If you love scream-singing to "Manchild" or dancing around your room to "House Tour" ... this is for you.
-
-Forget about your situationship ... just put on the Grammy-nominated CD have yourself a pop party instead.
+For more curated product lists check out TMZ Deals.
 
 Sign up for Amazon Prime to get the best deals!
 
-All prices &amp; availability subject to change. Products are not official merchandise and are not affiliated with or endorsed by the celebrity unless explicitly stated.
+All prices &amp; availability subject to change. Not official merchandise unless explicitly stated.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/cool-movie-sunglasses-you-can-buy/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Xi Poised to Press Trump on Arms Sales to Taiwan
+### 📰 Xi Is Poised to Press Trump on Arms Sales to Taiwan
 <div align='justify'>
 <font size='4'>
 
@@ -700,16 +714,16 @@ Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of va
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Supreme Court Clears Path for Alabama to Use New Voting Map
+### 📰 Who Might Challenge Starmer in a Leadership Contest?
 <div align='justify'>
 <font size='4'>
 
-A majority of the justices sided with Alabama in a move that could speed up efforts to put in place a congressional district map that would eliminate a majority-Black district.
+Health Secretary Wes Streeting, Mayor of Greater Manchester Andy Burnham and former deputy prime minister Angela Rayner are among possible contenders.
 
 </font>
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/europe/who-could-replace-starmer-uk-prime-minister.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
