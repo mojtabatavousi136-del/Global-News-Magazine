@@ -9,7 +9,7 @@ def get_full_content(entry, source_name):
     image_url = None
     full_text = None
     
-    # استخراج عکس
+    # 1. استخراج تصویر
     if 'media_content' in entry:
         image_url = entry.media_content[0]['url']
     elif 'links' in entry:
@@ -18,60 +18,50 @@ def get_full_content(entry, source_name):
                 image_url = link.href
                 break
 
+    # 2. تلاش برای استخراج متن
     try:
-        # هدرهای پیشرفته برای دور زدن محدودیت‌های الجزیره
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept-Language': 'en-US,en;q=0.9'
         }
         
-        response = requests.get(entry.link, headers=headers, timeout=20)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.content, 'html.parser')
-            
-            # پیدا کردن عکس اگر در RSS نبود
-            if not image_url:
-                img_tag = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
-                if img_tag: image_url = img_tag["content"]
+        # برای الجزیره ابتدا تلاش می‌کنیم اگر نشد از متد کمکی استفاده می‌کنیم
+        response = requests.get(entry.link, headers=headers, timeout=15)
+        
+        # اگر بلاک شدیم (کد 403)، از خلاصه RSS استفاده می‌کنیم تا خالی نماند
+        if response.status_code != 200:
+            return image_url, None
 
-            # حذف المان‌های مزاحم
-            for junk in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'button', 'svg', 'ul', 'ol', 'iframe']):
-                junk.decompose()
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        # پیدا کردن عکس در صورت نبودن در RSS
+        if not image_url:
+            img_tag = soup.find("meta", property="og:image")
+            if img_tag: image_url = img_tag["content"]
 
-            # منطق اختصاصی برای الجزیره
-            article_body = None
-            if source_name == "Al Jazeera":
-                # جستجوی کلاس‌های جدید الجزیره
-                article_body = soup.find('div', class_='wysiwyg') or \
-                               soup.find('div', class_=re.compile(r'wysiwyg--all-content')) or \
-                               soup.find('div', class_='article-body')
-            
-            # اگر الجزیره نبود یا کلاس‌های بالا پیدا نشدند
-            if not article_body:
-                article_body = soup.find('article') or \
-                               soup.find('div', class_=re.compile(r'article-body|content|main-text|post-content|wsw'))
+        # تمیز کردن صفحه
+        for junk in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'button']):
+            junk.decompose()
 
-            source_to_use = article_body if article_body else soup
-            paragraphs = source_to_use.find_all('p')
+        # یافتن بدنه اصلی خبر (مخصوص الجزیره و بقیه)
+        # الجزیره از کلاس 'wysiwyg' یا 'article-body' استفاده می‌کند
+        content_div = soup.find('div', class_=re.compile(r'wysiwyg|article-body|all-content|main-content'))
+        if not content_div:
+            content_div = soup.find('article')
 
+        if content_div:
+            paragraphs = content_div.find_all('p')
             text_parts = []
-            junk_words = ["Subscribe", "Share this", "Follow us", "Advertisement", "Read more", "©", "Sign up", "Loading..."]
-            
             for p in paragraphs:
                 txt = p.get_text().strip()
-                # حساسیت پاراگراف را برای الجزیره کمی کمتر کردیم تا متن بیشتری بیاید
-                if len(txt) > 50 and not any(word in txt for word in junk_words):
-                    if txt not in text_parts:
-                        text_parts.append(txt)
+                if len(txt) > 60: # پاراگراف‌های واقعی
+                    text_parts.append(txt)
             
             if text_parts:
-                limit = 15 if source_name == "Al Jazeera" else 10
-                full_text = '\n\n'.join(text_parts[:limit])
+                full_text = '\n\n'.join(text_parts[:12]) # نمایش 12 پاراگراف
+
     except Exception as e:
-        print(f"Error scraping {source_name}: {e}")
+        print(f"Scraping failed for {source_name}: {e}")
         
     return image_url, full_text
 
@@ -90,48 +80,49 @@ def main():
     now = datetime.now()
     now_str = now.strftime('%Y/%m/%d - %H:%M')
     
+    # ساختار هدر و منوی ناوبری
     markdown = f"<div align=\"center\">\n\n# 📰 MAHOOR WORLD PREMIER NEWS\n\n**📅 Update:** `{now_str}`\n\n---\n\n### 📌 QUICK NAVIGATION\n"
     
-    links_list = []
+    nav_links = []
     for name in sources.keys():
         anchor = name.lower().replace(" ", "-")
-        links_list.append(f"[{name}](#{anchor})")
+        nav_links.append(f"[{name}](#{anchor})")
     
-    markdown += " | ".join(links_list) + "\n\n--- \n</div>\n\n"
+    markdown += " | ".join(nav_links) + "\n\n--- \n</div>\n\n"
 
     for name, url in sources.items():
-        print(f"--- Processing: {name} ---")
+        print(f"Processing: {name}")
         feed = feedparser.parse(url)
         
-        anchor = name.lower().replace(" ", "-")
+        # آیدی هدر برای کارکردن منوی ناوبری
         markdown += f"## {name}\n"
         
         if not feed.entries:
-            markdown += "> ⚠️ *Source temporarily unavailable.*\n\n"
+            markdown += "> ⚠️ *Currently unavailable.*\n\n"
             continue
-        
+            
         for entry in feed.entries[:5]:
             markdown += f"### 📰 {entry.title}\n"
+            
             img, content = get_full_content(entry, name)
             
             if img:
-                markdown += f"<img src='{img}' width='100%' style='border-radius:12px;'>\n\n"
+                markdown += f"<img src='{img}' width='100%' style='border-radius:15px;'>\n\n"
             
             markdown += "<div align='justify'>\n<font size='4'>\n\n"
             
             if content:
                 markdown += f"{content}\n\n"
             else:
-                # اگر استخراج متن کامل شکست خورد، خلاصه فید را نشان بده
+                # جایگزین در صورت شکست استخراج متن: استفاده از خلاصه فید RSS
                 summary = re.sub('<[^<]+?>', '', entry.get('summary', ''))
-                if not summary or len(summary) < 10:
-                    summary = entry.get('title', '')
+                if not summary: summary = entry.get('description', 'No description available.')
                 markdown += f"*{summary}*\n\n"
             
             markdown += "</font>\n</div>\n\n"
             markdown += f" [🔗 Read Full Story on {name}]({entry.link})\n\n"
             markdown += "<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n"
-            
+        
         markdown += "\n---\n"
 
     with open("README.md", "w", encoding="utf-8") as f:
