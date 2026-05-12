@@ -82,9 +82,9 @@ def main():
         "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
         "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
         "The Guardian": "https://www.theguardian.com/world/rss",
+        "TMZ": "https://www.tmz.com/rss.xml"
         "NY Times": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
         "NASA News": "https://www.nasa.gov/news-release/feed/",
-        "TMZ": "https://www.tmz.com/rss.xml"
     }
 
     now_str = datetime.now().strftime('%Y/%m/%d - %H:%M')
