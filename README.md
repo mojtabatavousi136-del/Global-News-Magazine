@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 04:50`
+**📅 Update:** `2026/05/12 - 04:52`
 
 ---
 
@@ -24,7 +24,7 @@
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -39,7 +39,7 @@
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_flotilla-acvtivist-returns-to-brazil-110526?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_flotilla-acvtivist-returns-to-brazil-110526?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -82,7 +82,7 @@ China’s embassy in Washington, DC, did not immediately respond to a request 
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -97,7 +97,7 @@ China’s embassy in Washington, DC, did not immediately respond to a request 
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -140,7 +140,7 @@ Forced to resign after elections tainted by fraud, he slipped away into exile in
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -176,7 +176,7 @@ Trump criticised the proposal, writing on Truth Social on Sunday: "I have just r
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -209,7 +209,7 @@ There's no doubt, despite its steady show of strength, that China is eager for a
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -242,7 +242,7 @@ Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomitin
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -255,6 +255,8 @@ Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomitin
 Israel has passed a new law to impose the death penalty and conduct public trials for those involved in the unprecedented Hamas-led attacks and mass hostage-taking in Israel in October 2023.
 
 The legislation was passed by 93 votes to 0 in Israel's parliament - the Knesset - and was unusually jointly sponsored by government and opposition politicians.
+
+The remaining 27 lawmakers were absent or abstained.
 
 "May everyone see how the victims and their families look into the whites of the eyes of those murderers, rapists and kidnappers," Yulia Malinovsky, a co-sponsor of the bill, told a news conference ahead of the parliamentary votes.
 
@@ -270,12 +272,10 @@ The events triggered the deadliest ever war in Gaza, with 72,740 people killed t
 
 Although Israel's parliament passed the Death Penalty for Terrorists Law in March, aimed at Palestinians convicted of terrorism offences, it does not apply retroactively. This meant that separate legislation was required to deal with those alleged to have carried out the assault.
 
-Israeli politicians supporting the law say it will allow for a trial of historic significance, comparing it to that of the Nazi war criminal Adolf Eichmann.  Eichmann - an architect of the Jewish Holocaust - was hanged in 1962, becoming the only person previously sentenced to death by an Israeli civil court.
-
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -308,7 +308,7 @@ EU officials said that seven settlers or settler organisations would be sanction
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -338,7 +338,7 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa)
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -365,7 +365,7 @@ The largest part of the exercise takes place in Morocco, involving approximately
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -398,7 +398,7 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media)
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -431,7 +431,7 @@ At the police headquarters, the three reporters said they were threatened by Mah
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police)
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -464,7 +464,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital)
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -482,7 +482,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -497,7 +497,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -512,7 +512,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -527,7 +527,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -542,7 +542,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -581,7 +581,7 @@ Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of
 </font>
 </div>
 
- [🔗 Read Full Story](https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/)
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -590,6 +590,8 @@ Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of
 
 <div align='justify'>
 <font size='4'>
+
+Written by Michelle Minitti, MAHLI Deputy Principal Investigator
 
 While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was enabled by the ingenuity of the Curiosity engineers and scientists manifested in this extraordinary time lapse. It demonstrates the careful dance of arm motions employed — each one diligently planned by the team — to free Curiosity’s drill from the “Atacama” target. Watch the arm twist, bend, and turn with a rock slab attached, and be amazed.
 
@@ -610,7 +612,7 @@ The key to understanding the past, present or future potential for life on Mars 
 </font>
 </div>
 
- [🔗 Read Full Story](https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/)
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -631,7 +633,7 @@ Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by C
 </font>
 </div>
 
- [🔗 Read Full Story](https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/)
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -658,7 +660,7 @@ Until then, zoom in, look closely, and enjoy the challenge. See you at the revea
 </font>
 </div>
 
- [🔗 Read Full Story](https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/)
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -685,7 +687,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -703,7 +705,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.tmz.com/2026/05/11/taylor-swift-new-york-family-dinner-pictures/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/taylor-swift-new-york-family-dinner-pictures/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -718,7 +720,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.tmz.com/2026/05/11/kim-kardashian-awarded-money-from-ivan-cantu/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/kim-kardashian-awarded-money-from-ivan-cantu/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -733,7 +735,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.tmz.com/2026/05/11/george-floyd-family-angry-over-kevin-hart-roast/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/george-floyd-family-angry-over-kevin-hart-roast/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -748,7 +750,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.tmz.com/2026/05/11/pk-kemsley-salary-revealed/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/pk-kemsley-salary-revealed/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -763,7 +765,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -776,6 +778,8 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <div align='justify'>
 <font size='4'>
 
+OpenAI’s Daybreak combines GPT-5.5-Cyber and Codex Security.
+
 OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization’s code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.
 
 Its launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was too dangerous to publicly release and only shared privately as a part of its own initiative, dubbed Project Glasswing. Still, that didn’t stop at least a few unauthorized parties from getting access.
@@ -787,7 +791,7 @@ Daybreak also involves specialized cyber models, including GPT-5.5 with Trusted 
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
+ [🔗 Read Full Story on The Verge](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -805,6 +809,8 @@ Shouldn’t Yarbo’s customers get to decide whether their robots have a persis
 
 But by Monday, when Kohlmann called me from the airport, the company had decided to go a step further. The company’s making it an opt-in feature that you can install if and only if you want remote help. “In the future there should be no remote backdoor unless the user decides to opt-in,” he tells The Verge.
 
+Above: my original video about the Yarbo robot lawn mower.
+
 Kohlmann warns it’ll take some time to remove the tunnel, and the required files to install a new version may still technically be loaded on each robot’s internal storage. “It would most likely be a setup script that sits on the machine and doesn’t do anything unless the user triggers it,” he says. “If the user triggers it, then it installs a temporary one-time tunnel.”
 
 You’d probably try uploading your log file to Yarbo tech support before going that far, he suggests. If that’s not enough to diagnose the problem, you could optionally install the remote access feature as well.
@@ -816,7 +822,7 @@ But Kohlmann says the company is now in touch with Makris, and it’s possible t
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor)
+ [🔗 Read Full Story on The Verge](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -843,7 +849,7 @@ Murati founded Thinking Machines in February 2025 after leaving OpenAI. The AI l
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)
+ [🔗 Read Full Story on The Verge](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -866,7 +872,7 @@ In addition, the Govee supports adjustable color temperatures ranging from a war
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)
+ [🔗 Read Full Story on The Verge](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -899,7 +905,7 @@ It’s also not so unusual that a defense contractor would wind up making produc
 </font>
 </div>
 
- [🔗 Read Full Story](https://www.theverge.com/report/928026/palantir-chore-coat)
+ [🔗 Read Full Story on The Verge](https://www.theverge.com/report/928026/palantir-chore-coat)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
