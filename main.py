@@ -5,71 +5,81 @@ import re
 import time
 from datetime import datetime
 
-def get_full_content(entry, source_name):
+def get_advanced_content(entry, source_name):
     image_url = None
     full_text = None
     
-    # 1. استخراج عکس (فید یا متاتگ)
-    if 'media_content' in entry:
-        image_url = entry.media_content[0]['url']
-    
-    try:
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.9',
-            'Referer': 'https://www.google.com/'
-        }
-        
-        # وقفه برای جلوگیری از بلاک شدن
-        if source_name in ["Al Jazeera", "NY Times"]:
-            time.sleep(2)
+    # تنظیم هدرهای بسیار دقیق برای شبیه‌سازی مرورگر واقعی
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
+        'Sec-Ch-Ua': '"Not A(Byte;Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"',
+        'Sec-Fetch-Site': 'cross-site',
+        'Referer': 'https://www.google.com/'
+    }
 
-        response = requests.get(entry.link, headers=headers, timeout=25)
+    try:
+        # ایجاد وقفه هوشمند برای سایت‌های حساس
+        if source_name in ["Al Jazeera", "NY Times", "The Guardian"]:
+            time.sleep(3)
+
+        response = requests.get(entry.link, headers=headers, timeout=30)
         
         if response.status_code == 200:
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # استخراج عکس در صورت نبودن در فید
-            if not image_url:
-                img_tag = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
-                if img_tag:
-                    image_url = img_tag["content"]
+            # --- استخراج عکس با کیفیت بالا (مخصوص گاردین و بقیه) ---
+            # اولویت با og:image است چون همیشه باکیفیت‌ترین عکس مقاله است
+            img_tag = soup.find("meta", property="og:image") or \
+                      soup.find("meta", name="twitter:image") or \
+                      soup.find("link", rel="image_src")
+            
+            if img_tag:
+                image_url = img_tag.get("content") or img_tag.get("href")
+            
+            # اگر هنوز عکس پیدا نشده (بک‌آپ از فید)
+            if not image_url and 'media_content' in entry:
+                image_url = entry.media_content[0]['url']
 
-            # پاکسازی المان‌های مزاحم
-            for junk in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'button', 'ul', 'ol']):
+            # --- موتور استخراج متن پیشرفته ---
+            # حذف زباله‌های HTML
+            for junk in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'button', 'ul', 'ol', 'figcaption']):
                 junk.decompose()
 
-            # --- موتور هوشمند تشخیص متن ---
-            # ابتدا دنبال تگ‌های استاندارد مقاله می‌گردیم
-            content_area = soup.find('article') or soup.find('main') or soup.find('div', class_=re.compile(r'article-body|wysiwyg|story-content|post-content'))
-            
+            # شناسایی بدنه اصلی خبر
+            # NY Times معمولاً در کلاس StoryBodyCompanion یا تگ article است
+            # Al Jazeera در کلاس wysiwyg یا article-body است
+            content_area = soup.find('article') or \
+                           soup.find('div', class_=re.compile(r'wysiwyg|article-body|StoryBodyCompanion|entry-content')) or \
+                           soup.find('main')
+
             if not content_area:
-                content_area = soup # اگر پیدا نشد، کل صفحه را بگرد
-            
-            # تمام پاراگراف‌ها را پیدا کن
+                content_area = soup
+
             paragraphs = content_area.find_all('p')
-            
             text_parts = []
+            
             for p in paragraphs:
                 txt = p.get_text().strip()
-                # فیلتر کردن متن‌های خیلی کوتاه (زیر 70 کاراکتر) یا متن‌های حاوی کلمات تبلیغاتی
-                if len(txt) > 70 and not any(x in txt.lower() for x in ['subscribe', 'follow us', 'sign up', 'copyright', 'advertisement']):
-                    if txt not in text_parts:
-                        text_parts.append(txt)
+                # فیلتر متن‌های غیر خبری و کوتاه
+                if len(txt) > 80:
+                    if not any(x in txt.lower() for x in ['subscribe', 'follow us', 'sign up', 'copyright', 'advertisement', 'photo by']):
+                        if txt not in text_parts:
+                            text_parts.append(txt)
             
             if text_parts:
-                # برای الجزیره و نیویورک تایمز سقف پاراگراف را بالا بردیم
-                limit = 15 if source_name in ["Al Jazeera", "NY Times"] else 10
-                full_text = '\n\n'.join(text_parts[:limit])
+                # نمایش حداکثر 12 پاراگراف برای پوشش کامل
+                full_text = '\n\n'.join(text_parts[:12])
                 
     except Exception as e:
-        print(f"Error extracting {source_name}: {e}")
+        print(f"Error processing {source_name}: {e}")
         
     return image_url, full_text
 
 def main():
-    # منابع نهایی شده بر اساس درخواست شما
     sources = {
         "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
         "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -82,26 +92,19 @@ def main():
     now = datetime.now()
     now_str = now.strftime('%Y/%m/%d - %H:%M')
     
-    # ساخت هدر و منوی ناوبری اصلاح شده برای گیت‌هاب
     markdown = f"<div align=\"center\">\n\n# 📰 MAHOOR WORLD PREMIER NEWS\n\n**📅 Update:** `{now_str}`\n\n---\n\n### 📌 QUICK NAVIGATION\n"
-    
     nav_links = [f"[{name}](#{name.lower().replace(' ', '-')})" for name in sources.keys()]
     markdown += " | ".join(nav_links) + "\n\n--- \n</div>\n\n"
 
     for name, url in sources.items():
-        print(f"Reading from: {name}...")
+        print(f"Fetching from {name}...")
         feed = feedparser.parse(url)
-        # آیدی هدر برای کارکردن منوی ناوبری
         markdown += f"## {name}\n"
         
-        if not feed.entries:
-            markdown += "> ⚠️ *Source temporarily unavailable.*\n\n"
-            continue
-        
-        for entry in feed.entries[:5]: # ۵ خبر برتر از هر منبع
-            markdown += f"### 📰 {entry.title}\n"
+        for entry in feed.entries[:5]:
+            img, content = get_advanced_content(entry, name)
             
-            img, content = get_full_content(entry, name)
+            markdown += f"### 📰 {entry.title}\n"
             
             if img:
                 if img.startswith('//'): img = 'https:' + img
@@ -109,14 +112,13 @@ def main():
             
             markdown += "<div align='justify'>\n<font size='4'>\n\n"
             
-            if content and len(content) > 200:
+            if content and len(content) > 150:
                 markdown += f"{content}\n\n"
             else:
-                # اگر استخراج متن شکست خورد، از خلاصه RSS استفاده کن (سیستم بک‌آپ)
+                # سیستم بک‌آپ اگر متن کامل بلاک شد
                 summary = re.sub('<[^<]+?>', '', entry.get('summary', ''))
-                if not summary or len(summary) < 20: 
-                    summary = entry.get('description', 'Full content is available via the link below.')
-                markdown += f"*{summary}*\n\n"
+                if not summary: summary = entry.get('description', 'Full article available at the link.')
+                markdown += f"*{summary} (Note: Full text extraction was limited by source)*\n\n"
             
             markdown += "</font>\n</div>\n\n"
             markdown += f" [🔗 Read Full Story on {name}]({entry.link})\n\n"
