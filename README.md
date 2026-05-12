@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 09:56`
+**📅 Update:** `2026/05/12 - 17:36`
 
 ---
 
@@ -18,156 +18,207 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Live: First UK minister quits amid calls for PM Starmer’s resignation
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-02-27T160039Z_1652682126_RC213DAP5FTQ_RTRMADP_3_ASTRAZENECA-EMISSIONS-1778575895.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israel’s war creating a ‘lost generation’ of Lebanese students
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69ec3491-1777087633.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-The British premier is under pressure to quit after his Labour Party suffered election losses.
+Beirut, Lebanon – Israel’s war has created a lost generation of Lebanese students, widening societal disparities and, in turn, damaging national unity, experts have told Al Jazeera.
+
+Israel has destroyed schools across southern Lebanon and displaced hundreds of thousands of students. Hundreds of educational institutions have turned into makeshift shelters for thousands of displaced people, causing a compounding series of disruptions to an education system that was already struggling as a result of a debilitating economic crisis.
+
+Schools in Lebanon have responded by using online learning and other programs to reach students, but education experts in the country said many were still falling through the gaps. And in an effort to catch up on all the lost schooling, the focus has been on subjects such as the sciences and mathematics, with topics such as citizenship ignored.
+
+In a country like Lebanon, with its numerous religious sects, that could lead to a dangerous future.
+
+“The mission of an education system is to build citizens,” Carlos Naffah, an academic researcher, told Al Jazeera.
+
+“We don’t want to face the fact that we lost a generation,” said Naffah.
+
+On March 2, Israel intensified its war on Lebanon for the second time in under two years. It came on the back of Hezbollah’s first response to months of unanswered Israeli attacks on Lebanon, including more than 10,000 violations of the November 2024 ceasefire between the two sides.
+
+Since March, Israeli attacks have displaced more than 1.2 million people in Lebanon, among them 500,000 school-aged children, according to UNESCO. Not only are hundreds of thousands of students displaced, but many of the schools they learned in are no longer accessible.
+
+According to UNESCO, 339 schools are located in warzones in Lebanon, while hundreds more are now acting as collective shelters to the displaced, affecting access to education for another 250,000 children. Another 100 schools are in high-risk areas, meaning they could soon become inaccessible to students.
+
+With so many students out of school, some learning institutions have turned to online learning. But education experts said this had its drawbacks, particularly for students from lower-income families, and that a series of compounding crises has meant that every year of schooling since 2019 has been interrupted for one reason or another.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/12/live-first-uk-minister-resigns-amid-calls-for-pm-stamers-resignation?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/12/israels-war-creating-a-lost-generation-of-lebanese-students?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Zelenskyy says Russia fired over 200 drones at Ukraine as truce expires
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a02d20200a7-1778569730.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Kuwait says it foils infiltration operation by Iran’s IRGC
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a034352d1ac1-1778598738.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Russia and Ukraine have resumed air attacks after a United States-brokered three-day truce expired, with President Volodymyr Zelenskyy saying more than 200 drones were used to attack Ukraine overnight.
+Kuwait has arrested four men it accuses of being members of Iran’s Islamic Revolutionary Guard Corps (IRGC) after they allegedly tried to infiltrate Bubiyan Island by sea and injured a Kuwaiti soldier.
 
-Russian aerial attacks across Ukraine’s Dnipropetrovsk region on Tuesday morning killed at least one person and injured four others, according to regional administration chief Oleksandr Ganzha.
+The Ministry of Interior said in a statement published on X on Tuesday that the operation took place on May 1 and the naval officers arrested “aboard a fishing boat specially chartered to carry out hostile actions against Kuwait” admitted they had been tasked by the IRGC with “infiltrating”.
 
-Russian drones also hit energy infrastructure in Ukraine’s Mykolaiv region, causing outages, and struck residential buildings and a kindergarten in the Kyiv region, according to local authorities. Russia also carried out attacks on the regions of Kharkiv, Zhytomyr, Sumy and Chernihiv, according to authorities.
+The ministry identified the group members as Colonels Amir Hussein Abd Mohammed Zara’i and Abdulsamad Yadallah Qanwati, Captain Ahmed Jamshid Gholam Reza Zulfiqari and First Lieutenant Mohammed Hussein Sehrab Faroughi Rad.
 
-More than 200 long-range drones were used in the wave of attacks, Zelenskyy said. “Russia itself chose to end the partial silence that had lasted for several days,” he said in a post on X.
+During a confrontation with Kuwaiti forces on the island, gunfire wounded one Kuwaiti service member, the ministry said. Two other members of the group – navy Captain Mansour Qambari and the boat’s captain, Abdulali Kazem Siamari – escaped during the clash.
 
-Russia’s military, meanwhile, said its defences downed 27 Ukrainian drones over the regions of Belgorod, Voronezh and Rostov.
+Bubiyan is Kuwait’s largest island, located at the northern tip of the Gulf near the Iraqi border. It holds significant strategic value due to its proximity to key shipping lanes and its location near Kuwait’s northern oilfields and military installations.
 
-The exchange of aerial attacks came after the expiry of a 72-hour truce announced by US President Donald Trump on Friday, which he said he hoped would mark “the beginning of the end” of Russia’s four-year war on Ukraine.
+Kuwait’s Ministry of Foreign Affairs condemned the alleged incursion as a “flagrant violation” of Kuwaiti sovereignty and a grave breach of international law. It demanded that Iran immediately and unconditionally cease “unlawful hostile acts”.
 
-The May 9-11 truce overlapped with Russia’s Victory Day, which celebrates the defeat of Nazi Germany in the second world war.
+The deputy foreign minister summoned Iran’s ambassador to Kuwait to hand over a formal protest note, reserving Kuwait’s right to self-defence under Article 51 of the United Nations Charter. The ministry said it holds Tehran fully responsible for the violation.
 
-But even before it expired, both sides accused each other of violating the truce by attacking civilians.
+Kuwait’s foreign minister received a phone call from his Bahraini counterpart, who condemned the infiltration and affirmed “Kuwait’s full right to take all necessary measures to safeguard its sovereignty and protect its people”.
 
-Zelenskyy said Russia was neither observing the truce nor “even particularly trying to”, adding there had been no calm in front-line areas despite a lull in large-scale attacks.
+Earlier this week, Kuwait also reported intercepting “a number of hostile drones” in its airspace but did not specify where the drones were launched from.
 
-Meanwhile, Russia’s Ministry of Defence accused Ukraine of committing more than 1,000 ceasefire violations. It said Ukrainian forces attacked civilian targets in several Russian regions and carried out strikes against Russian military positions on the front line.
+The incursion followed strikes in April that hit Kuwait’s Mina al-Ahmadi oil refinery, one of the Middle East’s largest, and a power and desalination plant. Kuwait said Iran was responsible.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/zelenskyy-says-russia-fired-over-200-drones-at-ukraine-as-truce-expires?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 France’s Macron announces $27bn investment in Africa at Kenya summit
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a01a4c6-1778492614.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Pentagon gives new $29bn Iran war price tag, downplays munitions concerns
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a033be22948-1778596834_ec15bc-1778602588.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-French President Emmanuel Macron has announced 23 billion euros ($27bn) of investment during the Africa Forward summit in Kenya.
+The Pentagon has released a new price tag for the US-Israel war with Iran, saying it has cost the United States $29bn.
 
-Macron said on Monday that Africa and France had a “partnership of equals” with common objectives, as he announced 14 billion euros ($16.4bn) of investments in private and public funds from French companies, and 9 billion euros ($10.5bn) from African ones, on energy transition, agriculture and artificial intelligence (AI).
+The department’s comptroller revealed the new total during a Senate committee hearing on Tuesday alongside Pentagon chief Pete Hegseth.
 
-These investments would create 250,000 jobs in France and Africa, Macron said at the two-day summit – France’s first in an English-speaking African country – which started on Monday.
+The estimate is an increase from the $25bn the official, Jules Hurst, reported to members of Congress in late April, the first time the administration of US President Donald Trump had given an official figure. Several experts have questioned the Pentagon’s ledger, saying the real cost to US taxpayers was likely much higher.
 
-“We are not simply here to come and invest on the African continent alongside you – we need great African business leaders to come and invest in France,” he told the heads of state and leaders of more than 30 African nations, including Francophone countries, at Nairobi’s convention centre.
+Fighting has remained generally paused in the US-Israeli war since April 8, barring a handful of flare-ups. Hurst attributed the discrepancy in the earlier to an “updated repair and replacement of equipment … and also just general operational costs”.
 
-“And that too is what underpins this relationship, now entirely free of hang-ups,” Macron said.
+The administration has so far not offered a clear picture of damage sustained at US military installations across the Middle East since the US and Israel began launching attacks on February 28, nor has it revealed the true extent to which the fighting has affected the military’s munitions stockpile.
 
-The summit is seen as an attempt by France to strengthen its ties with English-speaking African countries amid waning ties with its former colonies on the continent.
+Asked about concerns over the US’s ability to replenish its weapons supply without weakening its global posture, Hegseth said the Pentagon was “well aware of all those dynamics”.
 
-Africa’s richest man, Nigerian industrialist Aliko Dangote, was in attendance, as were executives from leading French firms TotalEnergies and Orange.
+“The munitions issue has been foolishly and unhelpfully overstated,” Hegseth told the House Appropriations subcommittee. “We know exactly what we have; we have plenty of what we need.”
 
-The French shipping group CMA CGM committed an investment of 700 million euros ($8.2m) to modernise a terminal at the Kenyan port of Mombasa.
+The Pentagon chief also gave little indication of long-term plans for the war, a day after Trump rejected a new ceasefire proposal from Iran.
 
-Many have observed that the summit comes as France’s influence in Africa has faded, with French forces recently forced to withdraw from former colonies. Macron aims to renew France’s engagement with the African continent, which he said he views as a “whole”, while positioning Europe as a more reliable trade partner than China or the United States.
+Trump told reporters the ongoing pause in fighting was “on life support” and was “unbelievably weak”.
 
-In advance of the summit, Macron told Paris-based magazine The Africa Report that colonialism could no longer be blamed for all of Africa’s challenges. “We must not exonerate from all responsibility the seven decades that followed independence,” he said, calling on African leaders to improve governance.
+Hegseth said there were plans to both resume fighting and to de-escalate.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/frances-macron-announces-27bn-investment-in-africa-at-kenya-summit?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag-downplays-munitions-concerns?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 ‘Whole morning revolves around gas’: Pakistan’s fuel crisis enters kitchens
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Farhat-Qureshi-2-1778566104.jpg?resize=1200%2C630' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israel kills, injures average of 4 children daily amid Lebanon ‘ceasefire’
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/AA-20260410-41074710-41074704-DESTRUCTION_IN_BEIRUTS_CORNICHE_ALMAZRAA_AFTER_ISRAELI_STRIKES-1775870343.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Karachi, Pakistan – Farhat Qureshi had been cooking most of her life without watching the clock. Now, at 60, her mornings begin with one question: how much can she finish before the gas in her kitchen disappears once again?
+Israeli attacks on Lebanon have killed or injured more than four children on average per day in the first 25 days of the “ceasefire” that came into effect last month, according to the global charity Save the Children.
 
-The cooking gas at her Karachi home comes in short windows in the morning, afternoon and evening. If she misses a window, the cooking is delayed, food is reheated, plans are changed, and the kitchen waits.
+The report published on Tuesday cited figures from Lebanon’s Health Ministry, saying at least 22 children have been killed and 89 injured since the temporary ceasefire between Hezbollah and Israel came into effect on April 16.
 
-“I don’t think I have ever seen this happening in my whole life,” Qureshi told Al Jazeera. “My whole morning revolves around gas.”
+This brings the number of children killed in Israeli strikes since the renewed escalation in hostilities in Lebanon on March 2 to almost 200, with about 2,900 people killed.
 
-Pakistan’s energy crisis has intensified since the United States and Israel attacked Iran on February 28, turning a recent surplus of liquefied natural gas (LNG) into a looming shortage. Pakistan’s LNG imports had already fallen from 8.2 million tonnes in 2021 to 6.1 million tonnes by late 2025.
+“I just want the war to end so I can go home to my village and sleep in my own bed. I really miss school. I want to see my teachers and be with my friends, and study and play again,” the report quoted a 10-year-old named Tala as saying in a collective shelter after being displaced from southern Lebanon.
 
-The US-Israel war on Iran put further pressure on a system already strained by years of declining domestic production. Pakistan meets most of its daily gas needs from domestic gasfields, which have been in slow decline for years. Imported LNG, supplied mainly under long-term contracts, fills part of that gap when shipments flow normally. Almost all of Pakistan’s LNG comes from Qatar and the United Arab Emirates, and imported LNG powers roughly a quarter of the country’s electricity.
+Israel has said its air force had hit more than 1,100 sites across Lebanon since mid-April, claiming that the target was the armed Lebanese group Hezbollah.
 
-With the onset of the war, LNG shipments dropped drastically. Monthly cargo data from Pakistan’s Oil and Gas Regulatory Authority (OGRA) shows that the country received between eight and 12 LNG shipments a month in 2025 and early 2026. In March, only two shipments arrived. Over the weekend, however, a Qatari LNG tanker crossed the Strait ⁠of Hormuz on its way to Pakistan – the first such transit since the start of the war.
+“Attacks on civilians have not stopped – it has simply continued under another name,” said Nora Ingdal, Save the Children’s director for Lebanon. “Colleagues have told me that the air strikes feel more intense in some areas than they ever did before. Children are not safe until there is a permanent and definitive ceasefire with no violations.”
 
-Pakistani households are experiencing the energy crisis differently: through the unpaid labour of women who wake up earlier, cook more quickly, rearrange meals, delay rest, and plan their entire days around the prospect of getting gas in their stoves.
+More than one million people have been displaced by the fighting, and since the ceasefire, the number of families seeking temporary housing in collective shelters has risen by five percent. About 125,000 people are currently living in such shelters, including 44,800 children – equivalent to 36 percent of occupants.
 
-The timetable has altered the manner in which Qureshi navigates her house – or life. She cooks for four people, including her husband and two children, without any help, making the gas schedule central to how she plans the day.
+Conditions in the shelters remain poor due to overcrowding and inadequate sanitation facilities, increasing the risk of disease outbreaks.
 
-For her, cooking is a chore now broken into forced shifts. The gas in most Karachi households is first available between about 6am and 9:30am, for about two hours starting around noon, and again from 6pm to about 9:30pm. While it appears to be a manageable schedule, the supply is erratic, with low pressure making cooking a lengthier process.
+Lebanon and Israel are due to hold direct talks aimed at ending the war on Thursday and Friday in Washington, DC, the United States.
 
-“It is very irritating that when it is time, the gas does not come. It is tiring to live like this,” she said.
+Both countries have committed to disarming the Iran-backed group Hezbollah, which holds significant political influence in Lebanon and is a key member of Tehran’s “axis of resistance”.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/12/whole-morning-revolves-around-gas-pakistans-fuel-crisis-enters-kitchens?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/israel-kills-injures-average-of-4-children-daily-amid-lebanon-ceasefire?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump and Xi: The history of encounters between two superpower leaders
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a02281a3c-1778526234_a077c5-1778562124.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 What to know about Curacao at the FIFA World Cup 2026
+<img src='https://www.aljazeera.com/wp-content/uploads/2025/11/afp_691ed3287ee2-1763627816.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-United States President Donald Trump’s visit to China this week will mark his seventh face-to-face meeting with Chinese President Xi Jinping.
+The ‘Blue Wave’ – the enviable nickname given to Curacao’s national football team – will soon be surging across to North America.
 
-The visit will also be the first trip by a US leader to China since 2017.
+The tiny Caribbean island of just over 150,000 people and covering only 443 square kilometres (171 square miles) will become the smallest country ever to compete at a FIFA World Cup when the 2026 tournament kicks off on June 11.
 
-Trump and Xi’s three-day summit, which kicks off on Wednesday, is expected to focus on the US-Israel war on Iran, trade, and the status of Taiwan, among other issues.
+Curacao, a self-governing entity within the Kingdom of the Netherlands, scripted a fairytale story to secure qualification. Now, as one of four debutants at the tournament, the island nation will look to give its people more reasons to celebrate as their team plays in football’s most prestigious global competition.
 
-Here’s a rundown of the past meetings between the leaders of the world’s two most powerful nations:
+Here’s everything you need to know about Curacao in Al Jazeera’s World Cup minnows series:
 
-The two first met at Trump’s private Mar-a-Lago resort on April 6, 2017, just a few months into his first term.
+Curacao endured two challenging qualification rounds to punch their maiden World Cup final ticket.
 
-At the time of their meeting, Trump was coming off a presidential campaign that had heavily criticised China’s trade practices and their impact on the US economy.
+They played 10 matches, won seven and finished their campaign unbeaten.
 
-Trump had also angered China by accepting a congratulatory phone call from then-Taiwanese President Tsai Ing-wen, breaking decades of diplomatic precedent set in 1979 when Washington cut off relations with Taipei.
+Curacao’s journey began in the second round of the CONCACAF qualifiers. They upset Barbados, Aruba, Saint Lucia and Haiti, scoring 15 goals to remain unbeaten.
 
-During their Mar-a-Lago meeting, Trump appeared to build a personal rapport with Xi and said the two sides had made “tremendous progress” towards improving US-China relations.
+In the third and final qualification round, they were in Group B alongside heavyweights Jamaica, Trinidad and Tobago and Bermuda.
 
-The summit was largely overshadowed, however, by Trump’s decision to launch airstrikes on Syria, then led by Beijing-backed Bashar al-Assad, during Xi’s visit.
+Curacao drew 0-0 in Trinidad and Tobago in the first match before defeating Bermuda 3-2 on their home turf. Playing at home, they beat Jamaica 2-0, sending an unequivocal warning to their opponents that World Cup qualification was their clear goal.
 
-Xi and Trump met on the sidelines of the G20 summit on July 8, 2017, beginning a pattern of engagement that would see the leaders repeatedly cross paths at major international gatherings.
+In the next game, they drew 1-1 with Trinidad and Tobago before thrashing Bermuda 7-0.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/trump-and-xi-a-recap-of-talks-between-two-of-the-worlds-most-powerful-men?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/12/what-to-know-about-curacao-at-the-fifa-world-cup-2026?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
+### 📰 No sign of larger hantavirus outbreak, says UN health agency
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+<font size='4'>
+
+There is "no sign" of a larger hantavirus outbreak after the evacuation of the last passengers from a disease-stricken cruise ship, the head of the UN health agency has said.
+
+But the World Health Organization's (WHO) chief Tedros Adhanom Ghebreyesus warned "the situation could change" and there could be more confirmed virus cases.
+
+The MV Hondius left Spain's Tenerife island on Monday and is sailing to the Dutch port of Rotterdam. Two flights carrying the final 28 passengers landed in nearby Eindhoven on Tuesday.
+
+Three people have died after travelling on the ship. A Spaniard and a French national who previously returned home have tested positive. The WHO has confirmed nine cases, with two others suspected.
+
+Twelve employees at a Dutch hospital are now in quarantine over possible exposure to the virus after treating one of the evacuated passengers.
+
+The hospital in the city of Nijmegen said on Monday that this was a precautionary measure, as the workers did not follow strict protocols while handling the patient's blood and urine samples.
+
+At Tuesday's press conference in Madrid, Ghebreyesus said: "At the moment, there is no sign that we are seeing the start of a larger outbreak.
+
+"But of course the situation could change and, given the long incubation period of the virus, it's possible we might see more cases in the coming weeks."
+
+And he stressed that "our work is not over" to contain the outbreak from the cruise ship.
+
+Hantaviruses are usually carried by rodents, but human transmission of the Andes strain - which the WHO believes some of the ship's passengers contracted in South America - is possible.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Trump says Iran ceasefire is on 'massive life support'
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -201,135 +252,102 @@ Trump criticised the proposal, writing on Truth Social on Sunday: "I have just r
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 No sign of larger hantavirus outbreak, says UN health agency
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/dbe2/live/42e6f820-4dd2-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/815a/live/6abed600-4e14-11f1-bd2e-5b25b00aa23c.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
 
-There is "no sign" of a larger hantavirus outbreak after the evacuation of the last passengers from a disease-stricken cruise ship, the head of the UN health agency has said.
+President Volodymyr Zelensky's former right-hand man Andriy Yermak appeared in a Kyiv court on Tuesday, after he was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.
 
-But the World Health Organisation's chief Tedros Adhanom Ghebreyesus warned "the situation could change" and there could still be more confirmed virus cases.
+Yermak's lawyer had earlier denounced as "baseless" allegations that the former head of the presidential office had been caught up in a corruption scandal surrounding a $10.5m (£7.5m) luxury construction project outside Kyiv.
 
-The MV Hondius left Spain's Tenerife island on Monday and is sailing to the Dutch port of Rotterdam. Two flights with the final group of 28 passengers landed in nearby Eindhoven on Tuesday.
+Hours before the court hearing Yermak told reporters "I do not have any house, I only have one flat and one car", adding later that he would comment afterwards.
 
-Three people have died after travelling on the ship. An American and a French national who previously returned home have tested positive. Overall, seven cases have been confirmed.
+For years he was a close friend of Zelensky, and led Ukraine's talks with the US until an anti-corruption raid on his flat last November prompted his resignation.
 
-Twelve employees at a Dutch hospital are now in quarantine over possible exposure to the virus after treating one of the evacuated passengers.
+Ukraine's Anticorruption Prosecutor's Office (Sapo) said it was asking the Kyiv court to either place him in preventive detention or give him bail of about $4m (£3m).
 
-The hospital in the city of Nijmegen said on Monday this was a precautionary measure, as the workers did not follow strict protocols while handling the patient's blood and urine samples.
+The head of the National anti-corruption bureau (Nabu) stressed that Zelensky himself was not part of the pre-trial investigation.
 
-At Tuesday's press conference in Madrid, Ghebreyesus said: "At the moment, there is no sign that we are seeing the start of a larger outbreak.
+Yermak had been the president's closest adviser throughout Russia's full-scale invasion launched in 2022, until he became caught up in a broader inquiry by Sapo and Nabu into an alleged $100m (£74m) embezzlement scheme in Ukraine's nuclear energy sector.
 
-"But of course the situation could change and, given the long incubation period of the virus, it's possible we might see more cases in the coming weeks."
+He was not charged or formally named as a suspect at the time, however the swirling allegations have cast a shadow over Ukraine's bid to join the European Union. Last year, Zelensky had to scrap a law that weakened the independence of the two anti-corruption agencies, following widespread protests and criticism from the EU.
 
-And he stressed that "our work is not over" to contain the outbreak from the cruise ship.
+As part of Operation Midas, ex-Deputy Prime Minister Oleksiy Chernyshov was charged with abuse of office, while businessman Timur Mindich reportedly fled the country after he was flagged as a suspect and ex-Energy Minister Herman Haluschenko was detained while trying to leave.
 
-Hantaviruses are usually carried by rodents, but human transmission of the Andes strain - which the World Health Organisation (WHO) believes some of the ship's passengers contracted in South America - is possible.
+Like Yermak, Mindich was once part of Zelensky's inner circle and co-owned the president's former TV studio Kvartal95, before sanctions were imposed on him. Mindich, who now lives in Israel, denies wrongdoing.
 
 </font>
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Snack giant switches to black and white packaging as Iran war hits ink supplies
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a8d6/live/3982e4b0-4dcd-11f1-b9c0-3f2598570d49.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 US inflation jumps to 3.8% as energy costs surge from Iran war
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f750/live/8172ffc0-4e00-11f1-aa37-6b8846c2f74e.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Japanese snack giant Calbee says it will temporarily switch to black and white packaging for some its best-known products as supplies of an ingredient used in ink have been disrupted by the Iran war.
+US prices rose in April at their fastest rate since May 2023 as the impact of the war in Iran was increasingly felt by consumers.
 
-The firm says new-style packets for 14 of its products, including crisps and prawn crackers, will start to appear in shops in Japan from 25 May.
+A jump in the cost of gasoline and groceries pushed the consumer price index (CPI), showing the rate prices rose by in the past 12 months, to 3.8%.
 
-It marks the latest example of how everyday goods are being impacted after Iran effectively closed the key Strait of Hormuz waterway in retaliation for US and Israeli strikes on the country.
+The Bureau of Labor Statistics (BLS) said almost half of the rise was driven by surging energy costs, while housing and food costs also contributed.
 
-In recent weeks, companies around the world have warned that supply disruptions to things like fuel, plastics and helium are pushing up costs for their businesses.
+The US-Israel war in Iran, and the resulting effective closure of the key Strait of Hormuz shipping lane, has led to a jump in oil prices and this has caused a surge in the price of gas in the US.
 
-Calbee said in a statement that the design change is a response to "supply instability affecting raw materials amid ongoing tensions in the Middle East."
+The national average price for a gallon of unleaded is at its highest level since July 2022, at $4.50 (£3.33), according to data from the AAA motoring group.
 
-"This measure is intended to help maintain a stable supply of products," said Calbee.
+The rise in April's inflation figure, from 3.3% in March, makes it increasingly unlikely the Federal Reserve will cut interest rates this year.
 
-Oil and gas prices have surged since the conflict started on 28 February as shipments through the Strait of Hormuz halted.
+Isaac Stell, investment manager at the Wealth Club, said the inflation increase even left possible interest rate hikes "firmly on the table".
 
-Supplies of naphtha, a byproduct of oil refining used in ink and plastics, have also been hit hard.
+It comes days before US President Donald Trump's appointee Kevin Warsh is set to take over from Jerome Powell as chair of the US central bank.
 
-Naphtha prices in Asia have almost doubled since the conflict started, pushing up costs for businesses in the region.
+Stell said the incoming chair would enter the role with "little room for manoeuvre" and may be forced to take a more conservative approach.
 
-Before the war, around 40% of Japan's naphtha was imported from the Middle East, Japan's deputy chief cabinet secretary Kei Sato told reporters on Tuesday.
+Trump had clashed with Powell over his reluctance to cut the central bank's interest rate, which the president hoped would spur on the US economy, and has made it clear he expects Warsh to push for cuts.
 
 </font>
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 France seeks to move beyond colonial ties by meeting African leaders in Kenya
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/30fe/live/b976b1a0-4d42-11f1-b2c7-71155caf7f79.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 South Africa's top court bars repeat asylum applications
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e0fc/live/23acc040-4e20-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Accused of neo-colonial meddling in many African countries where it has traditionally had close ties, France is broadening its horizons by co-hosting a summit of African leaders in English-speaking Kenya for the first time.
+South Africa's highest court has ruled that foreign nationals cannot reapply for asylum once their application has been rejected.
 
-Speaking at the Africa Forward Summit in the capital Nairobi on Monday, French President Emmanuel Macron announced investments worth $27bn (£20bn) in Africa in areas such as energy transition, digital and AI, the maritime economy and agriculture.
+The Constitutional Court said that allowing unlimited repeat applications without proper legislation in place could create a "never-ending cycle", preventing deportations and causing administrative chaos.
 
-"Africa is succeeding. It's the youngest continent in the world… and needs investment to become more self-reliant," he said, adding that this would create some 250,000 jobs in Africa, and in France.
+Leon Schreiber, the minister of home affairs in South Africa's coalition government, welcomed the ruling as a "major victory" against the "abuse" of the refugee system.
 
-"We are not simply here to come and invest on the African continent alongside you - we need the great African business leaders to come and invest in France," he told the audience at Nairobi's convention centre, reports the AFP news agency.
+The ruling ends a long-running case that was brought by two nationals from Burundi, who reapplied for asylum in 2018 after their applications were rejected in 2014.
 
-The two-day summit is aimed at broadening Paris's partnerships and making investment deals on the continent against a backdrop of rising anti-French sentiment and diminishing power in its former colonies, especially in West Africa. This reflects a step-change in how Paris thinks of its relationships with Africa.
+The two argued that their new applications should be considered as Burundi had been hit by political violence during the 2015 presidential election.
 
-For many years after independence in the 1960s, France maintained close economic, political and security ties in many of its former colonies, leading to widespread accusations that little had changed.
+At least 70 people were killed in unrest after then-President Pierre Nkurunziza took the controversial decision to run for a third term.
 
-And French presidents over the years have held regular summits with African leaders - either in France or French-speaking Africa - until now.
+The Burundians won the case in the Supreme Court of Appeal, but, in a majority judgement, the Constitutional Court overturned its ruling. It is the final court of appeal.
 
-Gilles Yabi, a Senegal-based political analyst focusing on relations between France and Africa, told the BBC's Newsday programme: "There's a new generation of Africans who… want to turn the page on colonialism and post-colonial influence."
+The UN refugee agency (UNHCR) says that in 2025, South Africa was hosting more than 167,000 refugees and asylum seekers, primarily from Burundi, the Democratic Republic of Congo, Somalia, South Sudan, Rwanda and Zimbabwe.
 
-Kenya's Foreign Minister Musalia Mudavadi called it an "opportunity for Africa to start speaking as one".
+Schreiber called the ruling important for government efforts to bring about a more "effective and fair system to manage refugees and asylum seekers".
 
-"Having this summit being held in a non-French-speaking African country on the continent, to me, is a very, very big message that we should not be looking at engagements on the basis of the official languages that are spoken in those countries," he told the BBC.
-
-</font>
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 How the Trump-Xi summit could set superpower relations for many years to come
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ee1d/live/92cf9410-4ddb-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Security around Beijing's historic Tiananmen Square has been heightened for days, with rumours on social media swirling of a special parade or some big, choreographed event.
-
-Preparations for this major event have started with a whisper, but China appears ready to put on a show for US President Donald Trump.
-
-The visit will include talks, a banquet, and a visit to the Temple of Heaven, a complex of imperial temples where emperors would pray for a good harvest.
-
-And both Trump and Chinese President Xi Jinping will be hoping the visit will bear fruit. This summit between the world's two most powerful leaders is set to be one of the most consequential encounters for years.
-
-For months, US-China relations have been a lower priority for Trump. His focus has been on the ongoing war with Iran, military operations in the Western Hemisphere and domestic concerns. But that all changes this week. The future of global trade, rising tensions in Taiwan, and competition in advanced technologies are all at stake.
-
-Economically, the ongoing trade war with the US and the conflict in Iran may be bad news for Xi, but ideologically and politically they're a gift and he will feel he has a strong hand.
-
-This visit could set the groundwork for future cooperation – or conflict – in the years ahead.
-
-China is trying to quietly step in as a peacemaker with the war now in its third month. Beijing has joined Pakistan as a mediator in the US-Israel war against Iran.
-
-Officials in Beijing and Islamabad in March presented a five-point plan with the aim of bringing about a ceasefire and re-opening the Strait of Hormuz. And behind the scenes, Chinese officials have been gently nudging their Iranian counterparts towards the negotiation table.
-
-There's no doubt, despite its steady show of strength, that China is eager for an end to this war.
+Speaking to local broadcaster Newzroom Afrika, he explained that the Department of Home Affairs led the argument against the Supreme Court of Appeal's ruling.
 
 </font>
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cy42yx1kn90o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -492,113 +510,111 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Dorit Kemsley's Pal Details Convo of Alleged Threat of 'Dirty Games' Against PK
-<img src='https://imagez.tmz.com/image/a1/16by9/2026/05/11/a1b3cb1bd85e4e05910092fa35fdc1ac_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Prosecutors to Subpoena Tiger Woods' Drug Records in DUI Case
+<img src='https://imagez.tmz.com/image/e4/16by9/2026/05/12/e4e04994466d46179b056c03f2555fee_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-"The Real Housewives of Beverly Hills" star Dorit Kemsley and her estranged husband, PK Kemsley, have a mutual friend who made shocking claims in the couple's bitter divorce ... TMZ has learned.
+Prosecutors will get the chance to see Tiger Woods' prescription drug records, a judge has ruled.
 
-Justin Levine -- who says he's known the couple for many years -- filed a bombshell declaration stating he tried to talk to Dorit in an effort to help resolve their ongoing issues over money and their $6 million marital home. Justin claims he tried to convince Dorit in early April to work with PK on an agreement over the property.
+In a hearing at Martin County Circuit Court in Florida on Tuesday, the judge granted the state's request to subpoena records of Tiger's meds as part of their DUI investigation.
 
-Levine says, "During the call, [Dorit] became highly agitated before I was able to complete my explanation of the purpose of the call. While she has previously expressed frustration, this conversation was notably different in both tone and intensity."
+The judge gave prosecutors permission to access his prescription records on file at Lewis Pharmacy in Palm Beach ... following his arrest in Florida earlier this year.
 
-She allegedly told Justin to write down her demands and pass them along to PK. Justin claimed Dorit made it clear if the demands weren't met, she would "disclose private information" about PK to the public.
+Tiger's lawyer, Douglas Duncan, was the one who requested Tuesday's hearing ... saying the subpoena violates Tiger's privacy.
 
-Justin said Dorit wanted PK to send her $50K -- followed by another $50K -- to help with expenses for the kids. He claimed Dorit said if the $100K was sent, it would prevent her from engaging in what she described as "dirty games."
+While the judge OK'd the subpoena, a protective order will be issued to limit access to the golf champ's records. The order will ensure that only prosecutors, law enforcement, expert witnesses and Tiger's team have permission to obtain.
 
-When she was pressed about the $1 million, PK claims Dorit spent on clothes and travel, she told Justin that he had no idea about her contractual requirements with Bravo and that such "expenditures were necessary for her career." He claimed Dorit then became "increasingly hostile."
+They're not going to be available through state open records law ... which means no peeping from the public.
 
-Justin said he also asked if Dorit planned to travel internationally with the kids. He said she should ask PK for permission ... to which he says Dorit replied she was "not going to ask a f***ing thing.”
+Prosecutors say they need to look at the records to figure out how often Tiger filled his prescriptions before he rolled his car.
 
-As TMZ first reported, PK claims Dorit is spending widely on luxury clothes and travel, while ignoring mortgage payments ... leaving the property at risk of foreclosure.
+According to ESPN, the motion for the subpoena shows the state is also after info about how many pills were in his prescriptions, what the dosage amounts were, and whether or not they included warnings about driving while taking them.
 
-PK used the declaration as evidence in his effort to get the judge to authorize the immediate listing of the $6 million home Dorit is living in.
+As you know, police say Tiger had two hydrocodone&nbsp;pills in his pocket at the time of the March 27 crash. He pleaded not guilty to the DUI.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/dorit-kemsleys-pal-details-convo-where-she-allegedly-threatened-dirty-games-against-pk/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/prosecutors-granted-request-to-subpoena-tiger-woods-medication-history/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hulk Hogan's Ex-Accountant Indicted for Allegedly Embezzling From Unidentified “Public Figure”
-<img src='https://imagez.tmz.com/image/43/16by9/2026/05/06/4382fcbdb3ef4b5ea35ef97deeda80bd_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Benny Blanco Mistook Friend for Home Intruder, Nearly Stabbed Him
+<img src='https://imagez.tmz.com/image/2b/16by9/2026/05/12/2b93ed9d80f7435c879728cda2eb09fa_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Hulk Hogan's former accountant is facing a slew of federal charges for allegedly stealing more than $890,000 from a "public figure" in Florida, TMZ Sports has learned.
+Benny Blanco is reflecting on a VERY close call ... AKA the night he almost stabbed his friend to death after mistaking him for a home intruder!
 
-The wrestling legend is not identified as the victim.
+He spilled the story on his "Friends Keep Secrets" podcast ... saying he woke up hearing a weird noise in the house and immediately tiptoed to the kitchen to arm himself with a knife.
 
-Melissia Gauthreaux has been charged with six counts of wire fraud, after the feds say she used her business, Accounting Resources and Management Services, to embezzle enormous amounts of money between 2017 and 2021.
+Things got hilarious fast when Lil Dicky asked why he didn't just grab a gun ... but Benny admitted he'd probably accidentally shoot himself if he had one -- so a knife was the more responsible choice.
 
-Our sources tell us Hogan employed Gauthreaux during that time period ... and one of her duties was bookkeeping.
+Benny explained he was crouched low behind furniture, planning to stab upward if the "intruder" popped out.
 
-Gauthreaux had signatory authority, according to the federal indictment, meaning she could sign docs on behalf of the alleged victim, allegedly allowing her to divert funds without consent.
+Plot twist -- the "intruder" was actually one of his friends ... who ALSO heard noise, ALSO panicked, and ALSO grabbed a knife for protection. 🙈
 
-Of course, Hulk died last summer after suffering cardiac arrest at his Clearwater Beach home.
-
-Gauthreaux faces up to 20&nbsp;years in federal prison for each count, if convicted.
-
-The indictment follows a lengthy FBI investigation.
-
-Story developing ...
+Benny joked it was basically a 50/50 shot one of them was getting stabbed before they realized what was happening ... but thankfully everyone survived the knife standoff!
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/hulk-hogan-cpa-indicted-for-alleged-theft/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/benny-blanco-nearly-stabs-friend/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hayden Panettiere Reveals Harrowing Experience With 'Very Famous' Naked Man in Bed
-<img src='https://imagez.tmz.com/image/ed/16by9/2026/05/11/ed27872a55b34ea0abe30dbe2ea60e8a_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Mel Gibson Is Single Despite Rome PDA Pics, Back in U.S. With 'Passion 2' Wrapped
+<img src='https://imagez.tmz.com/image/8e/16by9/2026/05/12/8e555c94813c4134b4f05175e58e4113_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Hayden Panettiere is opening up about a terrifying experience she had with a naked Hollywood star, revealing she was trapped alone in bed with him on a boat.
+Mel Gibson was snapped in the middle of some PDA with a babe in Rome ... but TMZ has learned he's back in the U.S. -- and very single -- having just wrapped on a massive project.
 
-The actress sat down for an interview with Jay Shetty during Monday's episode of his "On Purpose" podcast and, at one point, their convo turned to the traumatic boat incident, which Hayden wrote about in her new memoir, "This Is Me: A Reckoning."
+Here's the deal ... the actor-director star and the&nbsp;Italian celeb&nbsp;Antonella Salvucci&nbsp;were snapped smooching in Rome ... which, of course, led fans to ask "What's going on, Romeo?"
 
-Check out the clip ... Shetty first brings up the harrowing memory, and then Hayden goes into a long explanation, saying she was only 18 at the time and incapable of being fully aware of her surroundings. Even worse, Hayden said she was set up by an industry friend she trusted and viewed as a protector. &nbsp;
+Sources with knowledge tell TMZ ... the pictures were of Mel saying goodbye to a good friend ... he's single and has been back in the U.S. for about a month, having just wrapped "The Resurrection of the Christ: Part One" -- the follow-up to his 2004 blockbuster "The Passion of the Christ."
 
-That so-called friend led her down into a small room on the boat while at sea and physically put her into bed with the "undressed man," who Hayden described as "very famous."
+As we reported ... Mel and longtime partner Rosalind Ross separated last year ... after nine years and one child together. And those pics with Antonella were the first of Mel and a possible new squeeze -- so, a big deal.
 
-Hayden said after the friend left the room, she became "ferocious," telling herself "this is not happening," while scrambling around for some place to hide. Watch the rest of the clip to find out how it all ended.
-
-Scary stuff!
+But, as we said, Mel is single ... and ready to get down to work on 'Resurrection' post-production duties.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/hayden-panettiere-jay-shetty/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/mel-gibson-single-despite-romance-rumor-pics/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Taylor Swift Steps Out for Family Dinner in NYC
-<img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Jamie Foxx Expecting Baby With Girlfriend Alyce Huckstepp
+<img src='https://imagez.tmz.com/image/9f/16by9/2026/02/19/9f5b8cbecfef431f80b2dd8503bccc16_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Welcome to New York, Swift family ... it's been waiting for you!!! Taylor Swift kept it all in the family during a cozy NYC outing Monday night ... stepping out with her parents and brother Austin for a low-key post Mother's Day dinner.
+Jamie Foxx is about to be a dad again ... 'cause TMZ has learned his girlfriend, Alyce Huckstepp, is pregnant with his baby.
 
-The superstar singer looked relaxed in a petite black dress, silver pumps, and her signature red lip ... as the family made their way across the street before heading into a private dining spot at The Eighty Six in the West Village.
+Multiple sources with direct knowledge tell TMZ the couple -- who got back together last year after splitting in January 2025 -- are already several months along.
 
-Taylor's dad, Scott, and her brother played security as cameras gathered near the entrance, while her mom, Andrea, smiled while holding hands with her Hall of Fame daughter.
+It's unclear exactly when the baby's due or whether they're having a boy or girl.
 
-Notably absent from the outing ... Taylor's soon-to-be hubby Travis Kelce -- but judging from her mood, she didn’t seem bothered one bit as she enjoyed a rare public night out with her fam.
+Jamie and Alyce were first linked in August 2022 when she attended the world premiere of his movie "Day Shift" ... and things started to really heat up in the summer of 2023, when we saw them at the Nobu Hotel in Los Cabos, Mexico.
 
-These adorbs pics have us thinking ... maybe the next time we see the Swift family all together it will be when they are walking Tay down the aisle!!!
+This will be Jamie's third kid. He first became a father way back in 1994 when his ex, Connie Kline, gave birth to their daughter, Corinne.
+
+Jamie had his second kid 14 years later in 2008 when his ex, Kristin Grannis, gave birth to their daughter, Anelise Bishop.
+
+It's Alyce's first pregnancy.
+
+Congrats!!!
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/11/taylor-swift-new-york-family-dinner-pictures/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/jamie-foxx-alyce-huckstepp-expecting-baby/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -662,7 +678,46 @@ All prices &amp; availability subject to change. Not official merchandise unless
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Xi Is Poised to Press Trump on Arms Sales to Taiwan
+### 📰 Kuwait Accuses Iran of Trying to Infiltrate Its Territory
+<div align='justify'>
+<font size='4'>
+
+Kuwait’s interior ministry said a group of armed Iranians arrived at Bubiyan Island in the Persian Gulf on May 1 aboard a rented fishing boat and exchanged fire with Kuwaiti soldiers.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/middleeast/kuwait-iran-bubiyan-island.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 The Iran War Is Taking the Color Out of Japan’s Best-Known Snack Bags
+<div align='justify'>
+<font size='4'>
+
+The food giant Calbee said shortages of naphtha, a crude-oil derivative used in inks, were forcing it to switch to black-and-white packaging for its salty products.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/asia/calbee-japan-bags-iran-war.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran
+<div align='justify'>
+<font size='4'>
+
+The Consumer Price Index rose 3.8% in April from a year earlier as higher energy costs replaced tariffs as the driver of higher prices for Americans.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/economy/cpi-inflation-report-consumer-prices.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Xi Is Poised to Press Trump on Arms Sales to Taiwan During China Summit
 <div align='justify'>
 <font size='4'>
 
@@ -675,195 +730,147 @@ Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 China Seeks A.I. Independence, Weakening Trump’s Leverage
+### 📰 Hegseth to Accompany Trump on Trip to China
 <div align='justify'>
 <font size='4'>
 
-Before this week’s U.S.-Chinese summit, Beijing reached a milestone in its quest for technological self-sufficiency.
+Defense secretaries have previously traveled with presidents on overseas trips, to provide advice and represent the U.S. military.
 
 </font>
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 China Increasingly Views Trump’s America as an Empire in Decline
-<div align='justify'>
-<font size='4'>
-
-For decades, many Chinese viewed the United States with a mix of admiration, envy and resentment. President Trump’s volatile second term shattered that image.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence
-<div align='justify'>
-<font size='4'>
-
-Health Secretary Robert F. Kennedy Jr. has toned down his public criticism of vaccines, under orders from the White House. But inside his department, a sprawling research effort is a top priority.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Who Might Challenge Starmer in a Leadership Contest?
-<div align='justify'>
-<font size='4'>
-
-Health Secretary Wes Streeting, Mayor of Greater Manchester Andy Burnham and former deputy prime minister Angela Rayner are among possible contenders.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/europe/who-could-replace-starmer-uk-prime-minister.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
-### 📰 Australia’s Cloudy Beauty
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 Perseverance Stuns in New Selfie
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/pia26650-watson-take-6-up-small.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Valley fog gathered in the Victorian Alps while an arch-shaped cloud drifted across Port Phillip Bay.
-
-It’s autumn in the Southern Hemisphere, which means it's fog season in the Victorian Alps. NASA's Terra satellite captured this view of morning fog filling valleys in several national parks across the mountains of eastern Victoria in May.
-
-As nights lengthen with the season, the atmosphere has more time to cool and approach the dew point—the temperature at which the air becomes saturated and water vapor can condense into radiation fog. Because cold air is denser than warm air, it sinks and drains into valleys, allowing fog to develop there first. In low-elevation areas, radiation fog usually fades as the Sun warms the ground, but it tends to linger in mountain valleys because they remain shaded longer. On this day, geostationary satellite imagery shows the fog persisting for about two hours.
-
-Fog is a low-lying type of cloud composed of tiny water droplets suspended in the air. The main difference between a cloud and fog is that the base of fog reaches the ground, while the base of a cloud is generally well above the surface. Radiation fog forms in clear, calm conditions at night. In this case, a blast of cold, soggy weather primed the region by moistening land surfaces a few days prior to the arrival of a slow-moving high that brought calmer, warmer conditions that were conducive to fog formation.
-
-Many valleys in the mountains also have rivers, streams, and lakes, which amplified the process by providing a ready supply of water vapor. In the image above, zones of fog have formed along several water bodies, including the Mitta Mitta River, Buffalo River, Livingston Creek, Lake Dartmouth, and Snowy River.
-
-The same conditions fueled another noteworthy cloud a few hundred kilometers to the southwest. At about 8:19 a.m. local time (22:19 Universal Time), the Terra satellite captured an arch-shaped cloud over Port Phillip Bay, roughly stretching from St. Leonards on the bay’s western shore to Mount Eliza on the eastern side.
-
-The feature likely formed as converging land and sea breezes interacted with the horseshoe-shaped terrain that defines the bay. Geostationary satellite imagery shows the arch-shaped cloud moving southward across the bay as the valley fog to the northeast faded.
-
-NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSDIS LANCE and GIBS/Worldview. Story by Adam Voiland.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
+NASA’s Perseverance rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop in the foreground after creating a circular abrasion patch, with the western rim of Jezero Crater stretching into the background. During abrading, the rover grinds down a portion of the rock’s surface, allowing the science team to analyze what’s inside. The selfie was captured on March 11, the 1,797th Martian day (or sol) of the mission, during the rover’s deepest push west beyond the crater.
 
 </font>
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
 
-While we know the monikers Ingenuity and Perseverance are attached to our sister helicopter and rover on the Mars 2020 mission, those characteristics were in full force with Curiosity over the past week. The science we achieved this week was enabled by the ingenuity of the Curiosity engineers and scientists manifested in this extraordinary time lapse. It demonstrates the careful dance of arm motions employed — each one diligently planned by the team — to free Curiosity’s drill from the “Atacama” target. Watch the arm twist, bend, and turn with a rock slab attached, and be amazed.
+To view this video please enable JavaScript, and consider upgrading to a web browser that
+supports HTML5 video
 
-The highest-priority activities after liberating the drill included imaging the drill with Mastcam and ChemCam RMI, and imaging into the now-empty drill hole with MAHLI (the image above). The science team made the most of the freshly-broken surfaces created when Atacama fell back to Mars, and the freshly-exposed sand once hidden underneath Atacama. ChemCam targeted one of the clean fracture faces with two LIBS rasters at “Tamarugal” and “Tamarugo,” and followed with another raster on a light-toned patch of bedrock formerly under Atacama at “Colchane.”  MAHLI and APXS analyzed sand near Colchane at the target “Yerba Loca.” Beyond Atacama, Mastcam and ChemCam imaged the large buttes towering above our current and future drive paths. Mastcam also imaged two exposures of the polygonal fractures present in this area (targets “Cerro Elefantes” and “Azul Pampa”) and looked for wind-induced changes in the sand (“Playa los Metales”). ChemCam planned a passive spectroscopy observation of light-toned features on the “Paniri” butte and checked out a potential meteorite with a LIBS raster at "Isla Mocha.”
+NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western rim of Jezero Crater stretching into the background. The selfie was captured on March 11, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond the crater.
 
-As engineering assessments continued, Curiosity drove uphill to study a contact between two different rock types, which can indicate a change in formation conditions, a break in time, or both. MAHLI, APXS, and ChemCam teamed up to study both rock types at the lighter-toned, layered “Toro” target and the darker, flaky “Inca de Oro” target. Mastcam planned multiple mosaics capturing different structures and transitions exposed along the contact. Across the plans during the week, REMS, RAD, and DAN regularly measured the environment above and below the rover, and Navcam and Mastcam teamed up to look for clouds, dust devils, and dust in the atmosphere.
+Perseverance is in its fifth science campaign, known as the Northern Rim Campaign, of its mission on the Red Planet. The Lac de Charmes region represents some of the most scientifically compelling terrain the rover has visited.
 
-With the health of the drill and arm confirmed by the engineers, Curiosity exhibited perseverance by heading toward a new workspace with a promising (larger) block for a new drill attempt. Our Martian exploration continues undaunted.
+“We took this image when the rover was in the ‘Wild West’ beyond the Jezero Crater rim — the farthest west we have been since we landed at Jezero a little over five years ago,” said Katie Stack Morgan, Perseverance’s project scientist at NASA’s Jet Propulsion Laboratory in Southern California. “We had just abraded and analyzed the ‘Arethusa’ outcrop, and the rover was sitting in a spot that provided a great view of both the Jezero Rim and the local terrain outside of the crater.”
 
-Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
+During abrading, the rover grinds down a portion of the rock’s surface, allowing the science team to analyze what’s inside. The technique enabled the team to determine that the Arethusa outcrop is composed of igneous minerals that likely predate the formation of Jezero Crater. Igneous rocks with large mineral crystals form underground as molten rock cools and solidifies. Perseverance acquired the selfie — its sixth since landing on Mars in 2021 — using the WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) camera mounted at the end of its robotic arm, which made 62 precision movements over approximately one hour to build the composite image (learn more about how selfies are made).
 
-Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
+Along with the selfie, Perseverance used Mastcam-Z, located on its mast, to capture a mosaic of the “Arbot” area in Lac de Charmes on April 5, or Sol 1882. Made of 46 images, the panorama offers one of the richest geological vistas of the mission, revealing a windswept landscape of diverse rock textures.
 
-Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
+The image provides the team a clear road map for investigating the ridgeline and the area’s ancient rock variety, including what appear to be megabreccia — large fragments (some the size of skyscrapers) hurled by a massive meteorite impact that occurred on the plain called Isidis Planitia about 3.9 billion years ago.
 
-The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
+“What I see in this image is excellent exposure of likely the oldest rocks we are going to investigate during this mission,” said Ken Farley, Perseverance’s deputy project scientist at Caltech in Pasadena. “There is a sharp ridgeline visible in the mosaic whose jagged, angular texture contrasts starkly with the rounded boulders in the foreground. We also see a feature that may be a volcanic dike, a vertical intrusion of magma that hardened in place and was left standing as the softer surrounding material eroded away over billions of years.”
+
+The rock color in the mosaic offers less information to the science team than the distinctive textures, which help them differentiate the rock types. Unlike Jezero Crater’s river delta, which is composed of sedimentary rock, some rocks here appear to be extrusive igneous rocks (molten rock that reached the surface as lava flows) and impactites (rocks created or modified by a meteorite impact) believed to have formed before the crater about 4 billion years ago, offering a window into the planet’s deep early crust.
+
+“The rover’s study of these really ancient rocks is a whole new ballgame,” said Stack Morgan. “These rocks — especially if they’re from deep in the crust — could give us insights applicable to the entire planet, like whether there was a magma ocean on Mars and what initial conditions eventually made it a habitable planet.”
 
 </font>
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA’s Perseverance Captures Panorama at ‘Arbot’
+<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26753/PIA26753.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
 
-NASA’s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed “Atacama” on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity’s robotic arm on April 25. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose, finally detaching the rock on May 1.
+NASA's Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed “Arbot” on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vistas of the mission, revealing a windswept landscape of diverse rock textures. This is an enhanced-color version, which had its color bands processed to improve visual contrast and accentuate color differences.
 
-Atacama is estimated to be 1.5 feet in diameter at its base and 6 inches thick. It would weigh roughly 28.6 pounds (13 kilograms) on Earth (and about a third of that on Mars). The circular hole produced by Curiosity’s drill is visible in the rock.
+Figure B is a 3D anaglyph version designed for use with red-blue glasses. It is composed of 92 images collected by Mastcam-Z.
 
-This mosaic is made up of eight images that were stitched together after being sent back to Earth. The color has been approximately white-balanced to resemble how the scene would appear under daytime lighting conditions on Earth.
+NASA’s Jet Propulsion Laboratory, which is managed for the agency by Caltech in Pasadena, California, built and manages operations of the Perseverance rover. Arizona State University leads the operations of the Mastcam-Z instrument, working in collaboration with Malin Space Science Systems in San Diego, on the design, fabrication, testing, and operation of the cameras, and in collaboration with the Niels Bohr Institute of the University of Copenhagen on the design, fabrication, and testing of the calibration targets.
 
-Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by Caltech in Pasadena, California. JPL leads the mission on behalf of NASA’s Science Mission Directorate in Washington as part of NASA’s Mars Exploration Program portfolio. Malin Space Science Systems in San Diego built and operates Mastcam.
+For more about Perseverance: science.nasa.gov/mission/mars-2020-perseverance/
 
 </font>
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/)
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 May 2026 Satellite Puzzler
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA’s Perseverance Rover Snaps Westernmost Selfie
+<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26752/PIA26752.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Every month, NASA Earth Observatory features a puzzling satellite image. The May 2026 puzzler appears above.
+NASA’s Perseverance Mars rover took this selfie on March 11, 2026, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Assembled from 61 individual images, the selfie shows Perseverance training its mast on the “Arethusa” rocky outcrop after creating a whitish circular abrasion patch. The crater’s western rim of Jezero Crater is visible in the background.
 
-Your ChallengeIdentify the location shown in this satellite image. Share what clues you see, where you think it is, and what makes this place interesting or unique to you.
+Figure A is a version of the selfie in which the rover appears to be looking at the camera.
 
-How to AnswerSubmit your response using this form and select “Puzzler Answer” as the topic. Please include your preferred name or alias.
+Here is a GIF combining the main image and Figure A, in which the rover appears to look up and down.
 
-You can keep it simple and just guess the location. Want to impress us? Tell us which satellite and instrument captured the image, which spectral bands were used, or point out a subtle detail about the geology or history of the area. If something catches your eye, or if this is your home or means something to you, we’d love to hear about it.
+The selfie is composed of images taken by the WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) camera on the end of the rover’s robotic arm. The images were stitched together after being sent back to Earth.
 
-The PrizeWe can’t offer prize money or a trip to space to see Earth like satellites and astronauts do. But we can offer something almost as rewarding: puzzler bragging rights.
+WATSON is part of an instrument called SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals). WATSON was built by Malin Space Science Systems (MSSS) in San Diego and is operated jointly by MSSS and JPL.
 
-About a week after the challenge, we’ll post the answer at the top of this page, along with a link to an Earth Observatory Image of the Day story that explains the image in more detail. We’ll recognize the first person who correctly guesses the location, and we may also highlight readers who share especially thoughtful or interesting answers. By submitting a response, you acknowledge that your comments may be edited, excerpted, and published on this page.
-
-Until then, zoom in, look closely, and enjoy the challenge. See you at the reveal!
+NASA’s Jet Propulsion Laboratory, which is managed for the agency by Caltech in Pasadena, California, built and manages operations of the Perseverance rover.
 
 </font>
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/)
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
-<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/1-photolab-hpsc-processor.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Nicholas Houghton always dreamed of working at NASA and one day becoming an astronaut. Today, he helps design systems that keep crews safe during missions aboard NASA’s Orion spacecraft, including the successful Artemis II mission around the Moon.
+NASA’s High Performance Spaceflight Computing project aims to dramatically improve the computing power of spacecraft. Missions need processors that can withstand the harsh space environment, so they use chips developed years ago that are hardy and reliable. But upgraded chips are needed to enable the development of autonomous spacecraft, accelerate the rate of scientific discovery through faster data analysis, and support astronauts on missions to the Moon and Mars.
 
-After joining NASA as a Pathways intern, Houghton later became a full-time engineer on the Orion Crew Survival Systems (OCSS) team at NASA’s Johnson Space Center in Houston. The OCSS team designs and certifies the orange pressure suits that were worn by astronauts inside Orion during Artemis II, along with the survival hardware integrated into each suit system.
+“Building on the legacy of previous space processors, this new multicore system is fault-tolerant, flexible, and extremely high-performing,” said Eugene Schwanbeck, program element manager in NASA’s Game Changing Development program at the agency’s Langley Research Center, in Hampton, Virginia. “NASA’s commitment to advancing spaceflight computing is a triumph of technical achievement and collaboration.”
 
-Houghton manages key pieces of flight hardware that keep crew members safe during contingency scenarios before launch, in flight, and after landing, including the Orion Crew Survival Kits, Suit-Worn Survival Suite, and Life Preserver Units. He guides each system from design through testing and final certification to ensure it performs as required in flight.
+The centerpiece of the High Performance Spaceflight Computing project is a new radiation-hardened, high-performance processor, designed to provide up to 100 times the computational capacity of current spaceflight computers while enduring a barrage of challenges in space. NASA’s Jet Propulsion Laboratory in Southern California has been conducting various tests that replicate those challenges.
 
-Like many complex engineering efforts at NASA, the work relies on close collaboration across disciplines. Houghton works alongside experts in electromagnetic interference, radiation, stress and loads, and materials to evaluate and refine each system. He also helps lead development of water survival and post-landing hardware, writing manufacturing and assembly procedures and troubleshooting issues during integration and testing.
+“We are putting these new chips through the wringer by carrying out radiation, thermal, and shock tests while also evaluating their performance through a rigorous functional test campaign,” said Jim Butler, High Performance Space Computing project manager at JPL.
 
-Beyond hardware development, Houghton prepares astronauts and recovery teams for real-world operations. He supports suit-up activities, helps train Department of Defense recovery forces, and participates in Underway Recovery Training alongside the U.S. Navy to rehearse post-splashdown operations.
+The processor must endure myriad tests to prove it can survive the rigors of spaceflight, including electromagnetic radiation and extreme temperature swings, both of which can degrade electronics. High-energy particles from the Sun and interstellar space can cause errors that send a spacecraft into “safe mode,” where nonessential operations are shut down until mission operators resolve the issue.
 
-Ground testing plays a critical role in that preparation. During these tests, systems are pushed to their limits to uncover potential issues before flight.
+There are also unique challenges associated with landing on planetary bodies. “To simulate real-world performance, we are using high-fidelity landing scenarios from real NASA missions that would typically require power-intensive hardware to process huge volumes of landing-sensor data,” said Butler. “This is an exciting time for us to be working on hardware that will enable NASA’s next giant leaps.”
 
-Outside of his NASA career, Houghton gives back by volunteering as a firefighter and emergency medical technician. “Serving my community is something that I have always been passionate about,” he said. “I am thankful to have the opportunity to support those around me.”
+Testing at JPL, which began in February, will continue for several months. Results have been promising: The processor is working as designed and indications show it operating at 500 times the performance of the radiation-hardened chips currently in use. In a symbolic milestone, the team sent an email at the start of testing with the subject line “Hello Universe” — a nod to the test message that was popular in early computer development.
+
+Built by Microchip Technology Inc., headquartered in Chandler, Arizona, the High Performance Spaceflight Computing processor is being developed by the company and JPL through a commercial partnership. Samples have been provided to early access partners in the broader defense and commercial aerospace industry. The technology will enable autonomous spacecraft to use artificial intelligence to respond in real time to complex situations and environments where human input isn’t possible. It will help deep space missions analyze, store, and transmit troves of data to Earth, accelerating the rate of science discoveries. It could also support future human missions to the Moon and Mars.
+
+Known as a system-on-a-chip (or SoC), the processor can fit in the palm of a hand and includes all the key components of a computer, such as central processing units, computational offloads, advanced networking units, memory, and input/output interfaces. Compact and energy-efficient, SoCs are commonly found in smartphones and tablets. But only the SoCs JPL is testing are built to survive for years, millions (or even billions) of miles from the nearest repair technician, enduring conditions that even the toughest home user couldn’t replicate.
+
+Once certified for spaceflight, NASA will incorporate the chip into the computing hardware for many of the agency’s Earth orbiters, rovers exploring planetary surfaces, crewed habitats, and deep-space missions. The technology will be adapted by Microchip for Earth-based industries too, such as aviation and automotive manufacturing. The versatility of High Performance Spaceflight Computing supports NASA’s continued advancements in space exploration while providing transformative tools for numerous fields on Earth.
 
 </font>
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
