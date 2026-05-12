@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:56`
+**📅 Update:** `2026/05/12 - 05:59`
 
 ---
 
@@ -18,6 +18,39 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
+### 📰 US moves to release more oil stockpiles under IEA agreement
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-20T163141Z_958203687_RC23TKA36O31_RTRMADP_3_OIL-INVENTORIES-EIA-1778555463.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+
+<div align='justify'>
+<font size='4'>
+
+The United States has announced its latest release of emergency oil stockpiles in coordination with the International Energy Agency (IEA).
+
+The US Department of Energy said on Monday that it had begun transferring 53.3 million barrels from the strategic petroleum reserve after awarding contracts to nine companies under its emergency exchange programme.
+
+Trafigura Trading LLC, a Texas-based commodities trading company, was granted the biggest haul of nearly 13 million barrels, with Marathon Petroleum Corporation and ExxonMobil set to receive 12.4 million barrels and 11.4 million barrels, respectively.
+
+Macquarie Commodities Trading US, Atlantic Trading & Marketing, BP Products North America, Energy Transfer Crude Marketing, Mercuria Energy America and Phillips 66 will receive between 1.05 million and 6.55 million barrels each, according to the Energy Department.
+
+Under the department’s exchange scheme, participating firms are required to replenish the stockpile with new barrels at a later date.
+
+“These actions continue to move oil swiftly into the market, address near-term supply needs, and ensure that the Strategic Petroleum Reserve remains strong through the return of premium barrels,” Kyle Haustveit, the head of the department’s Hydrocarbons and Geothermal Energy Office, said in a statement.
+
+The transfer comes after US President Donald Trump’s administration agreed in March to release 172 million barrels of crude as part of the IEA’s coordination of the largest unloading of global stockpiles in history.
+
+Oil prices have surged since the US and Israel launched their war on Iran in late February, with Tehran’s retaliatory blockade of the Strait of Hormuz paralysing one of the world’s most important trade routes.
+
+Maritime traffic in the strait has ground to a halt amid Iranian threats against commercial shipping, disrupting about one-fifth of the global oil trade.
+
+Oil prices continued to edge higher on Monday after Trump dismissed Iran’s latest peace proposal and warned that the ceasefire between the sides was “on life support”, dampening hopes for a quick resolution to the conflict.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/12/us-moves-to-release-more-oil-stockpiles-under-iea-agreement?traffic_source=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Israel approves law on public trials, death penalty for October 7 detainees
 <img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-31T151240Z_941610984_RC2QFKANIOUN_RTRMADP_3_ISRAEL-PALESTINIANS-DEATH-PENALTY-JERUSALEM-PROTEST-1778560861.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
@@ -111,21 +144,6 @@ Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “m
 </div>
 
  [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Lebanese in south refuse to flee again despite escalating Israeli strikes
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes.
-
-</font>
-</div>
-
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
