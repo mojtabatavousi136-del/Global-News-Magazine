@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 04:52`
+**📅 Update:** `2026/05/12 - 04:55`
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## Al Jazeera
 ### 📰 Hundreds more displaced as gang violence escalates in Haiti’s capital
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='100%' style='border-radius:12px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -29,7 +29,7 @@
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Flotilla activist Thiago Ávila arrives in Brazil
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:12px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -44,7 +44,7 @@
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 California ex-mayor admits acting as agent of China, US authorities say
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:12px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -73,12 +73,6 @@ Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “m
 
 US Assistant Attorney General for National Security John A Eisenberg issued a statement expressing deep concern over Wang’s activities.
 
-“Individuals elected to public office in the United States should act only for the people of the United States that they represent,” he said.
-
-“It is deeply concerning that someone who previously received and executed directives from PRC government officials is now in a position of public trust at all, but particularly so because that relationship with that foreign government had never been disclosed.”
-
-China’s embassy in Washington, DC, did not immediately respond to a request for comment.
-
 </font>
 </div>
 
@@ -87,7 +81,7 @@ China’s embassy in Washington, DC, did not immediately respond to a request 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Lebanese in south refuse to flee again despite escalating Israeli strikes
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png?resize=1920%2C1440' width='100%' style='border-radius:12px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png?resize=1920%2C1440' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -102,7 +96,7 @@ China’s embassy in Washington, DC, did not immediately respond to a request 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Bolivia issues warrant for Evo Morales’s arrest after court no-show
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-08-04T060007Z_1755863889_RC2VZFAUI8X3_RTRMADP_3_BOLIVIA-POLITICS-RUNASUR-1778553996.jpg?resize=1920%2C1440' width='100%' style='border-radius:12px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-08-04T060007Z_1755863889_RC2VZFAUI8X3_RTRMADP_3_BOLIVIA-POLITICS-RUNASUR-1778553996.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -131,12 +125,6 @@ Morales was already declared in contempt of court in January 2025, when he did n
 
 Wilfredo Chavez, one of his lawyers, told the AFP news agency on Friday that neither Morales nor his lawyers would show up in court, as they had not been “properly notified”.  The lawyer said the court did not send the summons to Morales’s address, but had instead served it through an edict.
 
-Morales, who rose from dire poverty to become one of Latin America’s longest-serving leaders, has slammed those “that persecute me and condemn me in record time”.
-
-His refusal to give up power in 2019 after three terms led to a tumultuous exit that cast a shadow over nearly 14 years of economic progress and poverty reduction.
-
-Forced to resign after elections tainted by fraud, he slipped away into exile in Mexico and later Argentina, but returned home a year later.
-
 </font>
 </div>
 
@@ -148,7 +136,7 @@ Forced to resign after elections tainted by fraud, he slipped away into exile in
 ---
 ## BBC World
 ### 📰 Trump says Iran ceasefire is on 'massive life support'
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -173,6 +161,10 @@ It also reportedly includes a demand for compensation for war damage and an emph
 
 Trump criticised the proposal, writing on Truth Social on Sunday: "I have just read the response from Iran's so-called 'Representatives.' I don't like it - TOTALLY UNACCEPTABLE."
 
+In response to Trump's comments, Baghaei said Iran would act "in any way necessary to secure our interests".
+
+Speaking in the Oval Office later on Monday, Trump addressed the ceasefire between the two countries which has largely been observed since April despite occasional exchanges of fire.
+
 </font>
 </div>
 
@@ -181,7 +173,7 @@ Trump criticised the proposal, writing on Truth Social on Sunday: "I have just r
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 How the Trump-Xi summit could set superpower relations for many years to come
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -206,6 +198,10 @@ Officials in Beijing and Islamabad in March presented a five-point plan with the
 
 There's no doubt, despite its steady show of strength, that China is eager for an end to this war.
 
+The country's economy is already battling slower growth and higher unemployment. Increasing oil prices have driven up the cost of items made with petrochemicals, everything from textiles to plastics. For some producers in China, costs have gone up 20%.
+
+China has enviable oil reserves and the lead it has taken in renewables and electric cars has insulated it from the worst effects of the fuel crisis, but the war is causing more pain to a sluggish Chinese economy that is heavily reliant on exports. However, if China is to step in and help the US, it will still want something in return.
+
 </font>
 </div>
 
@@ -214,7 +210,7 @@ There's no doubt, despite its steady show of strength, that China is eager for a
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Last passengers leave virus-hit cruise ship as three more test positive
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1688/live/697a7c50-4daa-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1688/live/697a7c50-4daa-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -239,6 +235,10 @@ Hantaviruses are usually carried by rodents, but human transmission of the Andes
 
 Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomiting, diarrhoea and shortness of breath.
 
+As of Monday evening, the ship's operator Oceanwide Expeditions said 27 people remain on board the ship, including 25 crew members and two medical staff.
+
+These include 17 people from the Philippines, four from the Netherlands (including the two medical staff), four from Ukraine, one from Russia and one from Poland.
+
 </font>
 </div>
 
@@ -247,7 +247,7 @@ Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomitin
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Israel passes law to allow death penalty and public trials for those linked to 7 October
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/24ad/live/dd803850-4d56-11f1-a84e-777fb0e2277b.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/24ad/live/dd803850-4d56-11f1-a84e-777fb0e2277b.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -255,8 +255,6 @@ Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomitin
 Israel has passed a new law to impose the death penalty and conduct public trials for those involved in the unprecedented Hamas-led attacks and mass hostage-taking in Israel in October 2023.
 
 The legislation was passed by 93 votes to 0 in Israel's parliament - the Knesset - and was unusually jointly sponsored by government and opposition politicians.
-
-The remaining 27 lawmakers were absent or abstained.
 
 "May everyone see how the victims and their families look into the whites of the eyes of those murderers, rapists and kidnappers," Yulia Malinovsky, a co-sponsor of the bill, told a news conference ahead of the parliamentary votes.
 
@@ -272,6 +270,12 @@ The events triggered the deadliest ever war in Gaza, with 72,740 people killed t
 
 Although Israel's parliament passed the Death Penalty for Terrorists Law in March, aimed at Palestinians convicted of terrorism offences, it does not apply retroactively. This meant that separate legislation was required to deal with those alleged to have carried out the assault.
 
+Israeli politicians supporting the law say it will allow for a trial of historic significance, comparing it to that of the Nazi war criminal Adolf Eichmann.  Eichmann - an architect of the Jewish Holocaust - was hanged in 1962, becoming the only person previously sentenced to death by an Israeli civil court.
+
+The new law creates a special legal framework for prosecuting those accused of direct involvement in the attacks, including members of the Nukhba special forces unit of the al-Qassam Brigades, the military wing of Hamas, who were captured in Israel.
+
+They are expected to face charges ranging from terrorism and murder to sexual violence and also genocide - which will carry the death penalty. They will be tried before a special military court in Jerusalem with different rules from regular criminal trials.
+
 </font>
 </div>
 
@@ -280,7 +284,7 @@ Although Israel's parliament passed the Death Penalty for Terrorists Law in Marc
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 EU agrees sanctions on Israeli settlers over West Bank violence
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -305,6 +309,10 @@ There is still technical and legal work that must be done in the EU before the s
 
 EU officials said that seven settlers or settler organisations would be sanctioned. The EU also agreed to sanction more representatives from Hamas.
 
+Israeli media have reported that the sanctioned individuals and organisations include Daniella Weiss, who is already sanctioned by the UK and is known as the "godmother" of the settler movement.
+
+It is also reported that they include the organisations Nachala and Regavim, movements that promote settlements, as well as HaShomer Yosh and Amana, organisations that help to finance and assist unauthorised settlements known as outposts.
+
 </font>
 </div>
 
@@ -316,12 +324,10 @@ EU officials said that seven settlers or settler organisations would be sanction
 ---
 ## The Guardian
 ### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
-<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=140&quality=85&auto=format&fit=max&s=d19a9c185d1ded7c39262f1c1baac579' width='100%' style='border-radius:12px;'>
+<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=140&quality=85&auto=format&fit=max&s=d19a9c185d1ded7c39262f1c1baac579' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
-
-Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape
 
 Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well above the seasonal norm. Daytime highs are forecast to reach 10-15C above average in some areas.
 
@@ -343,12 +349,10 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Body of missing US soldier recovered off coast of Morocco
-<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=140&quality=85&auto=format&fit=max&s=e5ad2a13eb5364bf318085cdac0f41c3' width='100%' style='border-radius:12px;'>
+<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=140&quality=85&auto=format&fit=max&s=e5ad2a13eb5364bf318085cdac0f41c3' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
-
-1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries
 
 A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Morocco, the US army said on Sunday.
 
@@ -370,12 +374,10 @@ The largest part of the exercise takes place in Morocco, involving approximately
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 ‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere
-<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=3d70a65ae48caabd14de7d15d1f9ca7d' width='100%' style='border-radius:12px;'>
+<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=3d70a65ae48caabd14de7d15d1f9ca7d' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
-
-Africa is leading a change in news consumption habits  – and transforming the lives of current affairs enthusiasts
 
 Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. She explained an argument that had erupted between the South African and Rwandan presidents, then listed roles different South African groups would play in a war with Rwanda: the Sotho strategists, the Xhosa negotiators, the Afrikaner muscle. The video went viral and she racked up 100,000 followers in three days.
 
@@ -395,6 +397,12 @@ Jaxa, 32, started posting explainer videos after an argument with her brother, w
 
 Jaxa considers herself to be a translator of the news for younger generations, not a replacement: “I don’t exist if there is no traditional media, because … all the content I do is from traditional media.”
 
+Recent topics tackled by Jaxa, who has degrees in philosophy, politics and economics and international relations, include the Iran war, the South African president’s annual state of the nation address and the budget, the last one sponsored by a bank. However, she makes most of her money from brand partnerships on Instagram, where she posts less news content.
+
+News used to be consumed communally in South Africa through a radio or TV, said Sisanda Nkoala, an associate professor at the University of the Western Cape. “The experience of the media being a place where people gather to watch the evening news, that has changed,” she said.
+
+She expressed concern that the shift to online news was widening South Africa’s digital divide. In the 2022 census, 21% of households reported not having internet access, many in rural areas.
+
 </font>
 </div>
 
@@ -403,12 +411,10 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Guardian reporter and colleagues detained and beaten by Somali police
-<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=c5604bd094625c43a7c8ea25bff35fc6' width='100%' style='border-radius:12px;'>
+<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=c5604bd094625c43a7c8ea25bff35fc6' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
-
-Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison
 
 A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali authorities, along with two others, for his reporting for the Guardian.
 
@@ -428,6 +434,12 @@ He and the two other journalists had been facing sustained threats and intimidat
 
 At the police headquarters, the three reporters said they were threatened by Mahdi Omar Mumin, Mogadishu police chief, should they continue to report on the protests.
 
+In a statement released by Somali Journalists Syndicate (SJS), the journalists said that Mumin told them he was “tired of arresting journalists” and that if they did not remain silent about the protests and other developments in Mogadishu, including the case of Ali, the only option remaining for them would be “death”.
+
+Somali Stream, the media organisation which Mohamud works for, condemned the arrests as “an illegal and politically motivated attack on independent journalism”.
+
+AbdiKani Hamud Abokor, the outlet’s managing director, said: “Somali Stream strongly condemns the unlawful detention of Abdishakur [Mohamed] Mohamud, Abdihafid Nor [Barre], and Mohamed Bulbul. This is a deliberate attempt to terrorise journalists, suppress independent reporting and instil fear across Somalia’s media community.”
+
 </font>
 </div>
 
@@ -436,12 +448,10 @@ At the police headquarters, the three reporters said they were threatened by Mah
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital
-<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=1ac13619c2ec2285b71713f2b40ba663' width='100%' style='border-radius:12px;'>
+<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=1ac13619c2ec2285b71713f2b40ba663' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
-
-Man, 69, is in intensive care in Johannesburg, while expedition guide Martin Anstee, 56, receiving care in Netherlands
 
 Two Britons who were medically evacuated from the hantavirus-hit cruise ship are improving, global health officials have said.
 
@@ -461,6 +471,12 @@ Spanish authorities have given permission for the ship to anchor in the Canary I
 
 It is estimated to arrive at the port of Granadilla in Tenerife in the early hours of Sunday.
 
+Morale on board has improved since the ship started its journey to Tenerife, the WHO said. Two doctors are on board along with infectious disease experts from the WHO and the European Centre for Disease Prevention and Control, who are conducting a medical assessment of everyone on board.
+
+While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director-general of the WHO, said there could be more cases due to the incubation period of the Andes virus – the variant of hantavirus linked to the outbreak – which can be up to six weeks.
+
+He said: “While this is a serious incident, WHO assesses the public health risk as low.” He thanked the ship’s operator for its cooperation, and the passengers and crew, “who are going through a very difficult and frightening situation”.
+
 </font>
 </div>
 
@@ -472,7 +488,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 ---
 ## NY Times
 ### 📰 Xi Poised to Press Trump on Arms Sales to Taiwan
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -487,7 +503,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Chinese A.I. Firms Push Beyond Nvidia as DeepSeek Turns to Huawei
-<img src='https://static01.nyt.com/images/2026/05/08/multimedia/00biz-china-chips-fqbm/00biz-china-chips-fqbm-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://static01.nyt.com/images/2026/05/08/multimedia/00biz-china-chips-fqbm/00biz-china-chips-fqbm-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -502,7 +518,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 China Increasingly Views Trump’s America as an Empire in Decline
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/00newworld-chinastrong-01-kpmb/00newworld-chinastrong-01-kpmb-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://static01.nyt.com/images/2026/05/11/multimedia/00newworld-chinastrong-01-kpmb/00newworld-chinastrong-01-kpmb-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -517,7 +533,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 RFK Jr. Is Driving a Vast Inquiry Into Vaccines, Despite His Public Silence
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11dc-kennedy-measles-01-pqjf/11dc-kennedy-measles-01-pqjf-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11dc-kennedy-measles-01-pqjf/11dc-kennedy-measles-01-pqjf-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -532,7 +548,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Supreme Court Clears Path for Alabama to Use New Voting Map
-<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11dc-scotus-alabama-mhkj/11dc-scotus-alabama-mhkj-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://static01.nyt.com/images/2026/05/11/multimedia/11dc-scotus-alabama-mhkj/11dc-scotus-alabama-mhkj-mediumSquareAt3X.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -549,11 +565,11 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 
 ---
 ## Associated Press
-> ⚠️ *Source temporarily unavailable.*
+> ⚠️ *Currently unavailable.*
 
 ## NASA News
 ### 📰 Australia’s Cloudy Beauty
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:12px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -578,6 +594,10 @@ Stay up-to-date with the latest content from NASA as we explore the universe and
 
 Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
 
+As winter turned to spring, the skies over the Gulf of Alaska displayed textbook examples of numerous cloud formations.
+
+After the Laurentide Ice Sheet retreated from present-day Hudson Bay, rebounding land has revealed striking nearshore topography.
+
 </font>
 </div>
 
@@ -586,7 +606,7 @@ Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:12px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -617,7 +637,7 @@ The key to understanding the past, present or future potential for life on Mars 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png/jcr:content/renditions/cq5dam.web.1280.1280.png' width='100%' style='border-radius:12px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png/jcr:content/renditions/cq5dam.web.1280.1280.png' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -638,7 +658,7 @@ Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by C
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 May 2026 Satellite Puzzler
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:12px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -665,7 +685,7 @@ Until then, zoom in, look closely, and enjoy the challenge. See you at the revea
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
-<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -695,7 +715,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 ---
 ## TMZ
 ### 📰 Taylor Swift Steps Out for Family Dinner in NYC
-<img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -710,7 +730,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Kim Kardashian Awarded Big Payday Despite Man Claiming Judgment Would Ruin Him
-<img src='https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -725,7 +745,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 George Floyd's Family Rips Tony Hinchcliffe, Kevin Hart Over 'Roast' Joke
-<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -740,7 +760,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 RHOBH’s Dorit Kemsley’s Estranged Husband PK’s Monthly Income Revealed in Court
-<img src='https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -755,7 +775,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Sabrina Carpenter's Birthday: Celebrate with These Products
-<img src='https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg' width='100%' style='border-radius:12px;'>
+<img src='https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
@@ -773,20 +793,12 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 ---
 ## The Verge
 ### 📰 OpenAI just released its answer to Claude Mythos
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:12px;'>
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
 
-OpenAI’s Daybreak combines GPT-5.5-Cyber and Codex Security.
-
 OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization’s code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.
-
-Its launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was too dangerous to publicly release and only shared privately as a part of its own initiative, dubbed Project Glasswing. Still, that didn’t stop at least a few unauthorized parties from getting access.
-
-However, OpenAI has so far lacked a similar security product. Like Glasswing, Daybreak isn’t built on just one AI model — OpenAI says “Daybreak brings together the most capable OpenAI models, Codex, and our security partners.”
-
-Daybreak also involves specialized cyber models, including GPT-5.5 with Trusted Access for Cyber and GPT-5.5-Cyber, which began rolling out last week. OpenAI also says it’s working with its “industry and government partners” while it prepares to “deploy increasingly more cyber-capable models.”
 
 </font>
 </div>
@@ -796,28 +808,12 @@ Daybreak also involves specialized cyber models, including GPT-5.5 with Trusted 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Yarbo says it will remove the intentional backdoor from its robot lawn mower
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&strip=all&crop=0%2C3.4797855362992%2C100%2C93.040428927402&w=1200' width='100%' style='border-radius:12px;'>
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Yarbo-M1-8.jpeg?quality=90&strip=all&crop=0%2C3.4797855362992%2C100%2C93.040428927402&w=1200' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
 
 The company behind the robot lawn mower that ran me over has changed its tune. Yarbo now plans to completely remove the remote backdoor access that could have let bad actors reprogram the robot over the internet. Yarbo customers will be able to decide whether that feature even gets installed in the first place, co-founder Kenneth Kohlmann pledges to The Verge.
-
-Yarbo had already promised on Friday that it would tackle many security issues head-on, closing the holes that let security researcher Andreas Makris easily hijack any of the bladed robots from the other side of the globe, while also exposing email addresses and GPS locations. But when it came to the most concerning vulnerability, Yarbo stopped short at the time. The company said it would keep a remote backdoor open so “authorized internal company personnel” can help remotely troubleshoot devices — only now with more protections around it.
-
-Shouldn’t Yarbo’s customers get to decide whether their robots have a persistent backdoor at all? When we asked last week, the company initially suggested the answer was no. “Completely removing remote diagnostic capability would reduce our ability to help customers resolve safety, connectivity, and service issues quickly, especially in cases where physical inspection is not practical,” spokepeople Showan Hou and Maggie Zhou told us on Saturday. The company suggested it was still considering solutions and might let users opt out.
-
-But by Monday, when Kohlmann called me from the airport, the company had decided to go a step further. The company’s making it an opt-in feature that you can install if and only if you want remote help. “In the future there should be no remote backdoor unless the user decides to opt-in,” he tells The Verge.
-
-Above: my original video about the Yarbo robot lawn mower.
-
-Kohlmann warns it’ll take some time to remove the tunnel, and the required files to install a new version may still technically be loaded on each robot’s internal storage. “It would most likely be a setup script that sits on the machine and doesn’t do anything unless the user triggers it,” he says. “If the user triggers it, then it installs a temporary one-time tunnel.”
-
-You’d probably try uploading your log file to Yarbo tech support before going that far, he suggests. If that’s not enough to diagnose the problem, you could optionally install the remote access feature as well.
-
-It may be difficult to tell if Yarbo keeps its promise to remove the remote access tunnel by default, because it’s already locking down its robots (as it should!) following our story. Kohlmann says every device should soon have a unique root password, one that Yarbo won’t provide to end users; firmware updates have already rolled out to the first 1,000 machines and are coming to additional waves of robots.
-
-But Kohlmann says the company is now in touch with Makris, and it’s possible the security researcher will be able to validate the changes.
 
 </font>
 </div>
@@ -827,24 +823,12 @@ But Kohlmann says the company is now in touch with Makris, and it’s possible t
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Here&#8217;s what Mira Murati&#8217;s AI company is up to
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:12px;'>
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/VRG_Illo_mira-murati_stock_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
 
-Thinking Machines is demonstrating AI ‘interaction models’ that respond to users in real time.
-
 Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it’s working on something called “interaction models.” The idea behind interaction models, according to Thinking Machines, is that they will let people “collaborate with AI the way we naturally collaborate with each other — they continuously take in audio, video, and text, and think, respond, and act in real time.”
-
-Today’s models experience reality in a single thread. Until the user finishes typing or speaking, the model waits with no perception of what the user is doing or how the user is doing it. Until the model finishes generating, its perception freezes, receiving no new information until it finishes or is interrupted. This creates a narrow channel for human-AI collaboration that limits how much of a person’s knowledge, intent, and judgement can reach the model, and how much of the model’s work can be understood. Picture trying to resolve a crucial disagreement over email rather than in person.
-
-At Thinking Machines, we believe we can solve this bandwidth bottleneck by making AI interactive in real time across any modality. This enables AI interfaces to meet humans where they are, rather than forcing humans to contort themselves to AI interfaces.
-
-Thinking Machines also shared several examples of the model in action, including listening for mentions of animals in a story, translating speech in real time, and telling someone when they’re slouching.
-
-You can read a deeper explanation of interaction models on the Thinking Machines website. However, you can’t try interaction models for yourself just yet; Thinking Machines plans to open a “limited research preview” in the “coming months” and aims to do a “wider release later this year.”
-
-Murati founded Thinking Machines in February 2025 after leaving OpenAI. The AI lab has already had to grapple with many major departures, with key members defecting to Meta and even back to OpenAI.
 
 </font>
 </div>
@@ -854,20 +838,12 @@ Murati founded Thinking Machines in February 2025 after leaving OpenAI. The AI l
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Govee’s new portable smart lamp is on sale for the first time
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&strip=all&crop=0,10.715601816121,100,78.568796367758' width='100%' style='border-radius:12px;'>
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/goveelamp.jpg?quality=90&strip=all&crop=0,10.715601816121,100,78.568796367758' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
 
-Govee’s cordless Table Lamp Classic is like the significantly cheaper version of the portable Philips Hue Go.
-
-If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.
-
 If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Amazon for $63.99 ($16 off), which makes it less than half the price of Philips’ portable smart lamp.
-
-The cordless lamp features a built-in 4,800mAh battery, which can last up to 30 hours with colored lighting enabled, though that drops to around five hours when using brighter white lighting. That’s not quite as long as the Philips Hue Go, which Philips says can last up to 48 hours on a charge, but on the flip side the Govee is brighter, delivering up to 500 lumens of brightness. It’s also lightweight enough to easily carry from room to room or bring outside, though you’ll want to be careful outdoors since it lacks the Philips Hue Go’s IP54 weather resistance rating for protection against rain and splashes.
-
-In addition, the Govee supports adjustable color temperatures ranging from a warm 2700K to a cooler 6500K, and like with many of its smart lighting products, offers a slew of fun, colorful lights effects. You can have it sync to music while you’re hosting people, or switch between different preset scenes to set the mood, many of which are organized around specific moods and themes like “romance,” holidays, and more. Through Govee’s app, you can even type in prompts describing the vibe you want and the lamp will generate matching lighting effects for you. The lamp also supports Matter, meaning you can control it through major smart home platforms.
 
 </font>
 </div>
@@ -877,30 +853,12 @@ In addition, the Govee supports adjustable color temperatures ranging from a war
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Palantir&#8217;s true believers are wearing this jacket
-<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268519_Why_would_Palantir_make_a_chore_coat__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:12px;'>
+<img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268519_Why_would_Palantir_make_a_chore_coat__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:15px;'>
 
 <div align='justify'>
 <font size='4'>
 
-﻿The data mining company with extensive defense contracts is making merch to signal which side you’re on.
-
 In late April, Palantir — the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement — announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat.
-
-At $239 and in bright blue and black options, the jacket looks like a standard offering that has, by way of photographer Bill Cunningham, trickled down into mainstream menswear for years. This jacket is a pastiche of 19th century French workwear that was worn by people actually doing physical labor; the only noticeable difference is that a dainty Palantir logo appears on the breast pocket.
-
-The jacket ruffled feathers, to put it lightly. One TikTok described it as “Evil boring French workwear for evil boring guys.” The more sartorially inclined questioned why Palantir, as a cheerleader of US military might, wouldn’t make something inspired by American workwear. Still, by the end of its on-sale day, the 420 units Palantir produced had sold out. (Palantir declined to comment for this story.)
-
-For over a year, along with its merch, Palantir has been trying to sell the idea that it is, actually, a lifestyle brand. In a credulous interview with GQ leading up to the release of the jackets, a Palantir employee told the magazine that the company “exists to ensure that the institutions that power the United States and its allies have the best software capabilities on Earth,” and that wearing Palantir-branded clothing was a way for other people to hitch their wagon to this ideology. As for what wearing Palantir merchandise would represent, there are mentions of “supporting our warfighters,” “strengthening Western institutions,” and being apolitical. Most of the garments do not obviously signal these things — there’s no stars and stripes iconography or STAND FOR THE FLAG, KNEEL FOR THE FALLEN-type slogans. Instead, it is Palantir talking to itself and its supporters; chore coat wearers might earnestly believe in these values, but their clothing, at least, is a marketing exercise for the company itself.
-
-“It makes sense to me. I think it’s actually really smart of Palantir to want this, to want to be on T-shirts and to want to be something that people wear, even ironically,” says Avery Trufelman, a fashion journalist and host of Articles of Interest, a podcast that last year detailed the outdoor industry and its long-running ties to the military. “It’s kind of a bad move to say you want to be cool — that’s not cool. But the initial aspiration is really, really smart.”
-
-As Articles of Interest documented, fashion and the military have a deeply entangled history — from bomber jackets and combat boots to field jackets and khakis, our contemporary wardrobes are littered with clothing that has origins in military use. Some household name brands like Patagonia have also contracted with the military in addition to selling fleece jackets to crunchy outdoor types.
-
-Palantir’s merch is a new way for the laptop class to signal brand alignment
-
-It’s also not so unusual that a defense contractor would wind up making products for the consumer market, Trufelman says: synthetic insulation by PrimaLoft was initially developed for the US military but now lines jackets sold at REI and bedding at L.L. Bean. Camouflage prints intended for elite soldiers are now also part of the uniform of fashionable civilians. The difference, of course, is that Palantir doesn’t really make clothes: It makes powerful (and sometimes poorly understood) software that even some of its own employees are increasingly concerned about. Palantir’s merch serves no tactical purpose for “warfighters,” but is a new way for the laptop class to signal brand alignment.
-
-“Palantir doing their version of it is sensible, because who are the people that are buying their clothes? They’re often urban knowledge workers, people that send email all day,” says Derek Guy, a menswear writer. (You may know him as “The Menswear Guy” on social media.) “It’s just a very fashionable garment at the moment for that kind of class.”
 
 </font>
 </div>
