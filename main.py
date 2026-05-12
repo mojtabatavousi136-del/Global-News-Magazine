@@ -16,31 +16,40 @@ def get_ultra_content(entry, source_name):
         response = requests.get(entry.link, headers=headers, timeout=20)
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        # --- ۱. استخراج و اصلاح عکس (فوق هوشمند) ---
+        # ۱. استخراج عکس از متاتگ‌ها (بهترین کیفیت معمولاً اینجاست)
         img_tag = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
         if img_tag:
             image_url = img_tag.get("content")
 
-        # اصلاح اختصاصی برای ناسا (حذف پسوندهای اضافه بعد از .jpeg یا .jpg)
-        if source_name == "NASA News" and image_url:
-            image_url = re.sub(r'(\.jp[e]?g)/.*$', r'\1', image_url)
+        # --- اصلاحات اختصاصی برای کیفیت و نمایش ---
+        
+        if image_url:
+            # الف) اصلاح ناسا: حذف هرگونه متن اضافه بعد از پسوند فایل
+            if source_name == "NASA News":
+                # این رنکنی تمام مسیرهای اضافه مثل /jcr:content را حذف می‌کند
+                match = re.search(r'(^.*?\.(jpg|jpeg|png))', image_url, re.IGNORECASE)
+                if match:
+                    image_url = match.group(1)
 
-        # اصلاح اختصاصی برای گاردین (بالا بردن کیفیت)
-        if source_name == "The Guardian" and image_url:
-            image_url = image_url.split('?')[0] # حذف پارامترهای فشرده‌سازی
+            # ب) اصلاح گاردین: بازگرداندن بالاترین کیفیت ممکن
+            elif source_name == "The Guardian":
+                # حذف پارامترهای طول و عرض برای دریافت نسخه اصلی (Master)
+                image_url = re.sub(r'\?width=\d+&quality=\d+', '', image_url)
+                if '?' in image_url and 'static.guim.co.uk' in image_url:
+                    image_url = image_url.split('?')[0]
 
-        # رفع مشکل نمایش نیویورک تایمز در گیت‌هاب (استفاده از سیستم Image Proxy)
-        if source_name == "NY Times" and image_url:
-            image_url = f"https://wsrv.nl/?url={image_url}"
+            # ج) اصلاح نیویورک تایمز: استفاده از پروکسی برای دور زدن مسدودیت گیت‌هاب
+            elif source_name == "NY Times":
+                image_url = f"https://wsrv.nl/?url={image_url}"
 
-        # بک‌آپ از فید اگر عکسی پیدا نشد
+        # بک‌آپ از فید در صورت نبود عکس در سایت
         if not image_url:
             if 'media_content' in entry: image_url = entry.media_content[0]['url']
             elif 'links' in entry:
                 for link in entry.links:
                     if 'image' in link.get('type', ''): image_url = link.get('href')
 
-        # --- ۲. استخراج متن ---
+        # ۲. استخراج متن (بدون تغییر - بهینه شده برای الجزیره و غیره)
         json_scripts = soup.find_all('script', type='application/ld+json')
         for script in json_scripts:
             try:
@@ -89,8 +98,10 @@ def main():
         for entry in feed.entries[:5]:
             img, content = get_ultra_content(entry, name)
             markdown += f"### 📰 {entry.title}\n"
+            
             if img:
-                markdown += f"<img src='{img}' width='100%' style='border-radius:15px;'>\n\n"
+                # نمایش عکس با تگ HTML برای تمیزی بیشتر
+                markdown += f"<img src='{img}' width='100%' style='border-radius:15px;' alt='{name} Image'>\n\n"
             
             markdown += "<div align='justify'>\n<font size='4'>\n\n"
             if content and len(content) > 150:
