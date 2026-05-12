@@ -1,19 +1,18 @@
-
 <div align="center">
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 04:45` | **⏰ This page updates every 3 hours**
+**📅 Update:** `2026/05/12 - 04:50`
 
 ---
 
 ### 📌 QUICK NAVIGATION
-[Al Jazeera](#Al-Jazeera) | [BBC World](#BBC-World) | [The Guardian](#The-Guardian) | [NY Times](#NY-Times) | [Associated Press](#Associated-Press) | [NASA News](#NASA-News) | [TMZ](#TMZ) | [The Verge](#The-Verge)
+[Al Jazeera](#al-jazeera) | [BBC World](#bbc-world) | [The Guardian](#the-guardian) | [NY Times](#ny-times) | [Associated Press](#associated-press) | [NASA News](#nasa-news) | [TMZ](#tmz) | [The Verge](#the-verge)
 
 --- 
 </div>
 
-## <a name='Al-Jazeera'></a> 🌍 Al Jazeera
+## Al Jazeera
 ### 📰 Hundreds more displaced as gang violence escalates in Haiti’s capital
 <img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='100%' style='border-radius:12px;'>
 
@@ -25,7 +24,7 @@
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss)
+ [🔗 Read Full Story](https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -40,7 +39,7 @@
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_flotilla-acvtivist-returns-to-brazil-110526?traffic_source=rss)
+ [🔗 Read Full Story](https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_flotilla-acvtivist-returns-to-brazil-110526?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -50,12 +49,40 @@
 <div align='justify'>
 <font size='4'>
 
-*Ex-mayor of wealthy Los Angeles suburb promoted pro-China propaganda at behest of Chinese officials, prosecutors say.*
+The former mayor of a wealthy suburb in the United States city of Los Angeles has admitted to acting as an illegal agent of China, according to authorities.
+
+Eileen Wang, the former mayor of Arcadia, agreed to plead guilty to one count of acting as an illegal agent of a foreign government from late 2020 until 2022, the US Department of Justice said on Monday.
+
+Wang admitted that she did not notify the US government that she was acting on behalf of China while promoting pro-Beijing propaganda, the Justice Department said.
+
+Wang, 58, operated a website, called the US News Center, that published content supportive of the People’s Republic of China (PRC) while purporting to provide news for Chinese Americans, the department said.
+
+Wang ran the site with Yaoning Sun, a Californian man who was sentenced to four years in prison after pleading guilty to acting as an illegal agent of a foreign government in October 2025, according to US prosecutors.
+
+Wang’s activities included republishing a “PRC official-written essay” that denied allegations that the Chinese government was committing genocide against ethnic-minority Uighurs in its far-western region of Xinjiang, according to prosecutors.
+
+Wang resigned as mayor on Monday, according to a statement published on the City of Arcadia’s website.
+
+Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “mistakes she has made in her personal life”.
+
+“It is important to note, however, that the conduct underlying the information and the agreement with the government relates solely to Ms. Wang’s personal life – i.e., a media platform that she once operated with someone whom she believed to be her fiancé – and not to her conduct as an elected public official,” Sun and Liang said in a statement.
+
+“Her love and devotion for the Arcadia community have not changed and did not waver,” they added.
+
+“She asks for the community’s understanding and continued support.”
+
+US Assistant Attorney General for National Security John A Eisenberg issued a statement expressing deep concern over Wang’s activities.
+
+“Individuals elected to public office in the United States should act only for the people of the United States that they represent,” he said.
+
+“It is deeply concerning that someone who previously received and executed directives from PRC government officials is now in a position of public trust at all, but particularly so because that relationship with that foreign government had never been disclosed.”
+
+China’s embassy in Washington, DC, did not immediately respond to a request for comment.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss)
+ [🔗 Read Full Story](https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -70,7 +97,7 @@
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss)
+ [🔗 Read Full Story](https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -80,18 +107,46 @@
 <div align='justify'>
 <font size='4'>
 
-*The ex-Bolivian president is on trial for allegedly fathering a child with a 15-year-old girl while in office.*
+A Bolivian judge has found former President Evo Morales in contempt of court and reissued a warrant for his arrest after he failed to turn up for the start of his trial on charges of trafficking a minor.
+
+The ruling on Monday renewed tensions in the South American country, with supporters of Morales warning they would “throw the country into turmoil” if the former leader is arrested.
+
+Morales, who is Bolivia’s first Indigenous president, is accused of fathering a child with a 15-year-old girl while in office. The parents of the teen are accused of consenting to the relationship in exchange for favours from Morales.
+
+The former socialist leader, who governed from 2006 to 2019, has rejected the accusations.
+
+Morales did not attend the scheduled start of his trial on Monday in the southern city of Tarija, forcing the proceedings to be suspended.
+
+The Public Prosecutor’s Office said Morales’s “unjustified absence” confirmed his fugitive status and warranted an arrest order as well as a travel ban.
+
+The former president has been hiding from the law in his central coca-growing stronghold of Chapare since late 2024, guarded by Indigenous supporters who have promised to resist any attempt to capture him.
+
+“They think that by arresting Evo Morales, they will succeed in quelling and demobilising the movement. They are very much mistaken,” supporter Dieter Mendoza said on Kawsachun Coca radio on Monday. “If they touch Evo Morales, this will cause an upheaval … There will be an insurgency across Bolivia.”
+
+Mendoza urged residents of the Cochabamba Tropics to remain on “high alert” and “ready for battle”.
+
+Authorities first issued an arrest warrant for Morales in October 2024, but could not execute it after his supporters blocked roads for 24 days, preventing officers from reaching the region where he remains sheltered.
+
+Morales was already declared in contempt of court in January 2025, when he did not show for a pretrial detention hearing.
+
+Wilfredo Chavez, one of his lawyers, told the AFP news agency on Friday that neither Morales nor his lawyers would show up in court, as they had not been “properly notified”.  The lawyer said the court did not send the summons to Morales’s address, but had instead served it through an edict.
+
+Morales, who rose from dire poverty to become one of Latin America’s longest-serving leaders, has slammed those “that persecute me and condemn me in record time”.
+
+His refusal to give up power in 2019 after three terms led to a tumultuous exit that cast a shadow over nearly 14 years of economic progress and poverty reduction.
+
+Forced to resign after elections tainted by fraud, he slipped away into exile in Mexico and later Argentina, but returned home a year later.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show?traffic_source=rss)
+ [🔗 Read Full Story](https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
-## <a name='BBC-World'></a> 🌍 BBC World
+## BBC World
 ### 📰 Trump says Iran ceasefire is on 'massive life support'
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:12px;'>
 
@@ -121,7 +176,7 @@ Trump criticised the proposal, writing on Truth Social on Sunday: "I have just r
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -154,7 +209,7 @@ There's no doubt, despite its steady show of strength, that China is eager for a
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story](https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -187,7 +242,7 @@ Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomitin
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -220,7 +275,7 @@ Israeli politicians supporting the law say it will allow for a trial of historic
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story](https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -253,13 +308,13 @@ EU officials said that seven settlers or settler organisations would be sanction
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story](https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
-## <a name='The-Guardian'></a> 🌍 The Guardian
+## The Guardian
 ### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
 <img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=140&quality=85&auto=format&fit=max&s=d19a9c185d1ded7c39262f1c1baac579' width='100%' style='border-radius:12px;'>
 
@@ -283,7 +338,7 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa)
+ [🔗 Read Full Story](https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -310,7 +365,7 @@ The largest part of the exercise takes place in Morocco, involving approximately
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
+ [🔗 Read Full Story](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -343,7 +398,7 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media)
+ [🔗 Read Full Story](https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -376,7 +431,7 @@ At the police headquarters, the three reporters said they were threatened by Mah
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police)
+ [🔗 Read Full Story](https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -409,13 +464,13 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital)
+ [🔗 Read Full Story](https://www.theguardian.com/world/2026/may/07/two-britons-evacuated-hantavirus-hit-ship-improving-hospital)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
-## <a name='NY-Times'></a> 🌍 NY Times
+## NY Times
 ### 📰 Xi Poised to Press Trump on Arms Sales to Taiwan
 <img src='https://static01.nyt.com/images/2026/05/11/multimedia/00int-China-US-taiwan-pcmh/00int-China-US-taiwan-pcmh-mediumSquareAt3X.jpg' width='100%' style='border-radius:12px;'>
 
@@ -427,7 +482,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html)
+ [🔗 Read Full Story](https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -442,7 +497,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)
+ [🔗 Read Full Story](https://www.nytimes.com/2026/05/12/business/china-semiconductor-ai-deepseek.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -457,7 +512,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html)
+ [🔗 Read Full Story](https://www.nytimes.com/2026/05/12/business/china-trump-xi-decline.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -472,7 +527,7 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
+ [🔗 Read Full Story](https://www.nytimes.com/2026/05/11/health/kennedy-vaccine-safety.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -487,16 +542,16 @@ It is estimated to arrive at the port of Granadilla in Tenerife in the early hou
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
+ [🔗 Read Full Story](https://www.nytimes.com/2026/05/11/us/politics/supreme-court-alabama-map.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
-## <a name='Associated-Press'></a> 🌍 Associated Press
+## Associated Press
 > ⚠️ *Source temporarily unavailable.*
 
-## <a name='NASA-News'></a> 🌍 NASA News
+## NASA News
 ### 📰 Australia’s Cloudy Beauty
 <img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:12px;'>
 
@@ -526,7 +581,7 @@ Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/)
+ [🔗 Read Full Story](https://science.nasa.gov/earth/earth-observatory/australias-cloudy-beauty/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -555,7 +610,7 @@ The key to understanding the past, present or future potential for life on Mars 
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/)
+ [🔗 Read Full Story](https://science.nasa.gov/blog/curiosity-blog-sols-4886-4892-ingenuity-and-perseverance-curiosity-style/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -576,7 +631,7 @@ Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by C
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/)
+ [🔗 Read Full Story](https://science.nasa.gov/photojournal/nasas-curiosity-takes-close-look-at-rock-that-got-stuck-on-drill/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -603,7 +658,7 @@ Until then, zoom in, look closely, and enjoy the challenge. See you at the revea
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/)
+ [🔗 Read Full Story](https://science.nasa.gov/earth/earth-observatory/may-2026-satellite-puzzler/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -630,13 +685,13 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/)
+ [🔗 Read Full Story](https://www.nasa.gov/centers-and-facilities/johnson/nicholas-houghton-engineering-crew-safety-for-artemis-ii/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
-## <a name='TMZ'></a> 🌍 TMZ
+## TMZ
 ### 📰 Taylor Swift Steps Out for Family Dinner in NYC
 <img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:12px;'>
 
@@ -648,7 +703,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/taylor-swift-new-york-family-dinner-pictures/)
+ [🔗 Read Full Story](https://www.tmz.com/2026/05/11/taylor-swift-new-york-family-dinner-pictures/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -663,7 +718,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/kim-kardashian-awarded-money-from-ivan-cantu/)
+ [🔗 Read Full Story](https://www.tmz.com/2026/05/11/kim-kardashian-awarded-money-from-ivan-cantu/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -678,7 +733,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/george-floyd-family-angry-over-kevin-hart-roast/)
+ [🔗 Read Full Story](https://www.tmz.com/2026/05/11/george-floyd-family-angry-over-kevin-hart-roast/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -693,7 +748,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/pk-kemsley-salary-revealed/)
+ [🔗 Read Full Story](https://www.tmz.com/2026/05/11/pk-kemsley-salary-revealed/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -708,13 +763,13 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/)
+ [🔗 Read Full Story](https://www.tmz.com/2026/05/11/sabrina-carpenter-birthday-gifts-and-products/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
-## <a name='The-Verge'></a> 🌍 The Verge
+## The Verge
 ### 📰 OpenAI just released its answer to Claude Mythos
 <img src='https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200' width='100%' style='border-radius:12px;'>
 
@@ -732,7 +787,7 @@ Daybreak also involves specialized cyber models, including GPT-5.5 with Trusted 
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
+ [🔗 Read Full Story](https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -761,7 +816,7 @@ But Kohlmann says the company is now in touch with Makris, and it’s possible t
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor)
+ [🔗 Read Full Story](https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -788,7 +843,7 @@ Murati founded Thinking Machines in February 2025 after leaving OpenAI. The AI l
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)
+ [🔗 Read Full Story](https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -811,7 +866,7 @@ In addition, the Govee supports adjustable color temperatures ranging from a war
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)
+ [🔗 Read Full Story](https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -844,13 +899,9 @@ It’s also not so unusual that a defense contractor would wind up making produc
 </font>
 </div>
 
- [🔗 Read Full Story on Source Website](https://www.theverge.com/report/928026/palantir-chore-coat)
+ [🔗 Read Full Story](https://www.theverge.com/report/928026/palantir-chore-coat)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
-
-<div align='center'>
-<h2>☕ Have a Great Day!</h1>
-</div>
