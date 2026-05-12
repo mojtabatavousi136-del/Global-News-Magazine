@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:22`
+**📅 Update:** `2026/05/12 - 05:26`
 
 ---
 
@@ -13,13 +13,46 @@
 </div>
 
 ## Al Jazeera
-### 📰 Hundreds more displaced as gang violence escalates in Haiti’s capital
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png' width='100%' style='border-radius:15px;'>
+### 📰 Israel approves law on public trials, death penalty for October 7 detainees
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-31T151240Z_941610984_RC2QFKANIOUN_RTRMADP_3_ISRAEL-PALESTINIANS-DEATH-PENALTY-JERUSALEM-PROTEST-1778560861.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes, forcing some families to the streets. Gang violence has now displaced more than 1.4 million people across Haiti. Gangs control an estimated 90% of the capital after the former president was assassinated in his home in 2021.
+Israeli legislators have approved a bill to establish a special tribunal with the power to impose the death penalty on Palestinians accused of involvement in the Hamas-led attacks of October 7, 2023.
+
+The bill passed 93-0 in Israel’s 120-seat parliament, the Knesset, late on Monday.
+
+Israeli and Palestinian rights groups warn that the bill will make the death penalty too easy to impose while also doing away with procedures safeguarding the right to a fair trial.
+
+Muna Haddad, a lawyer with Adalah – The Legal Center for Arab Minority Rights in Israel, told Al Jazeera that the bill intentionally lowers the legal protections to a fair trial to secure the mass conviction of Palestinians.
+
+“The bill explicitly permits mass trials that deviate from standard rules of evidence, including broad judicial discretion to admit evidence obtained under coercive conditions that may amount to torture or ill-treatment,” Haddad said.
+
+“This constitutes a severe violation of fair trial guarantees that falls well short of international law requirements.”
+
+In a departure from standard Israeli judicial practice, which typically prohibits courtroom cameras, the bill mandates the filming and public broadcasting of key moments in the trials on a dedicated website.
+
+Haddad warned that this provision effectively “transforms proceedings into show trials at the expense of the accused’s rights”.
+
+“The provisions governing public hearings… violate the presumption of innocence, the right to a fair trial, and the right to dignity,” Haddad explained. “The framework effectively treats indictment as a finding of guilt, before any judicial examination has begun.”
+
+Israel has been holding an estimated 200-300 Palestinians, including those captured in the country during the October 7 attacks, who have not yet been charged.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees?traffic_source=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Hundreds more displaced as gang violence escalates in Haiti’s capital
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='News Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to flee their homes.
 
 </font>
 </div>
@@ -29,12 +62,12 @@ Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to fl
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Flotilla activist Thiago Ávila arrives in Brazil
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel, where he alleged he was tortured and witnessed abuse of Palestinian prisoners during his 10 days in custody.
+Brazilian activist Thiago Ávila returned to São Paulo after being detained and deported from Israel.
 
 </font>
 </div>
@@ -44,7 +77,7 @@ Brazilian activist Thiago Ávila returned to São Paulo after being detained and
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 California ex-mayor admits acting as agent of China, US authorities say
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -55,23 +88,19 @@ Eileen Wang, the former mayor of Arcadia, agreed to plead guilty to one 
 
 Wang admitted that she did not notify the US government that she was acting on behalf of China while promoting pro-Beijing propaganda, the Justice Department said.
 
-Wang, 58, operated a website, called the US News Center, that published content supportive of the People’s Republic of China (PRC) while purporting to provide news for Chinese Americans, the department said.
+The 58-year-old operated a website called the US News Center, which published content supportive of the People’s Republic of China (PRC) while purporting to provide news for Chinese Americans, the department said.
 
-Wang ran the site with Yaoning Sun, a Californian man who was sentenced to four years in prison after pleading guilty to acting as an illegal agent of a foreign government in October 2025, according to US prosecutors.
+She ran the site with Yaoning Sun, a Californian man who was sentenced to four years in prison after pleading guilty to acting as an illegal agent of a foreign government in October 2025, according to US prosecutors.
 
 Wang’s activities included republishing a “PRC official-written essay” that denied allegations that the Chinese government was committing genocide against ethnic-minority Uighurs in its far-western region of Xinjiang, according to prosecutors.
 
-Wang resigned as mayor on Monday, according to a statement published on the City of Arcadia’s website.
+She resigned as mayor on Monday, according to a statement published on the City of Arcadia’s website.
 
 Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “mistakes she has made in her personal life”.
 
 “It is important to note, however, that the conduct underlying the information and the agreement with the government relates solely to Ms. Wang’s personal life – i.e., a media platform that she once operated with someone whom she believed to be her fiancé – and not to her conduct as an elected public official,” Sun and Liang said in a statement.
 
 “Her love and devotion for the Arcadia community have not changed and did not waver,” they added.
-
-US Assistant Attorney General for National Security John A Eisenberg issued a statement expressing deep concern over Wang’s activities.
-
-“Individuals elected to public office in the United States should act only for the people of the United States that they represent,” he said.
 
 </font>
 </div>
@@ -81,14 +110,12 @@ US Assistant Attorney General for National Security John A Eisenberg issued a st
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Lebanese in south refuse to flee again despite escalating Israeli strikes
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Lebanese in south refuse to flee again despite escalating Israeli strikes
-
-Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced residents say they will not leave again despite a sharp rise in deaths and intensifying Israeli strikes.
+Obaida Hitto reports from southern Lebanon, where residents say they will not leave again despite intensifying strikes.
 
 </font>
 </div>
@@ -97,48 +124,11 @@ Al Jazeera’s Obaida Hitto reports from southern Lebanon, where displaced resid
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Bolivia issues warrant for Evo Morales’s arrest after court no-show
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-08-04T060007Z_1755863889_RC2VZFAUI8X3_RTRMADP_3_BOLIVIA-POLITICS-RUNASUR-1778553996.jpg' width='100%' style='border-radius:15px;'>
-
-<div align='justify'>
-<font size='4'>
-
-A Bolivian judge has found former President Evo Morales in contempt of court and reissued a warrant for his arrest after he failed to turn up for the start of his trial on charges of trafficking a minor.
-
-The ruling on Monday renewed tensions in the South American country, with supporters of Morales warning they would “throw the country into turmoil” if the former leader is arrested.
-
-Morales, who is Bolivia’s first Indigenous president, is accused of fathering a child with a 15-year-old girl while in office. The parents of the teen are accused of consenting to the relationship in exchange for favours from Morales.
-
-The former socialist leader, who governed from 2006 to 2019, has rejected the accusations.
-
-Morales did not attend the scheduled start of his trial on Monday in the southern city of Tarija, forcing the proceedings to be suspended.
-
-The Public Prosecutor’s Office said Morales’s “unjustified absence” confirmed his fugitive status and warranted an arrest order as well as a travel ban.
-
-The former president has been hiding from the law in his central coca-growing stronghold of Chapare since late 2024, guarded by Indigenous supporters who have promised to resist any attempt to capture him.
-
-“They think that by arresting Evo Morales, they will succeed in quelling and demobilising the movement. They are very much mistaken,” supporter Dieter Mendoza said on Kawsachun Coca radio on Monday. “If they touch Evo Morales, this will cause an upheaval … There will be an insurgency across Bolivia.”
-
-Mendoza urged residents of the Cochabamba Tropics to remain on “high alert” and “ready for battle”.
-
-Authorities first issued an arrest warrant for Morales in October 2024, but could not execute it after his supporters blocked roads for 24 days, preventing officers from reaching the region where he remains sheltered.
-
-Morales was already declared in contempt of court in January 2025, when he did not show for a pretrial detention hearing.
-
-Wilfredo Chavez, one of his lawyers, told the AFP news agency on Friday that neither Morales nor his lawyers would show up in court, as they had not been “properly notified”.  The lawyer said the court did not send the summons to Morales’s address, but had instead served it through an edict.
-
-</font>
-</div>
-
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show?traffic_source=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## BBC World
 ### 📰 Trump says Iran ceasefire is on 'massive life support'
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -163,10 +153,6 @@ It also reportedly includes a demand for compensation for war damage and an emph
 
 Trump criticised the proposal, writing on Truth Social on Sunday: "I have just read the response from Iran's so-called 'Representatives.' I don't like it - TOTALLY UNACCEPTABLE."
 
-In response to Trump's comments, Baghaei said Iran would act "in any way necessary to secure our interests".
-
-Speaking in the Oval Office later on Monday, Trump addressed the ceasefire between the two countries which has largely been observed since April despite occasional exchanges of fire.
-
 </font>
 </div>
 
@@ -175,7 +161,7 @@ Speaking in the Oval Office later on Monday, Trump addressed the ceasefire betwe
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 How the Trump-Xi summit could set superpower relations for many years to come
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -200,10 +186,6 @@ Officials in Beijing and Islamabad in March presented a five-point plan with the
 
 There's no doubt, despite its steady show of strength, that China is eager for an end to this war.
 
-The country's economy is already battling slower growth and higher unemployment. Increasing oil prices have driven up the cost of items made with petrochemicals, everything from textiles to plastics. For some producers in China, costs have gone up 20%.
-
-China has enviable oil reserves and the lead it has taken in renewables and electric cars has insulated it from the worst effects of the fuel crisis, but the war is causing more pain to a sluggish Chinese economy that is heavily reliant on exports. However, if China is to step in and help the US, it will still want something in return.
-
 </font>
 </div>
 
@@ -212,7 +194,7 @@ China has enviable oil reserves and the lead it has taken in renewables and elec
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Last passengers leave virus-hit cruise ship as three more test positive
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1688/live/697a7c50-4daa-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1688/live/697a7c50-4daa-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -237,10 +219,6 @@ Hantaviruses are usually carried by rodents, but human transmission of the Andes
 
 Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomiting, diarrhoea and shortness of breath.
 
-As of Monday evening, the ship's operator Oceanwide Expeditions said 27 people remain on board the ship, including 25 crew members and two medical staff.
-
-These include 17 people from the Philippines, four from the Netherlands (including the two medical staff), four from Ukraine, one from Russia and one from Poland.
-
 </font>
 </div>
 
@@ -249,7 +227,7 @@ These include 17 people from the Philippines, four from the Netherlands (includi
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Israel passes law to allow death penalty and public trials for those linked to 7 October
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6202/live/6bf5ec80-4dbe-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6202/live/6bf5ec80-4dbe-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -274,10 +252,6 @@ Although Israel's parliament passed the Death Penalty for Terrorists Law in Marc
 
 Israeli politicians supporting the law say it will allow for a trial of historic significance, comparing it to that of the Nazi war criminal Adolf Eichmann.  Eichmann - an architect of the Jewish Holocaust - was hanged in 1962, becoming the only person previously sentenced to death by an Israeli civil court.
 
-The new law creates a special legal framework for prosecuting those accused of direct involvement in the attacks, including members of the Nukhba special forces unit of the al-Qassam Brigades, the military wing of Hamas, who were captured in Israel.
-
-They are expected to face charges ranging from terrorism and murder to sexual violence and also genocide - which will carry the death penalty. They will be tried before a special military court in Jerusalem with different rules from regular criminal trials.
-
 </font>
 </div>
 
@@ -286,7 +260,7 @@ They are expected to face charges ranging from terrorism and murder to sexual vi
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 EU agrees sanctions on Israeli settlers over West Bank violence
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -311,10 +285,6 @@ There is still technical and legal work that must be done in the EU before the s
 
 EU officials said that seven settlers or settler organisations would be sanctioned. The EU also agreed to sanction more representatives from Hamas.
 
-Israeli media have reported that the sanctioned individuals and organisations include Daniella Weiss, who is already sanctioned by the UK and is known as the "godmother" of the settler movement.
-
-It is also reported that they include the organisations Nachala and Regavim, movements that promote settlements, as well as HaShomer Yosh and Amana, organisations that help to finance and assist unauthorised settlements known as outposts.
-
 </font>
 </div>
 
@@ -326,7 +296,7 @@ It is also reported that they include the organisations Nachala and Regavim, mov
 ---
 ## The Guardian
 ### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
-<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=140&quality=85&auto=format&fit=max&s=d19a9c185d1ded7c39262f1c1baac579' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -353,7 +323,7 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Body of missing US soldier recovered off coast of Morocco
-<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=140&quality=85&auto=format&fit=max&s=e5ad2a13eb5364bf318085cdac0f41c3' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -380,7 +350,7 @@ The largest part of the exercise takes place in Morocco, involving approximately
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 ‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere
-<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=140&quality=85&auto=format&fit=max&s=3d70a65ae48caabd14de7d15d1f9ca7d' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -405,10 +375,6 @@ Jaxa, 32, started posting explainer videos after an argument with her brother, w
 
 Jaxa considers herself to be a translator of the news for younger generations, not a replacement: “I don’t exist if there is no traditional media, because … all the content I do is from traditional media.”
 
-Recent topics tackled by Jaxa, who has degrees in philosophy, politics and economics and international relations, include the Iran war, the South African president’s annual state of the nation address and the budget, the last one sponsored by a bank. However, she makes most of her money from brand partnerships on Instagram, where she posts less news content.
-
-News used to be consumed communally in South Africa through a radio or TV, said Sisanda Nkoala, an associate professor at the University of the Western Cape. “The experience of the media being a place where people gather to watch the evening news, that has changed,” she said.
-
 </font>
 </div>
 
@@ -417,7 +383,7 @@ News used to be consumed communally in South Africa through a radio or TV, said 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Guardian reporter and colleagues detained and beaten by Somali police
-<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=140&quality=85&auto=format&fit=max&s=c5604bd094625c43a7c8ea25bff35fc6' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -442,10 +408,6 @@ He and the two other journalists had been facing sustained threats and intimidat
 
 At the police headquarters, the three reporters said they were threatened by Mahdi Omar Mumin, Mogadishu police chief, should they continue to report on the protests.
 
-In a statement released by Somali Journalists Syndicate (SJS), the journalists said that Mumin told them he was “tired of arresting journalists” and that if they did not remain silent about the protests and other developments in Mogadishu, including the case of Ali, the only option remaining for them would be “death”.
-
-Somali Stream, the media organisation which Mohamud works for, condemned the arrests as “an illegal and politically motivated attack on independent journalism”.
-
 </font>
 </div>
 
@@ -454,7 +416,7 @@ Somali Stream, the media organisation which Mohamud works for, condemned the arr
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital
-<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=1ac13619c2ec2285b71713f2b40ba663' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -478,10 +440,6 @@ The outbreak, linked to three deaths, has been connected to a birdwatching trip 
 Spanish authorities have given permission for the ship to anchor in the Canary Islands, despite concerns from locals and officials, and the boat left the shores of Cape Verde at 3.15pm local time on Wednesday, the tour operator Oceanwide Expeditions said.
 
 It is estimated to arrive at the port of Granadilla in Tenerife in the early hours of Sunday.
-
-Morale on board has improved since the ship started its journey to Tenerife, the WHO said. Two doctors are on board along with infectious disease experts from the WHO and the European Centre for Disease Prevention and Control, who are conducting a medical assessment of everyone on board.
-
-While the risk to the public is low, Dr Tedros Adhanom Ghebreyesus, the director-general of the WHO, said there could be more cases due to the incubation period of the Andes virus – the variant of hantavirus linked to the outbreak – which can be up to six weeks.
 
 </font>
 </div>
@@ -562,7 +520,7 @@ A majority of the justices sided with Alabama in a move that could speed up effo
 ---
 ## NASA News
 ### 📰 Australia’s Cloudy Beauty
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -587,10 +545,6 @@ Stay up-to-date with the latest content from NASA as we explore the universe and
 
 Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of Bengal during a January cold wave.
 
-As winter turned to spring, the skies over the Gulf of Alaska displayed textbook examples of numerous cloud formations.
-
-After the Laurentide Ice Sheet retreated from present-day Hudson Bay, rebounding land has revealed striking nearshore topography.
-
 </font>
 </div>
 
@@ -599,7 +553,7 @@ After the Laurentide Ice Sheet retreated from present-day Hudson Bay, rebounding
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -628,7 +582,7 @@ The key to understanding the past, present or future potential for life on Mars 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png/jcr:content/renditions/cq5dam.web.1280.1280.png' width='100%' style='border-radius:15px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png/jcr:content/renditions/cq5dam.web.1280.1280.png' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -649,7 +603,7 @@ Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by C
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 May 2026 Satellite Puzzler
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -676,7 +630,7 @@ Until then, zoom in, look closely, and enjoy the challenge. See you at the revea
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
-<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -706,7 +660,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 ---
 ## TMZ
 ### 📰 Taylor Swift Steps Out for Family Dinner in NYC
-<img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -729,7 +683,7 @@ These adorbs pics have us thinking ... maybe the next time we see the Swift fami
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Kim Kardashian Awarded Big Payday Despite Man Claiming Judgment Would Ruin Him
-<img src='https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -752,7 +706,7 @@ As TMZ previously reported, Cantu -- a father of two -- argued that being forced
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 George Floyd's Family Rips Tony Hinchcliffe, Kevin Hart Over 'Roast' Joke
-<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -781,7 +735,7 @@ Bottom line from the foundation ... "We are trying to rebuild things for our com
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 RHOBH’s Dorit Kemsley’s Estranged Husband PK’s Monthly Income Revealed in Court
-<img src='https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -808,7 +762,7 @@ As TMZ first reported, PK is asking a judge to authorize the immediate listing o
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Sabrina Carpenter's Birthday: Celebrate with These Products
-<img src='https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg' width='100%' style='border-radius:15px;' alt='News Image'>
 
 <div align='justify'>
 <font size='4'>
