@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 05:29`
+**📅 Update:** `2026/05/12 - 05:39`
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## Al Jazeera
 ### 📰 Israel approves law on public trials, death penalty for October 7 detainees
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-31T151240Z_941610984_RC2QFKANIOUN_RTRMADP_3_ISRAEL-PALESTINIANS-DEATH-PENALTY-JERUSALEM-PROTEST-1778560861.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-31T151240Z_941610984_RC2QFKANIOUN_RTRMADP_3_ISRAEL-PALESTINIANS-DEATH-PENALTY-JERUSALEM-PROTEST-1778560861.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -47,7 +47,7 @@ Israel has been holding an estimated 200-300 Palestinians, including those captu
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Hundreds more displaced as gang violence escalates in Haiti’s capital
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-7.14.40-AM-1778559299.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -62,7 +62,7 @@ Renewed clashes between rival gangs in Port-au-Prince have forced hundreds to fl
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Flotilla activist Thiago Ávila arrives in Brazil
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778558771.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -77,7 +77,7 @@ Brazilian activist Thiago Ávila returned to São Paulo after being detained and
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 California ex-mayor admits acting as agent of China, US authorities say
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25126674477316-1-1778547876_0edeaa-1778551656.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -110,7 +110,7 @@ Her lawyers, Brian A Sun and Jason Liang, said Wang wished to apologise for “m
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Lebanese in south refuse to flee again despite escalating Israeli strikes
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png?resize=1920%2C1440' width='100%' style='border-radius:15px;'>
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-12-at-6.23.41-AM-1778556235.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -128,7 +128,7 @@ Obaida Hitto reports from southern Lebanon, where residents say they will not le
 ---
 ## BBC World
 ### 📰 Trump says Iran ceasefire is on 'massive life support'
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -161,7 +161,7 @@ Trump criticised the proposal, writing on Truth Social on Sunday: "I have just r
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 How the Trump-Xi summit could set superpower relations for many years to come
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bf89/live/32ca6120-4d37-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -194,7 +194,7 @@ There's no doubt, despite its steady show of strength, that China is eager for a
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Last passengers leave virus-hit cruise ship as three more test positive
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1688/live/697a7c50-4daa-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1688/live/697a7c50-4daa-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -227,7 +227,7 @@ Symptoms can include fever, extreme fatigue, muscle aches, stomach pain, vomitin
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Israel passes law to allow death penalty and public trials for those linked to 7 October
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6202/live/6bf5ec80-4dbe-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6202/live/6bf5ec80-4dbe-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -259,36 +259,36 @@ Israeli politicians supporting the law say it will allow for a trial of historic
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 EU agrees sanctions on Israeli settlers over West Bank violence
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/2fec/live/3b96bbe0-4d51-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;'>
+### 📰 Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bac7/live/23515ea0-4dc4-11f1-a63a-f9b11b0b3303.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
 
-The twenty-seven foreign ministers of the European Union approved new sanctions on Monday on Israeli settlers over rising violence against Palestinians in the occupied West Bank.
+A Filipino senator who oversaw former president Rodrigo Duterte's deadly war on drugs has taken refuge inside the country's Senate, hours before the International Criminal Court unsealed a warrant for his arrest.
 
-There has been a surge in attacks by settlers since the start of the Gaza war in October 2023, the UN has recorded.
+Ronald Dela Rosa was pictured fleeing into the Senate on Monday as officers chased after him. He narrowly escaped and was placed under protective custody.
 
-Settlements - illegal under international law - are built on Israeli-occupied land in the West Bank and East Jerusalem, areas Palestinians claim for a future state.
+Police later said they would not arrest him while he was in custody of the Senate.
 
-The EU foreign policy chief, Kaja Kallas, said it was "high time we move from deadlock to delivery... extremisms and violence carry consequences."
+Dela Rosa is accused of the killing of at least 32 people between 2016 and 2018, as an "indirect co-perpetrator" in Duterte's anti-drugs campaign, in which thousands of alleged drug dealers were shot and killed.
 
-A change in government in Hungary ended months of delays to the EU's plans for further sanctions, which had been blocked by the former right-wing Hungarian prime minister Viktor Orban, a close ally of Israel.
+Former president Duterte has been in ICC custody in The Hague since his arrest in March 2025.
 
-The French foreign minister Jean-Noel Barrot wrote on social media that the EU was "sanctioning today the main Israeli organisations guilty of supporting the extremist and violent colonisation of the West Bank".
+Security camera footage played to lawmakers on Monday showed National Bureau of Investigation agents chasing Dela Rosa up flights of stairs and a corridor in the Senate building after he arrived.
 
-Israel's foreign minister Gideon Sa'ar said the decision was "arbitrary and political" and that Israel would continue to "stand for the right of Jews to settle in the heart of our homeland".
+An ensuing standoff ended hours later with the chief of the National Bureau of Investigation telling reporters that they would not arrest Dela Rosa while he was in the custody of the Senate.
 
-Successive Israeli governments have allowed and encouraged settlements to grow. Expansion has risen sharply since Prime Minister Benjamin Netanyahu returned to power in late 2022 at the head of a right-wing, pro-settler coalition, as well as the start of the Gaza war, triggered by the armed Palestinian group Hamas's 7 October 2023 attack on Israel.
+Dela Rosa has said that he would remain within the Senate's premises and "do everything" to avoid being taken to the Hague.
 
-There is still technical and legal work that must be done in the EU before the sanctions are officially imposed.
+His lawyers say they have asked the Supreme Court to block his arrest in the absence of a valid Philippine judicial warrant.
 
-EU officials said that seven settlers or settler organisations would be sanctioned. The EU also agreed to sanction more representatives from Hamas.
+On Tuesday morning, Dela Rosa urged his supporters, who have gathered outside the Senate building, to "keep vigil in front of the Senate until the Supreme Court decides".
 
 </font>
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -296,7 +296,7 @@ EU officials said that seven settlers or settler organisations would be sanction
 ---
 ## The Guardian
 ### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
-<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4adcb1236732e90ee166d918d46cdab2' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -323,7 +323,7 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Body of missing US soldier recovered off coast of Morocco
-<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e27913fead786dc953e927871d85b3a5' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -350,7 +350,7 @@ The largest part of the exercise takes place in Morocco, involving approximately
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 ‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere
-<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=127eca0e06ecc59fee24862bc6240ba3' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -383,7 +383,7 @@ Jaxa considers herself to be a translator of the news for younger generations, n
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Guardian reporter and colleagues detained and beaten by Somali police
-<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/00d5e8efee01a420dc8d1bc678ee7231e1223a39/350_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8e493b85631d842360a066689e01fc9' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -416,7 +416,7 @@ At the police headquarters, the three reporters said they were threatened by Mah
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Two Britons evacuated from hantavirus-hit ship ‘improving’ in hospital
-<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://i.guim.co.uk/img/media/7eaa77d1cb9e19ea77833b5615f9a4af8555c691/20_0_3659_2929/master/3659.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9286d5cbeca6c71a23ffde8517e7947' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -464,7 +464,7 @@ Beijing has called Taiwan the “core of China’s core interests.” Xi Jinping
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Chinese A.I. Firms Push Beyond Nvidia as DeepSeek Turns to Huawei
+### 📰 China Seeks A.I. Independence, Weakening Trump’s Leverage
 <div align='justify'>
 <font size='4'>
 
@@ -520,7 +520,7 @@ A majority of the justices sided with Alabama in a move that could speed up effo
 ---
 ## NASA News
 ### 📰 Australia’s Cloudy Beauty
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/australia's-cloudy-beauty/alpinefog_tmo_20260511_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -553,7 +553,7 @@ Low clouds blanketed the delta while parallel cloud bands rolled over the Bay of
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Curiosity Blog, Sols 4886-4892: Ingenuity and Perseverance, Curiosity Style
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_msss_04887_mhli_4887MH0004350001800890R00_DXXX.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -582,7 +582,7 @@ The key to understanding the past, present or future potential for life on Mars 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 NASA’s Curiosity Takes Close Look at Rock That Got Stuck on Drill
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png/jcr:content/renditions/cq5dam.web.1280.1280.png' width='100%' style='border-radius:15px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26724/PIA26724.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -603,7 +603,7 @@ Curiosity was built by NASA’s Jet Propulsion Laboratory, which is managed by C
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 May 2026 Satellite Puzzler
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/satellite-puzzler/2026_maypuzzler.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -630,7 +630,7 @@ Until then, zoom in, look closely, and enjoy the challenge. See you at the revea
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Nicholas Houghton: Engineering Crew Safety for NASA’s Artemis Missions
-<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://www.nasa.gov/wp-content/uploads/2025/12/houghton-photo-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -660,7 +660,7 @@ Outside of his NASA career, Houghton gives back by volunteering as a firefight
 ---
 ## TMZ
 ### 📰 Taylor Swift Steps Out for Family Dinner in NYC
-<img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/d4/16by9/2026/05/12/d409df4d4df84448902840120512cb63_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -683,7 +683,7 @@ These adorbs pics have us thinking ... maybe the next time we see the Swift fami
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Kim Kardashian Awarded Big Payday Despite Man Claiming Judgment Would Ruin Him
-<img src='https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/27/16by9/2026/05/12/27984c112dbb4fbf99496b9d2fe32eee_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -706,7 +706,7 @@ As TMZ previously reported, Cantu -- a father of two -- argued that being forced
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 George Floyd's Family Rips Tony Hinchcliffe, Kevin Hart Over 'Roast' Joke
-<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/11/4aa9b693e1af414da2c12fdd9d92a5d7_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -735,7 +735,7 @@ Bottom line from the foundation ... "We are trying to rebuild things for our com
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 RHOBH’s Dorit Kemsley’s Estranged Husband PK’s Monthly Income Revealed in Court
-<img src='https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/ef/16by9/2026/05/11/ef248e3785e94c8b94f5dbd88da96315_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -762,7 +762,7 @@ As TMZ first reported, PK is asking a judge to authorize the immediate listing o
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Sabrina Carpenter's Birthday: Celebrate with These Products
-<img src='https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg' width='100%' style='border-radius:15px;'>
+<img src='https://imagez.tmz.com/image/78/16by9/2026/05/04/785440f3ebab4b82a844d1ef18b635cd_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
