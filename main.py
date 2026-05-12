@@ -4,75 +4,79 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-def get_full_text(url):
+def get_article_data(url):
+    """استخراج متن و تصویر اصلی مستقیماً از صفحه خبر"""
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'}
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.content, 'html.parser')
-        for el in soup(["script", "style", "nav", "header", "footer", "aside", "button", "form"]): el.decompose()
+        
+        # ۱. استخراج تصویر اصلی (از متاتگ‌های OpenGraph)
+        img_url = None
+        meta_img = soup.find("meta", property="og:image") or soup.find("meta", attrs={"name": "twitter:image"})
+        if meta_img:
+            img_url = meta_img.get('content')
+
+        # ۲. استخراج متن اصلی
+        for el in soup(["script", "style", "nav", "header", "footer", "aside", "button", "form"]): 
+            el.decompose()
         paragraphs = soup.find_all('p')
         text_blocks = [p.get_text().strip() for p in paragraphs if len(p.get_text()) > 80]
-        return "\n\n".join(text_blocks[:8]) if text_blocks else "Content available at source link."
+        full_text = "\n\n".join(text_blocks[:8]) if text_blocks else "Click the link below to read the full story on the official website."
+        
+        return full_text, img_url
     except:
-        return "Visit source for full story."
-
-def extract_image(entry):
-    # روش اول: جستجو در تگ‌های مدیا
-    if 'media_content' in entry:
-        return entry.media_content[0]['url']
-    if 'media_thumbnail' in entry:
-        return entry.media_thumbnail[0]['url']
-    
-    # روش دوم: جستجوی عمیق در توضیحات HTML
-    desc = entry.get('summary', '') or entry.get('description', '')
-    if desc:
-        img_match = re.search(r'<img.+?src=["\'](.+?)["\']', desc)
-        if img_match:
-            return img_match.group(1)
-            
-    # روش سوم: جستجو در لینک‌های پیوست
-    if 'links' in entry:
-        for link in entry.links:
-            if 'image' in link.get('type', ''):
-                return link.get('href')
-    return None
+        return "Content available at the source.", None
 
 def get_news():
     now = datetime.datetime.now()
+    # خبرگزاری‌های جدید و متنوع
     RSS_FEEDS = {
-        '🌍 AL JAZEERA': ('https://www.aljazeera.com/xml/rss/all.xml', 'https://www.aljazeera.com/wp-content/uploads/2020/12/AJ-Logo-English-Vertical.jpg'),
-        '🇺🇸 CNN NEWS': ('http://rss.cnn.com/rss/edition.rss', 'https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg'),
-        '🗽 NY TIMES': ('https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml', 'https://1000logos.net/wp-content/uploads/2017/04/Symbol-New-York-Times.png'),
-        '🏛️ REUTERS': ('https://www.reutersagency.com/feed/?best-topics=world-news&format=xml', 'https://www.reuters.com/pf/resources/images/reuters/logo-vertical-default.png'),
-        '🎬 CELEBRITY': ('https://people.com/celebrity/feed/', 'https://people.com/thmb/m_U5_XpZ-Z6l_H1bO4o3YqN6b4o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/people-logo-red-background-7d0e4e5e4d5d4d3d8d3d2d1d0d9d8d7.jpg')
+        '🌍 AL JAZEERA': 'https://www.aljazeera.com/xml/rss/all.xml',
+        '🇬🇧 BBC WORLD': 'https://feeds.bbci.co.uk/news/world/rss.xml',
+        '🌿 NAT GEO': 'https://www.nationalgeographic.com/rss/index.xml',
+        '🚀 NASA NEWS': 'https://www.nasa.gov/news-release/feed/',
+        '🗽 NY TIMES': 'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+        '🏛️ REUTERS': 'https://www.reutersagency.com/feed/?best-topics=world-news&format=xml',
+        '🎬 PEOPLE MAG': 'https://people.com/celebrity/feed/'
     }
 
     header = f"""
 <div align="center">
-    <h1>🌍 GLOBAL NEWS MAGAZINE</h1>
-    <p><i>Daily Updates from World's Best Agencies</i></p>
+    <img src="https://img.icons8.com/fluency/96/globe.png" width="70" />
+    <h1>MAHOOR WORLD PREMIER</h1>
+    <p><i>The Most Reliable News from Top Global Agencies</i></p>
     <p>📅 <b>{now.strftime('%A, %d %B %Y')}</b></p>
-    <hr>
+    <hr size="3">
 </div>\n"""
     content = header
     
-    for category, (url, fallback_img) in RSS_FEEDS.items():
+    for category, url in RSS_FEEDS.items():
         feed = feedparser.parse(url)
-        content += f"<h2 align='center'>━━━━ {category} ━━━━</h2>\n\n"
+        content += f"<br><h2 align='center' style='background-color: #f8f9fa;'>✥ {category} ✥</h2>\n\n"
         
-        for entry in feed.entries[:2]: # ۲ خبر از هر کدام
-            img_url = extract_image(entry) or fallback_img
-            full_text = get_full_text(entry.link)
+        count = 0
+        for entry in feed.entries:
+            if count >= 2: break # ۲ خبر برتر از هر منبع
+            
+            print(f"Fetching: {entry.title}")
+            full_text, img_url = get_article_data(entry.link)
 
             content += f"<div align='center'>\n"
             content += f"<h3>{entry.title}</h3>\n"
-            # استفاده از تگ img با قابلیت ریسپانسیو
-            content += f"<img src='{img_url}' width='90%' style='max-height:400px; object-fit: cover; border-radius:15px;' />\n"
+            
+            # اگر عکس پیدا شد نمایش بده، در غیر این صورت یک تصویر پیش‌فرض شیک
+            if img_url:
+                content += f"<img src='{img_url}' width='90%' style='border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);' />\n"
+            else:
+                content += f"<img src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=800&q=80' width='90%' style='border-radius: 12px;' />\n"
+            
             content += f"</div>\n\n"
             
             content += f"{full_text}\n\n"
-            content += f"<p align='right'>🔗 <i>Source: <a href='{entry.link}'>Read More</a></i></p>\n"
-            content += "<hr width='50%'>\n\n"
+            content += f"<p align='right'>🔗 <i>Read on official site: <a href='{entry.link}'>Source Link</a></i></p>\n"
+            content += "<hr width='60%' align='center'>\n\n"
+            count += 1
             
     return content
 
