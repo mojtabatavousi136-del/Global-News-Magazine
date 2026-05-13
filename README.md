@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/13 - 13:01`
+**📅 Update (Tehran Time):** `2026/05/13 - 15:56`
 
 ---
 
@@ -19,288 +19,292 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Jason Collins, first openly gay active NBA player, dies after cancer battle
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-02-13T073707Z_294300989_MT1USATODAY28225088_RTRMADP_3_NBA-75TH-ALL-STAR-GAME-LEGACY-PROJECT-DEDICATION-1778659228.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Maldives jails two journalists for reporting on president’s alleged affair
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/IMG_3860-1778672753.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Jason Collins, the first openly gay active player in the National Basketball Association (NBA), has died at the age of 47 after battling cancer.
+Groups advocating for freedom of the news media have called for the release of two journalists who have been jailed in the Maldives for violating a gag order banning public discussion of a documentary alleging an affair between President Mohamed Muizzu and a former aide.
 
-“We are heartbroken to share that Jason Collins, our beloved husband, son, brother and uncle, has died after a valiant fight with glioblastoma,” the family said in a statement on Tuesday.
+The International Federation of Journalists on Wednesday “strongly condemned” the jailing of Mohamed Shahzan and Leevan Ali Nasir while the Committee to Protect Journalists described their sentences as a “punitive attempt to criminalise investigative journalism”.
 
-Collins revealed in September that he was undergoing treatment for a brain tumour and later disclosed he had stage four glioblastoma, an aggressive form of brain cancer.
+The journalists, who work for the news website Adhadhu, were sentenced by the criminal court in the Maldivian capital, Male, on Tuesday.
 
-The 7-footer (2.13 metres tall) made headlines in 2013 when he became the first active male athlete in one of North America’s four major professional sports leagues to publicly come out as gay.
+Muizzu’s spokesperson, Mohamed Hussain Shareef, rejected the criticism, saying any “attempts at portraying the criminal proceedings as an attack on free press are unwarranted and politically motivated.”
 
-The centre played 13 seasons in the NBA. He was selected 18th overall by the Houston Rockets in the 2001 draft, then was traded to the then-New Jersey Nets on draft night. He also had stints with the Memphis Grizzlies, Minnesota Timberwolves, Atlanta Hawks, Boston Celtics and Washington Wizards.
+The case centres on a documentary titled Aisha, which was released on Adhadhu’s social media accounts on March 28. It featured an anonymised interview with a woman who claimed to have had a sexual relationship with Muizzu, 47, a married father of three.
 
-Collins helped the Nets reach back-to-back NBA Finals in 2002 and 2003 alongside teammates Jason Kidd and Richard Jefferson.
+Police raided Adhadhu’s offices in April over the documentary’s release, seizing the laptops of journalists, marketing staff and administrators along with hard drives and pen drives.
 
-After a first-person essay in Sports Illustrated disclosing he was gay, Collins received widespread support across the sports world, including from then-United States President Barack Obama.
+According to Adhadhu, Shahzan was jailed after questioning Muizzu about late-night calls he had allegedly made to the former presidential aide. Nasir was jailed for reporting on the gag order itself, which the criminal court issued on Monday at the request of prosecutors.
 
-“Jason changed lives in unexpected ways and was an inspiration to all who knew him and to those who admired him from afar,” his family said. “Our family will miss him dearly.”
+The order, published on the court’s website, bans any direct or indirect discussion of the allegations, the charges and the ongoing trials, citing constitutional provisions protecting the right to reputation.
 
-Arn Tellem, former agent of Collins and current vice chairman of the Detroit Pistons, said his decision to come out changed lives.
+Adhadhu said the trials were conducted in secret and concluded within hours with the journalists given just two hours to find legal counsel and no opportunity to present a defence. “For the first time in our democratic history, journalists have been jailed for challenging the most powerful man in the nation,” the outlet said.
 
-“Jason’s legacy stands as a beacon for tolerance, dignity, respect, inclusion, compassion, and understanding,” Tellem said in a statement. “He left this world better than he found it.”
+The case has intensified concerns about democracy and media freedom in the Maldives, a Sunni Muslim nation whose luxury resorts attract tourists from around the world. Parliament passed a media law in September giving a commission stacked with government loyalists powers to fine, suspend and shut down outlets while Muizzu’s allies overhauled the Supreme Court last year, removing three judges in moves the former judges said were politically motivated.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/13/jason-collins-first-openly-gay-active-nba-player-dies-after-cancer-battle?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/maldives-jails-two-journalists-for-reporting-on-presidents-alleged-affair?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 How Silicon Valley giants are turning into war contractors
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776685404.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Trump faces slew of ‘bad options’ on Iran as diplomacy falters
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a04371cb0dc-1778661148.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The military-industrial complex – the deep ties between big wars and big industries – has evolved into a military-tech complex. Palantir, Anduril, Google and other tech giants are selling AI-powered, computer-guided weapons systems branded as “smart,” “safe” and “surgical”.
+Optimism surrounding another set of peace proposals aimed at shaping a peace deal between Iran and the United States quickly faded this week as the two sides appeared to instead pull further apart, digging in and insisting that the other compromise for negotiations to resume.
 
-But behind the gloss lies a dangerous truth of escalation, instability and an increasingly rapidly evolving tech sector that sees big money in big wars.
+US President Donald Trump has said that the already fragile ceasefire with Iran, in place since April 8, is now on “life support”, and members of his administration have increasingly hinted that the US could resume fighting.
 
-Join Ali Rae in Episode One of All Hail the Military – a five-part series that reveals the systems, power and hidden complicities that sustain global militarism – and the profound impact it has on us all.
+But analysts say for all of Trump’s bluster on Truth Social, his preferred megaphone, the US president is now trapped between escalation and concession, with the region increasingly stuck in a grey zone of neither peace nor war.
+
+A resumption of hostilities remains possible, but the war is unpopular among Americans and could weigh heavily on Republicans ahead of crucial midterm elections. Yet extricating the US from the conflict and securing a deal may require Trump to concede ground to Tehran – either on its nuclear programme or over Iran’s role in the Strait of Hormuz, the world’s most important oil transit chokepoint through which roughly a fifth of global energy exports passes.
+
+“The White House is left with a set of bad options,” said Allison Minor, a former official at the US State Department and National Security Council, and currently a director at the Atlantic Council’s Project for Middle East Integration.
+
+Tehran wants an end to the war on all fronts, including Lebanon; it wants the first stage of negotiations to focus on ending hostilities before moving to a second step to discuss its nuclear programme and support for proxy groups. It rejects the dismantling of its nuclear programme, and wants sanctions to be lifted and the recognition of its influence over the key waterway. Trump has called its latest proposal — with these demands — “garbage”.
+
+On Sunday, the US president hinted that more military moves may be needed, while Israeli Prime Minister Benjamin Netanyahu suggested the war was not over. Iran’s enriched uranium remains in the country — even though it is likely buried under rubble from US and Israeli bombings last June. Iran’s enrichment sites have not been dismantled. And Tehran still retains its proxy networks and ballistic missile arsenal, Netanyahu said in a CBS interview. “There is work to be done,” Trump said.
+
+But while the US and Israel could well resume attacks on Iran, the prospects of a protracted conflict with no end in sight could translate into a major political liability for Trump, said Ian Lesser, a distinguished fellow at the German Marshall Fund of the United States.
+
+“Things don’t evolve the way either side might assume,” he said, noting that the Iranian leadership has already proven to be more resilient and durable — with a higher threshold for physical and economic pain — than the US administration had expected.
+
+To add to that, renewed fighting would affect US abilities to respond to threats elsewhere, including in the Indo-Pacific region, Lesser said, amid mounting concerns over depleted US ammunition stockpiles after five weeks of bombing Iran. A report by the Center for Strategic and International Studies warned that the conflict had already reduced Washington’s readiness for other potential confrontations, particularly with China.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Messi doubles MLS base salary to make $28m a year at Inter Miami
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260509__2275327814__v2__HighRes__TorontoFcVInterMiamiCf-1778660255.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 UN urges independent probes into deadly Nigeria, Chad air attacks
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-21T093450Z_1737588547_RC2JRHALUKUP_RTRMADP_3_USA-NIGERIA-SECURITY-1776013115.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Lionel Messi remains the highest-paid player in Major League Soccer with an annual base salary of $25m, more than twice as much as the next-highest-paid player, Son Heung-min, the MLS Players Association says.
+The United Nations human rights chief has demanded independent investigations into reports that separate air attacks by the Nigerian and Chadian forces in northern Nigeria killed more than 100 civilians.
 
-According to the figures released on Tuesday, Messi’s base salary has doubled, while overall the deal will see him make $28.3m in guaranteed compensation.
+“I am shocked by reports that Nigerian army airstrikes on a market in Zamfara state killed at least 100 civilians on 10 May and injured many more,” UN High Commissioner for Human Rights Volker Turk said in a statement on Wednesday.
 
-The union’s latest list of player salaries reflected the contract extension Messi signed with Inter Miami in October, which will keep him with the Florida outfit through the 2028 campaign.
+He said he was also “alarmed and saddened” by the reports of high civilian casualties in attacks since Friday by Chadian jets against Boko Haram camps on remote islands in the vast marshland shared by Nigeria, Cameroon, Niger and Chad.
 
-South Korea star Son, the former Tottenham captain who signed with Los Angeles FC last August for a reported MLS record $26m transfer fee, has a base salary of $10.36m, with total guaranteed compensation of $11.2m.
+Nigeria’s military ‌has been battling “bandits” in the northwest, often describing them as “terrorists”. It has also been battling ‌an ‌armed rebellion in the northeast for 17 years.
 
-The salaries do not include income from endorsement deals, nor does Messi’s compensation reflect his option to acquire a stake in the Florida franchise, co-owned by David Beckham, which he joined in 2023.
+The Nigerian military and the “bandit” gangs killed at least 100 civilians on Sunday in one of the bloodiest days in the state’s conflict against armed groups, according to Amnesty International.
 
-The 38-year-old Messi, who is expected to lead Argentina’s World Cup title defence starting next month, has 59 goals in 64 MLS regular-season games with Miami. He led the league with 29 goals last season and was named Most Valuable Player for the second straight season.
+Citing witnesses, Amnesty said many of those killed were women and children, and urged authorities to immediately investigate the attack on a crowded market in Tumfa village.
 
-Messi’s Inter Miami and Argentina teammate Rodrigo De Paul is third on the list with $9.7m in guaranteed compensation.
+The bombardment has reportedly killed dozens of Nigerian fishermen working on islands under Boko Haram control, where civilians are forced to pay taxes to the armed group. Footage verified by the AFP news agency showed several fishermen with severe burns being treated at a hospital in Bosso, Niger.
 
-Mexico’s Hirving “Chucky” Lozano is fourth on the list with $9.3m, although he has not featured for San Diego since November.
+“It is crucial that both Nigerian and Chadian authorities conduct prompt, thorough, independent and impartial investigations into these disturbing incidents,” Turk said, adding that both militaries must “take all feasible precautions to avoid harm to civilians”.
 
-Atlanta’s Miguel Almiron rounds out the top five with guaranteed compensation of $7.9m.
+“Their military operations, including against Boko Haram and the so-called ‘Islamic State West Africa Province’ must be conducted in full compliance with international humanitarian law and international human rights law,” he said, referring to the ISIL (ISIS) affiliate in West Africa Province (ISWAP). “Civilians and civilian objects must never be the target of attack.”
 
-Miami’s $54.6m payroll is more than $20m higher than LAFC, which is second at $32.7m, and nearly five times as much as Philadelphia’s league-low $11.7m. Miami’s payroll is up from $46.8m at the start of last season.
+Meanwhile, the Nigerian military said on Wednesday ⁠that there ⁠has been no evidence of civilian casualties in attacks in the ⁠northwest Zamfara state this month, calling reports of large death tolls unverified and misleading.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/13/messi-doubles-mls-base-salary-to-make-28m-a-year-at-inter-miami?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 China’s Xi expected to press Trump on Taiwan, tariffs during summit
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20251030__82G693V__v1__MidRes__SkoreaUsChinaDiplomacy-1-1778650217_381bb7-1778650918.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israel bulldozes Palestinian shops to make way for settlement-linked road
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/big-thumb-1778669780.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Taipei, Taiwan – Chinese President Xi Jinping is expected to seek concessions on Taiwan and US tariffs when he meets United States President Donald Trump for a high-stakes summit taking place in the shadow of the war on Iran.
-
-Trump will arrive in China on Wednesday evening for a three-day visit that will mark the first trip by a US leader to the country since 2017, when Trump visited in the early days of his first term.
-
-Unlike Trump, who is renowned for his mercurial policymaking, Xi is widely seen as predictable in his goals for the summit, particularly as they concern Beijing’s longstanding “core interests” related to national security and territorial integrity.
-
-While Taiwan’s government considers itself the head of a de facto sovereign state, Beijing views the island as an inalienable part of its territory.
-
-The US formally cut ties with Taiwan – also known as the Republic of China – decades ago, but is committed to aiding the self-governing democracy’s defence under the 1979 Taiwan Relations Act.
-
-Under the law, Washington has provided Taiwan with billions of dollars in arms and pursued cooperation in areas such as military training and intelligence sharing, which Beijing considers interference in its internal affairs.
-
-The US government officially acknowledges that China views Taiwan as part of its territory, but does not express a stance on whether it agrees.
-
-Washington is also intentionally vague about whether it would intervene to defend Taiwan if China sought to annex it by force.
-
-In a call with US Secretary of State Marco Rubio last month, Chinese Foreign Minister Wang Yi made clear that Taiwan would be raised at the summit, describing the issue as “the biggest risk in the China-US relationship”, according to a Chinese readout of the call.
-
-China’s embassy in Washington, DC, reiterated that message after Trump’s departure for the summit on Tuesday, naming Taiwan as the first of “four red lines” that “must not be challenged”.
+Israel bulldozes Palestinian shops to make way for settlement-linked road
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a03f3703f0b-1778643824.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Gang violence displaces hundreds in Haiti’s capital
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26132750345750-1778655817.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-United States President Donald Trump departed for Beijing on Tuesday for a high-stakes summit with Chinese President Xi Jinping, saying the two leaders would hold a “long talk” on Iran even as trade remains the main focus of the visit.
+Residents of the Cite Soleil neighbourhood in Port-au-Prince have taken to the streets to demand government protection after a new surge of gang violence forced hundreds of people to flee their homes over the weekend.
 
-The summit comes as tensions over the war involving Iran continue to escalate, with Tehran accusing Washington and Israel of fabricating “justifications for atrocity”, while Trump insists the conflict will end “peacefully or otherwise”.
+Protesters said on Tuesday they had witnessed people being killed in Cite Soleil in recent days. Haitian authorities have yet to release any information on casualties.
 
-Meanwhile, Kuwait said it arrested four alleged members of Iran’s Islamic Revolutionary Guard Corps (IRGC) accused of planning “hostile” activities after attempting to enter the country via Bubiyan Island, while Qatar has accused Tehran of “weaponising” the Strait of Hormuz and using it to “blackmail” Gulf states as vital energy supplies remain trapped in the region.
+Armed gangs have tightened their grip on Haiti’s capital since the assassination of President Jovenel Moise at his home in July 2021. Police say the groups now control about 70 percent of the capital and have expanded their activities, including looting, kidnapping and sexual violence, into rural areas. Haiti has not had a president since Moise’s killing.
+
+Medical services have also been hit. In a statement released on Monday, Doctors Without Borders (Medecins Sans Frontieres) said it had evacuated its hospital in Cite Soleil after intense clashes on Sunday. The Centre Hospitalier de Fontaine, another facility serving the area, said on Tuesday it had suspended operations because of the violence and had evacuated all of its patients, including 11 newborns.
+
+The unrest comes as an international security mission, backed by the United Nations, begins to deploy. The first foreign troops linked to the UN-authorised force arrived in April to help quell the violence.
+
+In late September, the UN Security Council approved a plan for a 5,550-member mission, although the full contingent has yet to arrive. An undisclosed number of troops from Chad have so far been deployed.
+
+Gang warfare has already uprooted large numbers of Haitians. A report published earlier this year by the International Organization for Migration estimated that more than 1.4 million people have been displaced, with about 200,000 now living in overcrowded, underfunded sites in the capital.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/gallery/2026/5/13/gang-violence-displaces-hundreds-in-haitis-capital?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 A decade on, Trump returns to a stronger and more assertive China
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a764/live/ecd6a5e0-4e01-11f1-aa37-6b8846c2f74e.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Passengers held on cruise ship in France after gastroenteritis outbreak
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/4831/live/e711b550-4ec4-11f1-9226-1f41f7d44e1f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-When China's leader Xi Jinping hosts his American counterpart in Beijing this week, Donald Trump will be reminded of his last visit in 2017 –  he was wooed hard, complete with dinner inside the Forbidden City, an honour no US president before him had received.
+More than 1,000 passengers are being held on a UK-operated cruise ship in France after 49 people fell ill from gastroenteritis.
 
-This week's reception promises to be just as grand, including a stop inside Zhongnanhai, the rarefied compound where China's top leadership lives and works. The agenda too will be just as thorny, with Iran being a new source of tension, alongside trade, technology and Taiwan.
+Local authorities in Bordeaux said three passengers had been isolated in their cabins on the Ambition, while other passengers will not be able to disembark in the port.
 
-But a lot has changed as Trump returns to a stronger and far more assertive China. Now well into an unprecedented third term, an ambitious Xi has been pushing forward with plans for "new productive forces" with heavy investments in renewable energy, robotics and artificial intelligence.
+They added that there was "no reason" to link the outbreak to the hantavirus outbreak on a separate cruise ship.
 
-If the American president and his administration want a glimpse of the future Beijing has been reaching for in the last decade, they have to look beyond the imposing heart of the capital where they will spend much of their time.
+Ambassador Cruise Line told the BBC a 92-year-old man had passed away onboard on Sunday, but he did not report any related symptoms and his cause of death is yet to be established by a coroner.
 
-In the remote, rugged north, solar and wind power now dominates vast landscapes. In the industrious south, automation is reshaping factories and supply chains, and  megacities like Chongqing have become the stuff of influencers' feeds.
+The cruise operator added: "We are providing every support to the deceased's friends and family and extend our most sincere condolences to them at this difficult time."
 
-Billions in state funding have transformed Chongqing, a gritty manufacturing hub deep in the south-west into a powerhouse symbol of a changing China that is embracing new tech, new trade and a new adjective – trendy – as it tries to show the world a friendlier face.
+It said in a separate statement that "a number of guests and crew onboard Ambition have displayed or are displaying symptoms consistent with gastrointestinal illness".
 
-Back in 2017, China was trying to prove it was on an equal footing to the US, says Ali Wyne, senior research and advocacy adviser for US-China relations at International Crisis Group.
+It said enhanced sanitation and prevention protocols had been implemented across the ship "in line with established public health procedures following the initial reports of illness".
 
-"I think that the Chinese delegation understandably expended an enormous amount of diplomatic effort trying to convey the impression that President Xi was President Trump's geopolitical equal. What I find striking is that this time around that assertion isn't necessary on the part of Chinese."
+The cruise line said that as of 11:00 BST on Wednesday, 48 passengers were displaying symptoms consistent with gastrointestinal illness, as well as one crew member.
 
-Washington now acknowledges China as a "near-peer", says Wyne, who describes Beijing as "arguably the most powerful competitor that the United States has confronted in its history".
+There are currently 1,187 guests and 514 crew members on board the ship, according to its operator.
 
-Trump, in turn, may well be the most mercurial foreign leader China has ever encountered. He even has a nickname here - Chuan Jianguo, which means "Trump the nation builder". Online many Chinese believe that his divisive policies and trade wars have helped China's rise by weakening America's global standing.
+The cruise ship set sail from Belfast on 8 May, before heading to Liverpool the next day.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Australia has some of the world's costliest homes. Will scrapping tax breaks help?
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6ded/live/01840610-4e91-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Climbers clear path to Everest summit past giant chunk of ice
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/90e4/live/d1ebb000-4eb4-11f1-a4e8-2309d38aa073.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Sebastian Muñoz-Najar has only just finished primary school. The 13-year-old is still years away from learning how to drive. He cannot legally work. He's too young to even have a social media account.
+An elite team of Nepali climbers have managed to clear a way to the summit of Mount Everest, as experts warn of overcrowding this climbing season.
 
-Amid near constant headlines about Australia's deepening housing crisis, the Adelaide student began worrying about what the future might look like for his generation.
+Hundreds of mountaineers and their guides have been stranded for the past few weeks at the Everest Base Camp in Nepal after a huge chunk of ice blocked their only viable route.
 
-Armed with Google and a calculator, Sebastian was shocked to find that, if the current trajectory of house prices and wage growth continues, by the time he graduates from university the average house in his city will be 17 times his likely income.
+The Nepali climbers managed to fix ropes and ladders as they found a way past the obstacle on Wednesday morning. Other climbers can now start climbing up using these ropes.
 
-"It's really sad to see how this issue is affecting the present generation's views on what Australia is - how their life should go," he told the BBC.
+But some experts are worried about "traffic jams" and safety at the world's highest peak, especially in a year when a record number of permits have been issued to Everest aspirants.
 
-While there's no dispute that Australia is in a housing crisis, solutions to it have divided the nation and paralysed politics for over a decade.
+Almost 500 foreign climbers have been granted permits to scale the 8,849m (29,032ft) peak this year. Most attempt the ascent with at least one Nepali guide, who do not require permits.
 
-Now the government is promising a polarising reform, scrapping lucrative tax breaks which it says will help tackle the intergenerational inequality which has come to define the market.
+This means that some 1,000 climbers will be climbing toward the summit in the next two weeks or so.
 
-Critics argue it could stifle the investment Australia needs to build more houses and could worsen the plight of renters. Others say the rule changes unfairly threaten the wealth they've spent their lives toiling for.
+Climbers who were acclimatising on the mountain had earlier raised safety concerns as a result of the delay in the route's opening.
 
-But many younger Australians like Sebastian argue the social contract that hard work is rewarded has long been broken anyway.
+"Lots of climbers [are] having to make their attempts in a short period of time," prominent climber Purnima Shrestha, who is attempting to summit Everest for the sixth time, told the BBC late last month.
 
-They feel they have been denied the kinds of opportunities their parents enjoyed, and hope the changes will begin rebalancing the playing field and bring housing security back in reach for future generations.
+"Delays in the opening of the route have added concerns of possible 'traffic jams' to the peak this year," she said.
 
-Australia has some of the least affordable cities on Earth. The average property now costs almost 10 times an ordinary household's income, quadruple what it was about 25 years ago, and rents have doubled over a similar period.
+Peak climbing season on Everest usually runs from late April until the end of May.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c3w2np14g92o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ghana to evacuate 300 from South Africa over anti-immigrant protests
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e2f6/live/3065b150-4ea4-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Shrinking Milka chocolate bar tricked consumers, says German court
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8868/live/0a7b1fb0-4ebe-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Ghana says it will evacuate 300 citizens from South Africa following a recent wave of protests against foreign nationals.
+In a landmark German case targeting chocolate "shrinkflation", a court has found that the manufacturer of Milka's classic Alpine Milk bar cheated consumers and broke competition law.
 
-Foreign Minister Samuel Okudzeto Ablakwa said in a post on X on Tuesday that the Ghanaian president had granted approval for their "immediate evacuation".
+Cutting back on the amount of chocolate while having the same kind of wrapper meant that customers were being misled, Bremen regional court ruled.
 
-He said the "distressed" Ghanaians had registered at the country's embassy in Pretoria to be rescued in response to an advisory by the foreign ministry "following the latest wave of xenophobic attacks".
+The three-week court case was brought by Hamburg's consumer protection office  (VZHH), which accused manufacturer Mondelēz of deceiving consumers by cutting the weight of the "Alpenmilch" bar from 100g to 90g.
 
-Last week, South African authorities denied that anyone had been attacked, saying the widely circulated videos were fake.
+Reacting to the ruling Mondelēz told the BBC it was "taking the decision of the court seriously" and would "look at it in detail now".
 
-On Monday, South African President Cyril Ramaphosa said the recent "protests and criminal acts directed at foreign nationals" did not reflect government policy, describing them as "isolated acts of criminality".
+Manufacturers have often resorted to shrinkflation because of rising costs, reducing the size or content of a product in an attempt to maintain the same price. The practice transcends borders. In the UK, consumer group Which? has called it a "sneaky" tactic.
 
-He added that South Africa would "regulate migration, secure our borders and enforce our laws".
+According to Which? chocolate prices have increased due to the global rise in the cost of cocoa after poor harvests in West Africa.
 
-Thousands of South Africans joined protests against illegal immigration, demanding the mass deportation of undocumented foreign nationals. Protesters say illegal immigration has had an impact on jobs, housing and crime.
+Mondelēz argued that it had informed German consumers about the change on its website and social media channels, and pointed to the rising costs in its supply chains: "As a consequence in the last years we decided to adjust the weight of several Milka-bars."
 
-On Tuesday, the Ghanaian embassy in South Africa advised nationals to be highly cautious and prioritise their safety by avoiding public gatherings and shut their shops or businesses in the port city of Durban ahead of a protest planned on Wednesday.
+Last year, German consumers were not satisfied with the company's explanation and voted the Milka Alpenmilch bar "rip-off packaging of the year 2025".
 
-Ghana and Nigeria have recently summoned the South African envoys to their respective countries over the mistreatment and harassment of their citizens.
+Although the bar's weight had been reduced, there was no noticeable change in its purple wrapping. The new bar was a millimetre thinner, and the price went up from €1.49 (£1.30) to €1.99 (£1.70) at the beginning of 2025.
 
-Ghana has also written to the African Union (AU) asking it to discuss the issue, saying it posed a "serious risk to the safety and wellbeing" of Africans in South Africa.
+Mondelēz had maintained that the lower weight was clearly visible on its packaging and denied the allegations made by the Hamburg consumer group. The company's lawyer argued in court that chocolate bars in the past had a fluctuating weight between 81-100g depending on the product.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Air India crisis deepens ahead of final Ahmedabad crash report
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/59ad/live/94b20f80-4db6-11f1-8e66-f56d9b46fa9c.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Gaza sisters win prize for turning rubble into reusable bricks
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/34c9/live/493b3f30-4eb6-11f1-bd52-e755d604ece4.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-In under a month from now, India's Aircraft Accident Investigation Bureau (AAIB) is expected to release its final report on the crash of London-bound Air India flight AI‑171 that went down seconds after take‑off from Ahmedabad in western India on 12 June 2025.
+Two teenage sisters from Gaza have won an environmental award for turning rubble into reusable bricks, saying they wanted to "turn destruction into something useful".
 
-As the world awaits the findings on the devastating tragedy that claimed 260 lives, a cascade of formidable challenges has deepened the crisis at Air India.
+Farah and Tala Mousa, who live in a tent and have been repeatedly displaced since their home was bombed, have been named the Middle East regional winners of the youth-focused Earth Prize.
 
-A leadership vacuum, mounting financial losses, airspace closures and a Middle Eastern fuel shock have put the carrier's ambitious turnaround into question. A spate of recent incidents have also cast a shadow on the safety and operational track record of the airline.
+"After our entire city turned into rubble, everything around us pushed us to think about a solution," 17-year-old Tala told the BBC.
 
-Last month, Air India's chief executive officer, Campbell Wilson, resigned midterm as losses for the year ending March 2026 reportedly hit $2.4bn.
+The sisters plan to use their $12,500 (£9,245) prize to teach others to produce the bricks and "participate in reconstruction themselves, instead of waiting only for outside help," 15-year-old Farah said.
 
-Air India is currently the biggest loss-making entity within the Tata Group - which took over the ailing carrier from the government in 2022 - and a point of growing consternation for the Tata board.
+The UN estimates 1.9 million people in Gaza - nearly 90% of the population - have been displaced since war began in 2023, triggered by the Hamas-led attack on southern Israel on 7 October. Israel responded by launching a military campaign against Hamas in the territory.
 
-According to local media, the board met last week and is said to have discussed several cost-cutting measures and warned staff of "tough times". The arrival of senior Singapore Airlines leadership at the group's headquarters in Mumbai city in April, meanwhile, sparked talks of the latter deepening its involvement in the beleaguered carrier. Singapore Airlines is a 25.1% shareholder in Air India.
+By early 2025, the damage in the strip was estimated to amount to $70bn (£51bn), with millions of tonnes of rubble lining its streets.
 
-Air India said it would not comment on the BBC's detailed questionnaire, but aviation experts say Wilson's exit creates a void at a time when the airline desperately needs someone to steer it through the turbulence.
+Farah and Tala developed the blocks not far from a tent in which they were living after their home was destroyed in August.
 
-"They needed a clear vision right now. Air India had given itself a five-year plan to revamp itself after the privatisation. But one can't really say that it's been a happy ride so far. Between their plan and its implementation, there have been big and growing gaps," Jitendra Bhargava, a former executive director at Air India, told the BBC.
+Made through crushing the rubble and sieving the debris before mixing it with materials like clay, ash and glass powder, the girls tested the blocks by helping a neighbour hold down their tent in poor weather.
 
-Bhargava points to internal and external factors that have compounded the airline's troubles even as it tries to recover from the Ahmedabad crash.
+Low-cost and lightweight, they are designed for "non-load-bearing use, such as pavements, partitions and garden beds," Farah told the BBC World Service's Newsday.
 
-He says the Tatas had "underestimated the problems they inherited with the legacy carrier", and Wilson was unable to build a team quickly enough after coming in to set things in order.
+The sisters - who lost their prototype when they were last displaced - said they had been motivated by the "destruction" around them.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Jason Collins, NBA's first openly gay player, dies aged 47
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8c2c/live/6c177c30-4e98-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Thousands of Waymos recalled after robotaxi swept into a creek
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/4e77/live/96f04200-4eae-11f1-92a2-156bc6ac560f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Former pro-basketball player Jason Collins, the first active male athlete on a major American professional team sport to come out as gay, has died aged 47.
+Waymo is recalling thousands of its self-driving cars in the US over a software issue that could allow vehicles to drive into flooded roads.
 
-Collins died after a "valiant fight with glioblastoma", an aggressive form of brain cancer, his family said in a statement shared by the National Basketball Association (NBA).
+According to a letter posted on the National Highway Traffic Safety Administration (NHTSA) website on Tuesday, the voluntary recall affects nearly 3,800 robotaxis that use the company's fifth and sixth-generation automated driving systems.
 
-He announced last year that he had been diagnosed with the cancer and was undergoing treatment to stop the spread of the inoperable disease.
+It follows an incident on 20 April in San Antonio, Texas, where an empty Waymo vehicle entered a flooded road and was swept into a creek.
 
-"Jason Collins' impact and influence extended far beyond basketball as he helped make the NBA, WNBA and larger sports community more inclusive and welcoming for future generations," NBA Commissioner Adam Silver said on Tuesday.
+The company, which hopes to be operating a robotaxi service in London by September, said it was working on "additional software safeguards", according to CNBC.
 
-"Jason will be remembered not only for breaking barriers, but also for the kindness and humanity that defined his life and touched so many others," Silver added.
+The BBC has contacted Waymo, which is owned by Google's parent company Alphabet, for comment.
 
-Collins said in December 2025 that the cancer was discovered after he was struggling to focus.
+Waymo's San Antonio service also remains temporarily suspended following the incident, though the company said it will resume public rides after the necessary software fix had been rolled out.
 
-The brain tumour, he said, was like "a monster with tentacles spreading across the underside of my brain the width of a baseball".
+According to the NHTSA letter, temporary updates limiting where affected vehicles can drive during extreme weather have already been applied.
 
-Without treatment, he would be dead within three months, doctors told Collins.
+Waymo says it now provides more than 500,000 trips per week across multiple US cities including San Francisco, Austin and Miami.
 
-When revealing his diagnosis to the world, he said it reminded him of his decision to publicly come out as gay in 2013 in a front-page cover story for Sports Illustrated. The years since were "the best of my life", he said.
+Jack Stilgoe, professor of science and technology policy at University College London, told the BBC that all self-driving car systems had limits on when and where they could operate safely.
 
-"Your life is so much better when you just show up as your true self, unafraid to be your true self, in public or private. This is me. This is what I'm dealing with."
+As more autonomous vehicles are deployed, Prof Stilgoe said, more such problems are likely to emerge.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -453,6 +457,27 @@ The largest part of the exercise takes place in Morocco, involving approximately
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
+### 📰 'Street Outlaws' Daddy Dave Arrested For Stalking in New York
+<img src='https://imagez.tmz.com/image/d6/16by9/2026/05/13/d6075da38be5420399a2846456bccb99_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+Daddy Dave from "Street Outlaws" is living up to the name of his TV show ... he just got arrested for allegedly stalking someone.
+
+The reality star, whose real name is David Comstock, was booked into the Steuben, New York, jail early this morning for misdemeanor stalking and misdemeanor criminal tampering. In case you're wondering, the tampering offense is meddling with another person's property to cause them a huge inconvenience.
+
+In addition, Comstock posed for a mugshot, and we gotta say he doesn't look very happy, but who can blame him under the circumstances. For now, Comstock is being held without bail.
+
+As for what he did specifically, well, we still don't have the details. However, we've made some inquires and will update you once we get word.
+
+Daddy Dave has been a prominent race car driver on "Street Outlaws" since the show's premiere in 2013. In fact, he's become an iconic figure of sorts for almost always being a top contender in the races.&nbsp;
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/street-outlaws-daddy-dave-arrest-stalk-comstock/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Hayden Panettiere's Ex Brian Hickerson Still Holding Out Hope to Marry Her
 <img src='https://imagez.tmz.com/image/54/16by9/2026/05/12/547ac07b1c16407fa92d141debf41969_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
@@ -527,31 +552,6 @@ Spencer's leading opponent, incumbent Mayor Karen Bass, reportedly raised $494K 
 </div>
 
  [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/spencer-pratt-drops-serious-at-fav-mexican-spot-for-mayor-campaign/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Caitlyn Jenner Sued Over Alleged Crypto Pump and Dump Scheme
-<img src='https://imagez.tmz.com/image/ff/16by9/2026/05/13/ff4cbb110b5c48cd86b13a6f0ec43f22_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-Caitlyn Jenner is facing a new class action lawsuit over her $JENNER meme coin ... with investors claiming they got burned in a celebrity-fueled crypto cash grab.
-
-According to the explosive 97-page filing, obtained by TMZ, a man named Lee Greenfield claims Jenner and her manager, Sophia Hutchins, orchestrated a crypto pump and dump after hyping up a token pair -- promising the project was a long-term play while encouraging fans to buy in.
-
-The suit claims Jenner repeatedly told followers she was "solely focused" on the coin, pushed slogans like "We’re sending this coin to the moon!!!" and even tied the token to Donald Trump and MAGA messaging to attract buyers. The filing includes a bunch of screenshots of Jenner’s tweets and promo posts.
-
-But Greenfield says the whole thing quickly went sideways, claiming Jenner abruptly pivoted to promoting another crypto coin called $BBARK just days after launch, causing the original $JENNER token to crater by roughly 75 percent.
-
-The lawsuit says the crypto project started falling apart after promoter Sahil Arora -- who allegedly helped launch the coin -- was accused of pulling money out of the operation and crashing its value. According to the filing, Jenner later blasted him online as a scammer ... but kept promoting other versions of the coin anyway.
-
-Investors claim Jenner kept telling buyers the coin was the real deal and about to blow up ... while people behind the scenes were allegedly making money off fees and token sales. Greenfield says he lost more than $40,000 after buying into the coin.
-
-The lawsuit basically claims Jenner misled investors into buying the crypto coins ... and now investors want their money back, plus extra damages.
-
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/caitlyn-jenner-sued-for-crypto-scheme/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -665,28 +665,6 @@ All prices &amp; availability subject to change.
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities
-<div align='justify'>
-
-Secret new assessments say Iran has operational access to 30 of its 33 missile sites along the Strait of Hormuz, suggesting that its military remains far stronger than President Trump has asserted.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Battle Over the Strait of Hormuz Leaves Safe Passage a Gamble
-<div align='justify'>
-
-Vessels are traveling without transmitting critical information meant to keep the waters safe, maritime intelligence experts say.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ### 📰 Trump’s Shrinking Ambitions on China
 <div align='justify'>
 
@@ -694,7 +672,7 @@ The president came into office planning harsher trade moves on China than on the
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/politics/trumps-shrinking-ambitions-on-china.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -717,6 +695,28 @@ A central question hanging over the summit this week is whether China will agree
 </div>
 
  [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/business/china-trump-xi-rare-earths.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 U.S. Intelligence Undercuts Trump’s War Claims, and the Cost of ‘Alligator Alcatraz’
+<div align='justify'>
+
+Plus, the controversy engulfing Eurovision.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/podcasts/the-headlines/iran-missiles-alligator-alcatraz.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities
+<div align='justify'>
+
+Secret new assessments say Iran has operational access to 30 of its 33 missile sites along the Strait of Hormuz, suggesting that its military remains far stronger than President Trump has asserted.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
