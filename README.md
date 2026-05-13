@@ -2,7 +2,7 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/12 - 22:40`
+**📅 Update:** `2026/05/13 - 04:15`
 
 ---
 
@@ -18,156 +18,135 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Sam Altman says Elon Musk wanted 90 percent of OpenAI in high-stakes trial
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0392a83d30-1778619048.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Argentines protest against Milei’s defunding of public universities
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-5.41.11-AM-1778640099.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-In a United States court, OpenAI chief executive Sam Altman has rejected claims from fellow tech mogul Elon Musk that he betrayed the artificial intelligence company’s original vision.
-
-Tuesday marked the start of Altman’s testimony in a contentious trial unfolding in Oakland, California, between some of tech’s richest and most powerful titans.
-
-Musk, the wealthiest man in the world, has sued Altman and OpenAI president Greg Brockman on the basis that they “stole a charity” by shifting its purpose.
-
-He alleged that OpenAI’s leader persuaded him to invest $38bn, based on a goal of improving humanity, only to see the company pivot to a for-profit venture in 2019.
-
-On the witness stand on Tuesday, Altman instead framed Musk as a competitor obsessed with exercising control over OpenAI.
-
-“It does not fit with my conception of the words ‘stealing a charity’ to look at what has actually happened here,” Altman told the court.
-
-The two men have long had an acrimonious relationship, driven in part by differing views about artificial intelligence.
-
-Musk — a self-described free speech “absolutist” — currently runs his own AI chatbot, Grok, which has been accused of perpetuating right-wing conspiracy theories and offensive materials.
-
-He is seeking $150bn in damages from OpenAI and Microsoft, one of its principal investors.
-
-Altman’s testimony comes more than two weeks into the trial, which has seen him and Musk square off against each other.
+Argentines protest against Milei’s defunding of public universities.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/sam-altman-says-elon-musk-wanted-90-percent-of-openai-in-high-stakes-trial?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/argentines-protest-against-mileis-defunding-of-public-universities?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Basketball star Brandon Clarke, Memphis Grizzlies forward, dies at age 29
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26091831151338-1-1778614343.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 FBI Director Kash Patel fires back at drinking allegations
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778636378.jpg?resize=1620%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Brandon Clarke, an athlete for the National Basketball Association (NBA) in the United States, has died at the age of 29, according to his team, the Memphis Grizzlies.
-
-No cause of death was immediately announced. Local media reports indicate he was pronounced dead at a home in California’s San Fernando Valley after emergency workers responded to a call for help.
-
-“We are heartbroken by the tragic loss of Brandon Clarke,” the Grizzlies said in a statement on Tuesday.
-
-“Brandon was an outstanding teammate and an even better person whose impact on the organization and the greater Memphis community will not be forgotten.”
-
-Born in Vancouver, Canada, Clarke was selected as the 21st pick overall in the 2019 NBA draft by the Oklahoma City Thunder, before his rights were traded to Memphis on draft night.
-
-He spent his entire NBA career with the Grizzlies and was named to the NBA All-Rookie First Team in 2020 after averaging 12.1 points and 5.9 rebounds in his debut season.
-
-Injuries, including knee, calf and Achilles issues, limited his appearances in recent years. Clarke played just two games during the 2025-26 season.
-
-“We are devastated to learn of the passing of Brandon Clarke,” NBA Commissioner Adam Silver said in a statement.
-
-“As one of the longest-tenured members of the Grizzlies, Brandon was a beloved teammate and leader who played the game with enormous passion and grit. Our thoughts are with Brandon’s family, friends and the Grizzlies organization.”
-
-The agency that represented him, Priority Sports, wrote in a statement that its members were “beyond devastated” by Clarke’s death.
+FBI Director Kash Patel and Senator Chris Van Hollen had a heated exchange during a Senate budget hearing.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/12/basketball-star-brandon-clarke-memphis-grizzlies-forward-dies-at-age-29?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/aje-onl-nf_clip_fbi-director-patel-fires-back-at-allegations-120526?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump downplays US-Iran differences as he heads to Beijing to meet with Xi
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0371fd5064-1778610685.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Peru presidential candidate Roberto Sanchez charged with financial crimes
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-30T171937Z_557282588_RC2RZKAS1VST_RTRMADP_3_PERU-POLITICS-1778632912.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-United States President Donald Trump has departed the White House en route to Beijing, where he will meet with his Chinese counterpart Xi Jinping.
+Peru’s public prosecutor’s office has accused leftist presidential candidate Roberto Sanchez of financial crimes, calling for him to be imprisoned for five years and four months.
 
-Trump spoke briefly with reporters on Tuesday as he boarded the Marine One helicopter. He was then set to arrive in China aboard Air Force One on Wednesday, ahead of the planned meetings on Thursday and Friday.
+The charges, unsealed on Tuesday, came hours after electoral authorities confirmed Sanchez was on track to advance to the country’s presidential run-off, scheduled for June 7.
 
-United States officials have taken pains in recent days to downplay how big a topic the US-Israel war on Iran will be during Trump’s visit.
+According to the El Comercio newspaper, prosecutors allege that Sanchez, who is the candidate of the Juntos por el Peru (Together for Peru) party, filed false financial disclosures with the National Office of Electoral Processes related to campaign contributions between 2018 and 2020.
 
-Beijing has made its opposition to the war clear, at times asserting behind-the-scenes pressure on its trading partner Iran. However, it has largely avoided being pulled into the fray.
+Prosecutors say Sanchez and his brother, William Sanchez, received more than 280,000 Peruvian soles ($81,720) in contributions and membership fees that were never disclosed in the party’s financial filings.
 
-In recent days, US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent have stepped up their calls for China to use its influence to help reopen the Strait of Hormuz, through which about 20 percent of the world’s oil supply flowed before the war began.
+Sanchez is also accused of making false statements in administrative proceedings.
 
-But Trump again gave conflicting messages on Tuesday about how much the war would feature in his meetings in China.
+In addition to the jail term, prosecutors were also seeking a “permanent disqualification” of Sanchez from holding the office of president for the Juntos por el Peru party, according to El Comercio.
 
-“We’re going to have a long talk about it. I think he’s been relatively good, to be honest with you,” Trump said of his plans to discuss the conflict – and how it has roiled global oil markets – with Xi.
+Sanchez’s lawyer rejected the accusations, telling local outlet RPP that the party’s treasurer, not Sanchez, was responsible for its financial filings.
 
-Minutes later, he added, “We have a lot of things to discuss. I wouldn’t say Iran is one of them, to be honest with you, because we have Iran very much under control.”
+A judge is expected to decide on May 27 whether the case will go to trial.
 
-“I don’t think we need ⁠any help with Iran. We’ll win it one way or the other, peacefully or otherwise,” he said.
+The charges emerged as vote counting from last month’s first-round election showed Sanchez advancing to a run-off against conservative rival Keiko Fujimori.
 
-The upcoming meetings will be the first face-to-face exchanges since the leaders of the world’s two largest economies met on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit in Busan, South Korea, in October 2025.
+With 99.76 percent of ballots counted, Fujimori, the daughter of late former President Alberto Fujimori and a four-time presidential candidate, held a commanding lead with 17.17 percent of the vote.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/12/trump-downplays-us-iran-differences-as-he-heads-to-beijing-to-meet-with-xi?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/peru-presidential-candidate-roberto-sanchez-charged-with-financial-crimes?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 US court pauses decision blocking Trump’s 10 percent global tariff
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a037b5b-1778613083.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Starmer at risk because he pushed Labour to be ‘new Conservative Party’
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778632225.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-A federal appeals court in the United States has temporarily paused a lower court decision to block President Donald Trump’s 10 percent global tariff.
-
-On Tuesday, a US federal appeals court issued a short-term administrative stay as the court case continues.
-
-At stake is whether the tariff issued under Section 122 of the 1974 Trade Act falls within the scope of Trump’s presidential authority.
-
-Trump imposed the sweeping 10 percent import tax in January, after the Supreme Court struck down another set of far-reaching tariffs that the president justified using the International Emergency Economic Powers Act (IEEPA).
-
-In that case, the Supreme Court ruled that the IEEPA does not authorise the president to impose blanket tariffs, as Trump had argued.
-
-Similar questions have arisen about Trump’s new tariff policy. On Friday, a panel at the US Court of International Trade ruled two to one that Trump had failed to meet the criteria under Section 122 to apply the new tariffs.
-
-“The President’s Proclamation fails to assert that those required conditions have been satisfied,” the lower-court ruling asserts.
-
-It added that the proclamation “is invalid, and the tariffs imposed on Plaintiffs are unauthorized by law”.
-
-Tuesday’s appeals court decision paused that ruling temporarily, to allow the White House time to respond.
-
-But the plaintiffs — a coalition of 24 states — have argued that Trump’s tariff campaign is an abuse of executive power. They have also pointed to the downstream effects, as consumers shoulder the costs of the added taxes.
+Author Oliver Eagleton explains why British Prime Minister Keir Starmer is fighting for his job.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/12/us-court-pauses-decision-blocking-trumps-10-percent-global-tariff?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/starmer-at-risk-because-he-pushed-labour-to-be-new-conservative?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Cannes juror denounces Hollywood boycott of actors for Gaza war views
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260512__B2LT8FU__v1__HighRes__FranceFilmFestivalCannes2026-1778619314.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Iran war live: Trump travels to China as conflict with Tehran looms large
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260512__2275849880__v1__HighRes__PresidentTrumpDepartsWashingtonForTripToChin-1778628521.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-2026 Cannes Film Festival juror Paul Laverty denounced Hollywood for boycotting actors who’ve opposed the Gaza war.
+Israeli attacks on Lebanon have killed 2,883 people and injured 8,787 since March 2, Lebanon&#039;s Health Ministry says.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/12/cannes-juror-denounces-hollywood-boycott-of-actors-for-gaza-war-views?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
+### 📰 A decade on, Trump returns to a stronger and more assertive China
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a764/live/ecd6a5e0-4e01-11f1-aa37-6b8846c2f74e.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+<font size='4'>
+
+When China's leader Xi Jinping hosts his American counterpart in Beijing this week, Donald Trump will be reminded of his last visit in 2017 –  he was wooed hard, complete with dinner inside the Forbidden City, an honour no US president before him had received.
+
+This week's reception promises to be just as grand, including a stop inside Zhongnanhai, the rarefied compound where China's top leadership lives and works. The agenda too will be just as thorny, with Iran being a new source of tension, alongside trade, technology and Taiwan.
+
+But a lot has changed as Trump returns to a stronger and far more assertive China. Now well into an unprecedented third term, an ambitious Xi has been pushing forward with plans for "new productive forces" with heavy investments in renewable energy, robotics and artificial intelligence.
+
+If the American president and his administration want a glimpse of the future Beijing has been reaching for in the last decade, they have to look beyond the imposing heart of the capital where they will spend much of their time.
+
+In the remote, rugged north, solar and wind power now dominates vast landscapes. In the industrious south, automation is reshaping factories and supply chains, and  megacities like Chongqing have become the stuff of influencers' feeds.
+
+Billions in state funding have transformed Chongqing, a gritty manufacturing hub deep in the south-west into a powerhouse symbol of a changing China that is embracing new tech, new trade and a new adjective – trendy – as it tries to show the world a friendlier face.
+
+Back in 2017, China was trying to prove it was on an equal footing to the US, says Ali Wyne, senior research and advocacy adviser for US-China relations at International Crisis Group.
+
+"I think that the Chinese delegation understandably expended an enormous amount of diplomatic effort trying to convey the impression that President Xi was President Trump's geopolitical equal. What I find striking is that this time around that assertion isn't necessary on the part of Chinese."
+
+Washington now acknowledges China as a "near-peer", says Wyne, who describes Beijing as "arguably the most powerful competitor that the United States has confronted in its history".
+
+Trump, in turn, may well be the most mercurial foreign leader China has ever encountered. He even has a nickname here - Chuan Jianguo, which means "Trump the nation builder". Online many Chinese believe that his divisive policies and trade wars have helped China's rise by weakening America's global standing.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 No sign of larger hantavirus outbreak, says UN health agency
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -201,141 +180,141 @@ And he stressed that "our work is not over" to contain the outbreak from the cru
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump says Iran ceasefire is on 'massive life support'
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/877f/live/785db9c0-4d65-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Australia has some of the world's costliest homes. Will scrapping tax breaks help?
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/3e63/live/488af620-4db2-11f1-950d-add6aac521e1.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
 
-US President Donald Trump has said the month-long ceasefire between the US and Iran is on "massive life support".
+Sebastian Muñoz-Najar has only just finished primary school. The 13-year-old is still years away from learning how to drive. He cannot legally work. He's too young to even have a social media account.
 
-He told reporters in the Oval Office on Monday that while the ceasefire remained in place, it was "unbelievably weak".
+Amid near constant headlines about Australia's deepening housing crisis, the Adelaide student began worrying about what the future might look like for his generation.
 
-Following Trump's comments, Iranian parliamentary speaker Mohammad Ghalibaf wrote on X that Iran's armed forces were, "ready to respond and to teach a lesson for any aggression."
+Armed with Google and a calculator, Sebastian was shocked to find that, if the current trajectory of house prices and wage growth continues, by the time he graduates from university the average house in his city will be 17 times his likely income.
 
-Iran laid out its demands to end the war and reopen the Strait of Hormuz in a counter-offer sent to the US on Sunday. Trump rejected the proposal, calling it "totally unacceptable" and a "piece of garbage".
+"It's really sad to see how this issue is affecting the present generation's views on what Australia is - how their life should go," he told the BBC.
 
-After Trump's comments, Esmail Baghaei, a foreign ministry spokesperson for Iran, said Tehran's proposals were "responsible" and "generous".
+While there's no dispute that Australia is in a housing crisis, solutions to it have divided the nation and paralysed politics for over a decade.
 
-After his comments saying Iran's armed forces ready to respond, Ghalibaf said in a separate post on X that there was "no alternative but to accept the rights of the Iranian people as laid out in the 14-point proposal".
+Now the government is promising a polarising reform, scrapping lucrative tax breaks which it says will help tackle the intergenerational inequality which has come to define the market.
 
-"The longer they drag their feet, the more American taxpayers will pay for it," he said.
+Critics argue it could stifle the investment Australia needs to build more houses and could worsen the plight of renters. Others say the rule changes unfairly threaten the wealth they've spent their lives toiling for.
 
-Tehran's offer includes an immediate end to the war on all fronts - a reference to the continued Israeli attacks against Iran-supported Hezbollah in Lebanon - a halt to the US naval blockade of Iranian ports and guarantees of no further attacks on Iran, according to Iran's semi-official Tasnim news agency.
+But many younger Australians like Sebastian argue the social contract that hard work is rewarded has long been broken anyway.
 
-It also reportedly includes a demand for compensation for war damage and an emphasis on Iranian sovereignty over the Strait of Hormuz.
+They feel they have been denied the kinds of opportunities their parents enjoyed, and hope the changes will begin rebalancing the playing field and bring housing security back in reach for future generations.
 
-Trump criticised the proposal, writing on Truth Social on Sunday: "I have just read the response from Iran's so-called 'Representatives.' I don't like it - TOTALLY UNACCEPTABLE."
+Australia has some of the least affordable cities on Earth. The average property now costs almost 10 times an ordinary household's income, quadruple what it was about 25 years ago, and rents have doubled over a similar period.
 
 </font>
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Lebanon says two paramedics among 13 killed in Israeli strikes
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e3ef/live/68ba80e0-4e1c-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f040/live/d4bf8df0-4e5b-11f1-9305-3566b5d14ae1.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Israeli air strikes have killed at least 13 people in southern Lebanon, state media say, where a ceasefire has failed to stop the war between Israel and the Lebanese armed group Hezbollah.
+US President Donald Trump's futuristic "Golden Dome" missile defence system will cost about $1.2 ​tn (£882bn) to develop, deploy and operate over two decades, the nonpartisan Congressional Budget Office estimates.
 
-Overnight, six people were killed and seven others were injured when a house in Kfar Dounine was hit, according to Lebanon's state-run National News Agency (NNA).
+That figure is significantly higher than the initial sum of $175bn (£129bn) that had been earmarked.
 
-On Tuesday afternoon, Lebanon's health ministry said two paramedics from the state-run Lebanese Civil Defense emergency service were killed and a third was injured in an Israeli strike on Nabatieh, as they carried out a mission in response to an earlier attack that killed one person.
+And the system designed to shield the US against ballistic and cruise missiles might not even work. The new CBO report warned the Golden Dome could be vulnerable to a full-scale attack by Russia or China.
 
-Lebanese President Joseph Aoun expressed "sadness and regret at the killing of two Civil Defence members" in Nabatieh - who were identified as Hussein Jaber and Ahmad Noura - and emphasised that "the continued Israeli aggression hinders efforts to restore calm".
+Acquisition costs alone would be ⁠over $1tn, including for the interceptor layers and a space-based missile warning and tracking system, the fiscal scorekeeper said in a new report.
 
-The health ministry accused Israeli forces of deliberately targeting the paramedics.
+Just days after returning to the White House in January, Trump unveiled plans for the system, aimed at countering "next-generation" aerial threats.
 
-"This targeting constitutes further evidence of the Israeli enemy's blatant violation of international humanitarian law and its full disregard for all international norms," it said.
+He said last year that the programme would require an initial investment of $25bn, with a total cost of $175bn over time.
 
-The ministry said on Monday that 108 emergency medical services and healthcare workers had been killed in Lebanon during the war, with more than 140 Israeli attacks recorded on ambulances and medical facilities.
+Democratic Senator Jeff Merkley, who requested the estimate in the report, said on Tuesday: "The President's so-called 'Golden Dome' is nothing more than a massive giveaway to ​defense contractors paid for entirely by working Americans."
 
-NNA also reported that a Syrian man was killed and his wife was wounded when an Israeli drone targeted a motorcycle they were riding on a road in the Tayr Debba area on Tuesday.
+There have been doubts about whether the US would be able to deliver a comprehensive defence system for such a huge land mass.
 
-The Israeli military said it struck a suspect who was fleeing after what it described as an unsuccessful attempt to launch a surface-to-air missile towards one of its aircraft.
+Officials have warned that existing systems have not kept pace with increasingly sophisticated weapons possessed by potential adversaries.
 
-Hezbollah fighters had also launched explosive-laden drones towards Israeli troops operating in southern Lebanon without causing any casualties, it added.
+Despite the projected costs of the Golden Dome, "the system could be overwhelmed by a full-scale attack mounted by a peer or near-peer adversary", the CBO said.
 
 </font>
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/815a/live/6abed600-4e14-11f1-bd2e-5b25b00aa23c.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Air India crisis deepens ahead of final Ahmedabad crash report
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/59ad/live/94b20f80-4db6-11f1-8e66-f56d9b46fa9c.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
 
-President Volodymyr Zelensky's former right-hand man Andriy Yermak appeared in a Kyiv court on Tuesday, after he was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.
+In under a month from now, India's Aircraft Accident Investigation Bureau (AAIB) is expected to release its final report on the crash of London-bound Air India flight AI‑171 that went down seconds after take‑off from Ahmedabad in western India on 12 June 2025.
 
-Yermak's lawyer had earlier denounced as "baseless" allegations that the former head of the presidential office had been caught up in a corruption scandal surrounding a $10.5m (£7.5m) luxury construction project outside Kyiv.
+As the world awaits the findings on the devastating tragedy that claimed 260 lives, a cascade of formidable challenges has deepened the crisis at Air India.
 
-Hours before the court hearing Yermak told reporters "I do not have any house, I only have one flat and one car", adding later that he would comment afterwards.
+A leadership vacuum, mounting financial losses, airspace closures and a Middle Eastern fuel shock have put the carrier's ambitious turnaround into question. A spate of recent incidents have also cast a shadow on the safety and operational track record of the airline.
 
-For years he was a close friend of Zelensky, and led Ukraine's talks with the US until an anti-corruption raid on his flat last November prompted his resignation.
+Last month, Air India's chief executive officer, Campbell Wilson, resigned midterm as losses for the year ending March 2026 reportedly hit $2.4bn.
 
-Ukraine's Anti-corruption Prosecutor's Office (Sap) said it was asking the Kyiv court to either place him in preventive detention or give him bail of about $4m (£3m).
+Air India is currently the biggest loss-making entity within the Tata Group - which took over the ailing carrier from the government in 2022 - and a point of growing consternation for the Tata board.
 
-The head of the National anti-corruption bureau (Nabu) stressed that Zelensky himself was not part of the pre-trial investigation.
+According to local media, the board met last week and is said to have discussed several cost-cutting measures and warned staff of "tough times". The arrival of senior Singapore Airlines leadership at the group's headquarters in Mumbai city in April, meanwhile, sparked talks of the latter deepening its involvement in the beleaguered carrier. Singapore Airlines is a 25.1% shareholder in Air India.
 
-Yermak had been the president's closest adviser throughout Russia's full-scale invasion launched in 2022, until he became caught up in a broader inquiry by Sap and Nabu into an alleged $100m (£74m) embezzlement scheme in Ukraine's nuclear energy sector.
+Air India said it would not comment on the BBC's detailed questionnaire, but aviation experts say Wilson's exit creates a void at a time when the airline desperately needs someone to steer it through the turbulence.
 
-He was not charged or formally named as a suspect at the time, however the swirling allegations have cast a shadow over Ukraine's bid to join the European Union. Last year, Zelensky had to scrap a law that weakened the independence of the two anti-corruption agencies, following widespread protests and criticism from the EU.
+"They needed a clear vision right now. Air India had given itself a five-year plan to revamp itself after the privatisation. But one can't really say that it's been a happy ride so far. Between their plan and its implementation, there have been big and growing gaps," Jitendra Bhargava, a former executive director at Air India, told the BBC.
 
-As part of Operation Midas, ex-Deputy Prime Minister Oleksiy Chernyshov was charged with abuse of office, while businessman Timur Mindich reportedly fled the country after he was flagged as a suspect and ex-Energy Minister Herman Haluschenko was detained while trying to leave.
+Bhargava points to internal and external factors that have compounded the airline's troubles even as it tries to recover from the Ahmedabad crash.
 
-Like Yermak, Mindich was once part of Zelensky's inner circle and co-owned the president's former TV studio Kvartal95, before sanctions were imposed on him. Mindich, who now lives in Israel, denies wrongdoing.
-
-</font>
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c4g48kj40lwo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 US inflation jumps to 3.8% as energy costs surge from Iran war
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f750/live/8172ffc0-4e00-11f1-aa37-6b8846c2f74e.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-<font size='4'>
-
-US prices rose in April at their fastest rate since May 2023 as the impact of the war in Iran was increasingly felt by consumers.
-
-A jump in the cost of gasoline and groceries pushed the consumer price index (CPI), showing the rate prices rose by in the past 12 months, to 3.8%.
-
-The Bureau of Labor Statistics (BLS) said almost half of the rise was driven by surging energy costs, while housing and food costs also contributed.
-
-The US-Israel war in Iran, and the resulting effective closure of the key Strait of Hormuz shipping lane, has led to a jump in oil prices and this has caused a surge in the price of gas in the US.
-
-The national average price for a gallon of unleaded is at its highest level since July 2022, at $4.50 (£3.33), according to data from the AAA motoring group.
-
-The rise in April's inflation figure, from 3.3% in March, makes it increasingly unlikely the Federal Reserve will cut interest rates this year.
-
-Isaac Stell, investment manager at the Wealth Club, said the inflation increase even left possible interest rate hikes "firmly on the table".
-
-It comes days before US President Donald Trump's appointee Kevin Warsh is set to take over from Jerome Powell as chair of the US central bank.
-
-Stell said the incoming chair would enter the role with "little room for manoeuvre" and may be forced to take a more conservative approach.
-
-Trump had clashed with Powell over his reluctance to cut the central bank's interest rate, which the president hoped would spur on the US economy, and has made it clear he expects Warsh to push for cuts.
+He says the Tatas had "underestimated the problems they inherited with the legacy carrier", and Wilson was unable to build a team quickly enough after coming in to set things in order.
 
 </font>
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 ‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown
+<img src='https://i.guim.co.uk/img/media/4e12c8f3bf0f3d8afcf7718347f97201ebd63135/234_0_3933_3144/master/3933.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d0baa14dc43dc7af6f3975c927c2b55' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent
+
+When Gabon’s media regulator indefinitely suspended major social media platforms in February, citing security concerns during anti-government protests, it became the talk of town – literally.
+
+Within weeks of the announcement, use of Virtual Private Networks (VPNs) to bypass the restrictions surged in the central African country. When gendarmerie began stopping young men at road checkpoints in the capital Libreville and other urban centres to confiscate mobile phones with VPNs installed or detain the owners, warnings spread by word of mouth. Activists and opposition members said their accounts were also suspended due to efforts of state officials.
+
+Social media had helped citizens convene and stay informed since December, when workers in the education and health sectors protested over pay and the cost of living crisis. The government cited misinformation, disinformation, pornographic content, and incitement to hatred as reasons for the shutdown.
+
+Rights groups have urged authorities to follow due process to prosecute any offenders, rather than collective punishment through unconstitutional restriction of freedom of expression.
+
+“This sustained intentional interference with access to essential digital communication platforms in Gabon is a blatant disregard for people’s fundamental rights, specifically the freedom of expression and the right to access information,” said Felicia Anthonio, campaign manager at the #KeepItOn coalition — a global alliance of hundreds of human rights groups.
+
+Nelly Ngabima, a controversial activist also known as Princesse de Souba, said she received threats from Gabonese government officials that they would make her “disappear from social networks”. Within a couple of months, her accounts with a combined following of over 300,000 across Facebook, YouTube and TikTok, had been suspended.
+
+“They create fake accounts and they put our identities on those accounts, then they report us for identity theft,” she said. “Today, Gabonese people even struggle to send a WhatsApp message because they are afraid. They do not even go out with their phones.”
+
+The restrictions were temporarily lifted in April. However, a new regulation passed in February mandates social media users to provide verified names, addresses and ID numbers. Social networks are at risk of 50m central African CFA franc (£66,000) fines and prison terms for non-compliance.
+
+The law is one of a number of far-reaching changes to codify a crackdown on dissent including a controversial new nationality code signed in February and published last month. The code has come under criticism from those who say it restricts the rights of naturalised citizens and makes it easier for the state to strip citizens of their nationality.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Internal displacements caused by violence or conflict at record high in 2025
 <img src='https://i.guim.co.uk/img/media/b811e0f2e21092d50146ecede9734b90a211d2bd/1170_0_6385_5108/master/6385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa70d4c74181ff74212064c03628d829' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -456,161 +435,118 @@ The largest part of the exercise takes place in Morocco, involving approximately
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 ‘Watching us is like watching a cousin’: the online creators reshaping Africa’s news ecosphere
-<img src='https://i.guim.co.uk/img/media/3c26919421823111042094ac6329c32909b0687e/0_269_4465_3572/master/4465.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=127eca0e06ecc59fee24862bc6240ba3' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Africa is leading a change in news consumption habits  – and transforming the lives of current affairs enthusiasts
-
-Last year Amahle-Imvelo Jaxa posted a TikTok video about South African peacekeepers in the Democratic Republic of the Congo. She explained an argument that had erupted between the South African and Rwandan presidents, then listed roles different South African groups would play in a war with Rwanda: the Sotho strategists, the Xhosa negotiators, the Afrikaner muscle. The video went viral and she racked up 100,000 followers in three days.
-
-This breakout video enabled Jaxa to pivot from being a marketing and restaurant entrepreneur to a “professional yapper and current affairs enthusiast”, part of a group of content creators explaining the news to young South Africans who, like many of their global peers, are eschewing traditional news in favour of social media.
-
-According to the 2025 global Digital News Report by the Reuters Institute, social media users in South Africa, Kenya and Nigeria (the three African countries in the survey) were much more likely to report paying attention to news creators than their equivalents in much of northern Europe and Japan.
-
-In Nigeria, 61% of respondents said they paid attention to news creators, just ahead of Kenya (58%), which in turn was far ahead of Indonesia, which was third, at 44%. The figure for South Africa was 39%.
-
-The three African countries were also in the top four of those surveyed for a metric that aimed to assess the impact of news creators on social media users.
-
-Guardian correspondents spoke to news influencers and analysts in the three countries for their views on changing habits.
-
-Jaxa, 32, started posting explainer videos after an argument with her brother, who is 10 years younger than her, about him not voting. She realised “the generation coming after me was very disinterested”.
-
-“That was very concerning for me, because they are the next leaders,” she said.
-
-Jaxa considers herself to be a translator of the news for younger generations, not a replacement: “I don’t exist if there is no traditional media, because … all the content I do is from traditional media.”
-
-</font>
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/09/africa-influencers-news-consumption-social-media)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Jimmy Kimmel Jokes About Trump's Cancelation Outcry, Taylor Frankie Paul at Upfront
-<img src='https://imagez.tmz.com/image/de/16by9/2026/05/12/dead5f4785094d0a81ae933997c29103_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'Revenge of the Nerds' Actor Donald Gibb Dead at 71
+<img src='https://imagez.tmz.com/image/e1/16by9/2026/05/13/e108a894a15a47c4af2e693af09b9fbc_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Jimmy Kimmel let the jokes fly at Disney's upfront event on Tuesday ... telling the advertisers he was just as surprised to see them as they were him, given all the recent drama with President Trump and the White House.
+Donald Gibb -- best known for playing the lovable brute "Ogre" in the "Revenge of the Nerds" franchise -- has died ... TMZ has learned.
 
-According to multiple people at the event ... Kimmel also quipped that the only way to get tossed off the air at ABC was to throw a chair at your Mormon boyfriend -- an obvious shot at Taylor Frankie Paul's drama that led to her season of "The Bachelorette" being pulled.
+Gibbs' son, Travis, tells TMZ ... Donald passed Tuesday evening due to health complications. He says he died at his home in Texas, where he was surrounded by family, including his kids, who loved him deeply.
 
-As we reported ... Trump and the First Lady once again pushed for ABC to pull Kimmel from the air for a joke he made about Melania being a widow ... a joke he made days before a suspect opened fire at the White House Correspondents' Dinner. Kimmel clarified his joke was about the couple's age difference.
+We're told his death was not sudden, as Donald had been battling ongoing health issues.
 
-Despite the outcry ... ABC stuck by Kimmel ... and the drama has since fizzled away. Kimmel being at the upfront event on Tuesday is just business as usual.
+Travis and his family tells us ... Donald loved the Lord and his family, friends and fans with all his heart, and they ask for prayers and privacy during this difficult time. They add that their father will be deeply missed and forever remembered.
+
+Donald became a cult icon in the 1980s thanks to his role as the intimidating --but oddly endearing -- fraternity brother in "Revenge of the Nerds" as well as its sequels. His towering presence and comedic timing made "Ogre" one of the most memorable characters in the franchise.
+
+Beyond that breakout role, Gibb built a steady career in film and television, appearing in projects like "Bloodsport," "U.S. Marshals," and "Hancock." He often played tough-guy roles, leaning into his imposing stature, but those who worked with him knew him as a kind and down-to-earth person off-screen.
+
+Donald was 71.
+
+RIP.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/jimmy-kimmel-jokes-about-trump-and-taylor-frankie-paul-at-abc-upfront/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/donald-gibb-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hayden Panettiere's Ex Says Her New Memoir Could Help Reform Abusers
-<img src='https://imagez.tmz.com/image/4d/16by9/2026/05/12/4dffaf58b34043538cf42c1a6f730aaf_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Caitlyn Jenner Sued Over Alleged Crypto Pump and Dump Scheme
+<img src='https://imagez.tmz.com/image/ff/16by9/2026/05/13/ff4cbb110b5c48cd86b13a6f0ec43f22_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Hayden Panettiere's ex Brian Hickerson says reading about his abusive relationship in her upcoming memoir was brutal ... but he also thinks alleged abusers need to hear stories like his the most.
+Caitlyn Jenner is facing a new class action lawsuit over her $JENNER meme coin ... with investors claiming they got burned in a celebrity-fueled crypto cash grab.
 
-Hickerson spoke with TMZ's Charlie Neff ahead of the release of Hayden's memoir, "This Is Me: A Reckoning" ... and admitted there was one particularly dark moment from their relationship he requested her to leave out of the book -- but it made the final cut anyway.
+According to the explosive 97-page filing, obtained by TMZ, a man named Lee Greenfield claims Jenner and her manager, Sophia Hutchins, orchestrated a crypto pump and dump after hyping up a token pair -- promising the project was a long-term play while encouraging fans to buy in.
 
-According to Brian, the passage details a drunken incident where he allegedly threatened to throw a phone at Hayden. He recalled telling her, "I'll give you 10 seconds to run as fast as you can before I throw it at you."
+The suit claims Jenner repeatedly told followers she was "solely focused" on the coin, pushed slogans like "We’re sending this coin to the moon!!!" and even tied the token to Donald Trump and MAGA messaging to attract buyers. The filing includes a bunch of screenshots of Jenner’s tweets and promo posts.
 
-Brian admitted to Charlie, "Who wants to read something about themselves like that?" ... before adding, "I did it. I did it."
+But Greenfield says the whole thing quickly went sideways, claiming Jenner abruptly pivoted to promoting another crypto coin called $BBARK just days after launch, causing the original $JENNER token to crater by roughly 75 percent.
 
-The ex-couple dated on and off from 2018 to 2022 ... and their relationship exploded into public legal drama ... with Brian arrested multiple times over alleged domestic violence incidents involving Hayden. He pleaded no contest to felony charges, was sentenced to jail time and probation, and was hit with a five-year restraining order requiring him to stay away from her.
+The lawsuit says the crypto project started falling apart after promoter Sahil Arora -- who allegedly helped launch the coin -- was accused of pulling money out of the operation and crashing its value. According to the filing, Jenner later blasted him online as a scammer ... but kept promoting other versions of the coin anyway.
 
-Brian also pushed the conversation beyond survivors ... saying people accused of abuse should also be forced to confront these stories head-on. He believes domestic violence education comes too late in life ... adding he was never taught what abuse actually looked like growing up.
+Investors claim Jenner kept telling buyers the coin was the real deal and about to blow up ... while people behind the scenes were allegedly making money off fees and token sales. Greenfield says he lost more than $40,000 after buying into the coin.
 
-And in a striking moment of self-awareness, Hickerson suggested Hayden's memoir could end up serving as a warning manual for the very kind of person he became ... proof that sometimes, it really does take one to know one.
-
-Check out Charlie's full interview with Brian ... he talks about how he still has love for the actress, what their current status is, and what his thoughts are on Hayden's ex-fiancé and baby daddy Wladimir Klitschko.
+The lawsuit basically claims Jenner misled investors into buying the crypto coins ... and now investors want their money back, plus extra damages.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/brian-hickerson-supports-hayden-panettieres-new-book/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/caitlyn-jenner-sued-for-crypto-scheme/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Brandon Clarke, Memphis Grizzlies Player, Dead At 29
-<img src='https://imagez.tmz.com/image/5c/16by9/2026/05/12/5c3d971828ee4cb284c2ff5d653c551f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 RHOBH’s Dorit Kemsley Alleges Ex-PK Stopped Paying Electricity Amid Bitter Divorce
+<img src='https://imagez.tmz.com/image/5b/16by9/2026/05/12/5b536bab83024ff28fa440f4e6ad53f7_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Brandon Clarke -- power forward for the Memphis Grizzlies -- died on Monday, TMZ Sports has learned. He was only 29 years old.
+'Real Housewives of Beverly Hills' star Dorit Kemsley claims her estranged husband, PK Kemsley, stopped paying the bills on their $6 million mansion amid their bitter divorce, TMZ has learned. Sources close to PK claim he paid the bills for years and only recently stopped due to Dorit's wild spending.
 
-His passing is being investigated as a possible overdose.
+TMZ obtained a scathing email from Dorit's team -- filed by PK as part of their nasty divorce -- which is dated April 15, 2026 and addresses issues about the couple's finances and other matters.
 
-Clarke was the 21st overall pick in the 2019 NBA Draft, selected by the Oklahoma City Thunder, and immediately traded to Memphis.
+Dorit's team claimed that, "first and foremost, contrary to PK's representations, Dorit has always been agreeable to placing the house on the market as long as reasonable protections are in place," adding that Dorit needed "adequate financial support" ... including an immediate $50K payment.
 
-Clarke was limited to only two games this season after suffering a significant calf strain in March.
+The letter goes on ... "PK readily admits that he can pay the mortgage, however, he simply does not want to do so because he wants to starve out his spouse to force a sale of the home where his children live. PK's intentional use of financial gamesmanship has placed Dorit and the children in a constant state of uncertainty by design."
 
-Brandon played 7 seasons in the NBA, averaging 10.2 points, 5.5 rebounds, and 1.3 assists over 309 games in The Association.
+Dorit's lawyer claims PK has "left the gas, the electricity, the internet, and other essential services unpaid for an extended period of time" ... adding that Dorit had to cover the bills to avoid disruption.
 
-As a first-year pro, he was named to the NBA's All-Rookie team.
-
-Clarke -- born in Vancouver -- played college basketball at San Jose State before transferring to Gonzaga in 2017.
-
-After sitting out a year, he played for the Zags, helping to lead Mark Few's squad to a deep run in the NCAA Tourney, ultimately losing in the Elite 8.
-
-Clarke averaged 16.9 PPG in Spokane and was named to the Associated Press and Sporting News All-American teams.
-
-Last month, Clarke was arrested in Arkansas after allegedly leading law enforcement on a high-speed chase, before being taken into custody.
-
-He was charged with possession and trafficking a controlled substance, and fleeing.
-
-The case was still open when Clarke passed away.
-
-Brandon's sports agency, Priority Sports, released a statement on his passing, saying, "We are all beyond devastated by the passing of Brandon Clarke. He was so loved by all of us here, and everyone whose life he touched. He was the gentlest soul who was the first to be there for all of his friends and family."
-
-"Our hearts are so broken as we think about his mom, Whitney, his entire family, and all of his friends and teammates. From high school to San Jose State to Gonzaga to the Grizzlies, Brandon impacted everyone who was part of his life."
-
-The statement continued ... "Everyone loved BC because he was always there as the most supportive friend you could ever imagine. He was so unique in the joy he brought to all of those in his life. It's just impossible to put into words how much he'll be missed."
-
-"We love you, BC."
-
-The Grizzlies also reacted to the horrible news on social media, saying, "We are heartbroken by the tragic loss of Brandon Clarke. Brandon was an outstanding teammate and an even better person whose impact on the organization and the greater Memphis community will not be forgotten. We express our deepest condolences to his family and loved ones during this difficult time."
-
-Rest in peace.
+Sources connected to the case scoff at Dorit's claims. They claim PK paid the bills for years but stopped due to Dorit recently spending over a $1 million on clothes and travel ... while not helping out with the mortgage.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/brandon-clarke-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/dorit-kemsley-claims-pk-failed-to-pay-security-after-burglary/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 FBI Director Kash Patel Slams Senator for Bringing Up Reports of His Drinking
-<img src='https://imagez.tmz.com/image/28/16by9/2026/05/12/28dc83fe499c4d0a98eefa3a9809f3f9_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Tiffany Haddish Wants DUI Case Tossed, Says 4-Year Delay Is Costing Her Work
+<img src='https://imagez.tmz.com/image/13/16by9/2026/05/12/1339699111fa48918fa2ef33b2b8c9dc_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Kash Patel pulled out some schoolyard-level debate tactics on Tuesday when he was grilled about allegedly drinking on the job.
+Tiffany Haddish says her Georgia DUI case has been stuck in legal limbo for so long, it's now messing with her ability to travel the world and cash checks ... so she wants the whole thing tossed out.
 
-During a Senate Appropriations Committee hearing Tuesday, Democratic Senator from Maryland Chris Van Hollen raised concerns about reports of the FBI director's alleged excessive drinking.
+According to new court docs, obtained by TMZ, Tiffany has filed a motion to dismiss the case ... claiming the court violated her constitutional right to a speedy trial after letting the matter drag on for more than 4 years.
 
-Patel tried to flip the script on Van Hollen ... talking over him, slamming him for meeting with Kilmar Abrego Garcia -- the Salvadoran man wrongfully deported by the U.S. government last year -- and accusing him of "slinging margaritas" and running up a $7K bar tab "on taxpayer dime."
+The comedian was arrested back in January 2022, but she claims the case has stalled because the judge still hasn't ruled on key motions -- including her motion to suppress certain evidence that was argued in court way back in May 2024.
 
-Van Hollen was visibly fed up and -- when he was finally able to get a word in -- told Patel straight-up ... "The fact that you mentioned that indicates that you don't know what you are talking about."
+Tiffany says her lawyers repeatedly checked in with the court over the last 2 years, asking about the case status ... only to be told officials were still "working on it."
 
-Check out the video to see the whole thing play out.
+Her attorneys claim she announced she was "ready for trial" around 10 different times while waiting for rulings that never came. And Tiffany says the drawn-out case is costing more than just her patience.
+
+In the docs, she claims the pending DUI case has created issues getting travel documents for overseas work opportunities -- specifically mentioning recent problems tied to Australia -- and says she's had to hire expensive third-party help just to navigate the situation.
+
+She also claims some companies have been reluctant to work with her because of the unresolved case ... which she says has hurt her financially.
+
+As we first reported ... Tiffany was arrested in Peachtree City, GA in January 2022 after cops said they found her asleep behind the wheel around 4 AM. Officers arrested her for DUI and improper stopping on a roadway after they believed she had smoked marijuana.
+
+Now, after years of delays and unanswered rulings, Haddish says enough is enough ... and she wants the case dismissed for good.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/kash-patel-calls-out-chris-van-hollen-for-bringing-up-alcohol-article/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/tiffany-haddish-wants-dui-case-tossed/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -687,6 +623,19 @@ Secret new assessments say Iran has operational access to 30 of its 33 missile s
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 Battle Over the Strait of Hormuz Leaves Safe Passage a Gamble
+<div align='justify'>
+<font size='4'>
+
+Vessels are traveling without transmitting critical information meant to keep the waters safe, maritime intelligence experts say.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Inflation Accelerates as Iran War Drives Up Energy Costs
 <div align='justify'>
 <font size='4'>
@@ -700,42 +649,29 @@ Also, Russia keeps attacking U.S. companies in Ukraine. Here’s the latest at t
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump and Xi Enter China Summit Distracted by Iran War
+### 📰 Trump’s Shrinking Ambitions on China
 <div align='justify'>
 <font size='4'>
 
-The war in Iran has cast a shadow of uncertainty on both superpowers, dimming early hopes that they could begin to address the larger issues that have frayed their relationship.
+The president came into office planning harsher trade moves on China than on the rest of the world. Here’s why he’s had to scale them back.
 
 </font>
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/trump-xi-summit.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/politics/trumps-shrinking-ambitions-on-china.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hegseth to Accompany Trump on Trip to China
+### 📰 The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors
 <div align='justify'>
 <font size='4'>
 
-Defense secretaries have previously traveled with presidents on overseas trips, to provide advice and represent the U.S. military.
+Encounters with other world leaders reveal a side of China’s leader that the public rarely sees, and offer clues to how he will approach President Trump in Beijing.
 
 </font>
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/hegseth-trump-china-xi.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Reflecting Pool Repairs Appear Uneven and Behind Schedule, Officials Say
-<div align='justify'>
-<font size='4'>
-
-Work on the iconic National Mall basin appears behind schedule. President Trump initially said he had picked the contractor, then said he did not know it.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/lincoln-memorial-pool-repairs.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
