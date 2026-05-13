@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/13 - 15:56`
+**📅 Update (Tehran Time):** `2026/05/13 - 23:54`
 
 ---
 
@@ -19,292 +19,268 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Maldives jails two journalists for reporting on president’s alleged affair
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/IMG_3860-1778672753.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Russia unleashes massive drone barrage on Ukraine killing six
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778701293.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Groups advocating for freedom of the news media have called for the release of two journalists who have been jailed in the Maldives for violating a gag order banning public discussion of a documentary alleging an affair between President Mohamed Muizzu and a former aide.
-
-The International Federation of Journalists on Wednesday “strongly condemned” the jailing of Mohamed Shahzan and Leevan Ali Nasir while the Committee to Protect Journalists described their sentences as a “punitive attempt to criminalise investigative journalism”.
-
-The journalists, who work for the news website Adhadhu, were sentenced by the criminal court in the Maldivian capital, Male, on Tuesday.
-
-Muizzu’s spokesperson, Mohamed Hussain Shareef, rejected the criticism, saying any “attempts at portraying the criminal proceedings as an attack on free press are unwarranted and politically motivated.”
-
-The case centres on a documentary titled Aisha, which was released on Adhadhu’s social media accounts on March 28. It featured an anonymised interview with a woman who claimed to have had a sexual relationship with Muizzu, 47, a married father of three.
-
-Police raided Adhadhu’s offices in April over the documentary’s release, seizing the laptops of journalists, marketing staff and administrators along with hard drives and pen drives.
-
-According to Adhadhu, Shahzan was jailed after questioning Muizzu about late-night calls he had allegedly made to the former presidential aide. Nasir was jailed for reporting on the gag order itself, which the criminal court issued on Monday at the request of prosecutors.
-
-The order, published on the court’s website, bans any direct or indirect discussion of the allegations, the charges and the ongoing trials, citing constitutional provisions protecting the right to reputation.
-
-Adhadhu said the trials were conducted in secret and concluded within hours with the journalists given just two hours to find legal counsel and no opportunity to present a defence. “For the first time in our democratic history, journalists have been jailed for challenging the most powerful man in the nation,” the outlet said.
-
-The case has intensified concerns about democracy and media freedom in the Maldives, a Sunni Muslim nation whose luxury resorts attract tourists from around the world. Parliament passed a media law in September giving a commission stacked with government loyalists powers to fine, suspend and shut down outlets while Muizzu’s allies overhauled the Supreme Court last year, removing three judges in moves the former judges said were politically motivated.
+Russia has launched a massive daytime drone barrage across Ukraine, killing at least six people.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/maldives-jails-two-journalists-for-reporting-on-presidents-alleged-affair?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/russia-unleashes-massive-drone-barrage-on-ukraine-killing-six?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump faces slew of ‘bad options’ on Iran as diplomacy falters
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a04371cb0dc-1778661148.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 New eye scan detects diseases years before symptoms appear
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-eye-1778700975.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Optimism surrounding another set of peace proposals aimed at shaping a peace deal between Iran and the United States quickly faded this week as the two sides appeared to instead pull further apart, digging in and insisting that the other compromise for negotiations to resume.
-
-US President Donald Trump has said that the already fragile ceasefire with Iran, in place since April 8, is now on “life support”, and members of his administration have increasingly hinted that the US could resume fighting.
-
-But analysts say for all of Trump’s bluster on Truth Social, his preferred megaphone, the US president is now trapped between escalation and concession, with the region increasingly stuck in a grey zone of neither peace nor war.
-
-A resumption of hostilities remains possible, but the war is unpopular among Americans and could weigh heavily on Republicans ahead of crucial midterm elections. Yet extricating the US from the conflict and securing a deal may require Trump to concede ground to Tehran – either on its nuclear programme or over Iran’s role in the Strait of Hormuz, the world’s most important oil transit chokepoint through which roughly a fifth of global energy exports passes.
-
-“The White House is left with a set of bad options,” said Allison Minor, a former official at the US State Department and National Security Council, and currently a director at the Atlantic Council’s Project for Middle East Integration.
-
-Tehran wants an end to the war on all fronts, including Lebanon; it wants the first stage of negotiations to focus on ending hostilities before moving to a second step to discuss its nuclear programme and support for proxy groups. It rejects the dismantling of its nuclear programme, and wants sanctions to be lifted and the recognition of its influence over the key waterway. Trump has called its latest proposal — with these demands — “garbage”.
-
-On Sunday, the US president hinted that more military moves may be needed, while Israeli Prime Minister Benjamin Netanyahu suggested the war was not over. Iran’s enriched uranium remains in the country — even though it is likely buried under rubble from US and Israeli bombings last June. Iran’s enrichment sites have not been dismantled. And Tehran still retains its proxy networks and ballistic missile arsenal, Netanyahu said in a CBS interview. “There is work to be done,” Trump said.
-
-But while the US and Israel could well resume attacks on Iran, the prospects of a protracted conflict with no end in sight could translate into a major political liability for Trump, said Ian Lesser, a distinguished fellow at the German Marshall Fund of the United States.
-
-“Things don’t evolve the way either side might assume,” he said, noting that the Iranian leadership has already proven to be more resilient and durable — with a higher threshold for physical and economic pain — than the US administration had expected.
-
-To add to that, renewed fighting would affect US abilities to respond to threats elsewhere, including in the Indo-Pacific region, Lesser said, amid mounting concerns over depleted US ammunition stockpiles after five weeks of bombing Iran. A report by the Center for Strategic and International Studies warned that the conflict had already reduced Washington’s readiness for other potential confrontations, particularly with China.
+A Qatar-based professor has pioneered a non-invasive eye scan to detect neurodegenerative diseases in minutes.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/new-eye-scan-detects-diseases-years-before-symptoms-appear?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 UN urges independent probes into deadly Nigeria, Chad air attacks
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-21T093450Z_1737588547_RC2JRHALUKUP_RTRMADP_3_USA-NIGERIA-SECURITY-1776013115.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Will the boycott of Eurovision have any impact?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778698572.jpg?resize=1920%2C1061&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The United Nations human rights chief has demanded independent investigations into reports that separate air attacks by the Nigerian and Chadian forces in northern Nigeria killed more than 100 civilians.
+Five nations are boycotting Eurovision, citing Israel’s participation. Their action is against Israel’s war in Gaza and allegations of vote manipulation in the song contest.
 
-“I am shocked by reports that Nigerian army airstrikes on a market in Zamfara state killed at least 100 civilians on 10 May and injured many more,” UN High Commissioner for Human Rights Volker Turk said in a statement on Wednesday.
+But why is it so important for Israel to take part? And is the competition’s future under threat?
 
-He said he was also “alarmed and saddened” by the reports of high civilian casualties in attacks since Friday by Chadian jets against Boko Haram camps on remote islands in the vast marshland shared by Nigeria, Cameroon, Niger and Chad.
+Steve Wall – Musician, actor and member of the Ireland Palestine Solidarity Campaign
 
-Nigeria’s military ‌has been battling “bandits” in the northwest, often describing them as “terrorists”. It has also been battling ‌an ‌armed rebellion in the northeast for 17 years.
-
-The Nigerian military and the “bandit” gangs killed at least 100 civilians on Sunday in one of the bloodiest days in the state’s conflict against armed groups, according to Amnesty International.
-
-Citing witnesses, Amnesty said many of those killed were women and children, and urged authorities to immediately investigate the attack on a crowded market in Tumfa village.
-
-The bombardment has reportedly killed dozens of Nigerian fishermen working on islands under Boko Haram control, where civilians are forced to pay taxes to the armed group. Footage verified by the AFP news agency showed several fishermen with severe burns being treated at a hospital in Bosso, Niger.
-
-“It is crucial that both Nigerian and Chadian authorities conduct prompt, thorough, independent and impartial investigations into these disturbing incidents,” Turk said, adding that both militaries must “take all feasible precautions to avoid harm to civilians”.
-
-“Their military operations, including against Boko Haram and the so-called ‘Islamic State West Africa Province’ must be conducted in full compliance with international humanitarian law and international human rights law,” he said, referring to the ISIL (ISIS) affiliate in West Africa Province (ISWAP). “Civilians and civilian objects must never be the target of attack.”
-
-Meanwhile, the Nigerian military said on Wednesday ⁠that there ⁠has been no evidence of civilian casualties in attacks in the ⁠northwest Zamfara state this month, calling reports of large death tolls unverified and misleading.
+Jonathan Hendrickx – Assistant professor in media studies at the University of Copenhagen
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/13/will-the-boycott-of-eurovision-have-any-impact?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel bulldozes Palestinian shops to make way for settlement-linked road
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/big-thumb-1778669780.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Hamas must disarm, not ‘disappear’ from Gaza: Board of Peace’s Mladenov
+<img src='https://www.aljazeera.com/wp-content/uploads/2025/02/AA-20250220-37106396-37106389-ALQASSAM_HANDS_OVER_BODIES_OF_ISRAELI_HOSTAGES_KILLED_BY_ARMY_SHELLING_IN_GAZA-1740032671.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Israel bulldozes Palestinian shops to make way for settlement-linked road
+Nickolay Mladenov, the top diplomat overseeing the United States-brokered “ceasefire” in Gaza as part of US President Donald Trump’s International Board of Peace, has said he could envision a political role for Hamas in post-war Gaza if the Palestinian group disarms.
+
+“We are not asking Hamas to disappear as a political movement,” Mladenov told reporters on Wednesday at a rare news conference in Jerusalem.
+
+He said the phased ceasefire deal was paralysed over Hamas not yet disarming, calling it “not negotiable”.
+
+Disarmament remained a sticking point that stalled progress on other fronts, while Hamas blamed Israel for continuing to violate the truce.
+
+The first phase of the agreement saw the release of the last captives seized in southern Israel in October 2023, in exchange for Palestinians detained by Israel.
+
+The transition to the second phase envisioned Hamas handing over its weapons, Israeli forces withdrawing, and the rebuilding of destroyed swaths of the coastal enclave after more than two years of war.
+
+Seven months since the “ceasefire” came into force on October 10, Israeli forces have killed at least 856 Palestinians and control more than 50 percent of the Gaza Strip.
+
+Humanitarian groups say Israel has not allowed the promised amount of aid in, while Hamas refuses to give up its arsenal.
+
+“The only way that we believe that we can ensure that Israeli withdrawal takes place to the perimeter is if we have the full element of the plan unfolding in Gaza,” Mladenov said.
+
+Hamas spokesperson Hazem Qassem responded to Mladenov, saying he should “identify the party violating the ceasefire”.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/board-of-peaces-mladenov-says-gaza-ceasefire-hinges-on-hamas-disarmament?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Gang violence displaces hundreds in Haiti’s capital
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26132750345750-1778655817.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Netanyahu visited UAE in ‘secret’ during US-Israel war on Iran, office says
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a04bcd01d-1778695376.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Residents of the Cite Soleil neighbourhood in Port-au-Prince have taken to the streets to demand government protection after a new surge of gang violence forced hundreds of people to flee their homes over the weekend.
+Israeli Prime Minister Benjamin Netanyahu made what his office has described as a “secret visit” to the United Arab Emirates for a meeting with President Sheikh Mohamed bin Zayed Al Nahyan during the US-Israel war on Iran.
 
-Protesters said on Tuesday they had witnessed people being killed in Cite Soleil in recent days. Haitian authorities have yet to release any information on casualties.
+In a statement published on social media on Wednesday, Netanyahu’s office called the trip a “historic breakthrough” in relations between Israel and the UAE, without disclosing the exact date.
 
-Armed gangs have tightened their grip on Haiti’s capital since the assassination of President Jovenel Moise at his home in July 2021. Police say the groups now control about 70 percent of the capital and have expanded their activities, including looting, kidnapping and sexual violence, into rural areas. Haiti has not had a president since Moise’s killing.
+The announcement comes as cooperation between Israel and the Gulf state appears to be expanding, particularly on security issues linked to Iran.
 
-Medical services have also been hit. In a statement released on Monday, Doctors Without Borders (Medecins Sans Frontieres) said it had evacuated its hospital in Cite Soleil after intense clashes on Sunday. The Centre Hospitalier de Fontaine, another facility serving the area, said on Tuesday it had suspended operations because of the violence and had evacuated all of its patients, including 11 newborns.
+United States Ambassador to Israel Mike Huckabee said this week that Israel had deployed Iron Dome air defence batteries and personnel to the UAE to help counter potential Iranian attacks.
 
-The unrest comes as an international security mission, backed by the United Nations, begins to deploy. The first foreign troops linked to the UN-authorised force arrived in April to help quell the violence.
+Speaking at an event in Tel Aviv on Tuesday, Huckabee praised the UAE as an example of growing relations between Israel and Gulf Arab states.
 
-In late September, the UN Security Council approved a plan for a 5,550-member mission, although the full contingent has yet to arrive. An undisclosed number of troops from Chad have so far been deployed.
+According to the UAE’s state news agency, WAM, Sheikh Mohamed bin Zayed received calls from several regional leaders after Iranian attacks on the country on May 5, including from Netanyahu, who expressed solidarity with the UAE and support for measures taken to protect its security and stability.
 
-Gang warfare has already uprooted large numbers of Haitians. A report published earlier this year by the International Organization for Migration estimated that more than 1.4 million people have been displaced, with about 200,000 now living in overcrowded, underfunded sites in the capital.
+The UAE and other Arab countries came under Iranian missile and drone attacks after the US and Israel began bombing Iran in late February. A fragile ceasefire agreed by Iran and the US has been in place since April 8.
+
+Relations between Israel and the UAE have grown gradually since the signing of the so-called Abraham Accords in 2020, a United States-brokered agreement that normalised ties between Israel and several Arab states.
+
+The deal, which was condemned by Palestinian leaders as a “stab in the back”, was formally signed in Washington, DC, on September 15, 2020, by UAE Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan and Netanyahu.
+
+At the time, the agreement was presented as requiring Israel to suspend plans to annex parts of the occupied West Bank, including the Jordan Valley.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/gallery/2026/5/13/gang-violence-displaces-hundreds-in-haitis-capital?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Passengers held on cruise ship in France after gastroenteritis outbreak
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/4831/live/e711b550-4ec4-11f1-9226-1f41f7d44e1f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d565/live/0c9f5810-4ee6-11f1-88a2-2b60a3feece0.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-More than 1,000 passengers are being held on a UK-operated cruise ship in France after 49 people fell ill from gastroenteritis.
+US President Donald Trump descended the steps of Air Force One in Beijing on Wednesday evening, greeted with pomp and pageantry ahead of a high-stakes summit with his Chinese counterpart, Xi Jinping.
 
-Local authorities in Bordeaux said three passengers had been isolated in their cabins on the Ambition, while other passengers will not be able to disembark in the port.
+During his two-day visit, the global superpowers are expected to discuss tariffs, competition over technology, the war in Iran, and America's relationship with Taiwan.
 
-They added that there was "no reason" to link the outbreak to the hantavirus outbreak on a separate cruise ship.
+Trump returns to a more assertive China than the one he visited in 2017, as he faces mounting scrutiny over his military campaign in the Middle East.
 
-Ambassador Cruise Line told the BBC a 92-year-old man had passed away onboard on Sunday, but he did not report any related symptoms and his cause of death is yet to be established by a coroner.
+The trip had originally been scheduled for March but was postponed because of the US and Israel's war in Iran, a conflict that continues to unsettle the global economy.
 
-The cruise operator added: "We are providing every support to the deceased's friends and family and extend our most sincere condolences to them at this difficult time."
+Trump was greeted on the red carpet by Chinese Vice-President Han Zheng, one of China's top leaders.
 
-It said in a separate statement that "a number of guests and crew onboard Ambition have displayed or are displaying symptoms consistent with gastrointestinal illness".
+The move is being read as a show of respect for the US president from Beijing, after a lower-level leader received Trump on his last visit.
 
-It said enhanced sanitation and prevention protocols had been implemented across the ship "in line with established public health procedures following the initial reports of illness".
+A brass brand and flag wavers holding Chinese and American flags chanted "welcome welcome, a warm welcome", as the president gave his signature fist pump to the large greeting party, standing by the dozen in tight, uniformed rows.
 
-The cruise line said that as of 11:00 BST on Wednesday, 48 passengers were displaying symptoms consistent with gastrointestinal illness, as well as one crew member.
+The US president was accompanied by his son Eric Trump and a slew of US tech industry titans, including Tesla's Elon Musk and Nvidia's Jensen Huang among them.
 
-There are currently 1,187 guests and 514 crew members on board the ship, according to its operator.
+Other CEOs expected to be travelling with Trump include Tim Cook of Apple, Larry Fink of BlackRock, and Kelly Ortberg of Boeing.
 
-The cruise ship set sail from Belfast on 8 May, before heading to Liverpool the next day.
+"I will be asking President Xi, a Leader of extraordinary distinction, to 'open up' China so that these brilliant people can work their magic, and help bring the People's Republic to an even higher level," Trump said in a post on social media ahead of his landing.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Climbers clear path to Everest summit past giant chunk of ice
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/90e4/live/d1ebb000-4eb4-11f1-a4e8-2309d38aa073.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Court overturns Alex Murdaugh's murder convictions and orders new trial
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8ca8/live/60979bc0-4ee2-11f1-8eb9-6770c5101f32.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-An elite team of Nepali climbers have managed to clear a way to the summit of Mount Everest, as experts warn of overcrowding this climbing season.
+A South Carolina court has overturned the 2023 murder convictions of Alex Murdaugh, a disgraced lawyer who was convicted of killing his wife and son.
 
-Hundreds of mountaineers and their guides have been stranded for the past few weeks at the Everest Base Camp in Nepal after a huge chunk of ice blocked their only viable route.
+The state's supreme court on Wednesday ordered a new trial for Murdaugh over the June 2021 killings.
 
-The Nepali climbers managed to fix ropes and ladders as they found a way past the obstacle on Wednesday morning. Other climbers can now start climbing up using these ropes.
+Murdaugh has been in prison serving two life sentences for the murders of Maggie and Paul Murdaugh. He is also serving two additional 27- and 40-year sentences for state and federal financial crimes.
 
-But some experts are worried about "traffic jams" and safety at the world's highest peak, especially in a year when a record number of permits have been issued to Everest aspirants.
+Once a powerful lawyer, the 56-year-old and his legal troubles captivated a global audience and inspired documentaries, podcasts and book deals. The trial itself was also televised.
 
-Almost 500 foreign climbers have been granted permits to scale the 8,849m (29,032ft) peak this year. Most attempt the ascent with at least one Nepali guide, who do not require permits.
+In a 5-0 ruling, the South Carolina Supreme Court said Murdaugh deserved a new trial because the local county clerk had unfairly biased a jury against him.
 
-This means that some 1,000 climbers will be climbing toward the summit in the next two weeks or so.
+"Both the State and Murdaugh's defense skillfully presented their cases to the jury as the trial court deftly presided over this complicated and high-profile matter," the justices wrote. "However, their efforts were in vain because Colleton County Clerk of Court Rebecca Hill placed her fingers on the scales of justice, thereby denying Murdaugh his right to a fair trial by an impartial jury."
 
-Climbers who were acclimatising on the mountain had earlier raised safety concerns as a result of the delay in the route's opening.
+Last December, Hill pleaded guilty to charges of misconduct in office, obstruction of justice and perjury over accusations that she misused public funds as a clerk and shared sealed court information with a reporter, among other claims.
 
-"Lots of climbers [are] having to make their attempts in a short period of time," prominent climber Purnima Shrestha, who is attempting to summit Everest for the sixth time, told the BBC late last month.
+Wednesday's ruling cites a number of comments that Hill allegedly made to jurors during the trial.
 
-"Delays in the opening of the route have added concerns of possible 'traffic jams' to the peak this year," she said.
+One juror wrote in an affidavit that Hill made comments telling jurors to "watch [Murdaugh] closely", which she said influenced her decision to find Murdaugh guilty because she thought the clerk was implying he was.
 
-Peak climbing season on Everest usually runs from late April until the end of May.
+A jury found Murdaugh guilty of the murder of his wife and son - who were shot at close range near the family's dog kennels - after an extensive six-week long trial. Murdaugh was sentenced to life in prison.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c3w2np14g92o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Shrinking Milka chocolate bar tricked consumers, says German court
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8868/live/0a7b1fb0-4ebe-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8257/live/fa538c50-42d6-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-In a landmark German case targeting chocolate "shrinkflation", a court has found that the manufacturer of Milka's classic Alpine Milk bar cheated consumers and broke competition law.
+Dozens of dogs kept in sham animal shelters and used for online scamming have been rescued by police and animal rights organisations in Uganda following a BBC investigation.
 
-Cutting back on the amount of chocolate while having the same kind of wrapper meant that customers were being misled, Bremen regional court ruled.
+A suspect has been arrested after two adjacent shelters were raided by the police. Two other suspects are said to be at large, according to animal rights activists.
 
-The three-week court case was brought by Hamburg's consumer protection office  (VZHH), which accused manufacturer Mondelēz of deceiving consumers by cutting the weight of the "Alpenmilch" bar from 100g to 90g.
+Owen Godfrey Membe has pleaded not guilty to a charge of animal cruelty and has been remanded in custody until 27 May.
 
-Reacting to the ruling Mondelēz told the BBC it was "taking the decision of the court seriously" and would "look at it in detail now".
+Membe is accused of "killing an animal in an unnecessarily cruel manner" under Uganda's Animals (Prevention of Cruelty) Act.
 
-Manufacturers have often resorted to shrinkflation because of rising costs, reducing the size or content of a product in an attempt to maintain the same price. The practice transcends borders. In the UK, consumer group Which? has called it a "sneaky" tactic.
+Membe's dogs and those belonging to a nearby operation remain at the raided shelters, but are now in the care of the Animal Welfare Alliance Uganda, a network of local and international activists aiming to tackle organised animal exploitation.
 
-According to Which? chocolate prices have increased due to the global rise in the cost of cocoa after poor harvests in West Africa.
+The organisation, which includes qualified veterinarians, said it had secured land where an emergency shelter is being set up to receive the dogs.
 
-Mondelēz argued that it had informed German consumers about the change on its website and social media channels, and pointed to the rising costs in its supply chains: "As a consequence in the last years we decided to adjust the weight of several Milka-bars."
+The case against Membe has been brought as a private prosecution by the Animal Justice Center, a Uganda-based organisation, with funding from We Won't Be Scammed, a UK-based group which uses online vigilante tactics to expose sham rescue shelters in Uganda. We Won't Be Scammed said it was working to receive the dogs from the raided shelters in its existing partner facilities in Uganda.
 
-Last year, German consumers were not satisfied with the company's explanation and voted the Milka Alpenmilch bar "rip-off packaging of the year 2025".
+The arrest and rescue follow the publication of a BBC investigation exposing how scammers in Mityana, posting social content of dogs in distress, have been tricking international donors out of hundreds of thousands of pounds.
 
-Although the bar's weight had been reduced, there was no noticeable change in its purple wrapping. The new bar was a millimetre thinner, and the price went up from €1.49 (£1.30) to €1.99 (£1.70) at the beginning of 2025.
+Undercover filming by the BBC showed that instead of benefitting the dogs, many content creators spent money on funding their own luxury lifestyles.
 
-Mondelēz had maintained that the lower weight was clearly visible on its packaging and denied the allegations made by the Hamburg consumer group. The company's lawyer argued in court that chocolate bars in the past had a fluctuating weight between 81-100g depending on the product.
+The investigation also revealed there have been instances of dogs being intentionally harmed for content.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Gaza sisters win prize for turning rubble into reusable bricks
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/34c9/live/493b3f30-4eb6-11f1-bd52-e755d604ece4.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Woman isolating on British island in South Pacific after hantavirus contact
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ffba/live/92827b10-4ec3-11f1-9226-1f41f7d44e1f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Two teenage sisters from Gaza have won an environmental award for turning rubble into reusable bricks, saying they wanted to "turn destruction into something useful".
+A woman is isolating on the Pitcairn Islands, a remote British Overseas Territory in the South Pacific, after travelling on a hantavirus-hit cruise ship.
 
-Farah and Tala Mousa, who live in a tent and have been repeatedly displaced since their home was bombed, have been named the Middle East regional winners of the youth-focused Earth Prize.
+A local government spokesperson told the BBC the person "had contact with a hantavirus-exposed individual" but was "showing no signs of illness".
 
-"After our entire city turned into rubble, everything around us pushed us to think about a solution," 17-year-old Tala told the BBC.
+The UK foreign office said it was "aware of an individual from the MV Hondius who has travelled on to the Pitcairn Islands".
 
-The sisters plan to use their $12,500 (£9,245) prize to teach others to produce the bricks and "participate in reconstruction themselves, instead of waiting only for outside help," 15-year-old Farah said.
+Officials said she was not a suspected case and the risk to the public was low.
 
-The UN estimates 1.9 million people in Gaza - nearly 90% of the population - have been displaced since war began in 2023, triggered by the Hamas-led attack on southern Israel on 7 October. Israel responded by launching a military campaign against Hamas in the territory.
+The woman had flown from San Francisco on 7 May and travelled through the island of Tahiti and then Mangareva in French Polynesia, the French Polynesian government said.
 
-By early 2025, the damage in the strip was estimated to amount to $70bn (£51bn), with millions of tonnes of rubble lining its streets.
+No details have been released about when and where she left the cruise and travelled to the US.
 
-Farah and Tala developed the blocks not far from a tent in which they were living after their home was destroyed in August.
+Three people have died after travelling on the Dutch-flagged MV Hondius ship. Two of them were confirmed virus cases. The third had earlier developed symptoms and is believed to have been the first infected in the outbreak, but died before he could be tested.
 
-Made through crushing the rubble and sieving the debris before mixing it with materials like clay, ash and glass powder, the girls tested the blocks by helping a neighbour hold down their tent in poor weather.
+The World Health Organization (WHO), the UN global health agency, has since confirmed nine cases, with two others suspected.
 
-Low-cost and lightweight, they are designed for "non-load-bearing use, such as pavements, partitions and garden beds," Farah told the BBC World Service's Newsday.
+On Tuesday, WHO chief Tedros Adhanom Ghebreyesus said there was at that time "no sign" of a larger hantavirus outbreak after the evacuation of the last passengers from the ship a day earlier.
 
-The sisters - who lost their prototype when they were last displaced - said they had been motivated by the "destruction" around them.
+But he warned that "the situation could change" and there could be more confirmed virus cases.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ce8p7vngmp3o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Thousands of Waymos recalled after robotaxi swept into a creek
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/4e77/live/96f04200-4eae-11f1-92a2-156bc6ac560f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 What to know as Trump visits Xi in China
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e2cf/live/54780510-4ecd-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Waymo is recalling thousands of its self-driving cars in the US over a software issue that could allow vehicles to drive into flooded roads.
+US President Donald Trump has arrived in Beijing on the first trip to China by an American leader since in his own previous visit, during his first term in 2017.
 
-According to a letter posted on the National Highway Traffic Safety Administration (NHTSA) website on Tuesday, the voluntary recall affects nearly 3,800 robotaxis that use the company's fifth and sixth-generation automated driving systems.
+He will hold two days of talks with Chinese President Xi Jinping, originally meant to be held in March but rescheduled after the US and Israel launched attacks on Iran.
 
-It follows an incident on 20 April in San Antonio, Texas, where an empty Waymo vehicle entered a flooded road and was swept into a creek.
+The main focus of the talks is expected to be the current tense trade relationship between the two superpowers.
 
-The company, which hopes to be operating a robotaxi service in London by September, said it was working on "additional software safeguards", according to CNBC.
+Trump said he would ask Xi to "open up" China's economy to major tech companies.
 
-The BBC has contacted Waymo, which is owned by Google's parent company Alphabet, for comment.
+He added that he also expected a "long talk" about Iran, though he insisted he did not need China's help to end the conflict.
 
-Waymo's San Antonio service also remains temporarily suspended following the incident, though the company said it will resume public rides after the necessary software fix had been rolled out.
+He said Xi had been "relatively good" on Iran, adding that it would be an "exciting trip" and "a lot of good things are going to happen".
 
-According to the NHTSA letter, temporary updates limiting where affected vehicles can drive during extreme weather have already been applied.
+Xi meanwhile is expected to press for an end to US arms sales to Taiwan, and an extension of the trade truce agreed in October that halted tariff escalation between the US and China.
 
-Waymo says it now provides more than 500,000 trips per week across multiple US cities including San Francisco, Austin and Miami.
+Commentary in Chinese media also suggested Beijing was looking for a "better future" with the US, and a relationship that would "add more stability and certainty" to a turbulent world.
 
-Jack Stilgoe, professor of science and technology policy at University College London, told the BBC that all self-driving car systems had limits on when and where they could operate safely.
+Trump arrived in Beijing on Air Force One on Wednesday evening local time, before the main part of the visit starts on Thursday.
 
-As more autonomous vehicles are deployed, Prof Stilgoe said, more such problems are likely to emerge.
+The US president is expected to attend an arrival ceremony with Xi at the Great Hall of the People, before the two leaders hold bilateral talks.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -457,101 +433,109 @@ The largest part of the exercise takes place in Morocco, involving approximately
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 'Street Outlaws' Daddy Dave Arrested For Stalking in New York
-<img src='https://imagez.tmz.com/image/d6/16by9/2026/05/13/d6075da38be5420399a2846456bccb99_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 PK Kemsley's Range Rover Hits Car in L.A., Drives Away, on Video
+<img src='https://imagez.tmz.com/image/b7/16by9/2026/05/13/b7862c5f93334b34a0ead2a4f5107565_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Daddy Dave from "Street Outlaws" is living up to the name of his TV show ... he just got arrested for allegedly stalking someone.
+PK Kemsley's got enough drama with his divorce ... but now he's adding smashing into his neighbors' car to the mix!
 
-The reality star, whose real name is David Comstock, was booked into the Steuben, New York, jail early this morning for misdemeanor stalking and misdemeanor criminal tampering. In case you're wondering, the tampering offense is meddling with another person's property to cause them a huge inconvenience.
+Check out this video from Tuesday in Los Angeles -- PK backed his $120K Range Rover out on the street, straight into a Toyota RAV4 owned by his neighbor’s caregiver ... then casually drove off like nothing happened.
 
-In addition, Comstock posed for a mugshot, and we gotta say he doesn't look very happy, but who can blame him under the circumstances. For now, Comstock is being held without bail.
+The extent of the damage on the RAV4 is unclear, but PK's own ride was left with a pretty noticeable dent. Didn't seem to faze him though ... he was spotted strolling back into his Encino building completely unbothered.
 
-As for what he did specifically, well, we still don't have the details. However, we've made some inquires and will update you once we get word.
+PK tells TMZ ... "I genuinely thought the new Range Rover had automatically braked for me. It wasn't until I got home and noticed the world's tiniest mark on my car that I realized I'd very gently nudged the neighbor's bumper. I went over, apologized, and offered to pay. Entirely my fault. Although in fairness, trying to reverse while subconsciously searching for paparazzi hiding in bushes is probably not recommended by Land Rover."
 
-Daddy Dave has been a prominent race car driver on "Street Outlaws" since the show's premiere in 2013. In fact, he's become an iconic figure of sorts for almost always being a top contender in the races.&nbsp;
+Of course, PK’s already knee-deep in chaos with estranged wife Dorit Kemsley ... who recently accused him of stopping payments on their $6 Million mansion amid their ugly divorce war.
+
+TMZ obtained a fiery email filed by PK as part of the split, dated April 15, 2026, laying out the couple’s financial disputes and other ongoing issues.
+
+Sources connected to the case are brushing off Dorit’s claims though ... insisting PK covered the bills for years before pulling the plug after Dorit allegedly dropped more than $1 Mil clothes and travel while contributing nothing toward the mortgage.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/street-outlaws-daddy-dave-arrest-stalk-comstock/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/pk-kemsley-hits-neighbors-car-on-video/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hayden Panettiere's Ex Brian Hickerson Still Holding Out Hope to Marry Her
-<img src='https://imagez.tmz.com/image/54/16by9/2026/05/12/547ac07b1c16407fa92d141debf41969_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Spencer Pratt Fires Back Over Claims He Misled Voters About Living in Trailer
+<img src='https://imagez.tmz.com/image/b8/16by9/2026/05/13/b8d18c6839d549c6bab901661e37b265_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Hayden Panettiere's ex Brian Hickerson says he still dreams about a future with the actress ... admitting he would even marry her, despite their rocky past.
+Spencer Pratt is digging in over the backlash surrounding his mayoral campaign ad ... insisting he never lied about living in an Airstream trailer after being called out for actually staying at the ritzy Hotel Bel-Air.
 
-Hickerson sat down with TMZ's Charlie Neff ahead of Hayden's upcoming memoir, "This Is Me: A Reckoning" ... and got surprisingly emotional when the conversation turned to the former couple's relationship.
+The candidate joined "TMZ Live" Wednesday after we broke the story ... he's been staying at maybe the swankiest hotel in L.A.&nbsp;... this after calling out the luxury homes where incumbent Mayor Karen Bass and challenger Nithya Raman live. But Spencer says people are missing the point.
 
-When Charlie asked if he ever thinks about marrying the former "Nashville" actress one day, Brian didn’t hold back ... "Yeah, of course."
+“I don't live at the hotel Bel Air. I don't live in the Airstream. I don't live in Santa Barbara. I don't have a house. They burned it down,” he said.
 
-It sounds like he's still holding onto hope there could someday be another chapter for them ... because when asked if he still thinks that could happen, he said ... "I hope so -- she probably doesn't think the same way."
+Harvey pressed Spencer repeatedly over the ad's wording ... noting the commercial clearly gave viewers the impression he was physically living in the trailer. Spencer texted Harvey early today, "I have never told anyone I lived there." Yet in the campaign he said, "This is where I live" as he stood in front of his trailer with the door open.
 
-The interview took a more reflective turn when Brian explained why he believes the two may ultimately be better apart.
+Spencer didn't back down, saying of the Palisades property ... "That is where I live, period. I don't need to sleep there every night. I don't need to go number two on that toilet. That is where I live."
 
-"I think that Hayden is one of the most talented people I’ve ever met in my life, and I would be an idiot not to walk away from her and let her flourish in her career," he said. "So, we probably wouldn’t be good together."
+He also claimed death threats tied to his campaign forced him into temporary housing and hotels for safety reasons -- and claims he only sleeps about 4 hours per night anyway. We're also told his wife,&nbsp;Heidi, and their kids are staying in Carpinteria, just north of L.A. So the trailer is sitting lonely.
 
-The former couple was photographed together at an airport back in March -- sparking speculation they may have rekindled things -- though Brian described their relationship now as more of a friendship built on mutual respect. But it’s obvious the feelings haven’t gone away 'cause Brian said bluntly, "I miss Hayden every day."
+"I'm at a hotel because these psychopaths are messaging me every day they’re going to kill me,” Spencer said ... later adding, "You can literally snipe me out from any part from 300 yards away easily."
 
-Still, Brian also admitted he has major regrets about how their relationship unfolded ... saying he went into "such a dark place" involving drugs and alcohol during their time together. The exes dated on and off from 2018 to 2022 ... before their relationship spiraled into legal drama -- with Brian pleading no contest to felony domestic violence charges and receiving jail time, probation and a five-year restraining order.
-
-Be sure to check out Charlie’s full interview with Brian ... where he opens up about everything from his feelings about being in her memoir to his thoughts on her ex-fiancé and daughter's father, Wladimir Klitschko.
+Even after Harvey asked point-blank whether he had ever physically lived in the trailer ... Spencer dodged giving a direct answer, instead repeating, "I haven't lived anywhere since my house burned down."
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/hayden-panettiere-ex-brian-hickerson-wants-her-back/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/spencer-pratt-responds-to-bel-air-hotel-living-criticism/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Alix Earle Reveals Secret to Sports Illustrated Swimsuit Body
-<img src='https://imagez.tmz.com/image/5c/16by9/2026/05/12/5c22eb938532431f983a0a911ebdd8c2_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Noah Syndergaard Addresses Alex Cooper Diss, Guess I Live Rent-Free In Her Head!
+<img src='https://imagez.tmz.com/image/b4/16by9/2026/05/13/b42c84ab922e4e49b599e3108dbac981_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-They say dancing is the best medicine -- but it's also apparently the go-to workout for Sports Illustrated Swimsuit models -- 'cause Alix Earle says weeks of shakin' it on TV got her ready for her cover shoot!!
+It only took three years, but Noah Syndergaard is finally responding to a savage diss his ex Alex Cooper uttered in 2023 ... saying he must be living rent-free in her head if she's still talking about him.
 
-TMZ Sports caught up with the influencer out in NYC on Tuesday ... and had to ask how she prepared her body for being one of four beauties getting honored with the spotlight in 2026.
+The former New York Mets star -- who dated the "Call Her Daddy" host in 2017 -- joined OutKick's "Tomi Lahren is Fearless" podcast this week ... and was asked about getting shaded on Cooper's platform back in the day.
 
-Her workout routine?? "Dancing With The Stars!!"
+For those who aren't in the Daddy Gang, Cooper said he "can't get a f***ing contract" ... and even though she didn't name him, everyone knew it was about Thor.
 
-The "Get Ready With Me" video queen did her thing on the ABC competition show last year ... earning second place with her partner, Val Chmerkovskiy, behind Robert Irwin and Witney Carson.
+So ... what did he think about it??
 
-Earle noted being in perfect shape isn't what S.I. Swim is about ... and she is a huge fan of how they highlight all types of beautiful bodies every year.
+"I haven't spoken to her in eight years or so," Syndergaard said. "So, I guess I continue to live rent-free in her head. I don't really know."
 
-"I think that's the thing about S.I. is they just empower everyone, so you feel good no matter what. And that's a really special thing about them."
+"Cheap shot, but she's entitled to her own opinion and freedom of speech, so I can't really control what comes out of her mouth. It doesn't really bother me ... It's kind of comical, but whatever."
 
-Earle, Hilary Duff, Nicole Williams English and Tiffany Haddish all got the nod as cover models this year ... and the mag features a ton of celebs and athletes -- of all body types -- as it hits newsstands nationally on May 26!!
+As Lahren took it to Cooper's current drama with Alix Earle, she suggested maybe she's a different woman now ... and Syndergaard said that's unlikely.
+
+"I don't want to get into it," he admitted. "I don't want to kick the hornets nest any more than I have."
+
+Sounds like Coop wasn't the nicest when they dated ... and Syndergaard is not surprised one bit that she's beefing with her former business partner, but he seems to want out of her crosshairs.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/alix-earle-shares-workout-for-sports-illustrated-look/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/noah-syndergaard-reacts-to-alex-cooper-diss/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Spencer Pratt Drops Serious $$$ at Fav Mexican Restaurant in Mayor Campaign
-<img src='https://imagez.tmz.com/image/a7/16by9/2026/05/12/a7c573d170164345aa2563406e10d9bf_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Billionaire Stephen Cloobeck's Arrest Tied to Fiancée's Criminal Case
+<img src='https://imagez.tmz.com/image/c1/16by9/2026/05/13/c1f94d21792247c1a57abdf7976daf12_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Spencer Pratt is an extremely loyal customer, dropping thousands at his favorite Mexican restaurant as part of his campaign for Los Angeles mayor ... TMZ has learned.
+Billionaire Stephen Cloobeck's surprising arrest is tied directly to the criminal case surrounding his fiancée, Adva Lavie ... TMZ has learned.
 
-According to campaign docs, obtained by TMZ, Spencer spent a total of around $8K for fundraising events at Don Antonio's, on the Westside ... which has been Spencer and his wife Heidi's fav spot since they starred on "The Hills." The campaign docs cover&nbsp;the period between January 1, 2026 to April 18, 2026.
+TMZ broke the story ... Cloobeck was arrested Tuesday in L.A. on a felony charge connected to discouraging a witness from testifying, and we're told investigators believe that witness was tied to Lavie's ongoing theft case.
 
-You'll recall ... Spencer and Heidi often shot scenes for "The Hills" at Don Antonio's and have been praising the joint for years. On TikTok, Spencer often posts about his love of the spot.
+Lavie -- a former Penthouse Pet -- is accused of targeting wealthy men through dating apps and social circles ... allegedly stealing luxury goods, cash and personal information. She has pleaded not guilty to multiple felony charges.
 
-Other expenses in the documents include nearly $4K spent at Nana's Kitchen, in the Valley, and more than $10K on an Airbnb for “spouse or staff travel.”
+According to prosecutors, Cloobeck attempted to dissuade or prevent 3 of Lavie's alleged victims from testifying against her.
 
-The docs show Spencer raised $539K in the same time period, from January to April this year. Notable donors include "The Hills" star Doug Reinhardt, reality show producer Jeff Jenkins, and singer Katharine McPhee.
+He's also been charged with a misdemeanor for "annoying telephone calls" to a 4th man reportedly connected to her case.
 
-Spencer's leading opponent, incumbent Mayor Karen Bass, reportedly raised $494K in the same period.
+The arrest marks a stunning escalation in the legal drama surrounding the billionaire businessman and his fiancée ... whose lavish Jerusalem wedding plans were already hanging by a thread after a judge ordered Lavie to surrender her passport and remain in California pending trial.
+
+Cloobeck was booked Tuesday and later released on $300,000 bond. So far, neither he nor his attorney has publicly commented.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/spencer-pratt-drops-serious-at-fav-mexican-spot-for-mayor-campaign/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/stephen-cloobeck-arrested-allegedly-pressured-fiancee-victim/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -665,187 +649,188 @@ All prices &amp; availability subject to change.
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Trump’s Shrinking Ambitions on China
+### 📰 Trump and Xi: Beneath the Pomp and Niceties, a Geopolitical Rivalry
 <div align='justify'>
 
-The president came into office planning harsher trade moves on China than on the rest of the world. Here’s why he’s had to scale them back.
+The relationship between the two leaders is marked just as much by mistrust and confrontation as it is by niceties.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/politics/trump-china-trade-us.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/politics/trump-xi-rivalry.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors
+### 📰 Chinese Firms Plot Secret Arms Sales to Iran, U.S. Officials Say
 <div align='justify'>
 
-Encounters with other world leaders reveal a side of China’s leader that the public rarely sees, and offer clues to how he will approach President Trump in Beijing.
+The effort involves plans to send weapons through other countries in an effort to hide the origins of the shipments.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 How China Could Wield Its Control of Rare Earths Against Trump
+### 📰 How China Sent a Message to Trump on His Arrival
 <div align='justify'>
 
-A central question hanging over the summit this week is whether China will agree to extend a temporary postponement of even tougher rare-earth export controls.
+Beijing welcomed President Trump with a high-ranking vice president, but the choice of a ceremonial leader suggests China is trading symbolism for substance.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/business/china-trump-xi-rare-earths.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 U.S. Intelligence Undercuts Trump’s War Claims, and the Cost of ‘Alligator Alcatraz’
+### 📰 What to Watch at Trump and Xi’s U.S.-China Summit
 <div align='justify'>
 
-Plus, the controversy engulfing Eurovision.
+Here’s what to know about the biggest sources of tension in U.S.-China relations before the first summit in Beijing in nine years between the nations’ leaders.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/podcasts/the-headlines/iran-missiles-alligator-alcatraz.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities
+### 📰 Alex Murdaugh Murder Convictions Overturned by South Carolina’s Top Court
 <div align='justify'>
 
-Secret new assessments say Iran has operational access to 30 of its 33 missile sites along the Strait of Hormuz, suggesting that its military remains far stronger than President Trump has asserted.
+The decision, in which judges cited jury interference by a court clerk, upends one of America’s highest-profile homicide cases.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
-### 📰 America’s Emerald Isle
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/america’s-emerald-isle/beaverisland_oli2_20240802_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA-Supported Space Tech Advances Earthly Construction
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/lunar-habitat-e1778695522319.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.
+An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.
 
-In a process that played out over thousands of years, a retreating ice sheet carved, scoured, and shaped the landscape of the present-day Great Lakes. In northern Lake Michigan, this sculpting left distinct ridges and valleys running north-to-south along the lake floor. Some parts of those ridges, made of erosion-resistant rock, have remained above the waves of the big lake, forming the Beaver Archipelago.
+Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture visually interesting, modular building elements, such as wall panels and cladding.
 
-The OLI (Operational Land Imager) on Landsat 9 captured this image of several of the archipelago’s islands on August 2, 2024. These patches of land contain upland forests, dunes, wetlands, and marshes—habitats that support rare plant and bird species and provide spawning grounds for fish. The bright, sandy perimeters of the islands are surrounded by shallow, turquoise waters and deeper, dark blue areas, where depths reach up to about 330 feet (100 meters).
+“Our process eliminates a ton of material from something that otherwise might be printed solid all the way through,” said David Goodloe, who leads Branch Technology’s Advanced Concepts team, which manages the company’s NASA collaborations.
 
-This image centers on Beaver Island, the largest island in Lake Michigan at 13 miles (21 kilometers) long and 6 miles (10 kilometers) wide. It is also the only inhabited island of the Beaver Archipelago, and many of its approximately 600 residents are of Irish descent. In the mid-1800s, scores of immigrants from County Donegal, Ireland, and Irish fishermen from nearby islands and ports in Michigan settled on the island, which subsequently took on the moniker of “America’s Emerald Isle.”
+In 2017, the company won Phase II of NASA’s 3D-Printed Habitat Challenge, a public competition to build a habitat for deep space exploration.
 
-The farming and fishing, in particular, were productive for the new arrivals. In the 1880s, Beaver Island became the largest supplier of freshwater fish in the United States. Due to overfishing, however, such abundance would be short-lived.
+Tracie Prater, a technical manager in the Habitat Systems Development Branch at NASA’s Marshall Spaceflight Center in Huntsville, Alabama, served as a subject matter expert for the challenge and worked with Branch Technology on a cooperative agreement.
 
-Ship traffic on the Great Lakes was also increasing during this time. Two lighthouses were constructed on the island to help the growing number of vessels traveling between Chicago and the Straits of Mackinac. The Beaver Head Lighthouse operated from 1852 to 1962 on the southern end of the island. On the northern side, the Beaver Island Harbor Light, pictured below, was first lit in 1870 and remains an active beacon more than 150 years later.
+“With the 3D-Printed Habitat Challenge, teams were focused on how to build a large habitat structure on a planetary surface,” said Prater. “But once that structure is pressurized and ready for crew occupancy, how do you populate it with systems and supplies? That’s what Branch was looking at through the cooperative agreement — what their on-demand fabrication process enables in terms of novel designs for interior items.”
 
-Today, people travel to Beaver Island by boat or plane to explore its history and enjoy activities such as biking, fishing, and kayaking. The island’s remote location and minimal light pollution led to the establishment of the Beaver Island State Wildlife Research Area International Dark Sky Sanctuary in 2024. Sky gazers may be drawn to the sanctuary for a chance to glimpse the aurora borealis and other celestial phenomena.
+NASA’s parameters for the habitat challenge led Branch to develop its nozzles to extrude unique lattice structures as well as more traditional layers. The company uses this dual capability frequently in its wall panels where traditionally printed sections offer solid substrates for attaching fasteners.
 
-Neighboring islands in the archipelago are more difficult to access and have remained relatively undisturbed. Perched, or cliff-top, sand dunes are found up to 200 feet (60 meters) above the lake level on the western side of High Island. Unique plant species, including the Pitcher’s thistle and Lake Huron tansy, grow in the island’s dunes. On Hog Island, patches of old-growth northern hardwood forest remain. Wetland communities known as Great Lakes marshes along the shoreline provide spawning grounds for perch and smallmouth bass.
+The polymers Branch extrudes were informed by its materials science research for the 3D-Printed Habitat Challenge, which asked that print material be made of something like the dust and rocks found on the Martian surface and mission recyclables. Branch came up with a basalt fiber-reinforced plastic and from that work went on to develop an optimal loading recipe for its terrestrial “inks.”
 
-NASA Earth Observatory image by Wanmei Liang, using Landsat data from the U.S. Geological Survey. Photo by Kelcie Herald/Unsplash. Story by Lindsey Doermann.
+These innovations exemplify the purpose of NASA’s Technology Transfer program within the Space Technology Mission Directorate, which uses space-based solutions to improve life on Earth. For 50 years, NASA has documented the everyday benefits of space technology through the agency’s Spinoff publication.
 
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+Air taxis and drones navigate different flight zones with NASA-inspired system
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA Langley Engineer Attends FAA Training
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/okc-tower-outside-edit.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 Rise Goes to Washington
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost. Communications like “clearance delivery,” which require long transmissions and readbacks, are challenging in high-traffic areas, particularly when weather or other factors require many aircraft to communicate with controllers at once. Going digital clears that channel for urgent, time-critical calls, among other things. And it’s the current practice at some airports, where pilots can confirm clearances with the touch of a button, that the response goes directly to the controller’s screen, and the updated information loads into their flight management system.
+“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington.
 
-Will Cummings-Grande, aerospace engineer with the Systems Analysis and Concepts Directorate based at NASA’s Langley Research Center, is leading technical work that centers around Communications Architecture and Performance for Digital Clearance in NASA’s Air Traffic Management and Safety (ATMS) project. He’s researching the next layer of digital clearance, extending that same logic down to taxi instructions on the ground, so that pushback timing, routing, and runway assignments could also arrive digitally rather than over the radio.
-
-He sought out the most current, ground-level knowledge about how digital clearance delivery works in practice — not in a research paper, but in a real tower, on real systems, with the people who run them every day. The Federal Aviation Administration (FAA) offers the training he wanted to air traffic controllers, so he reached out to the FAA Academy “on a hope and a prayer” that they might accept him as a student.
-
-And in early April, Cummings-Grande traveled to the Mike Monroney Aeronautical Center (MMAC) in Oklahoma City to complete the Tower Data Link Services (TDLS) Application Specialist training — the same two-day, hands-on course required of working controllers at the 72 U.S. airports currently equipped with digital clearance delivery capability.
-
-Cumming-Grande shadowed a working controller during exercises, trading off at the terminal during breaks so both got time on the system. His classmates were application specialists from Seattle, Sacramento, San Jose, and Fort Lauderdale, all controllers with day jobs managing high-traffic airspace who were there to become the designated system maintainers at their home airports. During breaks, Cummings-Grande had a luxury: time to test. “I got to bounce some of my ideas and concepts off of controllers who are out there interacting with the TDLS and all of the tools it touches in the current system,” he said. “It was great to have both — here’s what the controller-in-training gets, and here’s what I get as a researcher — kind of lumped into the same experience.”
-
-The FAA Academy also connected him with the systems engineers responsible for developing, testing, and implementing new TDLS hardware and software versions, and arranged a visit to the OKC tower to observe the system in live operation.
-
-The TDLS runs on fully air-gapped software, completely isolated from standard operating systems — a deliberate cybersecurity design that made the hands-on experience revelatory in ways a research paper couldn’t replicate. “Interacting with the system was just very eye-opening as to how different these systems are from other computers that we commonly interact with,” he said.
-
-The more significant discovery came from the curriculum itself. Reviewing the FAA’s system architecture during training, Cummings-Grande noticed something he didn’t know to look for: a link between the TDLS and the Terminal Flight Data Manager (TFDM), which does not yet exist operationally. That gap is now the center of his research questions. “I didn’t realize I was missing this piece until I took this course,” he said.
-
-The research Cummings-Grande is pursuing connects to a long thread of NASA work on surface safety and digital communications, including the Terminal Area Productivity program, the Surface Operation Automation Research (SOAR) project, the Low Visibility Landing and Surface Operations (LVLASO) project, and Surface Trajectory Based Operations (STBO) studies. These efforts kicked off in the mid-90s to inform FAA NextGen and demonstrated digital taxi clearances in a series of simulations at multiple facilities and ultimately flight tests at the Atlanta Airport. Those findings showed meaningful workload reductions, but the cost-benefit case wasn’t there yet, and the technology wasn’t ready in the fleet or in the facilities.
-
-What’s changed, in Cummings-Grande’s view, is the convergence of new infrastructure investments, including the rollout of systems derived from Airspace Technology Demonstration (ATD-2) technologies like the Spot and Runway Departure Advisor and the Precision Departure Release Capability through the TFDM, with renewed industry interest from a partner on the aircraft side. “We have all this homework that people have been doing for the last 20-30 years,” he said. “Can we take advantage of the renewed interest from FAA and industry to enable this safety-enhancement?”
+NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day journey around the Moon and back to Earth in April 2026.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/rise-goes-to-washington/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Perseverance Stuns in New Selfie
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/pia26650-watson-take-6-up-small.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA Outlines Preliminary Artemis III Mission Plans
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/pad.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-NASA’s Perseverance rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop in the foreground after creating a circular abrasion patch, with the western rim of Jezero Crater stretching into the background. During abrading, the rover grinds down a portion of the rock’s surface, allowing the science team to analyze what’s inside. The selfie was captured on March 11, the 1,797th Martian day (or sol) of the mission, during the rover’s deepest push west beyond the crater.
+NASA is moving quickly to define next year’s Artemis III mission in Earth orbit, a crewed flight that will test rendezvous and docking capabilities between the agency’s Orion spacecraft and commercial landers from Blue Origin and SpaceX. Since a February announcement adding an Artemis mission ahead of crewed landing missions to the Moon’s South Pole region, engineers have been evaluating mission profile options and operational considerations for Artemis III to ensure the test flight helps the agency and its partners reduce risk ahead of the next Americans landing on the Moon during Artemis IV.
+
+“While this is a mission to Earth orbit, it is an important stepping stone to successfully landing on the Moon with Artemis IV. Artemis III is one of the most highly complex missions NASA has undertaken,” said Jeremy Parsons, Moon to Mars acting assistant deputy administrator, NASA’s Exploration Systems Development Mission Directorate in Washington. “For the first time, NASA will coordinate a launch campaign involving multiple spacecraft integrating new capabilities into Artemis operations. We’re integrating more partners and interrelated operations into this mission by design, which will help us learn how Orion, the crew, and ground teams all interact together with hardware and teams from both lander providers before we send astronauts to the Moon’s surface and build a Moon Base there.”
+
+The mission is planned to carry out a series of objectives designed to demonstrate critical systems needed for a future lunar landing. During the Artemis III mission, the SLS (Space Launch System) rocket will launch the Orion spacecraft from NASA’s Kennedy Space Center in Florida with four crew members. Instead of using the interim cryogenic propulsion stage as the upper stage of the rocket, NASA will use a “spacer,” a representation of the mass and overall dimensions of an upper stage but without propulsive capabilities. The spacer will maintain the same overall dimensions and interface connection points as the upper stage between the Orion stage adapter and launch vehicle stage adapter.
+
+Design and fabrication activities for the spacer are progressing rapidly at NASA’s Marshall Space Flight Center in Huntsville, Alabama. Material for the barrel section and the upper and lower rings is currently being machined at Marshall in preparation for upcoming welding operations.
+
+After the rocket delivers Orion to orbit, the spacecraft’s European-built service module will provide propulsion to circularize Orion’s orbit around the planet in low Earth orbit. This orbit increases overall mission success by allowing more launch opportunities for each element as compared to a lunar mission — SLS carrying Orion and its crew, SpaceX’s Starship human landing system pathfinder, and Blue Origin’s Blue Moon Mark 2 human landing system pathfinder.
+
+Informed by Blue Origin and SpaceX capabilities, NASA also is defining the concept of operations for the mission. While some decisions are yet to be determined, astronauts could potentially enter at least one lander test article.
+
+The crew will spend more time aboard Orion than during Artemis II, further advancing the evaluation of life support systems, and for the first time will demonstrate the docking system performance. The mission will inform lander rendezvous and habitation concepts and mission operations in preparation for future surface missions. The agency also plans to test an upgraded heat shield during Orion’s return to Earth to enable more flexible and robust reentry profiles for future missions.
+
+Over the coming weeks, NASA will continue to refine specific plans for the flight, including a timeline for identifying astronauts to train for mission operations, options to evaluate Axiom’s AxEMU spacesuit lander interfaces ahead of lunar surface missions, mission duration, and potential science operations for the flight. NASA has asked for industry input on potential solutions to improve the communications with the ground during the mission since the Deep Space Network will not be used. The agency also is seeking both international and domestic interest in potentially flying CubeSats to deploy in Earth orbit, and may share other opportunities as the concept of operations for the mission is further defined.
+
+As part of the Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions to explore more of the Moon for scientific discovery, economic benefits, establish an enduring human presence on the lunar surface, and to build on our foundation for the first crewed missions to Mars.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 Studying Pneumonia in Space for Heart Health on Earth
+<img src='https://images-assets.nasa.gov/image/iss074e0490731/iss074e0490731~large.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-To view this video please enable JavaScript, and consider upgrading to a web browser that
-supports HTML5 video
+Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases.
 
-NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western rim of Jezero Crater stretching into the background. The selfie was captured on March 11, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond the crater.
+In space, bacteria tend to be more severe and have enhanced drug resistance. Scientists are harnessing these traits to exaggerate their effect on heart cells and reveal important cellular responses that would be difficult to detect on Earth. Pinpointing the factors that make bacterial infections more severe in space could reveal targets for treatment. Dr. Palaniappan Sethu, professor of Medicine and Biomedical Engineering at the University of Alabama at Birmingham says, “By exacerbating the infection, we anticipate clear separation of the infection and control groups, making it easier to identify subtle factors that promote bacterial virulence”.
 
-Perseverance is in its fifth science campaign, known as the Northern Rim Campaign, of its mission on the Red Planet. The Lac de Charmes region represents some of the most scientifically compelling terrain the rover has visited.
+The Streptococcus pneumoniae bacteria is the leading cause of community-acquired pneumonia (CAP), an infection which causes millions of deaths each year. More than a quarter of adults hospitalized for CAP develop heart disease and patients that survive severe cases have an increased risk even after the pneumonia has been fully eradicated.
 
-“We took this image when the rover was in the ‘Wild West’ beyond the Jezero Crater rim — the farthest west we have been since we landed at Jezero a little over five years ago,” said Katie Stack Morgan, Perseverance’s project scientist at NASA’s Jet Propulsion Laboratory in Southern California. “We had just abraded and analyzed the ‘Arethusa’ outcrop, and the rover was sitting in a spot that provided a great view of both the Jezero Rim and the local terrain outside of the crater.”
+This research is also important as humans venture further into space. For over 25 years, researchers have utilized the space station to study how the human body and microbes respond to space, and deep space missions will require the strategies and knowledge we gain. “Addressing these questions is essential for ensuring human health during long duration space travel and for enabling sustainable habitation beyond Earth. Our experiments are expected to generate new insights into how space specific factors influence disease progression”, says Dr. Carlos J. Orihuela, professor of Microbiology at the University of Alabama at Birmingham.
 
-During abrading, the rover grinds down a portion of the rock’s surface, allowing the science team to analyze what’s inside. The technique enabled the team to determine that the Arethusa outcrop is composed of igneous minerals that likely predate the formation of Jezero Crater. Igneous rocks with large mineral crystals form underground as molten rock cools and solidifies. Perseverance acquired the selfie — its sixth since landing on Mars in 2021 — using the WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) camera mounted at the end of its robotic arm, which made 62 precision movements over approximately one hour to build the composite image (learn more about how selfies are made).
-
-Along with the selfie, Perseverance used Mastcam-Z, located on its mast, to capture a mosaic of the “Arbot” area in Lac de Charmes on April 5, or Sol 1882. Made of 46 images, the panorama offers one of the richest geological vistas of the mission, revealing a windswept landscape of diverse rock textures.
-
-The image provides the team a clear road map for investigating the ridgeline and the area’s ancient rock variety, including what appear to be megabreccia — large fragments (some the size of skyscrapers) hurled by a massive meteorite impact that occurred on the plain called Isidis Planitia about 3.9 billion years ago.
-
-“What I see in this image is excellent exposure of likely the oldest rocks we are going to investigate during this mission,” said Ken Farley, Perseverance’s deputy project scientist at Caltech in Pasadena. “There is a sharp ridgeline visible in the mosaic whose jagged, angular texture contrasts starkly with the rounded boulders in the foreground. We also see a feature that may be a volcanic dike, a vertical intrusion of magma that hardened in place and was left standing as the softer surrounding material eroded away over billions of years.”
-
-The rock color in the mosaic offers less information to the science team than the distinctive textures, which help them differentiate the rock types. Unlike Jezero Crater’s river delta, which is composed of sedimentary rock, some rocks here appear to be extrusive igneous rocks (molten rock that reached the surface as lava flows) and impactites (rocks created or modified by a meteorite impact) believed to have formed before the crater about 4 billion years ago, offering a window into the planet’s deep early crust.
-
-“The rover’s study of these really ancient rocks is a whole new ballgame,” said Stack Morgan. “These rocks — especially if they’re from deep in the crust — could give us insights applicable to the entire planet, like whether there was a magma ocean on Mars and what initial conditions eventually made it a habitable planet.”
+The space station allows researchers from around the world to address complex human health problems on Earth and in space. Using the unique environmental factors aboard the space station allows for advanced study of disease formation, testing drugs and diagnostic tools, and more.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA’s Perseverance Captures Panorama at ‘Arbot’
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26753/PIA26753.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky
+<img src='https://assets.science.nasa.gov/content/dam/science/missions/tess/news/2026/all-sky-2025/TESS_both_bin4_planets-Half.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-NASA's Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed “Arbot” on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vistas of the mission, revealing a windswept landscape of diverse rock textures. This is an enhanced-color version, which had its color bands processed to improve visual contrast and accentuate color differences.
+NASA’s TESS (Transiting Exoplanet Survey Satellite) has released its most complete view of the starry sky to date, filling in gaps from previous observations. Nearly 6,000 colored dots scattered across the image show the locations of either confirmed or candidate exoplanets — worlds beyond our solar system — identified by the mission as of September 2025 at the end of TESS’s second extended mission.
 
-Figure B is a 3D anaglyph version designed for use with red-blue glasses. It is composed of 92 images collected by Mastcam-Z.
+“Over the last eight years, TESS has become a fire hose of exoplanet science,” said Rebekah Hounsell, a TESS associate project scientist at the University of Maryland Baltimore County and NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “It’s helped us find planets of all different sizes, from tiny Mercury-like ones to those larger than Jupiter. Some of them are even in the habitable zone, where liquid water might be possible on the surface, an important factor in our search for life beyond Earth.”
 
-NASA’s Jet Propulsion Laboratory, which is managed for the agency by Caltech in Pasadena, California, built and manages operations of the Perseverance rover. Arizona State University leads the operations of the Mastcam-Z instrument, working in collaboration with Malin Space Science Systems in San Diego, on the design, fabrication, testing, and operation of the cameras, and in collaboration with the Niels Bohr Institute of the University of Copenhagen on the design, fabrication, and testing of the calibration targets.
+The TESS mission scans a wide swath of the sky, called a sector, for about a month at a time using its four cameras. These long stares allow the spacecraft to track the brightness changes of tens of thousands of stars, looking for variations in their light that might come from orbiting planets.
 
-For more about Perseverance: science.nasa.gov/mission/mars-2020-perseverance/
+Researchers assembled an all-sky mosaic made of 96 sectors observed between April 2018, when TESS began its work, and September 2025.
+
+The blue dots in the image mark the locations of nearly 700 confirmed planets, as of September 9. This menagerie includes worlds that may be covered by volcanoes, are being destroyed by their stars, or orbit two stars — experiencing double sunrises and sunsets each day. The orange dots represent more than 5,000 candidate planets that are awaiting verification.
+
+To date, scientists have confirmed over 6,270 exoplanets using missions like TESS, NASA’s retired Kepler Space Telescope, and other facilities.
+
+Also captured in the mosaic is the bright plane of our Milky Way galaxy, seen as a glowing arc through the center. The bright white ovals in the lower left are the Large and Small Magellanic Clouds. These satellite galaxies are located 160,000 and 200,000 light-years away, respectively.
+
+“The more we dig into the large TESS dataset, especially using automated algorithms, the more surprises we find,” said Allison Youngblood, the TESS project scientist at NASA Goddard. “In addition to planets, TESS has helped us study rivers of young stars, observe dynamic galactic behavior, and monitor asteroids near Earth. As TESS fills in more of the night sky, there’s no knowing what it might see next.”
+
+You could discover the next exoplanet! Join the Planet Hunters TESS citizen science project, and you’ll learn how to read light curves — plots of light data from distant stars — to find telltale signals from orbiting exoplanets.
+
+By Jeanette KazmierczakNASA’s Goddard Space Flight Center, Greenbelt, Md.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/)
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
