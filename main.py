@@ -90,7 +90,7 @@ def main():
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**🚀 Engine Powered by: [Mojtaba Tavousi](https://github.com/mojtabatavousi136-del)**
+**  Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
 **📅 Update (Tehran Time):** `{now_str}`
 
