@@ -2,9 +2,9 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**🚀 Engine Powered by: [Mojtaba Tavousi](https://github.com/mojtabatavousi136-del)**
+**  Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/13 - 12:44`
+**📅 Update (Tehran Time):** `2026/05/13 - 12:53`
 
 ---
 
@@ -855,31 +855,10 @@ NASA’s Perseverance rover recently took a self-portrait against a sweeping bac
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
 <div align='justify'>
 <font size='4'>
 
-To view this video please enable JavaScript, and consider upgrading to a web browser that
-supports HTML5 video
-
-NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western rim of Jezero Crater stretching into the background. The selfie was captured on March 11, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond the crater.
-
-Perseverance is in its fifth science campaign, known as the Northern Rim Campaign, of its mission on the Red Planet. The Lac de Charmes region represents some of the most scientifically compelling terrain the rover has visited.
-
-“We took this image when the rover was in the ‘Wild West’ beyond the Jezero Crater rim — the farthest west we have been since we landed at Jezero a little over five years ago,” said Katie Stack Morgan, Perseverance’s project scientist at NASA’s Jet Propulsion Laboratory in Southern California. “We had just abraded and analyzed the ‘Arethusa’ outcrop, and the rover was sitting in a spot that provided a great view of both the Jezero Rim and the local terrain outside of the crater.”
-
-During abrading, the rover grinds down a portion of the rock’s surface, allowing the science team to analyze what’s inside. The technique enabled the team to determine that the Arethusa outcrop is composed of igneous minerals that likely predate the formation of Jezero Crater. Igneous rocks with large mineral crystals form underground as molten rock cools and solidifies. Perseverance acquired the selfie — its sixth since landing on Mars in 2021 — using the WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) camera mounted at the end of its robotic arm, which made 62 precision movements over approximately one hour to build the composite image (learn more about how selfies are made).
-
-Along with the selfie, Perseverance used Mastcam-Z, located on its mast, to capture a mosaic of the “Arbot” area in Lac de Charmes on April 5, or Sol 1882. Made of 46 images, the panorama offers one of the richest geological vistas of the mission, revealing a windswept landscape of diverse rock textures.
-
-The image provides the team a clear road map for investigating the ridgeline and the area’s ancient rock variety, including what appear to be megabreccia — large fragments (some the size of skyscrapers) hurled by a massive meteorite impact that occurred on the plain called Isidis Planitia about 3.9 billion years ago.
-
-“What I see in this image is excellent exposure of likely the oldest rocks we are going to investigate during this mission,” said Ken Farley, Perseverance’s deputy project scientist at Caltech in Pasadena. “There is a sharp ridgeline visible in the mosaic whose jagged, angular texture contrasts starkly with the rounded boulders in the foreground. We also see a feature that may be a volcanic dike, a vertical intrusion of magma that hardened in place and was left standing as the softer surrounding material eroded away over billions of years.”
-
-The rock color in the mosaic offers less information to the science team than the distinctive textures, which help them differentiate the rock types. Unlike Jezero Crater’s river delta, which is composed of sedimentary rock, some rocks here appear to be extrusive igneous rocks (molten rock that reached the surface as lava flows) and impactites (rocks created or modified by a meteorite impact) believed to have formed before the crater about 4 billion years ago, offering a window into the planet’s deep early crust.
-
-“The rover’s study of these really ancient rocks is a whole new ballgame,” said Stack Morgan. “These rocks — especially if they’re from deep in the crust — could give us insights applicable to the entire planet, like whether there was a magma ocean on Mars and what initial conditions eventually made it a habitable planet.”
+NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western [&#8230;]
 
 </font>
 </div>
