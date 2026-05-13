@@ -2,10 +2,11 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `2026/05/13 - 04:15`
+**🚀 Engine Powered by: [Mojtaba Tavousi](https://github.com/mojtabatavousi136-del)**
+
+**📅 Update (Tehran Time):** `2026/05/13 - 12:44`
 
 ---
-
 
 [**🇮🇷 مشاهده مجله خبری فارسی (Persian Version)**](https://github.com/mojtabatavousi136-del/my-news-feed)
 
@@ -18,96 +19,140 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Argentines protest against Milei’s defunding of public universities
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-13-at-5.41.11-AM-1778640099.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Jason Collins, first openly gay active NBA player, dies after cancer battle
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-02-13T073707Z_294300989_MT1USATODAY28225088_RTRMADP_3_NBA-75TH-ALL-STAR-GAME-LEGACY-PROJECT-DEDICATION-1778659228.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Argentines protest against Milei’s defunding of public universities.
+Jason Collins, the first openly gay active player in the National Basketball Association (NBA), has died at the age of 47 after battling cancer.
+
+“We are heartbroken to share that Jason Collins, our beloved husband, son, brother and uncle, has died after a valiant fight with glioblastoma,” the family said in a statement on Tuesday.
+
+Collins revealed in September that he was undergoing treatment for a brain tumour and later disclosed he had stage four glioblastoma, an aggressive form of brain cancer.
+
+The 7-footer (2.13 metres tall) made headlines in 2013 when he became the first active male athlete in one of North America’s four major professional sports leagues to publicly come out as gay.
+
+The centre played 13 seasons in the NBA. He was selected 18th overall by the Houston Rockets in the 2001 draft, then was traded to the then-New Jersey Nets on draft night. He also had stints with the Memphis Grizzlies, Minnesota Timberwolves, Atlanta Hawks, Boston Celtics and Washington Wizards.
+
+Collins helped the Nets reach back-to-back NBA Finals in 2002 and 2003 alongside teammates Jason Kidd and Richard Jefferson.
+
+After a first-person essay in Sports Illustrated disclosing he was gay, Collins received widespread support across the sports world, including from then-United States President Barack Obama.
+
+“Jason changed lives in unexpected ways and was an inspiration to all who knew him and to those who admired him from afar,” his family said. “Our family will miss him dearly.”
+
+Arn Tellem, former agent of Collins and current vice chairman of the Detroit Pistons, said his decision to come out changed lives.
+
+“Jason’s legacy stands as a beacon for tolerance, dignity, respect, inclusion, compassion, and understanding,” Tellem said in a statement. “He left this world better than he found it.”
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/argentines-protest-against-mileis-defunding-of-public-universities?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/13/jason-collins-first-openly-gay-active-nba-player-dies-after-cancer-battle?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 FBI Director Kash Patel fires back at drinking allegations
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778636378.jpg?resize=1620%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 How Silicon Valley giants are turning into war contractors
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776685404.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-FBI Director Kash Patel and Senator Chris Van Hollen had a heated exchange during a Senate budget hearing.
+The military-industrial complex – the deep ties between big wars and big industries – has evolved into a military-tech complex. Palantir, Anduril, Google and other tech giants are selling AI-powered, computer-guided weapons systems branded as “smart,” “safe” and “surgical”.
+
+But behind the gloss lies a dangerous truth of escalation, instability and an increasingly rapidly evolving tech sector that sees big money in big wars.
+
+Join Ali Rae in Episode One of All Hail the Military – a five-part series that reveals the systems, power and hidden complicities that sustain global militarism – and the profound impact it has on us all.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/aje-onl-nf_clip_fbi-director-patel-fires-back-at-allegations-120526?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Peru presidential candidate Roberto Sanchez charged with financial crimes
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-30T171937Z_557282588_RC2RZKAS1VST_RTRMADP_3_PERU-POLITICS-1778632912.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Messi doubles MLS base salary to make $28m a year at Inter Miami
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260509__2275327814__v2__HighRes__TorontoFcVInterMiamiCf-1778660255.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Peru’s public prosecutor’s office has accused leftist presidential candidate Roberto Sanchez of financial crimes, calling for him to be imprisoned for five years and four months.
+Lionel Messi remains the highest-paid player in Major League Soccer with an annual base salary of $25m, more than twice as much as the next-highest-paid player, Son Heung-min, the MLS Players Association says.
 
-The charges, unsealed on Tuesday, came hours after electoral authorities confirmed Sanchez was on track to advance to the country’s presidential run-off, scheduled for June 7.
+According to the figures released on Tuesday, Messi’s base salary has doubled, while overall the deal will see him make $28.3m in guaranteed compensation.
 
-According to the El Comercio newspaper, prosecutors allege that Sanchez, who is the candidate of the Juntos por el Peru (Together for Peru) party, filed false financial disclosures with the National Office of Electoral Processes related to campaign contributions between 2018 and 2020.
+The union’s latest list of player salaries reflected the contract extension Messi signed with Inter Miami in October, which will keep him with the Florida outfit through the 2028 campaign.
 
-Prosecutors say Sanchez and his brother, William Sanchez, received more than 280,000 Peruvian soles ($81,720) in contributions and membership fees that were never disclosed in the party’s financial filings.
+South Korea star Son, the former Tottenham captain who signed with Los Angeles FC last August for a reported MLS record $26m transfer fee, has a base salary of $10.36m, with total guaranteed compensation of $11.2m.
 
-Sanchez is also accused of making false statements in administrative proceedings.
+The salaries do not include income from endorsement deals, nor does Messi’s compensation reflect his option to acquire a stake in the Florida franchise, co-owned by David Beckham, which he joined in 2023.
 
-In addition to the jail term, prosecutors were also seeking a “permanent disqualification” of Sanchez from holding the office of president for the Juntos por el Peru party, according to El Comercio.
+The 38-year-old Messi, who is expected to lead Argentina’s World Cup title defence starting next month, has 59 goals in 64 MLS regular-season games with Miami. He led the league with 29 goals last season and was named Most Valuable Player for the second straight season.
 
-Sanchez’s lawyer rejected the accusations, telling local outlet RPP that the party’s treasurer, not Sanchez, was responsible for its financial filings.
+Messi’s Inter Miami and Argentina teammate Rodrigo De Paul is third on the list with $9.7m in guaranteed compensation.
 
-A judge is expected to decide on May 27 whether the case will go to trial.
+Mexico’s Hirving “Chucky” Lozano is fourth on the list with $9.3m, although he has not featured for San Diego since November.
 
-The charges emerged as vote counting from last month’s first-round election showed Sanchez advancing to a run-off against conservative rival Keiko Fujimori.
+Atlanta’s Miguel Almiron rounds out the top five with guaranteed compensation of $7.9m.
 
-With 99.76 percent of ballots counted, Fujimori, the daughter of late former President Alberto Fujimori and a four-time presidential candidate, held a commanding lead with 17.17 percent of the vote.
+Miami’s $54.6m payroll is more than $20m higher than LAFC, which is second at $32.7m, and nearly five times as much as Philadelphia’s league-low $11.7m. Miami’s payroll is up from $46.8m at the start of last season.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/peru-presidential-candidate-roberto-sanchez-charged-with-financial-crimes?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/13/messi-doubles-mls-base-salary-to-make-28m-a-year-at-inter-miami?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Starmer at risk because he pushed Labour to be ‘new Conservative Party’
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778632225.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 China’s Xi expected to press Trump on Taiwan, tariffs during summit
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20251030__82G693V__v1__MidRes__SkoreaUsChinaDiplomacy-1-1778650217_381bb7-1778650918.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Author Oliver Eagleton explains why British Prime Minister Keir Starmer is fighting for his job.
+Taipei, Taiwan – Chinese President Xi Jinping is expected to seek concessions on Taiwan and US tariffs when he meets United States President Donald Trump for a high-stakes summit taking place in the shadow of the war on Iran.
+
+Trump will arrive in China on Wednesday evening for a three-day visit that will mark the first trip by a US leader to the country since 2017, when Trump visited in the early days of his first term.
+
+Unlike Trump, who is renowned for his mercurial policymaking, Xi is widely seen as predictable in his goals for the summit, particularly as they concern Beijing’s longstanding “core interests” related to national security and territorial integrity.
+
+While Taiwan’s government considers itself the head of a de facto sovereign state, Beijing views the island as an inalienable part of its territory.
+
+The US formally cut ties with Taiwan – also known as the Republic of China – decades ago, but is committed to aiding the self-governing democracy’s defence under the 1979 Taiwan Relations Act.
+
+Under the law, Washington has provided Taiwan with billions of dollars in arms and pursued cooperation in areas such as military training and intelligence sharing, which Beijing considers interference in its internal affairs.
+
+The US government officially acknowledges that China views Taiwan as part of its territory, but does not express a stance on whether it agrees.
+
+Washington is also intentionally vague about whether it would intervene to defend Taiwan if China sought to annex it by force.
+
+In a call with US Secretary of State Marco Rubio last month, Chinese Foreign Minister Wang Yi made clear that Taiwan would be raised at the summit, describing the issue as “the biggest risk in the China-US relationship”, according to a Chinese readout of the call.
+
+China’s embassy in Washington, DC, reiterated that message after Trump’s departure for the summit on Tuesday, naming Taiwan as the first of “four red lines” that “must not be challenged”.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/starmer-at-risk-because-he-pushed-labour-to-be-new-conservative?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Iran war live: Trump travels to China as conflict with Tehran looms large
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260512__2275849880__v1__HighRes__PresidentTrumpDepartsWashingtonForTripToChin-1778628521.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Iran war day 75: Trump-Xi talks loom in Beijing as tensions rise in Gulf
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a03f3703f0b-1778643824.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Israeli attacks on Lebanon have killed 2,883 people and injured 8,787 since March 2, Lebanon&#039;s Health Ministry says.
+United States President Donald Trump departed for Beijing on Tuesday for a high-stakes summit with Chinese President Xi Jinping, saying the two leaders would hold a “long talk” on Iran even as trade remains the main focus of the visit.
+
+The summit comes as tensions over the war involving Iran continue to escalate, with Tehran accusing Washington and Israel of fabricating “justifications for atrocity”, while Trump insists the conflict will end “peacefully or otherwise”.
+
+Meanwhile, Kuwait said it arrested four alleged members of Iran’s Islamic Revolutionary Guard Corps (IRGC) accused of planning “hostile” activities after attempting to enter the country via Bubiyan Island, while Qatar has accused Tehran of “weaponising” the Strait of Hormuz and using it to “blackmail” Gulf states as vital energy supplies remain trapped in the region.
 
 </font>
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/liveblog/2026/5/13/iran-war-live-trump-travels-to-china-as-conflict-with-tehran-looms-large?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -147,41 +192,8 @@ Trump, in turn, may well be the most mercurial foreign leader China has ever enc
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 No sign of larger hantavirus outbreak, says UN health agency
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/62d4/live/48741b80-4dee-11f1-8191-8bac3ae59130.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-<font size='4'>
-
-There is "no sign" of a larger hantavirus outbreak after the evacuation of the last passengers from a disease-stricken cruise ship, the head of the UN health agency has said.
-
-But the World Health Organization's (WHO) chief Tedros Adhanom Ghebreyesus warned "the situation could change" and there could be more confirmed virus cases.
-
-The MV Hondius left Tenerife on Monday and is sailing to the Dutch port of Rotterdam. Two flights carrying the final 28 passengers landed in nearby Eindhoven on Tuesday.
-
-Three people have died after travelling on the ship. A French national and a Spaniard who previously returned home have tested positive. The WHO has confirmed nine cases, with two others suspected.
-
-The French woman is in intensive care in hospital in Paris and doctors say she has "the most severe form" of the disease and is being treated with an artificial lung.
-
-Twelve employees at a Dutch hospital are now in quarantine over possible exposure to the virus after treating one of the evacuated passengers.
-
-The hospital in the city of Nijmegen said on Monday that this was a precautionary measure, as the workers did not follow strict protocols while handling the patient's blood and urine samples.
-
-At Tuesday's press conference in Madrid, Ghebreyesus said: "At the moment, there is no sign that we are seeing the start of a larger outbreak.
-
-"But of course the situation could change and, given the long incubation period of the virus, it's possible we might see more cases in the coming weeks."
-
-And he stressed that "our work is not over" to contain the outbreak from the cruise ship.
-
-</font>
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ### 📰 Australia has some of the world's costliest homes. Will scrapping tax breaks help?
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/3e63/live/488af620-4db2-11f1-950d-add6aac521e1.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6ded/live/01840610-4e91-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
@@ -213,36 +225,36 @@ Australia has some of the least affordable cities on Earth. The average property
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f040/live/d4bf8df0-4e5b-11f1-9305-3566b5d14ae1.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Ghana to evacuate 300 from South Africa over anti-immigrant protests
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e2f6/live/3065b150-4ea4-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 <font size='4'>
 
-US President Donald Trump's futuristic "Golden Dome" missile defence system will cost about $1.2 ​tn (£882bn) to develop, deploy and operate over two decades, the nonpartisan Congressional Budget Office estimates.
+Ghana says it will evacuate 300 citizens from South Africa following a recent wave of protests against foreign nationals.
 
-That figure is significantly higher than the initial sum of $175bn (£129bn) that had been earmarked.
+Foreign Minister Samuel Okudzeto Ablakwa said in a post on X on Tuesday that the Ghanaian president had granted approval for their "immediate evacuation".
 
-And the system designed to shield the US against ballistic and cruise missiles might not even work. The new CBO report warned the Golden Dome could be vulnerable to a full-scale attack by Russia or China.
+He said the "distressed" Ghanaians had registered at the country's embassy in Pretoria to be rescued in response to an advisory by the foreign ministry "following the latest wave of xenophobic attacks".
 
-Acquisition costs alone would be ⁠over $1tn, including for the interceptor layers and a space-based missile warning and tracking system, the fiscal scorekeeper said in a new report.
+Last week, South African authorities denied that anyone had been attacked, saying the widely circulated videos were fake.
 
-Just days after returning to the White House in January, Trump unveiled plans for the system, aimed at countering "next-generation" aerial threats.
+On Monday, South African President Cyril Ramaphosa said the recent "protests and criminal acts directed at foreign nationals" did not reflect government policy, describing them as "isolated acts of criminality".
 
-He said last year that the programme would require an initial investment of $25bn, with a total cost of $175bn over time.
+He added that South Africa would "regulate migration, secure our borders and enforce our laws".
 
-Democratic Senator Jeff Merkley, who requested the estimate in the report, said on Tuesday: "The President's so-called 'Golden Dome' is nothing more than a massive giveaway to ​defense contractors paid for entirely by working Americans."
+Thousands of South Africans joined protests against illegal immigration, demanding the mass deportation of undocumented foreign nationals. Protesters say illegal immigration has had an impact on jobs, housing and crime.
 
-There have been doubts about whether the US would be able to deliver a comprehensive defence system for such a huge land mass.
+On Tuesday, the Ghanaian embassy in South Africa advised nationals to be highly cautious and prioritise their safety by avoiding public gatherings and shut their shops or businesses in the port city of Durban ahead of a protest planned on Wednesday.
 
-Officials have warned that existing systems have not kept pace with increasingly sophisticated weapons possessed by potential adversaries.
+Ghana and Nigeria have recently summoned the South African envoys to their respective countries over the mistreatment and harassment of their citizens.
 
-Despite the projected costs of the Golden Dome, "the system could be overwhelmed by a full-scale attack mounted by a peer or near-peer adversary", the CBO said.
+Ghana has also written to the African Union (AU) asking it to discuss the issue, saying it posed a "serious risk to the safety and wellbeing" of Africans in South Africa.
 
 </font>
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -276,6 +288,39 @@ He says the Tatas had "underestimated the problems they inherited with the legac
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Jason Collins, NBA's first openly gay player, dies aged 47
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8c2c/live/6c177c30-4e98-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Former pro-basketball player Jason Collins, the first active male athlete on a major American professional team sport to come out as gay, has died aged 47.
+
+Collins died after a "valiant fight with glioblastoma", an aggressive form of brain cancer, his family said in a statement shared by the National Basketball Association (NBA).
+
+He announced last year that he had been diagnosed with the cancer and was undergoing treatment to stop the spread of the inoperable disease.
+
+"Jason Collins' impact and influence extended far beyond basketball as he helped make the NBA, WNBA and larger sports community more inclusive and welcoming for future generations," NBA Commissioner Adam Silver said on Tuesday.
+
+"Jason will be remembered not only for breaking barriers, but also for the kindness and humanity that defined his life and touched so many others," Silver added.
+
+Collins said in December 2025 that the cancer was discovered after he was struggling to focus.
+
+The brain tumour, he said, was like "a monster with tentacles spreading across the underside of my brain the width of a baseball".
+
+Without treatment, he would be dead within three months, doctors told Collins.
+
+When revealing his diagnosis to the world, he said it reminded him of his decision to publicly come out as gay in 2013 in a front-page cover story for Sports Illustrated. The years since were "the best of my life", he said.
+
+"Your life is so much better when you just show up as your true self, unafraid to be your true self, in public or private. This is me. This is what I'm dealing with."
+
+</font>
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -438,32 +483,86 @@ The largest part of the exercise takes place in Morocco, involving approximately
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 'Revenge of the Nerds' Actor Donald Gibb Dead at 71
-<img src='https://imagez.tmz.com/image/e1/16by9/2026/05/13/e108a894a15a47c4af2e693af09b9fbc_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Hayden Panettiere's Ex Brian Hickerson Still Holding Out Hope to Marry Her
+<img src='https://imagez.tmz.com/image/54/16by9/2026/05/12/547ac07b1c16407fa92d141debf41969_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
-Donald Gibb -- best known for playing the lovable brute "Ogre" in the "Revenge of the Nerds" franchise -- has died ... TMZ has learned.
+Hayden Panettiere's ex Brian Hickerson says he still dreams about a future with the actress ... admitting he would even marry her, despite their rocky past.
 
-Gibbs' son, Travis, tells TMZ ... Donald passed Tuesday evening due to health complications. He says he died at his home in Texas, where he was surrounded by family, including his kids, who loved him deeply.
+Hickerson sat down with TMZ's Charlie Neff ahead of Hayden's upcoming memoir, "This Is Me: A Reckoning" ... and got surprisingly emotional when the conversation turned to the former couple's relationship.
 
-We're told his death was not sudden, as Donald had been battling ongoing health issues.
+When Charlie asked if he ever thinks about marrying the former "Nashville" actress one day, Brian didn’t hold back ... "Yeah, of course."
 
-Travis and his family tells us ... Donald loved the Lord and his family, friends and fans with all his heart, and they ask for prayers and privacy during this difficult time. They add that their father will be deeply missed and forever remembered.
+It sounds like he's still holding onto hope there could someday be another chapter for them ... because when asked if he still thinks that could happen, he said ... "I hope so -- she probably doesn't think the same way."
 
-Donald became a cult icon in the 1980s thanks to his role as the intimidating --but oddly endearing -- fraternity brother in "Revenge of the Nerds" as well as its sequels. His towering presence and comedic timing made "Ogre" one of the most memorable characters in the franchise.
+The interview took a more reflective turn when Brian explained why he believes the two may ultimately be better apart.
 
-Beyond that breakout role, Gibb built a steady career in film and television, appearing in projects like "Bloodsport," "U.S. Marshals," and "Hancock." He often played tough-guy roles, leaning into his imposing stature, but those who worked with him knew him as a kind and down-to-earth person off-screen.
+"I think that Hayden is one of the most talented people I’ve ever met in my life, and I would be an idiot not to walk away from her and let her flourish in her career," he said. "So, we probably wouldn’t be good together."
 
-Donald was 71.
+The former couple was photographed together at an airport back in March -- sparking speculation they may have rekindled things -- though Brian described their relationship now as more of a friendship built on mutual respect. But it’s obvious the feelings haven’t gone away 'cause Brian said bluntly, "I miss Hayden every day."
 
-RIP.
+Still, Brian also admitted he has major regrets about how their relationship unfolded ... saying he went into "such a dark place" involving drugs and alcohol during their time together. The exes dated on and off from 2018 to 2022 ... before their relationship spiraled into legal drama -- with Brian pleading no contest to felony domestic violence charges and receiving jail time, probation and a five-year restraining order.
+
+Be sure to check out Charlie’s full interview with Brian ... where he opens up about everything from his feelings about being in her memoir to his thoughts on her ex-fiancé and daughter's father, Wladimir Klitschko.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/donald-gibb-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/hayden-panettiere-ex-brian-hickerson-wants-her-back/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Alix Earle Reveals Secret to Sports Illustrated Swimsuit Body
+<img src='https://imagez.tmz.com/image/5c/16by9/2026/05/12/5c22eb938532431f983a0a911ebdd8c2_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+<font size='4'>
+
+They say dancing is the best medicine -- but it's also apparently the go-to workout for Sports Illustrated Swimsuit models -- 'cause Alix Earle says weeks of shakin' it on TV got her ready for her cover shoot!!
+
+TMZ Sports caught up with the influencer out in NYC on Tuesday ... and had to ask how she prepared her body for being one of four beauties getting honored with the spotlight in 2026.
+
+Her workout routine?? "Dancing With The Stars!!"
+
+The "Get Ready With Me" video queen did her thing on the ABC competition show last year ... earning second place with her partner, Val Chmerkovskiy, behind Robert Irwin and Witney Carson.
+
+Earle noted being in perfect shape isn't what S.I. Swim is about ... and she is a huge fan of how they highlight all types of beautiful bodies every year.
+
+"I think that's the thing about S.I. is they just empower everyone, so you feel good no matter what. And that's a really special thing about them."
+
+Earle, Hilary Duff, Nicole Williams English and Tiffany Haddish all got the nod as cover models this year ... and the mag features a ton of celebs and athletes -- of all body types -- as it hits newsstands nationally on May 26!!
+
+</font>
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/alix-earle-shares-workout-for-sports-illustrated-look/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Spencer Pratt Drops Serious $$$ at Fav Mexican Restaurant in Mayor Campaign
+<img src='https://imagez.tmz.com/image/a7/16by9/2026/05/12/a7c573d170164345aa2563406e10d9bf_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Spencer Pratt is an extremely loyal customer, dropping thousands at his favorite Mexican restaurant as part of his campaign for Los Angeles mayor ... TMZ has learned.
+
+According to campaign docs, obtained by TMZ, Spencer spent a total of around $8K for fundraising events at Don Antonio's, on the Westside ... which has been Spencer and his wife Heidi's fav spot since they starred on "The Hills." The campaign docs cover&nbsp;the period between January 1, 2026 to April 18, 2026.
+
+You'll recall ... Spencer and Heidi often shot scenes for "The Hills" at Don Antonio's and have been praising the joint for years. On TikTok, Spencer often posts about his love of the spot.
+
+Other expenses in the documents include nearly $4K spent at Nana's Kitchen, in the Valley, and more than $10K on an Airbnb for “spouse or staff travel.”
+
+The docs show Spencer raised $539K in the same time period, from January to April this year. Notable donors include "The Hills" star Doug Reinhardt, reality show producer Jeff Jenkins, and singer Katharine McPhee.
+
+Spencer's leading opponent, incumbent Mayor Karen Bass, reportedly raised $494K in the same period.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/spencer-pratt-drops-serious-at-fav-mexican-spot-for-mayor-campaign/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -494,116 +593,112 @@ The lawsuit basically claims Jenner misled investors into buying the crypto coin
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 RHOBH’s Dorit Kemsley Alleges Ex-PK Stopped Paying Electricity Amid Bitter Divorce
-<img src='https://imagez.tmz.com/image/5b/16by9/2026/05/12/5b536bab83024ff28fa440f4e6ad53f7_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-<font size='4'>
-
-'Real Housewives of Beverly Hills' star Dorit Kemsley claims her estranged husband, PK Kemsley, stopped paying the bills on their $6 million mansion amid their bitter divorce, TMZ has learned. Sources close to PK claim he paid the bills for years and only recently stopped due to Dorit's wild spending.
-
-TMZ obtained a scathing email from Dorit's team -- filed by PK as part of their nasty divorce -- which is dated April 15, 2026 and addresses issues about the couple's finances and other matters.
-
-Dorit's team claimed that, "first and foremost, contrary to PK's representations, Dorit has always been agreeable to placing the house on the market as long as reasonable protections are in place," adding that Dorit needed "adequate financial support" ... including an immediate $50K payment.
-
-The letter goes on ... "PK readily admits that he can pay the mortgage, however, he simply does not want to do so because he wants to starve out his spouse to force a sale of the home where his children live. PK's intentional use of financial gamesmanship has placed Dorit and the children in a constant state of uncertainty by design."
-
-Dorit's lawyer claims PK has "left the gas, the electricity, the internet, and other essential services unpaid for an extended period of time" ... adding that Dorit had to cover the bills to avoid disruption.
-
-Sources connected to the case scoff at Dorit's claims. They claim PK paid the bills for years but stopped due to Dorit recently spending over a $1 million on clothes and travel ... while not helping out with the mortgage.
-
-</font>
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/dorit-kemsley-claims-pk-failed-to-pay-security-after-burglary/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Tiffany Haddish Wants DUI Case Tossed, Says 4-Year Delay Is Costing Her Work
-<img src='https://imagez.tmz.com/image/13/16by9/2026/05/12/1339699111fa48918fa2ef33b2b8c9dc_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-<font size='4'>
-
-Tiffany Haddish says her Georgia DUI case has been stuck in legal limbo for so long, it's now messing with her ability to travel the world and cash checks ... so she wants the whole thing tossed out.
-
-According to new court docs, obtained by TMZ, Tiffany has filed a motion to dismiss the case ... claiming the court violated her constitutional right to a speedy trial after letting the matter drag on for more than 4 years.
-
-The comedian was arrested back in January 2022, but she claims the case has stalled because the judge still hasn't ruled on key motions -- including her motion to suppress certain evidence that was argued in court way back in May 2024.
-
-Tiffany says her lawyers repeatedly checked in with the court over the last 2 years, asking about the case status ... only to be told officials were still "working on it."
-
-Her attorneys claim she announced she was "ready for trial" around 10 different times while waiting for rulings that never came. And Tiffany says the drawn-out case is costing more than just her patience.
-
-In the docs, she claims the pending DUI case has created issues getting travel documents for overseas work opportunities -- specifically mentioning recent problems tied to Australia -- and says she's had to hire expensive third-party help just to navigate the situation.
-
-She also claims some companies have been reluctant to work with her because of the unresolved case ... which she says has hurt her financially.
-
-As we first reported ... Tiffany was arrested in Peachtree City, GA in January 2022 after cops said they found her asleep behind the wheel around 4 AM. Officers arrested her for DUI and improper stopping on a roadway after they believed she had smoked marijuana.
-
-Now, after years of delays and unanswered rulings, Haddish says enough is enough ... and she wants the case dismissed for good.
-
-</font>
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/tiffany-haddish-wants-dui-case-tossed/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 From Top Gun to Barbie: Best Movie Sunglasses to Shop Now
-<img src='https://imagez.tmz.com/image/68/16by9/2026/05/08/687d432001aa4e2694b165da79f1a525_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Best Graduation Gifts for High School and College Grads
+<img src='https://imagez.tmz.com/image/b1/16by9/2026/05/06/b14bca495c2c413886fa32e12a1dbc6e_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 <font size='4'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
-Nothing says you're cool like a cool pair of sunglasses. And no one makes cool sunglasses look cooler than the iconic movie characters that wear 'em!
+Graduation season is officially here and it's time to celebrate the late nights, stressful exams and all the hard work they've put in for the past four years.
 
-From ol' classics to the hot new stuff, here are some sweet selections of sick sunglasses from beyond the silver screen that can accompany you this summer!
+Mark the beginning of their brand-new chapter with a thoughtful gift that shows you're so proud of their accomplishments. Whether they're heading to college, moving to a new city or starting their first job, we've picked out a variety of new grad essentials, fit for every budget.
 
 Want more great finds? Head to&nbsp;TMZ Deals.
 
-The Fall Guy
+Graduation Cap Headband
 
-You'll fall head over heels like a stuntman for these BlueBlocker Viper Sunglasses ... kinda like how Colt does for Jody in 2024's The Fall Guy! These glasses are for the fellas who do hardcore sh*t and then cry their feelings to some Taylor Swift by the beach.
+Let's be real, a graduation cap isn't flattering on anyone.
 
-Don't be embarrassed by the callout ... if Ryan Gosling can do it and make it look cool, we know you can too! Sorta.
+Before they walk across that stage, set them up with this Graduation Cap Headband, which is designed to work for all hair types and keep the cap in place all day long … and just might make the whole thing a little easier to style.&nbsp;
 
-Barbie
+White Graduation Dress
 
-Alright ladies, tell the patriarchy to shove it and do it in style ... with these Cat Eye sunglasses that look straight outta the Barbie movie! If there's any pair of shades you can put on that tell the world you're a queen who has got no time for mansplaining, these are certainly the ones. So dig your heels into the ground and take the world by storm just the way Margot Robbie does in Greta Gerwig's summer 2023 classic!
+If they're not sure what to wear underneath their grad gown, treat them to this adorable White Graduation Dress. This ultra flattering A-line mini dress looks good on all body types and is simple enough that they can make it their own style with bold shoes and accessories. It's a great fit for post graduation activities like photos and family dinner … and is sure to stay in their closet for years to come.&nbsp;
 
-And if that's not your vibe at the moment, they're also good for hiding your boredom when Ryan Gosling strums his guitar at you.
+Graduation Pickle Knit Plush
 
-Top Gun / Sex and the City 2
+Looking for a quirky gift for your new grad? This Graduation Pickle Knit Plush is sure to make them laugh.
 
-Whether you want to feel sexy in a Top Gun kinda way, or a Sex and the City kinda way, these classic aviator sunglasses are the perfect choice!
+This handmade crochet keepsake features a congratulatory message that reads "Graduation Pickle 2026, Congrats, Grad! From a tiny pickle to a BIG DILL. You made it!"
 
-Ray Bans are a classic look no matter what inspires you to get them. And it just so happens that these glasses are SO versatile that you can find them on jet-flying icons like Maverick to classic New York City socialites like Carrie Bradshaw!
+Plus, it's customizable and comes with five vibrant tassel colors to match their school mascot … or their outfit!
 
-"Mr. Orange" Reservoir Dogs
+Graduation Candle
 
-What's wrong with being Mr. Pink? Well, Mr. Pink doesn't have these Clubmaster sunglasses worn by Mr. Orange in Reservoir Dogs!
+Look at you graduating and s**t! You can’t go wrong with a candle … especially one that's this funny.
 
-If your dream is to walk down some back-alley in slow-mo, with some cool sunglasses, a cigarette, a nice black suit, and not tipping your waiter because you don't believe in it ... then these are the sunglasses for you! They're so good, Tarantino had to put them in his debut film ... how's that for style?
+This Graduation Candle features a hilarious congratulatory message and is crafted with a classic blend of premium essential oils.
 
-Fast & Furious Presents: Hobbs & Shaw
+With the fragrance of fresh lavender blended with warm vanilla, this calming candle will have the perfect place in their dorm or apartment.&nbsp;
 
-If you want fast, get a car. If you want furious, hit the gym. But if you want both ... Get these Ray-Ban sunglasses sported by the one-and-only Dwayne Johnson in Fast &amp; Furious Presents: Hobbs &amp; Shaw!
+Longchamp Large Tote Bag
 
-There are no better glasses on this list that tell people you're an ice-cold can of whoop-a** than these!
+Celebrate their big accomplishment with their first designer bag.
 
-For more curated product lists check out TMZ Deals.
+This classic Longchamp Large Tote Bag is the perfect bag for new grads, whether they're moving on to college or heading into the real world with their first big job.
+
+It fits all the essentials, from text books to laptops, making it a fashionable way to get around campus or the office.&nbsp;
+
+Osprey Farpoint 40 Travel Pack
+
+If they've got big plans post grad to backpack through Europe or college orientation is a part of their summer itinerary, they're going to love this Osprey Farpoint 40 Travel Pack.
+
+With a blend of technical details with practical storage features, they can travel far and light with this handy backpack. It's got room for all the essentials while still meeting the carry-on size restrictions for most airlines.&nbsp;
+
+HOTO AutoCare Air Duster & Vacuum
+
+A gift they totally need but probably haven’t considered? The HOTO AutoCare Air Duster &amp; Vacuum. This handheld vacuum is perfect for small messes in the car or around the house, getting into crevices, corners and small spaces.
+
+With 4-in-1 functionality, it combines vacuuming, blowing, inflating, and vacuum sealing all into one handy device.
+
+It's a must-have for cars, dorms and apartments.&nbsp;
+
+Pandora Triple Stone Heart Collier Necklace
+
+Why not celebrate with a little bling?
+
+The delicate, sparkling Pandora Triple Stone Heart Collier Necklace is a symbol of everlasting love, making a perfect gift from mother to daughter … a reminder that you will always be connected even as they head off to college or a new city.
+
+Featuring three round brilliant-cut stones into a refined heart-shaped style, it's a perfect everyday piece that can easily be layered with other styles.
+
+Samsonite Freeform Luggage Set
+
+Whether they're heading out on a post-grad trip across the globe or just packing up their life for college, you can't go wrong with this Samsonite Freeform Luggage Set.
+
+This two-piece set will have you set for all your travels with a large hardshell suitcase and a matching carry-on.
+
+With generous capacity, complete with elastic straps, a divider, and a pouch, packing will be a breeze. And with four oversized, multidirectional spinners, you'll be gliding through the airport too.
+
+Ninja Luxe Café Premier Espresso Machine
+
+With the Ninja Luxe Café Premier Espresso Machine, they're about to become the go-to barista in their dorm.
+
+Before they head off to college, set them up for caffeinated success with this 3-in-1 espresso and coffee system that creates café-quality drinks at home.
+
+Barista Assist Technology guides you to the perfect cup from grind size recommendations to automated brew adjustments, making them an expert … even with no experience.
+
+Tissot PRX Powermatic 80 Watch
+
+A new timepiece is a classic grad gift that will last them years to come. The Tissot PRX Powermatic 80 Watch may be a pricey present but it's sure to get so much use.
+
+A slim, smooth 40mm watch with an authentic '70s feel, it may have a vintage vibe but it's packed with top of the line features. Its movement delivers reliability and precision and with 80 hours of power reserve, it's a modern movement designed to keep pace with busy lifestyles.
+
+Dyson Airwrap Multi-Styler Complete Long
+
+The ultimate graduation gift? The Dyson Airwrap Multi-Styler Complete Long. This iconic styler is designed especially for all different hair types that’s chest-length or longer. Using an aerodynamic phenomenon called the Coanda effect, the device uses air to attract and wrap hair to the barrel or surface of the brush … all while preventing heat damage. Plus, it comes equipped with new barrels and re-engineered attachments for faster and easier styling.&nbsp;
+
+For more curated product lists check out&nbsp;TMZ Deals.
 
 Sign up for Amazon Prime to get the best deals!
 
-All prices &amp; availability subject to change. Not official merchandise unless explicitly stated.
+All prices &amp; availability subject to change.
 
 </font>
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/cool-movie-sunglasses-you-can-buy/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/graduation-gifts-available-on-amazon/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -636,19 +731,6 @@ Vessels are traveling without transmitting critical information meant to keep th
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Inflation Accelerates as Iran War Drives Up Energy Costs
-<div align='justify'>
-<font size='4'>
-
-Also, Russia keeps attacking U.S. companies in Ukraine. Here’s the latest at the end of Tuesday.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/briefing/iran-war-costs-inflation.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ### 📰 Trump’s Shrinking Ambitions on China
 <div align='justify'>
 <font size='4'>
@@ -675,9 +757,55 @@ Encounters with other world leaders reveal a side of China’s leader that the p
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 How China Could Wield Its Control of Rare Earths Against Trump
+<div align='justify'>
+<font size='4'>
+
+A central question hanging over the summit this week is whether China will agree to extend a temporary postponement of even tougher rare-earth export controls.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/business/china-trump-xi-rare-earths.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 America’s Emerald Isle
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/america’s-emerald-isle/beaverisland_oli2_20240802_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+<font size='4'>
+
+Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.
+
+In a process that played out over thousands of years, a retreating ice sheet carved, scoured, and shaped the landscape of the present-day Great Lakes. In northern Lake Michigan, this sculpting left distinct ridges and valleys running north-to-south along the lake floor. Some parts of those ridges, made of erosion-resistant rock, have remained above the waves of the big lake, forming the Beaver Archipelago.
+
+The OLI (Operational Land Imager) on Landsat 9 captured this image of several of the archipelago’s islands on August 2, 2024. These patches of land contain upland forests, dunes, wetlands, and marshes—habitats that support rare plant and bird species and provide spawning grounds for fish. The bright, sandy perimeters of the islands are surrounded by shallow, turquoise waters and deeper, dark blue areas, where depths reach up to about 330 feet (100 meters).
+
+This image centers on Beaver Island, the largest island in Lake Michigan at 13 miles (21 kilometers) long and 6 miles (10 kilometers) wide. It is also the only inhabited island of the Beaver Archipelago, and many of its approximately 600 residents are of Irish descent. In the mid-1800s, scores of immigrants from County Donegal, Ireland, and Irish fishermen from nearby islands and ports in Michigan settled on the island, which subsequently took on the moniker of “America’s Emerald Isle.”
+
+The farming and fishing, in particular, were productive for the new arrivals. In the 1880s, Beaver Island became the largest supplier of freshwater fish in the United States. Due to overfishing, however, such abundance would be short-lived.
+
+Ship traffic on the Great Lakes was also increasing during this time. Two lighthouses were constructed on the island to help the growing number of vessels traveling between Chicago and the Straits of Mackinac. The Beaver Head Lighthouse operated from 1852 to 1962 on the southern end of the island. On the northern side, the Beaver Island Harbor Light, pictured below, was first lit in 1870 and remains an active beacon more than 150 years later.
+
+Today, people travel to Beaver Island by boat or plane to explore its history and enjoy activities such as biking, fishing, and kayaking. The island’s remote location and minimal light pollution led to the establishment of the Beaver Island State Wildlife Research Area International Dark Sky Sanctuary in 2024. Sky gazers may be drawn to the sanctuary for a chance to glimpse the aurora borealis and other celestial phenomena.
+
+Neighboring islands in the archipelago are more difficult to access and have remained relatively undisturbed. Perched, or cliff-top, sand dunes are found up to 200 feet (60 meters) above the lake level on the western side of High Island. Unique plant species, including the Pitcher’s thistle and Lake Huron tansy, grow in the island’s dunes. On Hog Island, patches of old-growth northern hardwood forest remain. Wetland communities known as Great Lakes marshes along the shoreline provide spawning grounds for perch and smallmouth bass.
+
+NASA Earth Observatory image by Wanmei Liang, using Landsat data from the U.S. Geological Survey. Photo by Kelcie Herald/Unsplash. Story by Lindsey Doermann.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+</font>
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 NASA Langley Engineer Attends FAA Training
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/okc-tower-outside-edit.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -781,30 +909,14 @@ For more about Perseverance: science.nasa.gov/mission/mars-2020-perseverance/
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA’s Perseverance Rover Snaps Westernmost Selfie
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26752/PIA26752.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-<font size='4'>
-
-NASA’s Perseverance Mars rover took this selfie on March 11, 2026, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Assembled from 61 individual images, the selfie shows Perseverance training its mast on the “Arethusa” rocky outcrop after creating a whitish circular abrasion patch. The crater’s western rim of Jezero Crater is visible in the background.
-
-Figure A is a version of the selfie in which the rover appears to be looking at the camera.
-
-Here is a GIF combining the main image and Figure A, in which the rover appears to look up and down.
-
-The selfie is composed of images taken by the WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) camera on the end of the rover’s robotic arm. The images were stitched together after being sent back to Earth.
-
-WATSON is part of an instrument called SHERLOC (Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals). WATSON was built by Malin Space Science Systems (MSSS) in San Diego and is operated jointly by MSSS and JPL.
-
-NASA’s Jet Propulsion Laboratory, which is managed for the agency by Caltech in Pasadena, California, built and manages operations of the Perseverance rover.
-
-</font>
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
+
+<div align="center">
+
+### 🌟 Like this project?
+If you find this auto-updating news feed useful, please give it a **Star**!
+
+[⭐ Support by Starring Here](https://github.com/mojtabatavousi136-del/my-news-feed)
+
+</div>
