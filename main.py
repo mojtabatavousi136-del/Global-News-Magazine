@@ -5,6 +5,7 @@ import re
 import time
 import json
 from datetime import datetime
+import pytz  # اضافه شد برای ساعت تهران
 
 def get_ultra_content(entry, source_name):
     image_url = None
@@ -23,23 +24,16 @@ def get_ultra_content(entry, source_name):
 
         # --- Specific Fixes for English Sources ---
         if image_url:
-            # NASA Fix
             if source_name == "NASA News":
                 match = re.search(r'(^.*?\.(jpg|jpeg|png))', image_url, re.IGNORECASE)
-                if match:
-                    image_url = match.group(1)
-
-            # Guardian Fix
+                if match: image_url = match.group(1)
             elif source_name == "The Guardian":
                 image_url = re.sub(r'\?width=\d+&quality=\d+', '', image_url)
                 if '?' in image_url and 'static.guim.co.uk' in image_url:
                     image_url = image_url.split('?')[0]
-
-            # NY Times Fix (Using wsrv.nl proxy for GitHub compatibility)
             elif source_name == "NY Times":
                 image_url = f"https://wsrv.nl/?url={image_url}"
 
-        # Backup image from feed
         if not image_url:
             if 'media_content' in entry: image_url = entry.media_content[0]['url']
             elif 'links' in entry:
@@ -84,20 +78,25 @@ def main():
         "NASA News": "https://www.nasa.gov/news-release/feed/",
     }
 
-    # لینک مجله فارسی شما
-    persian_version_url = "https://github.com/mojtabatavousi136-del/my-news-feed"
+    # لینک‌های پروژه
+    repo_url = "https://github.com/mojtabatavousi136-del/my-news-feed"
+    
+    # --- تنظیم زمان به وقت تهران ---
+    tehran_tz = pytz.timezone('Asia/Tehran')
+    now_tehran = datetime.now(tehran_tz)
+    now_str = now_tehran.strftime('%Y/%m/%d - %H:%M')
 
-    now_str = datetime.now().strftime('%Y/%m/%d - %H:%M')
     markdown = f"""<div align="center">
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**📅 Update:** `{now_str}`
+**🚀 Engine Powered by: [Mojtaba Tavousi](https://github.com/mojtabatavousi136-del)**
+
+**📅 Update (Tehran Time):** `{now_str}`
 
 ---
 
-
-[**🇮🇷 مشاهده مجله خبری فارسی (Persian Version)**]({persian_version_url})
+[**🇮🇷 مشاهده مجله خبری فارسی (Persian Version)**]({repo_url})
 
 ---
 
@@ -128,6 +127,18 @@ def main():
             markdown += f" [🔗 Read Full Story on {name}]({entry.link})\n\n"
             markdown += "<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>\n\n"
         markdown += "\n---\n"
+
+    # اضافه کردن بخش دعوت به استاره در پایان
+    markdown += f"""
+<div align="center">
+
+### 🌟 Like this project?
+If you find this auto-updating news feed useful, please give it a **Star**!
+
+[⭐ Support by Starring Here]({repo_url})
+
+</div>
+"""
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(markdown)
