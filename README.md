@@ -2,9 +2,9 @@
 
 # 📰 MAHOOR WORLD PREMIER NEWS
 
-**  Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
+**Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/13 - 12:53`
+**📅 Update (Tehran Time):** `2026/05/13 - 13:01`
 
 ---
 
@@ -23,7 +23,6 @@
 <img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-02-13T073707Z_294300989_MT1USATODAY28225088_RTRMADP_3_NBA-75TH-ALL-STAR-GAME-LEGACY-PROJECT-DEDICATION-1778659228.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Jason Collins, the first openly gay active player in the National Basketball Association (NBA), has died at the age of 47 after battling cancer.
 
@@ -45,7 +44,6 @@ Arn Tellem, former agent of Collins and current vice chairman of the Detroit Pis
 
 “Jason’s legacy stands as a beacon for tolerance, dignity, respect, inclusion, compassion, and understanding,” Tellem said in a statement. “He left this world better than he found it.”
 
-</font>
 </div>
 
  [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/13/jason-collins-first-openly-gay-active-nba-player-dies-after-cancer-battle?traffic_source=rss)
@@ -56,7 +54,6 @@ Arn Tellem, former agent of Collins and current vice chairman of the Detroit Pis
 <img src='https://www.aljazeera.com/wp-content/uploads/2026/04/image-1776685404.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
-<font size='4'>
 
 The military-industrial complex – the deep ties between big wars and big industries – has evolved into a military-tech complex. Palantir, Anduril, Google and other tech giants are selling AI-powered, computer-guided weapons systems branded as “smart,” “safe” and “surgical”.
 
@@ -64,7 +61,6 @@ But behind the gloss lies a dangerous truth of escalation, instability and an in
 
 Join Ali Rae in Episode One of All Hail the Military – a five-part series that reveals the systems, power and hidden complicities that sustain global militarism – and the profound impact it has on us all.
 
-</font>
 </div>
 
  [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss)
@@ -75,7 +71,6 @@ Join Ali Rae in Episode One of All Hail the Military – a five-part series that
 <img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260509__2275327814__v2__HighRes__TorontoFcVInterMiamiCf-1778660255.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Lionel Messi remains the highest-paid player in Major League Soccer with an annual base salary of $25m, more than twice as much as the next-highest-paid player, Son Heung-min, the MLS Players Association says.
 
@@ -97,7 +92,6 @@ Atlanta’s Miguel Almiron rounds out the top five with guaranteed compensation 
 
 Miami’s $54.6m payroll is more than $20m higher than LAFC, which is second at $32.7m, and nearly five times as much as Philadelphia’s league-low $11.7m. Miami’s payroll is up from $46.8m at the start of last season.
 
-</font>
 </div>
 
  [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/13/messi-doubles-mls-base-salary-to-make-28m-a-year-at-inter-miami?traffic_source=rss)
@@ -108,7 +102,6 @@ Miami’s $54.6m payroll is more than $20m higher than LAFC, which is second at 
 <img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20251030__82G693V__v1__MidRes__SkoreaUsChinaDiplomacy-1-1778650217_381bb7-1778650918.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Taipei, Taiwan – Chinese President Xi Jinping is expected to seek concessions on Taiwan and US tariffs when he meets United States President Donald Trump for a high-stakes summit taking place in the shadow of the war on Iran.
 
@@ -130,7 +123,6 @@ In a call with US Secretary of State Marco Rubio last month, Chinese Foreign Min
 
 China’s embassy in Washington, DC, reiterated that message after Trump’s departure for the summit on Tuesday, naming Taiwan as the first of “four red lines” that “must not be challenged”.
 
-</font>
 </div>
 
  [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit?traffic_source=rss)
@@ -141,7 +133,6 @@ China’s embassy in Washington, DC, reiterated that message after Trump’s dep
 <img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a03f3703f0b-1778643824.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
-<font size='4'>
 
 United States President Donald Trump departed for Beijing on Tuesday for a high-stakes summit with Chinese President Xi Jinping, saying the two leaders would hold a “long talk” on Iran even as trade remains the main focus of the visit.
 
@@ -149,7 +140,6 @@ The summit comes as tensions over the war involving Iran continue to escalate, w
 
 Meanwhile, Kuwait said it arrested four alleged members of Iran’s Islamic Revolutionary Guard Corps (IRGC) accused of planning “hostile” activities after attempting to enter the country via Bubiyan Island, while Qatar has accused Tehran of “weaponising” the Strait of Hormuz and using it to “blackmail” Gulf states as vital energy supplies remain trapped in the region.
 
-</font>
 </div>
 
  [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/iran-war-day-75-trump-xi-talks-loom-in-beijing-as-tensions-rise-in-gulf?traffic_source=rss)
@@ -163,7 +153,6 @@ Meanwhile, Kuwait said it arrested four alleged members of Iran’s Islamic Revo
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/a764/live/ecd6a5e0-4e01-11f1-aa37-6b8846c2f74e.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
-<font size='4'>
 
 When China's leader Xi Jinping hosts his American counterpart in Beijing this week, Donald Trump will be reminded of his last visit in 2017 –  he was wooed hard, complete with dinner inside the Forbidden City, an honour no US president before him had received.
 
@@ -185,7 +174,6 @@ Washington now acknowledges China as a "near-peer", says Wyne, who describes Bei
 
 Trump, in turn, may well be the most mercurial foreign leader China has ever encountered. He even has a nickname here - Chuan Jianguo, which means "Trump the nation builder". Online many Chinese believe that his divisive policies and trade wars have helped China's rise by weakening America's global standing.
 
-</font>
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss)
@@ -196,7 +184,6 @@ Trump, in turn, may well be the most mercurial foreign leader China has ever enc
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/6ded/live/01840610-4e91-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Sebastian Muñoz-Najar has only just finished primary school. The 13-year-old is still years away from learning how to drive. He cannot legally work. He's too young to even have a social media account.
 
@@ -218,7 +205,6 @@ They feel they have been denied the kinds of opportunities their parents enjoyed
 
 Australia has some of the least affordable cities on Earth. The average property now costs almost 10 times an ordinary household's income, quadruple what it was about 25 years ago, and rents have doubled over a similar period.
 
-</font>
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss)
@@ -229,7 +215,6 @@ Australia has some of the least affordable cities on Earth. The average property
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/e2f6/live/3065b150-4ea4-11f1-b55d-0f258dce1735.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Ghana says it will evacuate 300 citizens from South Africa following a recent wave of protests against foreign nationals.
 
@@ -251,7 +236,6 @@ Ghana and Nigeria have recently summoned the South African envoys to their respe
 
 Ghana has also written to the African Union (AU) asking it to discuss the issue, saying it posed a "serious risk to the safety and wellbeing" of Africans in South Africa.
 
-</font>
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss)
@@ -262,7 +246,6 @@ Ghana has also written to the African Union (AU) asking it to discuss the issue,
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/59ad/live/94b20f80-4db6-11f1-8e66-f56d9b46fa9c.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
-<font size='4'>
 
 In under a month from now, India's Aircraft Accident Investigation Bureau (AAIB) is expected to release its final report on the crash of London-bound Air India flight AI‑171 that went down seconds after take‑off from Ahmedabad in western India on 12 June 2025.
 
@@ -284,7 +267,6 @@ Bhargava points to internal and external factors that have compounded the airlin
 
 He says the Tatas had "underestimated the problems they inherited with the legacy carrier", and Wilson was unable to build a team quickly enough after coming in to set things in order.
 
-</font>
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss)
@@ -295,7 +277,6 @@ He says the Tatas had "underestimated the problems they inherited with the legac
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/8c2c/live/6c177c30-4e98-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Former pro-basketball player Jason Collins, the first active male athlete on a major American professional team sport to come out as gay, has died aged 47.
 
@@ -317,7 +298,6 @@ When revealing his diagnosis to the world, he said it reminded him of his decisi
 
 "Your life is so much better when you just show up as your true self, unafraid to be your true self, in public or private. This is me. This is what I'm dealing with."
 
-</font>
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp8rdldk1o?at_medium=RSS&at_campaign=rss)
@@ -331,7 +311,6 @@ When revealing his diagnosis to the world, he said it reminded him of his decisi
 <img src='https://i.guim.co.uk/img/media/4e12c8f3bf0f3d8afcf7718347f97201ebd63135/234_0_3933_3144/master/3933.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d0baa14dc43dc7af6f3975c927c2b55' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Activists claim use of laws to curtail internet freedoms part of well-documented history of cracking down on dissent
 
@@ -353,7 +332,6 @@ The restrictions were temporarily lifted in April. However, a new regulation pas
 
 The law is one of a number of far-reaching changes to codify a crackdown on dissent including a controversial new nationality code signed in February and published last month. The code has come under criticism from those who say it restricts the rights of naturalised citizens and makes it easier for the state to strip citizens of their nationality.
 
-</font>
 </div>
 
  [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights)
@@ -364,7 +342,6 @@ The law is one of a number of far-reaching changes to codify a crackdown on diss
 <img src='https://i.guim.co.uk/img/media/b811e0f2e21092d50146ecede9734b90a211d2bd/1170_0_6385_5108/master/6385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa70d4c74181ff74212064c03628d829' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
-<font size='4'>
 
 The 32.3m surpasses those caused by disasters for the first time, as 82.2m people displaced in total around world
 
@@ -386,7 +363,6 @@ The decline in the number of people displaced is due to people returning in part
 
 More than 83% of the people displaced in 2025 were forced to flee their homes in their countries because of conflict and violence, with the remainder having left because of natural disasters.
 
-</font>
 </div>
 
  [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025)
@@ -397,7 +373,6 @@ More than 83% of the people displaced in 2025 were forced to flee their homes in
 <img src='https://i.guim.co.uk/img/media/58631b3978281c186bf828d106951ace8bda8298/0_0_3713_2971/master/3713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a5b98815ffdd8ef95a0739a43acd79c' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat
 
@@ -419,7 +394,6 @@ He also highlighted the country’s infrastructure. “All of the preparations f
 
 The Botswana National Sports Commission runs programmes for 15 sports to spot and nurture talent. Re Ba Bona Ha (“We See Them Here” in Setswana) is a coaching initiative for children aged five to 13 that was launched for football in 2002, with athletics added in 2008. Up to 300 children attended athletics sessions every year, said Frederick Kebadiretse, the BNSC’s sports development manager.
 
-</font>
 </div>
 
  [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics)
@@ -430,7 +404,6 @@ The Botswana National Sports Commission runs programmes for 15 sports to spot an
 <img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4adcb1236732e90ee166d918d46cdab2' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape
 
@@ -446,7 +419,6 @@ Heavy rainfall is also expected to coincide with strong, potentially damaging wi
 
 The latest warnings come shortly after heavy rain triggered flooding, road closures and infrastructure damage across the Western and Eastern Cape on 5-7 May. More than 300mm of rain fell in some areas, forcing evacuations in Gamtoos Valley after the Kouga dam exceeded capacity. Power outages and at least 45 road closures left many communities isolated. One person died in Knysna, Western Cape, while more than 2,000 people were evacuated to emergency shelters.
 
-</font>
 </div>
 
  [🔗 Read Full Story on The Guardian](https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa)
@@ -457,7 +429,6 @@ The latest warnings come shortly after heavy rain triggered flooding, road closu
 <img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e27913fead786dc953e927871d85b3a5' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
-<font size='4'>
 
 1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries
 
@@ -473,7 +444,6 @@ The US service members were participating in African Lion, the US Africa Command
 
 The largest part of the exercise takes place in Morocco, involving approximately 5,000 personnel from more than 40 countries, according to Africom.
 
-</font>
 </div>
 
  [🔗 Read Full Story on The Guardian](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
@@ -487,7 +457,6 @@ The largest part of the exercise takes place in Morocco, involving approximately
 <img src='https://imagez.tmz.com/image/54/16by9/2026/05/12/547ac07b1c16407fa92d141debf41969_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Hayden Panettiere's ex Brian Hickerson says he still dreams about a future with the actress ... admitting he would even marry her, despite their rocky past.
 
@@ -507,7 +476,6 @@ Still, Brian also admitted he has major regrets about how their relationship unf
 
 Be sure to check out Charlie’s full interview with Brian ... where he opens up about everything from his feelings about being in her memoir to his thoughts on her ex-fiancé and daughter's father, Wladimir Klitschko.
 
-</font>
 </div>
 
  [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/hayden-panettiere-ex-brian-hickerson-wants-her-back/)
@@ -518,7 +486,6 @@ Be sure to check out Charlie’s full interview with Brian ... where he opens up
 <img src='https://imagez.tmz.com/image/5c/16by9/2026/05/12/5c22eb938532431f983a0a911ebdd8c2_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
-<font size='4'>
 
 They say dancing is the best medicine -- but it's also apparently the go-to workout for Sports Illustrated Swimsuit models -- 'cause Alix Earle says weeks of shakin' it on TV got her ready for her cover shoot!!
 
@@ -534,7 +501,6 @@ Earle noted being in perfect shape isn't what S.I. Swim is about ... and she is 
 
 Earle, Hilary Duff, Nicole Williams English and Tiffany Haddish all got the nod as cover models this year ... and the mag features a ton of celebs and athletes -- of all body types -- as it hits newsstands nationally on May 26!!
 
-</font>
 </div>
 
  [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/alix-earle-shares-workout-for-sports-illustrated-look/)
@@ -545,7 +511,6 @@ Earle, Hilary Duff, Nicole Williams English and Tiffany Haddish all got the nod 
 <img src='https://imagez.tmz.com/image/a7/16by9/2026/05/12/a7c573d170164345aa2563406e10d9bf_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Spencer Pratt is an extremely loyal customer, dropping thousands at his favorite Mexican restaurant as part of his campaign for Los Angeles mayor ... TMZ has learned.
 
@@ -559,7 +524,6 @@ The docs show Spencer raised $539K in the same time period, from January to Apri
 
 Spencer's leading opponent, incumbent Mayor Karen Bass, reportedly raised $494K in the same period.
 
-</font>
 </div>
 
  [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/spencer-pratt-drops-serious-at-fav-mexican-spot-for-mayor-campaign/)
@@ -570,7 +534,6 @@ Spencer's leading opponent, incumbent Mayor Karen Bass, reportedly raised $494K 
 <img src='https://imagez.tmz.com/image/ff/16by9/2026/05/13/ff4cbb110b5c48cd86b13a6f0ec43f22_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Caitlyn Jenner is facing a new class action lawsuit over her $JENNER meme coin ... with investors claiming they got burned in a celebrity-fueled crypto cash grab.
 
@@ -586,7 +549,6 @@ Investors claim Jenner kept telling buyers the coin was the real deal and about 
 
 The lawsuit basically claims Jenner misled investors into buying the crypto coins ... and now investors want their money back, plus extra damages.
 
-</font>
 </div>
 
  [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/12/caitlyn-jenner-sued-for-crypto-scheme/)
@@ -597,7 +559,6 @@ The lawsuit basically claims Jenner misled investors into buying the crypto coin
 <img src='https://imagez.tmz.com/image/b1/16by9/2026/05/06/b14bca495c2c413886fa32e12a1dbc6e_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
-<font size='4'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
@@ -695,7 +656,6 @@ Sign up for Amazon Prime to get the best deals!
 
 All prices &amp; availability subject to change.
 
-</font>
 </div>
 
  [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/graduation-gifts-available-on-amazon/)
@@ -707,11 +667,9 @@ All prices &amp; availability subject to change.
 ## <a name='ny-times'></a>🌍 NY Times
 ### 📰 U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities
 <div align='justify'>
-<font size='4'>
 
 Secret new assessments say Iran has operational access to 30 of its 33 missile sites along the Strait of Hormuz, suggesting that its military remains far stronger than President Trump has asserted.
 
-</font>
 </div>
 
  [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html)
@@ -720,11 +678,9 @@ Secret new assessments say Iran has operational access to 30 of its 33 missile s
 
 ### 📰 Battle Over the Strait of Hormuz Leaves Safe Passage a Gamble
 <div align='justify'>
-<font size='4'>
 
 Vessels are traveling without transmitting critical information meant to keep the waters safe, maritime intelligence experts say.
 
-</font>
 </div>
 
  [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/12/world/middleeast/strait-of-hormuz-conrol.html)
@@ -733,11 +689,9 @@ Vessels are traveling without transmitting critical information meant to keep th
 
 ### 📰 Trump’s Shrinking Ambitions on China
 <div align='justify'>
-<font size='4'>
 
 The president came into office planning harsher trade moves on China than on the rest of the world. Here’s why he’s had to scale them back.
 
-</font>
 </div>
 
  [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/politics/trumps-shrinking-ambitions-on-china.html)
@@ -746,11 +700,9 @@ The president came into office planning harsher trade moves on China than on the
 
 ### 📰 The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors
 <div align='justify'>
-<font size='4'>
 
 Encounters with other world leaders reveal a side of China’s leader that the public rarely sees, and offer clues to how he will approach President Trump in Beijing.
 
-</font>
 </div>
 
  [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html)
@@ -759,11 +711,9 @@ Encounters with other world leaders reveal a side of China’s leader that the p
 
 ### 📰 How China Could Wield Its Control of Rare Earths Against Trump
 <div align='justify'>
-<font size='4'>
 
 A central question hanging over the summit this week is whether China will agree to extend a temporary postponement of even tougher rare-earth export controls.
 
-</font>
 </div>
 
  [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/business/china-trump-xi-rare-earths.html)
@@ -777,7 +727,6 @@ A central question hanging over the summit this week is whether China will agree
 <img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/america’s-emerald-isle/beaverisland_oli2_20240802_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
-<font size='4'>
 
 Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.
 
@@ -799,7 +748,6 @@ NASA Earth Observatory image by Wanmei Liang, using Landsat data from the U.S. 
 
 Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
 
-</font>
 </div>
 
  [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/americas-emerald-isle/)
@@ -810,7 +758,6 @@ Stay up-to-date with the latest content from NASA as we explore the universe and
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/okc-tower-outside-edit.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
-<font size='4'>
 
 At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost. Communications like “clearance delivery,” which require long transmissions and readbacks, are challenging in high-traffic areas, particularly when weather or other factors require many aircraft to communicate with controllers at once. Going digital clears that channel for urgent, time-critical calls, among other things. And it’s the current practice at some airports, where pilots can confirm clearances with the touch of a button, that the response goes directly to the controller’s screen, and the updated information loads into their flight management system.
 
@@ -832,7 +779,6 @@ The research Cummings-Grande is pursuing connects to a long thread of NASA work 
 
 What’s changed, in Cummings-Grande’s view, is the convergence of new infrastructure investments, including the rollout of systems derived from Airspace Technology Demonstration (ATD-2) technologies like the Spot and Runway Departure Advisor and the Precision Departure Release Capability through the TFDM, with renewed industry interest from a partner on the aircraft side. “We have all this homework that people have been doing for the last 20-30 years,” he said. “Can we take advantage of the renewed interest from FAA and industry to enable this safety-enhancement?”
 
-</font>
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/)
@@ -843,11 +789,9 @@ What’s changed, in Cummings-Grande’s view, is the convergence of new infrast
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/pia26650-watson-take-6-up-small.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
-<font size='4'>
 
 NASA’s Perseverance rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop in the foreground after creating a circular abrasion patch, with the western rim of Jezero Crater stretching into the background. During abrading, the rover grinds down a portion of the rock’s surface, allowing the science team to analyze what’s inside. The selfie was captured on March 11, the 1,797th Martian day (or sol) of the mission, during the rover’s deepest push west beyond the crater.
 
-</font>
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/perseverance-stuns-in-new-selfie/)
@@ -855,12 +799,31 @@ NASA’s Perseverance rover recently took a self-portrait against a sweeping bac
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/thumb-for-web-pia26752a-western-selfie-watson-take-6-up.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
 <div align='justify'>
-<font size='4'>
 
-NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western [&#8230;]
+To view this video please enable JavaScript, and consider upgrading to a web browser that
+supports HTML5 video
 
-</font>
+NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western rim of Jezero Crater stretching into the background. The selfie was captured on March 11, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond the crater.
+
+Perseverance is in its fifth science campaign, known as the Northern Rim Campaign, of its mission on the Red Planet. The Lac de Charmes region represents some of the most scientifically compelling terrain the rover has visited.
+
+“We took this image when the rover was in the ‘Wild West’ beyond the Jezero Crater rim — the farthest west we have been since we landed at Jezero a little over five years ago,” said Katie Stack Morgan, Perseverance’s project scientist at NASA’s Jet Propulsion Laboratory in Southern California. “We had just abraded and analyzed the ‘Arethusa’ outcrop, and the rover was sitting in a spot that provided a great view of both the Jezero Rim and the local terrain outside of the crater.”
+
+During abrading, the rover grinds down a portion of the rock’s surface, allowing the science team to analyze what’s inside. The technique enabled the team to determine that the Arethusa outcrop is composed of igneous minerals that likely predate the formation of Jezero Crater. Igneous rocks with large mineral crystals form underground as molten rock cools and solidifies. Perseverance acquired the selfie — its sixth since landing on Mars in 2021 — using the WATSON (Wide Angle Topographic Sensor for Operations and eNgineering) camera mounted at the end of its robotic arm, which made 62 precision movements over approximately one hour to build the composite image (learn more about how selfies are made).
+
+Along with the selfie, Perseverance used Mastcam-Z, located on its mast, to capture a mosaic of the “Arbot” area in Lac de Charmes on April 5, or Sol 1882. Made of 46 images, the panorama offers one of the richest geological vistas of the mission, revealing a windswept landscape of diverse rock textures.
+
+The image provides the team a clear road map for investigating the ridgeline and the area’s ancient rock variety, including what appear to be megabreccia — large fragments (some the size of skyscrapers) hurled by a massive meteorite impact that occurred on the plain called Isidis Planitia about 3.9 billion years ago.
+
+“What I see in this image is excellent exposure of likely the oldest rocks we are going to investigate during this mission,” said Ken Farley, Perseverance’s deputy project scientist at Caltech in Pasadena. “There is a sharp ridgeline visible in the mosaic whose jagged, angular texture contrasts starkly with the rounded boulders in the foreground. We also see a feature that may be a volcanic dike, a vertical intrusion of magma that hardened in place and was left standing as the softer surrounding material eroded away over billions of years.”
+
+The rock color in the mosaic offers less information to the science team than the distinctive textures, which help them differentiate the rock types. Unlike Jezero Crater’s river delta, which is composed of sedimentary rock, some rocks here appear to be extrusive igneous rocks (molten rock that reached the surface as lava flows) and impactites (rocks created or modified by a meteorite impact) believed to have formed before the crater about 4 billion years ago, offering a window into the planet’s deep early crust.
+
+“The rover’s study of these really ancient rocks is a whole new ballgame,” said Stack Morgan. “These rocks — especially if they’re from deep in the crust — could give us insights applicable to the entire planet, like whether there was a magma ocean on Mars and what initial conditions eventually made it a habitable planet.”
+
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/)
@@ -871,7 +834,6 @@ NASA’s Perseverance Mars rover recently took a self-portrait against a sweepin
 <img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26753/PIA26753.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
-<font size='4'>
 
 NASA's Perseverance Mars rover used its Mastcam-Z camera to capture this panorama of an area nicknamed “Arbot” on April 5, 2026, the 1,882nd Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Made of 46 images, the panorama offers one of the richest geological vistas of the mission, revealing a windswept landscape of diverse rock textures. This is an enhanced-color version, which had its color bands processed to improve visual contrast and accentuate color differences.
 
@@ -881,7 +843,6 @@ NASA’s Jet Propulsion Laboratory, which is managed for the agency by Caltech i
 
 For more about Perseverance: science.nasa.gov/mission/mars-2020-perseverance/
 
-</font>
 </div>
 
  [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-perseverance-captures-panorama-at-arbot/)
@@ -897,5 +858,9 @@ For more about Perseverance: science.nasa.gov/mission/mars-2020-perseverance/
 If you find this auto-updating news feed useful, please give it a **Star**!
 
 [⭐ Support by Starring Here](https://github.com/mojtabatavousi136-del/my-news-feed)
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=mahoor-news-world&color=blue&style=flat-square&label=visitor)
 
 </div>
