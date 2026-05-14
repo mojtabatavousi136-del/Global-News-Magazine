@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/14 - 14:58`
+**📅 Update (Tehran Time):** `2026/05/14 - 23:50`
 
 ---
 
@@ -19,306 +19,321 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Russia launches hundreds more drones at Ukraine, killing three people
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a059dec812dc-1778753004.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Mbappe and Dembele head up star-studded France World Cup squad
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-25T204908Z_2013982320_UP1EM3P1LTVP0_RTRMADP_3_SOCCER-FRIENDLY-BRA-FRA-PREVIEW-1-1778785417.jpg?resize=1200%2C630' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Russia launched a barrage of missiles and drones targeting Ukraine’s capital Kyiv, killing at least three people and wounding 40 others, Ukrainian authorities have said.
+France coach Didier Deschamps has assembled a World Cup squad with formidable attacking talent led by Kylian Mbappe, while rewarding goalkeeper Robin Risser following his breakthrough season with a call-up for the showpiece tournament.
 
-The Ukrainian military said on Thursday that the overnight strikes hit six districts of Kyiv and another six in the surrounding areas. Deputy Prime Minister Oleksii Kuleba said attacks had targeted ports in the southern Odesa region and railways.
+Deschamps, who guided France to World Cup glory in 2018 and will leave after this tournament, included few surprises in his announcement of the 26-man squad on Thursday.
 
-In a post on X, President Volodymyr Zelenskyy said rescue operations were continuing following an attack on a nine-storey building in Kyiv after Russia launched “more than 670 attack drones and 56 missiles against Ukraine”.
+Risser, though, who plays for Lens, has been one of the revelations of the French league season and won the award for best goalkeeper earlier this week. He played a big role in making Lens the second-best defence in Ligue 1 and was selected by Deschamps in a No. 3 role behind Mike Maignan and Brice Samba.
 
-“In total, since midnight yesterday, Russia has used more than 1,560 drones against our cities and communities. These are definitely not the actions of those who believe the war is coming to an end,” he wrote on Thursday.
+Looking to win a third World Cup, the French are among the tournament favourites in Canada, Mexico and the United States from June 11 – July 19.
 
-“It is important that partners do not remain silent about this strike. And it is equally important to continue supporting the protection of our skies,” Zelenskyy added.
+France are in Group I taking on Senegal, Iraq and Norway during the group stage.
 
-The mayor of Kyiv, Vitali Klitschko, said 40 people were wounded in the attacks, including two children, while Ukrainian emergency services said three people had been killed.
+Mbappe will likely captain the team, despite a thigh injury sustained last month, which caused him to miss key matches in Real Madrid’s La Liga run-in.
 
-Reporting from Kyiv, Al Jazeera’s Audrey Macalpine said people are still feared trapped under the rubble of the building.
+The 27-year-old will be on the plane to North America as part of an impressive attacking force which includes Ballon d’Or winner Ousmane Dembele, rising star Desire Doue, Michael Olise, Rayan Cherki and Maghnes Akliouche.
 
-Macalpine said it was one of Russia’s largest attacks of the war, “in a single 36-hour period just by sheer number of drones”.
+Cherki will be making his World Cup debut following an impressive first season at Manchester City for the 22-year-old.
 
-The attack comes as a setback for efforts to end the war after United States President Donald Trump raised faint hopes for peace by brokering a three-day ceasefire between Kyiv and Moscow last week, and Russian leader Vladimir Putin suggested the war could be winding down.
+Deschamps also called up Crystal Palace forward Jean-Philippe Mateta, who was preferred to Randal Kolo Muani. The Tottenham striker had been a late addition to France’s previous World Cup squad four years ago. Kolo Muani scored a goal against Morocco in the semi-finals and came close to becoming a national hero in the final, before France lost to Argentina in a penalty shootout.
 
-The truce – put in place as Putin presided over a scaled-down military parade in Red Square to mark the anniversary of World War II victory – was marred by allegations of violations by both sides.
+Deschamps’s reign began in 2012 and saw France win the 2018 World Cup and reach the 2022 final.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/14/mbappe-and-dembele-head-up-star-studded-france-world-cup-squad?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 World Cup train and shuttle bus ticket prices cut in New York, New Jersey
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-17T204955Z_1692886748_RC27RKAZYI9D_RTRMADP_3_SOCCER-WORLDCUP-NEW-JERSEY-TRAIN-TICKET-PRICES-1778749011.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778787153.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Local governments in New Jersey and New York have reduced the cost of train and bus tickets for commuters travelling to the states’ joint World Cup venue during the tournament.
+US President Donald Trump returns to Beijing after nine years to meet Chinese President Xi Jinping. The trade war, conflict in Iran, and rising fears over Taiwan shape the talks. With global tensions mounting, can the two leaders find common ground, or will rivalry push the world further into crisis?
 
-New Jersey Transit train tickets to the MetLife Stadium, renamed New Jersey New York Stadium for the FIFA World Cup, will now cost $98 as opposed to the earlier price set at $150 for a return fare, New Jersey Governor Mikie Sherrill announced on Wednesday.
+This episode was produced by Marcos Bartolomé and Sarí el-Khalili with Spencer Cline, Catherine Nouhan, Tuleen Barakat, Alexandra Locke, and our guest host, Kevin Hirten. It was edited by Tamara Khandaker.
 
-“Ahead of NJ Transit World Cup train tickets going on sale tonight, NJTRANSIT is lowering ticket prices to $98 without New Jersey taxpayer money,” Sherrill wrote in a social media post.
-
-The move followed intense backlash from local and international football fans planning to attend World Cup games at the stadium in East Rutherford, New Jersey, where the tournament’s final will be held on July 19.
-
-The $98 fare, which will be charged during the World Cup matches hosted in New Jersey, is still significantly higher than the regular fare of $13 for the 29km (18-mile) round trip from New York City’s Penn Station.
-
-When the $150 fare was announced, Sherrill defended it by suggesting the upcharge was necessary to ensure that her state’s commuters were not stuck with a “tab for years to come” for hosting the World Cup on its return to the United States for the first time since 1994.
-
-NJ Transit officials said it would cost $62m to transport fans to and from the stadium over the duration of the tournament and outside grants had defrayed only $14m of those anticipated expenses.
-
-“This isn’t price gouging,” NJ Transit President and CEO Kris Kolluri said last month. “We’re literally trying to recoup our costs.”
-
-Meanwhile, the cost of taking a shuttle bus from New York City to the World Cup venue has also been reduced.
-
-“The cost of shuttle bus tickets to and from matches will be reduced from the initial $80 round-trip price to $20,” New York Governor Kathy Hochul announced on the same Wednesday.
+Our sound designer is Alex Roldan. Our video editors are Hisham Abu Salah and Mohannad al-Melhem. Alexandra Locke is The Take’s executive producer.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/14/world-cup-train-and-shuttle-bus-ticket-prices-cut-in-new-york-new-jersey?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Could Iran war trigger a hunger crisis?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/web-1778750848.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 US Air Force rescues 11 after plane crashes into waters off Florida coast
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778786149.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The United Nations warns that if fertilisers cannot pass through the Strait of Hormuz within just a few weeks, the world could face mass starvation.
-
-It says the consequences could be severe if shipping disruptions linked to the Iran conflict drag on.
-
-Food prices are already at a three-year high, while fertiliser costs critical for agriculture have rocketed.
-
-Aid agencies fear a prolonged disruption could push tens of millions more people into hunger.
-
-For vulnerable economies already struggling with debt and high import costs, the risks are growing fast.
+US Air Force footage showed the rescue of 11 people after a private plane crashed into the Atlantic Ocean
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Federal judge blocks US sanctions against UN rapporteur Francesca Albanese
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/03/WIDE-THUMB-Francesca-Albanese-1774318725.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 What does the US hope to achieve from Lebanon-Israel talks?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778784246.jpg?resize=1920%2C1061&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A federal judge has temporarily ⁠blocked United States sanctions against Francesca Albanese, a United Nations expert on the occupied Palestinian territory.
+As Israeli attacks in Lebanon continue despite a ceasefire, the United States is hosting the third round of talks between Lebanese and Israeli officials.
 
-UN Human Rights Council Special Rapporteur Francesca Albanese was sanctioned in July 2025 after she publicly criticised Washington’s policy on Israel’s genocidal war against Palestinians in Gaza.
+Can the process help find a way forward for Lebanon after decades of war?
 
-Albanese’s husband and daughter filed a lawsuit in February against the Trump administration over the sanctions. It argued that the sanctions were an effort to punish Albanese for bringing attention to Israel’s rights abuses against Palestinians.
+Jennifer Gavito – Former acting principal deputy assistant secretary of state for Near Eastern affairs
 
-In his court order on Wednesday, US ⁠District Judge Richard Leon granted a preliminary injunction against the sanctions.
-
-He found that the Trump administration sought to regulate ‌her speech because of the “idea or message expressed”.
-
-“Albanese has done nothing more than speak,” judge Leon wrote in his memorandum opinion. “It is undisputed that her recommendations have no binding effect on the ICC’s actions – they are nothing more than her opinion.”
-
-Albanese, who said the US sanctions were “calculated to weaken my mission” when they were first imposed, celebrated the ruling on social media.
-
-“Thanks to my daughter and my husband for stepping up to defend me, and everyone who has helped so far,” Albanese said in a statement on X.
-
-Since 2022, Albanese, a legal scholar, has served as the special rapporteur for the West Bank and Gaza, where she monitors human rights abuses against Palestinians. The UN Human Rights Council selected her for the position.
-
-The Trump administration sanctioned her last July, calling her “unfit” for her role and accusing her of “biased and malicious activities” against the US and its ally, Israel. Albanese had also recommended that the International Criminal Court (ICC) pursue war crimes prosecutions against Israeli and US nationals.
+Rami Khouri – Distinguished fellow at the American University of Beirut
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 In the UK, Muslim votes are treated as a problem to be managed
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a058e2565-1778748965.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Iran expands tiered internet access amid continued online blackout
+<img src='https://www.aljazeera.com/wp-content/uploads/2024/02/AP120213018241-1-1708692200.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Britain’s politics is in turmoil. The Labour government is consumed by an open leadership crisis, with the Prime Minister facing demands from more than ninety of his own MPs to resign and a likely challenge from within his own cabinet. All of this was triggered by Labour’s hammering in the local and devolved elections of May 7.
+Tehran, Iran – Iran is looking at ways of providing limited connectivity to approved individuals and entities amid a continued state-imposed internet shutdown, with a tiered access model currently being offered that experts have said still undermines the digital rights of Iranians.
 
-Westminster is absorbed in the spectacle, and understandably so. But for British Muslim communities, the lasting significance of those elections lies elsewhere. The May vote brought a real surge in Muslim civic engagement, with initiatives like the Muslim Council of Britain’s “Get Out The Vote” campaign helping to drive registration and turnout. Yet that engagement was too often met with suspicion rather than welcome.
+President Masoud Pezeshkian on Wednesday announced the creation of a new entity to review internet coverage in the country named the Specialised Headquarters for Organising and Guiding Iran’s Cyberspace, with First Vice President Mohammad Reza Aref, a relative moderate, appointed as its head.
 
-During the campaign, too many political actors and media outlets fell back on lazy, divisive narratives about Muslims, spreading misinformation and misrepresenting how our communities actually engage politically. Commentators repeatedly raised the spectre of “family voting”, claiming that Muslims, particularly Muslim women, were pushed or directed to vote in certain ways, as though they had no agency of their own. Others spoke of “sectarian voting,” portraying Muslims as a single bloc voting on the basis of religion alone, rather than as a diverse community with a multiplicity of political views. These terms were used to cast suspicion on Muslim voters, particularly in areas where Muslim electoral participation is more visible.
+Pezeshkian said he expects the 74-year-old vice president to “create institutional cohesion and align policies and measures by relevant bodies” and “prevent parallel work and end multiple voices in the management of the country’s cyberspace”, referring to the multiple bodies overseeing communications in Iran.
 
-Reform UK, which campaigned heavily on an anti-immigration platform, made significant gains in local council elections in England, largely at the expense of both the Conservative Party and the Labour Party, the two dominant forces in British politics for over a century. In the devolved elections, Labour’s vote also declined, but the picture was more complex. In Wales, Plaid Cymru emerged as the largest party for the first time since devolution, with Reform UK Wales finishing a strong second. In Scotland, the SNP remained the largest party but lost seats, while the Greens had their best-ever result and Reform UK won its first MSPs. Voters in different parts of the UK clearly reached for different alternatives.
+Reza Aref is also expected to devise and enforce a roadmap to “overhaul cyberspace governance”, and perhaps most importantly, to review the efficiency of the secretariat of the Supreme Council of Cyberspace and its subsidiary, the National Cyberspace Center.
 
-Frustration with the mainstream parties accounts for some of Reform’s success, but the party also gained substantial support for its hardline positions. These include proposals for large-scale immigration detention centres capable of holding tens of thousands of people, the abolition of “indefinite leave to remain”, and a combative framing of integration and national identity.
+The council, which Pezeshkian has now said he wants to reform, is a powerful state body established by slain Supreme Leader Ayatollah Ali Khamenei in 2012 to govern the internet landscape in Iran.
 
-Elements of Reform’s rhetoric have at times overlapped with anti-Muslim and Islamophobic narratives also promoted by more extreme figures such as Tommy Robinson and Rupert Lowe, the MP who leads the far-right populist Restore Britain party. This rhetoric has included stoking fear around “political Islam,” calling for mass deportations, and advancing a more restrictive vision of British cultural identity. Such language grew louder over the course of the campaign, with some supporters and individual Reform candidates posting content on social media that was openly Islamophobic, racist or anti-Semitic. Phil Tierney, elected for Chelmsley Wood in Solihull and pictured with Reform’s deputy leader Richard Tice during the campaign, had publicly posted, “I am Islamophobic” on X, called Islam a “plague,” and shared material arguing that no Muslim should be allowed to hold public office. Ben Rowe, elected in Plymouth, was reported to have urged an anti-Muslim mob during the 2024 Southport riots to “get rid of that filthy building” as they threw bricks at police protecting a mosque. While such posts do not always reflect official Reform party policy, they contribute to a wider environment in which such rhetoric is highly visible and normalised.
+The council, and its current secretary, Mohammad Amin Aghamiri, have led the charge in heavily restricting Iranians’ access to the internet based on “security considerations”.
 
-Muslims, like anyone else, are not a monolith. We vote on a wide range of issues shaped by personal experience, local priorities, and wider concerns. Housing, the cost of living, education, safety, local services, and infrastructure matter to us just as they do to everyone else. And on national and international issues, including humanitarian crises, the genocide in Gaza, and human rights, we stand alongside neighbours of all faiths and none.
+Pezeshkian’s move to review the government’s internet policy comes 11 weeks into a near-total online blackout affecting 90 million-plus citizens, which followed a similar 20-day outage during deadly nationwide protests in January.
 
-For British Muslims, as with all communities, taking part in the democratic process is essential to ensuring fair representation and a meaningful voice in public life. We are a diverse community, and people will rightly vote for different parties and candidates. Recent shifts in voting patterns, away from traditional support for Labour and towards the Greens and independents in particular, show clearly that no community’s support can be taken for granted. When voters feel overlooked or dismissed, they will look elsewhere. Representation has to be earned through genuine engagement, respect, and accountability, not historical expectations.
+Despite the economic pain and mounting public frustration the outage has caused, the new body does not spell out an end to the internet shutdown.
 
-What concerns us most is not any single party or politician, but the speed at which the Overton window has shifted. Calls for the mass deportation of Muslims, for increased securitisation of our communities, and for limitations on our freedom of expression and protest were once confined to the political fringe. They are now made openly, by elected representatives, and meet silence rather than condemnation from much of the mainstream. As that fringe becomes mainstream, other parties feel pressure to move with it, and the space for a confident, plural British politics narrows.
+Since February 28, when the war with the United States and Israel began, most Iranians have been completely disconnected from the worldwide web, which the government insists is an essential measure to keep Israel’s Mossad spy agency and other harmful actors at bay.
 
-Countering this requires more than calling it out. It means building confidence, strengthening civic literacy, and making sure people feel empowered rather than alienated. The more we engage politically and constructively, contacting our local councillors and MPs, responding to consultations, attending community meetings, and working with others on shared local issues, the less our communities can be sidelined, spoken for or spoken over.
+It is now the longest nationwide internet shutdown in the world, with users only able to access a slow and patchy intranet, which supports a number of state-approved local applications and content.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/14/in-the-uk-muslim-votes-are-treated-as-a-problem-to-be-managed?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d565/live/0c9f5810-4ee6-11f1-88a2-2b60a3feece0.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Flattery and fanfare as Trump welcomed to China - but thorny issues remain
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bbb8/live/894ab4a0-4fb7-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-US President Donald Trump descended the steps of Air Force One in Beijing on Wednesday evening, greeted with pomp and pageantry ahead of a high-stakes summit with his Chinese counterpart, Xi Jinping.
+Xi Jinping threw a grand welcome for Donald Trump on the first day of a visit that could reset ties between the rival superpowers.
 
-During his two-day visit, the global superpowers are expected to discuss tariffs, competition over technology, the war in Iran, and America's relationship with Taiwan.
+The military honour guard lined up outside the Great Hall of the People to welcome Trump, complete with a gun salute and a band playing the US national anthem. The president paused twice to say hello to schoolchildren cheering with Chinese and American flags.
 
-Trump returns to a more assertive China than the one he visited in 2017, as he faces mounting scrutiny over his military campaign in the Middle East.
+As he shook hands with Xi, he leaned in to pat him on the arm in what appeared to be a gesture of warmth. And he lavished praise on his host.
 
-The trip had originally been scheduled for March but was postponed because of the US and Israel's war in Iran, a conflict that continues to unsettle the global economy.
+"You're a great leader. I say it to everybody," he declared in what appeared to be unscripted remarks. Later, on his tour of the 15th Century Temple of Heaven, he remarked to reporters that China was beautiful. At the banquet this evening, he called the talks a "cherished" opportunity.
 
-Trump was greeted on the red carpet by Chinese Vice-President Han Zheng, one of China's top leaders.
+It was a remarkable day given Trump built up his political brand by talking tough on China.
 
-The move is being read as a show of respect for the US president from Beijing, after a lower-level leader received Trump on his last visit.
+"We can't continue to allow China to rape our country, and that's what they're doing," he told a campaign rally in 2016.
 
-A brass brand and flag wavers holding Chinese and American flags chanted "welcome welcome, a warm welcome", as the president gave his signature fist pump to the large greeting party, standing by the dozen in tight, uniformed rows.
+In 2020, he claimed China has "ripped off the United States like no one has ever done before", and described the Covid-19 pandemic as the "Chinese virus". Before returning to power, he vowed to "make China pay".
 
-The US president was accompanied by his son Eric Trump and a slew of US tech industry titans, including Tesla's Elon Musk and Nvidia's Jensen Huang among them.
+At the height of the trade war last year, the two sides had levied tariffs that crossed 100% on each other. A fragile truce followed but one of the main questions hanging over this visit is whether that will last, and what deal would take its place?
 
-Other CEOs expected to be travelling with Trump include Tim Cook of Apple, Larry Fink of BlackRock, and Kelly Ortberg of Boeing.
+The others are around Iran - can Beijing help broker a deal? – and Taiwan, the US ally and self-governed island that China claims as its territory.
 
-"I will be asking President Xi, a Leader of extraordinary distinction, to 'open up' China so that these brilliant people can work their magic, and help bring the People's Republic to an even higher level," Trump said in a post on social media ahead of his landing.
+Beijing put on a spectacle designed to flatter Trump ahead of any deal to prove China's door is open to guests. However, soon after talks began, state media published comments from Xi making clear that tensions over Taiwan could prove challenging.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Latvian PM resigns after row over stray Ukrainian drones
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e738/live/532e5e10-4f7d-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 'Floating armoury' ship reportedly seized by Iran
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/22e4/live/decae190-4f97-11f1-89a3-d1f559421220.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Latvian Prime Minister Evika Silina has resigned following a political crisis over Russia-bound Ukrainian drones straying into Latvian territory.
+A vessel reportedly operating as a "floating armoury" in the Gulf of Oman has been seized by Iranian military personnel, according to the maritime risk management company Vanguard.
 
-She had fired her Defence Minister Andris Spruds last week after two drones crashed down in eastern Latvia,  criticising his response and appointing a replacement.
+The ship is now "bound for Iranian territorial waters", the UK's Maritime Trade Operations (UKMTO) organisation said.
 
-In protest, Spruds's Progressives party pulled their support for Silina's governing coalition, causing it to collapse months before a planned general election in October.
+BBC Verify has checked ship-tracking data from MarineTraffic which shows the vessel - identified by Vanguard as the Honduras-flagged Hui Chuan - last broadcast its location 70km (40 miles) north-east of Fujairah in the UAE on Wednesday.
 
-"Seeing a strong candidate for the post of defence minister... political windbags have chosen a crisis," Silina said on Thursday. "I am resigning but I am not giving up."
+Hui Chuan's operators told Vanguard it was operating as a floating armoury which stores weapons for security firms who protect ships at sea from attack by pirates.
 
-The political fallout was triggered by the incursion of three drones into Latvian airspace on 7 May - the second such accident since the start of 2026.
+The BBC has previously reported how these vessels are based in the Red Sea, Gulf of Aden and Gulf of Oman so security guards can easily collect and drop off weapons and ammunition.
 
-Both Latvia and Ukraine acknowledged that the drones may have been Ukrainian UAVs intended to target Russia whose signals had been jammed, leading them to stray into Latvia.
+Location data shows the ship has spent the last month off the north-east coasts of Oman and the UAE.
 
-One drone crashed on the ground while another struck an empty oil product storage facility near the town of Rezekne. The third flew in and out of Latvian airspace.
+The apparent seizure of Hui Chuan comes after an Indian-flagged vessel was attacked off the coast of Oman on Wednesday, according to Indian officials.
 
-There were no casualties or injuries - but local residents told media that the official response to the incident had been delayed and insufficient. They said the cell broadcast alert system had not been activated for an hour after one of the drones crashed near Rezekne.
+The Haji Ali "reportedly sank" off the coast of Oman, following a suspected explosion believed to have been caused by a "drone or missile", according to Vanguard.
 
-Silina had said after the incident: "Something went wrong. We cannot afford for this situation to continue."
+"All Indian crew on board are safe and we thank the Omani authorities for rescuing them," Indian authorities said on Thursday.
 
-She said she had also asked Spruds to resign because of the situation in the Latvian defence sector as a whole.
+Ship-tracking data from MarineTraffic shows the 57m (187ft) vessel left Berbera Port in Somalia on 6 May. Its intended destination was Sharjah in the UAE, the Indian shipping ministry said.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Watch: What happened on day one of Trump's China visit?
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/19a3/live/44d02760-4f7b-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d41b/live/7ad75e60-4fac-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping.
+At least 12 people have been killed, including two children, in Kyiv after Russia launched a massive overnight drone and missile strikes on the Ukrainian capital and other regions, officials have said.
+
+The victims' bodies were pulled from the rubble of a partially destroyed apartment building in Kyiv, where rescuers are still searching for at least 20 people feared missing, Ukraine's emergencies service DSNS said.
+
+It said 45 people, including two children, were injured. Friday has been declared a day of mourning in the city.
+
+It is the third day in a row Ukraine has reported deaths, as Moscow ramps up its assault after a three-day ceasefire expired on Monday.
+
+The overnight barrage saw more than 670 drones and 56 missiles targeting the country, President Volodomyr Zelensky said. This is among the largest attacks Russia has mounted since the start of its full-scale invasion of Ukraine in 2022.
+
+The strikes hit more than 180 sites across Ukraine, including more than 50 residential buildings, Zelensky added.
+
+He said a total of more than 1,560 Russian drones had targeted Ukrainian cities since Tuesday night, describing Moscow's assault as "definitely not the actions of those who believe the war is coming to an end" and urging allies to hold Moscow accountable.
+
+After an urgent meeting with Ukraine's top military and security officials, Zelensky said a "significant number" of drones were shot down, with an "overall interception rate" of 93%.
+
+But the same figures for missiles stood at 73%, the Ukrainian leader said, admitting that the "key challenge" remained in how to defend against Russian ballistic missiles.
+
+He said the "priority number one" was to secure more deliveries of "anti-ballistic systems and missiles for them".
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Court overturns Alex Murdaugh's murder convictions and orders new trial
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8ca8/live/60979bc0-4ee2-11f1-8eb9-6770c5101f32.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Giant new dinosaur identified from fossils in Thailand
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/0b03/live/c2109ea0-4fb5-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-A South Carolina court has overturned the 2023 murder convictions of Alex Murdaugh, a disgraced lawyer who was convicted of killing his wife and son.
+A new type of giant long-necked dinosaur has been identified by scientists from remains dug up in Thailand.
 
-The state's supreme court on Wednesday ordered a new trial for Murdaugh over the June 2021 killings.
+The nagatitan, the largest-ever dinosaur found in South-East Asia, weighed 27 tonnes - as much as nine adult Asian elephants - and measured 27m (88ft) in length, longer than a diplodocus. Like that dinosaur, it belonged to the sauropod family of long-necked herbivores.
 
-Murdaugh has been in prison serving two life sentences for the murders of Maggie and Paul Murdaugh. He is also serving two additional 27- and 40-year sentences for state and federal financial crimes.
+A team of researchers from the UK and Thailand identified the species from fossils found beside a pond in north-eastern Thailand a decade ago.
 
-Once a powerful lawyer, the 56-year-old and his legal troubles captivated a global audience and inspired documentaries, podcasts and book deals. The trial itself was also televised.
+They say the discovery sheds light on how changes in ancient climatic conditions allowed gigantic dinosaurs to develop.
 
-In a 5-0 ruling, the South Carolina Supreme Court said Murdaugh deserved a new trial because the local county clerk had unfairly biased a jury against him.
+The dinosaur's full name is Nagatitan chaiyaphumensis, with "naga" referring to a serpent in South-East Asian folklore, "titan" referring to the gods in Greek mythology, and chaiyaphumensis meaning "from Chaiyaphum", the province where the fossils were discovered.
 
-"Both the State and Murdaugh's defense skillfully presented their cases to the jury as the trial court deftly presided over this complicated and high-profile matter," the justices wrote. "However, their efforts were in vain because Colleton County Clerk of Court Rebecca Hill placed her fingers on the scales of justice, thereby denying Murdaugh his right to a fair trial by an impartial jury."
+It lived between 100 and 120 million years ago - around 40 million years earlier than the tyrannosaurus rex - and is about twice the size of that creature.
 
-In a statement, South Carolina Attorney General Alan Wilson said his office would "aggressively seek to retry Alex Murdaugh for the murders of Maggie and Paul as soon as possible".
+Thitiwoot Sethapanichsakul, a Thai doctoral student at University College London (UCL), was the lead author of the study which was published in the Scientific Reports journal.
 
-Murdaugh's lawyers told US media that their client "has said from day one that he did not kill his wife and son".
+He said the researchers referred to the nagatitan as "the last titan" of Thailand, because the fossils were found in the country's youngest dinosaur-bearing rock formation.
 
-Last December, Hill pleaded guilty to charges of misconduct in office, obstruction of justice and perjury over accusations that she misused public funds as a clerk and shared sealed court information with a reporter, among other claims.
+"Younger rocks laid down towards the end of the time of the dinosaurs are unlikely to contain dinosaur remains because the region by then had become a shallow sea. So this may be the last or most recent large sauropod we will find in South-East Asia," he said.
 
-Wednesday's ruling cites a number of comments that Hill allegedly made to jurors during the trial.
+Sethapanichsakul, a self-confessed "dinosaur kid", said in a UCL press release that the study also "fulfils a childhood promise of naming a dinosaur".
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 'They shot my neighbour in the head' - the lakeside city traumatised by war
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/df0f/live/9eae3c30-4ed7-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Cuba considers $100m US aid offer as energy crisis worsens
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c3a8/live/b2271bc0-4fad-11f1-b2ff-f5e2d2fddf7e.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Summary executions and rape were among the atrocities committed by the M23 rebel group and Rwandan soldiers during their weeks-long occupation of the lakeside city of Uvira in eastern Democratic Republic of Congo, an investigation by a leading rights group has found.
+The Cuban government says it is open to reviewing a US offer of $100m (£74m) in aid, hours after rare protests over worsening power cuts erupted on the Communist-run island.
 
-Human Rights Watch (HRW) says its investigators found evidence of the execution of 53 civilians - 46 men, one woman and six children - during door-to-door raids in the city's neighbourhoods after the rebels, widely believed to be backed by Rwanda, captured it in December.
+Foreign Minister Bruno Rodríguez said on Thursday that Cuba was "ready to hear the details of the proposal and how it would be implemented".
 
-Rwanda has consistently denied supporting the M23 or that its own soldiers have been deployed to resource-rich eastern DR Congo.
+The shortages have been exacerbated by a US-imposed blockade of oil which has squeezed the country's supplies of essentials such as diesel and fuel oil.
 
-But HRW says many of the interviewees alleged witnessing atrocities committed by uniformed Rwandan soldiers as well as M23 fighters.
+Hospitals have been unable to function normally, and schools and government offices have been forced to close. Tourism, an economic engine for Cuba, has also been impacted.
 
-"They [M23 fighters] shot my neighbour first in the head," said one of the 130 residents interviewed by HRW.
+Cuba has in the past relied on Venezuela and Mexico to supply oil to its refinery system. However, the two countries have largely cut off supplies since US President Donald Trump threatened tariffs on countries that send fuel to Cuba.
 
-"I wasn't hit so I just ran to the lake. I saw my brother, his wife, and two of his children fall," he was quoted as saying.
+On Wednesday, the US state department said it was renewing an offer to "provide generous assistance to the Cuban people".
 
-The M23 and Rwandan government have not yet responded to a BBC request for comment.
+Last week, US Secretary of State Marco Rubio had said that Havana had rejected a previous US offer of humanitarian aid worth $100m (£74m), a claim Cuba denied.
 
-The M23 captured Uvira - which lies on the shores of Lake Tanganyika - days after US President Donald Trump brokered a peace deal between DR Congo's President Felix Tshisekedi and his Rwandan counterpart Paul Kagame in a bid to end the devastating conflict in the resource-rich region.
+In its statement, the US state department repeated its offer but made it clear that the aid would have to be distributed "in coordination with the Catholic Church and other reliable independent humanitarian organisations", bypassing the Cuban government.
 
-The US and European powers accuse Rwanda - which borders eastern DR Congo - of supporting the rebel offensive.
+It added that the decision now rested with the Cuban regime "to accept our offer of assistance or deny critical living-saving aid and ultimately be accountable to the Cuban people for standing in the way of critical assistance".
 
-UN experts have said Rwanda had "de facto control" of the M23's operations. They said M23 recruits were trained under Rwandan supervision and supported by high-tech Rwandan weaponry.
+In his response, Cuban Foreign Minister Rodríguez said it was unclear whether the US aid offer would be in cash or in-kind assistance.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
-### 📰 UN urges Equatorial Guinea to halt plans to return US deportees to home countries
+### 📰 Judge orders Trump administration to return Colombian woman deported to DRC back to the US
+<img src='https://i.guim.co.uk/img/media/6f7e676b5f197186e19b1d695edbd36ac520c9c0/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a4b91dd503a9763ff0f06352d531fdc' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’
+
+A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Congo, after she was deported to the African country that had refused to accept her.
+
+The deportation of Adriana María Quiroz Zapata “was likely illegal”, the US district judge Richard Leon ruled on Wednesday.
+
+Quiroz Zapata, 55, who has diabetes and a thyroid condition, “has been sent to a country that refused to accept her because they cannot provide sufficient medical care”, the ruling said. “As a result, she faces a daily risk of medical complications, up to and including death.”
+
+Black spots began to grow on Quiroz Zapata’s back and foot while she was in detention, her skin started to peel and her nails blackened, according to a declaration that Quiroz Zapata submitted in court, and which was provided to the Associated Press by her lawyer.
+
+“She’s not doing well and does worry that she’s going to die,” her lawyer, Lauren O’Neal, said.
+
+Quiroz Zapata entered the US from Mexico in August 2024 and was taken into Immigration and Customs Enforcement (ICE) custody. Since being deported, she has lived in a hotel in Kinshasa, the Democratic Republic of Congo’s capital. The hotel gates are locked, O’Neal said. Quiroz Zapata and other deportees are rarely allowed out, and only with supervision, she said.
+
+Quiroz Zapata was among thousands of immigrants living legally in the US, waiting for rulings on asylum claims, when they were suddenly issued deportation decrees that ordered them expelled to countries where most had no connections.
+
+More than 15,000 third-country deportation orders were issued in the White House push for ever more immigrant expulsions, advocacy groups say, though only a fraction of the orders have been carried out.
+
+Few details are known about the agreements to accept these deportees, though the US has signed them with a range of countries, including Ecuador, Honduras, Uganda, Cameroon and the Democratic Republic of Congo. Advocacy groups estimate only a couple of hundred third-country deportations, at most, have been carried out.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’
 <img src='https://i.guim.co.uk/img/media/8b16c976f04e2ef07186becf8de728c6c5757d81/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db17e87dbbb2d5d82db3f7189e97f40d' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 
 Human rights experts make rare public appeal as US deportees describe being held in ‘prison-like’ conditions
 
-Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea, urging the West African country to halt its plans to return US deportees to their home countries where they face political violence, torture and death.
+Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea, urging the central African country to halt its plans to return US deportees to their home countries, where they face political violence, torture and death.
 
-The statement, cosigned by a representative of the African Commission on Human and People’s rights, adds diplomatic pressure on Equatorial Guinea, one of the world’s most repressive regimes, to comply with international human rights standards and avoid refoulement, or the expulsion of people to countries where they face persecution.
+The statement, co-signed by a representative of the African Commission on Human and People’s Rights, adds diplomatic pressure on Equatorial Guinea, one of the world’s most repressive regimes, to comply with international human rights standards and avoid refoulement, or the expulsion of people to countries where they face persecution.
 
-“States must ensure that no one is returned, directly or indirectly, to a situation where their life, freedom or physical or mental integrity would be in danger,” the experts implored in a statement on Wednesday.
+“States must ensure that no one is returned, directly or indirectly, to a situation where their life, freedom or physical or mental integrity would be in danger,” the experts said in a statement on Wednesday.
 
 The Trump administration made deals with dozens of countries to receive US deportees, as part of the president’s goal of “mass deportation”. The US gave Equatorial Guinea $7.5m to take in third-country nationals, who had been granted protections against expulsion to homelands where they faced persecution.
 
@@ -326,11 +341,11 @@ The UN’s public plea came after several deportees sent by the US to Equatorial
 
 “Equatorial Guinea should never be treated as a safe country for migrants or asylum seekers. This is a highly repressive authoritarian state,” said Tutu Alicante, director of the human rights group Equatorial Guinea Justice. “Vulnerable migrants are being transferred into a country where they have no legal status, no family networks, and no meaningful protection mechanisms.”
 
-Esther, who landed in Malabo, Equatorial Guinea, weeks ago, said the conditions at the hotel where she has been detained are not unlike a prison. She and at other deportees had been held without access to soap, toothbrushes or clean clothes.
+Esther, who landed in Malabo, Equatorial Guinea, weeks ago, said the conditions at the hotel where she has been detained are not unlike a prison. She and other deportees had been held without access to soap, toothbrushes or clean clothes.
 
 “I have cried. I have struggled. I have done everything,” she said in a phone call with the Guardian from the hotel room where she has been confined. “I have fought and fought. Now I don’t have anything left in me.”
 
-Esther is from a different West African country. The Guardian is using a pseudonym for her, and not naming her home country in order to protect her safety. She said she fled in 2024, after she was arrested and tortured at the behest of government officials – first making her way to South America, and then migrating north through Mexico before arriving at the US southern border. She spent 14 months at a US immigration detention center before a judge heard her case, and granted her a “withholding of removal” – a special immigration status guaranteeing she wouldn’t be sent back to her home country where she faced violence.
+Esther is from a different African country. The Guardian is using a pseudonym for her, and not naming her home country in order to protect her safety. She said she fled in 2024, after she was arrested and tortured at the behest of government officials – first making her way to South America, and then migrating north through Mexico before arriving at the US southern border. She spent 14 months at a US immigration detention center before a judge heard her case, and granted her a “withholding of removal” – a special immigration status guaranteeing she wouldn’t be sent back to her home country where she faced violence.
 
 </div>
 
@@ -338,7 +353,7 @@ Esther is from a different West African country. The Guardian is using a pseudon
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Remains of second US soldier who went missing during military exercises in Morocco have been recovered
+### 📰 Remains of second US soldier who went missing in Morocco recovered
 <img src='https://i.guim.co.uk/img/media/9e61ea211a9ecfdd0c3725a363e61ad4714738db/372_0_3699_2961/master/3699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b71c720de52bb9636262d47ed2aced5' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
@@ -431,302 +446,291 @@ More than 83% of the people displaced in 2025 were forced to flee their homes in
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Gaborone gold rush: how Botswana rose to the top of men’s sprinting
-<img src='https://i.guim.co.uk/img/media/58631b3978281c186bf828d106951ace8bda8298/0_0_3713_2971/master/3713.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a5b98815ffdd8ef95a0739a43acd79c' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Country with a population of just 2.5m credits investment in young athletes for its rise but this progress is under threat
-
-It was a fairytale ending to the World Athletics Relays in Gaborone. In the final strait, Collen Kebinatshipi surged past South Africa’s Zakithi Nene to win the men’s 4x400m relay for Botswana. The home crowd, a sea of light blue, went wild.
-
-“It means so many things to us,” Letsile Tebogo, 22, the reigning 200m Olympic champion, who ran the second leg, told reporters afterwards. “Not just the team … but for the people that always cheer for us behind the TV. Now they had that experience to see first-hand how much effort, how much pressure, how much we give for them.”
-
-In an interview after the championships, the World Athletics president, Sebastian Coe, said: “I put that atmosphere in the top three that I’ve experienced live in athletics. The first was Cathy Freeman winning in Sydney. The second was Mo Farah hitting the front with a lap or so to go in the 10,000 in London, when the wall of noise was deafening … [This] comfortably sits in the top three for me.”
-
-Botswana, a country larger by area than Spain but with a population of just 2.5 million, has had a meteoric rise to the top of men’s sprinting. Tebogo’s Olympic gold in Paris in 2024 was the country’s first, and only its fourth medal of any colour. The men’s 4x400m relay team took silver, improving on bronze from three years earlier. Then, at the world championships in Tokyo last year, Kebinatshipi won the 400m while the relay team he anchored also took home gold.
-
-The athletes are superstars in Botswana, their faces plastered on billboards advertising everything from mobile phone contracts to milk. “My life has changed a lot,” Kebinatshipi told a press conference before the relays.
-
-The 22-year-old, who started running at school, said he now allowed half an hour for photos with fans when he went out shopping. “At first I was a bit nervous, because I wasn’t used to it … Nowadays I’m used to it, so it’s cool with me,” he said.
-
-Years-long investment in young athletes is one of the biggest reasons for the southern African country’s recent success, sports officials said. The Botswana Athletics Association’s chief executive, Mabua Mabua, said: “I must thank the school sports programmes that we used to have, because basically all of the athletes that you are seeing, the youthful ones, are coming from that programme.”
-
-He also highlighted the country’s infrastructure. “All of the preparations for the team are done locally. Normally people say: ‘No, they should go to Europe, USA, for preparations’. It’s local coaches, a local environment.”
-
-The Botswana National Sports Commission runs programmes for 15 sports to spot and nurture talent. Re Ba Bona Ha (“We See Them Here” in Setswana) is a coaching initiative for children aged five to 13 that was launched for football in 2002, with athletics added in 2008. Up to 300 children attended athletics sessions every year, said Frederick Kebadiretse, the BNSC’s sports development manager.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/12/gaborone-gold-rush-botswana-sprinting-athletics)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Carnival Cruise Passenger Dead After Going Overboard
-<img src='https://imagez.tmz.com/image/f2/16by9/2026/05/14/f217d307bbd84e8c8c917bf411063831_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'Love on the Spectrum' Star Pari Kim Loses Mom Esme to Cancer Fight
+<img src='https://imagez.tmz.com/image/9e/16by9/2026/05/14/9e2c98b17542486394de92ecac717959_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-A passenger has died after going overboard from a Carnival cruise ship near the Bahamas ... TMZ has learned.
+"Love on the Spectrum" star Pari Kim is dealing with unimaginable heartbreak ... revealing her mother, Esme, has died after a reported battle with stage 4 breast cancer.
 
-Sources on board the boat tell TMZ ... the man went into the water from the Carnival Liberty as it traveled just outside Nassau Tuesday. We're told a life ring was thrown to him, but he was soon out of sight, prompting an immediate search and rescue effort.
+The 24-year-old reality star shared the devastating news in an emotional Instagram post Wednesday night ... opening up about the crushing grief of losing both parents at such a young age. Pari wrote, "It feels like everything is becoming a train wreck" as she described the internal battle between mourning and trying to stay positive enough to move forward.
 
-A Carnival spokesperson tells TMZ ... the guest climbed over his stateroom balcony and went overboard while the ship was sailing from Celebration Key to Nassau. Crew members immediately launched a search and were able to recover him from the water, but he did not survive.
+Trains have long been a huge part of Pari's life -- she is known for her deep love of railroads and public transit. Keeping with her metaphors, Pari added ... "It’s difficult to keep chugging along when your guardian locomotive reaches the end of the line but you have to keep going somehow even without her."
 
-The cruise line says it is now supporting the guest's family, who were traveling with him.
+Pari later shared another gut-punch on her IG Story ... reminding followers to cherish loving parents while they can, because "time is precious" ... adding she didn't expect to lose both of them so young.
+
+Her father, Henry, died suddenly back in 2020 at age 55. Esme was 61.
+
+Several of Pari’s fellow "Love on the Spectrum" castmates flooded the comments with support ... including Madison Marilla, who wrote Esme "fought very hard," and Abbey Romeo, who said she wanted to give Pari a big hug.
+
+The heartbreaking loss comes just weeks after Pari also revealed she and ex-girlfriend Tina Zhu Xi Caruso had split ... saying they were "two trains on different tracks."
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/carnival-cruise-passenger-dead-after-going-overboard/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/love-on-the-spectrum-star-pari-kim-mom-esme-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Chud The Builder Hit With Attempted Murder and Other Charges After Shooting
-<img src='https://imagez.tmz.com/image/00/16by9/2026/05/11/0032e726271b498a85cfe808f190474a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Hayden Panettiere's Estranged Mother Rips Into Her Tell-All Memoir
+<img src='https://imagez.tmz.com/image/b6/16by9/2026/05/14/b6a85ec432b94a5e8dfcc98be1a5473a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Chud the Builder's problems are stacking up ... the controversial streamer has now been charged in connection with Wednesday's wild shooting outside a Tennessee courthouse.
+Hayden Panettiere's estranged mom has some harsh judgment about her daughter's upcoming memoir ... accusing the actress of giving her "20 years of trauma" -- and suggesting the whole thing's more about selling books than healing wounds.
 
-The Montgomery County Sheriff's Office announced that Chud, whose real name is Dalton Eatherly, was charged and booked for criminal attempt: murder, employing a firearm during dangerous felony, aggravated assault, and reckless endangerment with a deadly weapon.&nbsp;
+Lesley Vogel unloaded over Hayden's tell-all, "This Is Me: A Reckoning," saying, "There is a personality 'style' which manifests as a need for control, entitlement and a lack of empathy. The major fear is that someone will see through the mask they present to the world and discover who they truthfully are."
 
-On Wednesday afternoon ... officers responded to a call of "shots fired" outside the Montgomery County Courthouse and detained two men who got into a fight that escalated into gunfire, according to the sheriff's office.
+Lesley told Page Six there’s no fixing the "condition" she was referring to ... claiming years of support and encouragement "will never be enough," and eventually she had no choice but to go no-contact.
 
-The men suffered bullet wounds with one being transported to a local hospital and the other treated at the scene. Both were listed in stable condition.
+She continued ... "When someone leaves, the smear campaign begins; accusations, anger, belittling, gaslighting, etc. are the classic signs of this behavior style. The craving of drama and punitive action is traditional and to be expected."
 
-The Montgomery County District Attorney General's Office identified Eatherly as a suspect who was taken into custody before he was formally charged.
+The comments come after Lesley recently questioned Hayden’s bisexuality claims ... and now it’s clear she’s also upset over how their fractured relationship and professional split are portrayed in the memoir. Safe to say ... this mother-daughter feud looks nowhere near over.
 
-Eatherly live-streamed the entire incident, claiming he was jumped outside the courthouse and fired shots in self-defense. He also said he accidentally shot himself in all the confusion.
-
-Last week, Eatherly had another run-in with the law in Nashville, where he was arrested for disorderly conduct and theft of services.
-
-Police say he got into a spat with customers who asked him to stop filming them at a restaurant before he skipped out on a $371.55 bill.
-
-Chud's bad news.
+Panettiere's memoir drops May 19.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/chud-the-builder-dalton-eatherly-tennessee/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/hayden-panettieres-mom-responds-to-memoir/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Tiffany Haddish's Lawyers Call 4-Year-Old DUI Case 'Unprecedented' With No Victims
-<img src='https://imagez.tmz.com/image/10/16by9/2026/01/20/10fc3b0fae934488873c3c021fbec822_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 NC Teacher Arrested on Child Sex Abuse Charges Dating Back to 2005
+<img src='https://imagez.tmz.com/image/86/16by9/2026/05/14/860cf58865c741aeabc26eeb6b718370_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Tiffany Haddish's attorneys have had it with the comedian's seemingly never-ending DUI case, demanding the whole thing be tossed since there wasn't a single injury or victim!
+A high school teacher in North Carolina is in police custody after being charged with sexually abusing children ... and the alleged events took place two decades ago.
 
-Last week, Haddish's lawyers, Marissa Goldberg and Drew Findling, filed a motion saying her 4-year-old misdemeanor case for driving under the influence should be thrown out of court because it's stuck in legal limbo and negatively impacting her career.
+Steven Robert Kohls is charged with eight counts of sexual activity by a custodian, three counts of sex offense in a parental role, and two counts of statutory sex offense of a child by an adult ... according to multiple reports.
 
-But now the attorneys are going even further, telling TMZ&nbsp; ... "The procrastinated failure to rule on a misdemeanor case with no victims or injuries is unprecedented."
+Police say the alleged abuse was first reported May 2 ... but the allegations date as far back as 2005.
 
-The lawyers also say that prosecutors couldn't give a rat's ass about the case because they don't even inquire about it anymore. Haddish's attorneys go on to say that "fairness and the constitution require that the court dismiss this case."
+The 57-year-old was arrested Wednesday ... and he's being held without bond at Wake County Detention Center in the Raleigh-Durham area.
 
-In last week's motion, Tiffany points out that she's having trouble getting travel documents for overseas work opportunities, and companies are reluctant to hire her because of the unresolved legal issue, hurting her financially.
+Kohls works at Broughton Magnet High School in Raleigh, NC as a Career and Technical Education teacher.
 
-She also claims to have notified the court she was "ready for trial" about 10 times, and then waited for rulings that never came. That's why, she says, the case should be nixed on constitutional grounds for lack of a speedy trial.
+Following Kohls' arrest, the principal at BMHS sent a letter to parents. The note, obtained by local outlett ABC11, says ... "The charged conduct is alleged to have occurred in 2005 and is not related to incidents that occurred on our campus or with our current students."
 
-Talk about a legal nightmare!
+The school says Kohls is suspended with pay.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/tiffany-haddishs-lawyers-demand-4-year-dui-case-be-tossed-there-were-no-injuries/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/north-carolina-teacher-arrested-for-2005-sexual-assault/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 50 Cent & Eminem Reunite Courtside at Pistons-Cavs Playoff Game
-<img src='https://imagez.tmz.com/image/7b/16by9/2026/05/14/7b22170236264739a575a79f29c4ee8b_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Spencer Pratt Signs On Reality Show to Film If He Wins Mayoral Race
+<img src='https://imagez.tmz.com/image/a4/16by9/2026/05/14/a4885191938e484db6f1e07532daa08c_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-50 Cent and Eminem just gave fans a full on nostalgia moment ... reuniting courtside in Detroit like it was the early 2000s all over again.
+Spencer Pratt could be back in the reality show biz if he's elected Mayor of Los Angeles ... because he signed a contract to document the first family of L.A.
 
-The hip-hop heavyweights and longtime friends were spotted at Little Caesars Arena for Game 5 of the NBA Eastern Conference Semifinals Tuesday night, where the Detroit Pistons battled the Cleveland Cavaliers.
+Sources with direct knowledge tell TMZ &nbsp;... Pratt inked a deal with Los Angeles production company Boardwalk Pictures to roll cameras as he runs for Mayor. The production team is about to begin filming with Spencer, his wife Heidi Montag, and their kids throughout his political journey.
 
-50 and Em were seen laughing, chopping it up, and soaking in the action and once they hit the jumbotron, the crowd erupted with social media quickly following suit over the rare public reunion.
+What's really interesting ... our sources say filming would not stop if Spencer gets sworn into office. The contract specifically provides that the show would go on.
 
-It's not just any link up either ... this actually marks the first time the two have been seen together courtside at a basketball game since the 2005 NBA Finals in nearby Auburn Hills ... making the moment feel even bigger for longtime fans.
+Now we're told Spencer and the production company have not put the cart before the horse. As of now everyone is focusing on the campaign, and they haven't discussed details on how filming would continue if he wins. But the ink is dry in the contract.
 
-Call it what you want ... but Slim Shady and 50 definitely stole the spotlight.
+Our sources say Heidi Montag and the kids are a big part of the show. She's living outside L.A. with the kids in the aftermath of the fires, and Spencer is spending most of his time in L.A. running for office. If he wins, they will presumably be living in the Mayor's mansion in the Hancock Park area of L.A.
+
+The L.A. mayor hopeful joined us on "TMZ Live" this week to defend himself after we revealed he's not actually living out of the AirStream he's featured prominently in campaign ads ... saying he doesn't live anywhere -- because the Pacific Palisades fire left him homeless.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/50-cent-and-eminem-reunite-courtside-at-pistons-cavs-playoff-game/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/spencer-pratt-may-film-reality-show-in-mayoral-office/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Best Graduation Gifts for High School and College Grads
-<img src='https://imagez.tmz.com/image/b1/16by9/2026/05/06/b14bca495c2c413886fa32e12a1dbc6e_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Harry Styles-Inspired Finds on Amazon
+<img src='https://imagez.tmz.com/image/9d/16by9/2026/01/26/9dbbfea12c6e42f9b34dcc2b3e4f15cd_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
-Graduation season is officially here and it's time to celebrate the late nights, stressful exams and all the hard work they've put in for the past four years.
+Harry Styles is back on the road, and it's already shaping up to be a major moment for his fans.
 
-Mark the beginning of their brand-new chapter with a thoughtful gift that shows you're so proud of their accomplishments. Whether they're heading to college, moving to a new city or starting their first job, we've picked out a variety of new grad essentials, fit for every budget.
+If you managed to snag tickets to the "Together, Together" tour -- or you're still hoping to -- there's no better excuse to stock up on fan gear and treat yourself … because showing up for Harry is part of the experience.
+
+Whether you've been here since the One Direction days or just recently caught yourself humming "Aperture," we've rounded up the best fan merch and must-haves to help you channel his music, his style, and that undeniable star power.
 
 Want more great finds? Head to&nbsp;TMZ Deals.
 
-Graduation Cap Headband
+TMZ CHEAT SHEET: You're So Golden, We Adore You!
 
-Let's be real, a graduation cap isn't flattering on anyone.
+Harry Styles: And the Clothes He Wears -- $16Harry Styles Coloring Book For Stylers -- $11Dress Up Harry: A Harry Styles Paper Doll Book -- $15Harry Styles Rainbow Tote Bag -- $14Harry's Girl Compact Mirror -- $15Watermelon Sugar High Candle -- $19You're So Golden T-Shirt -- $18Retro Harry T-Shirt -- $22Watermelon Sugar High T-Shirt -- $20Harry's House Vinyl -- $38
 
-Before they walk across that stage, set them up with this Graduation Cap Headband, which is designed to work for all hair types and keep the cap in place all day long … and just might make the whole thing a little easier to style.&nbsp;
+Harry Styles: And the Clothes He Wears
 
-White Graduation Dress
+It’s no secret Harry’s got style…it’s literally in his name. This Harry Styles: And the Clothes He Wears coffee table book is the ultimate way to showcase your fandom…and all of Harry’s greatest ’fits.
 
-If they're not sure what to wear underneath their grad gown, treat them to this adorable White Graduation Dress. This ultra flattering A-line mini dress looks good on all body types and is simple enough that they can make it their own style with bold shoes and accessories. It's a great fit for post graduation activities like photos and family dinner … and is sure to stay in their closet for years to come.&nbsp;
+With over 150 pages featuring Harry’s best looks, you’ll find yourself flipping through for outfit inspo. It’s part fashion history lesson, part love letter to one of music’s most stylish icons.
 
-Graduation Pickle Knit Plush
+Harry Styles Coloring Book For Stylers
 
-Looking for a quirky gift for your new grad? This Graduation Pickle Knit Plush is sure to make them laugh.
+While Harry’s not shy about coloring outside the lines, you just may have to stay within them while you’re working on this Harry Styles Coloring Book For Stylers.
 
-This handmade crochet keepsake features a congratulatory message that reads "Graduation Pickle 2026, Congrats, Grad! From a tiny pickle to a BIG DILL. You made it!"
+This adult coloring book features detailed drawings of everyone’s favorite pop star and illustrations inspired by his music. It’s the ideal calming activity to help you to relax and destress…while still being creative.
 
-Plus, it's customizable and comes with five vibrant tassel colors to match their school mascot … or their outfit!
+Dress Up Harry: A Harry Styles Paper Doll Book
 
-Graduation Candle
+Now’s your chance to be Harry’s stylist. This Dress Up Harry: A Harry Styles Paper Doll Book features 12 of Harry’s most iconic looks that you can mix and match however you wish!
 
-Look at you graduating and s**t! You can’t go wrong with a candle … especially one that's this funny.
+With your very own pop-out Harry doll and highly detailed illustrations of his outfits, from Coachella to the Met Gala, this book is perfect for any fan who loves fashion and wants to get creative.
 
-This Graduation Candle features a hilarious congratulatory message and is crafted with a classic blend of premium essential oils.
+Rainbow Tote Bag
 
-With the fragrance of fresh lavender blended with warm vanilla, this calming candle will have the perfect place in their dorm or apartment.&nbsp;
+Who wouldn’t want to take a little Harry with them wherever they go? This Rainbow Tote Bag is about to become your go-to carrier for all your belongings.
 
-Longchamp Large Tote Bag
+Whether you’re hitting up the farmer’s market or running to class, this tote is a quintessential addition to your wardrobe and an instant outfit upgrade for any Harry fan.
 
-Celebrate their big accomplishment with their first designer bag.
+It’s the easiest way to bring a little pop-star energy into your everyday errands.
 
-This classic Longchamp Large Tote Bag is the perfect bag for new grads, whether they're moving on to college or heading into the real world with their first big job.
+Harry’s Girl Compact Mirror
 
-It fits all the essentials, from text books to laptops, making it a fashionable way to get around campus or the office.&nbsp;
+Remind yourself who you are…with this Harry’s Girl Compact Mirror. Whether you’re touching up your makeup or fixing your slickback, everyone could use a mini mirror in their purse.
 
-Osprey Farpoint 40 Travel Pack
+Featuring an engraved illustration of Harry blowing a kiss, this compact mirror is sturdy but still lightweight and can even fit into your tiniest clutch.
 
-If they've got big plans post grad to backpack through Europe or college orientation is a part of their summer itinerary, they're going to love this Osprey Farpoint 40 Travel Pack.
+Watermelon Sugar High Candle
 
-With a blend of technical details with practical storage features, they can travel far and light with this handy backpack. It's got room for all the essentials while still meeting the carry-on size restrictions for most airlines.&nbsp;
+Ever wondered what watermelon sugar actually smells like? Well now you’ll know with this Watermelon Sugar High Candle.
 
-HOTO AutoCare Air Duster & Vacuum
+Inspired by one of Harry’s biggest hits, this candle features &nbsp;hints of sweet strawberries and, of course, watermelon. Sweet but not overpowering, you’ll want to light up this soy wax candle year-round.
 
-A gift they totally need but probably haven’t considered? The HOTO AutoCare Air Duster &amp; Vacuum. This handheld vacuum is perfect for small messes in the car or around the house, getting into crevices, corners and small spaces.
+You’re So Golden T-Shirt
 
-With 4-in-1 functionality, it combines vacuuming, blowing, inflating, and vacuum sealing all into one handy device.
+Harry’s merch can be hard to get your hands on between waiting in never-ending lines for the merch stand at the venue or everything selling out online.
 
-It's a must-have for cars, dorms and apartments.&nbsp;
+But this You’re So Golden T-Shirt can be at your doorstep at a moment’s notice. Rep your favorite song in this tee and consider it everyone’s daily reminder that you’re, in fact, golden.
 
-Pandora Triple Stone Heart Collier Necklace
+Retro Harry T-Shirt
 
-Why not celebrate with a little bling?
+When you’re Harry Styles, you don’t need a last name for everyone to know who you are. This Retro Harry T-Shirt features a 70s-inspired graphic that says it all.
 
-The delicate, sparkling Pandora Triple Stone Heart Collier Necklace is a symbol of everlasting love, making a perfect gift from mother to daughter … a reminder that you will always be connected even as they head off to college or a new city.
+Whether you’re heading to a concert or just hanging with friends, this statement tee is an easy way to show your stan status … without saying too much.
 
-Featuring three round brilliant-cut stones into a refined heart-shaped style, it's a perfect everyday piece that can easily be layered with other styles.
+Watermelon Sugar High T-Shirt
 
-Samsonite Freeform Luggage Set
+If you know, you know. This hilarious Watermelon Sugar High T-Shirt is a subtle nod to one of Harry’s most iconic songs that only true fans will understand.
 
-Whether they're heading out on a post-grad trip across the globe or just packing up their life for college, you can't go wrong with this Samsonite Freeform Luggage Set.
+Featuring a watermelon and sugar cube graphic, this tee is guaranteed to get some laughs … and be a conversation starter for those people who aren’t in the know.
 
-This two-piece set will have you set for all your travels with a large hardshell suitcase and a matching carry-on.
+Harry’s House Vinyl
 
-With generous capacity, complete with elastic straps, a divider, and a pouch, packing will be a breeze. And with four oversized, multidirectional spinners, you'll be gliding through the airport too.
-
-Ninja Luxe Café Premier Espresso Machine
-
-With the Ninja Luxe Café Premier Espresso Machine, they're about to become the go-to barista in their dorm.
-
-Before they head off to college, set them up for caffeinated success with this 3-in-1 espresso and coffee system that creates café-quality drinks at home.
-
-Barista Assist Technology guides you to the perfect cup from grind size recommendations to automated brew adjustments, making them an expert … even with no experience.
-
-Tissot PRX Powermatic 80 Watch
-
-A new timepiece is a classic grad gift that will last them years to come. The Tissot PRX Powermatic 80 Watch may be a pricey present but it's sure to get so much use.
-
-A slim, smooth 40mm watch with an authentic '70s feel, it may have a vintage vibe but it's packed with top of the line features. Its movement delivers reliability and precision and with 80 hours of power reserve, it's a modern movement designed to keep pace with busy lifestyles.
-
-Dyson Airwrap Multi-Styler Complete Long
-
-The ultimate graduation gift? The Dyson Airwrap Multi-Styler Complete Long. This iconic styler is designed especially for all different hair types that’s chest-length or longer. Using an aerodynamic phenomenon called the Coanda effect, the device uses air to attract and wrap hair to the barrel or surface of the brush … all while preventing heat damage. Plus, it comes equipped with new barrels and re-engineered attachments for faster and easier styling.&nbsp;
+Can you even consider yourself a Harry Styles fan without owning his music on multiple forms of media? The Harry’s House Vinyl is a must-have for any fan. Whether you’ve got a record player or just want to put it on display, you can’t go wrong with this vinyl. Plus, it also comes with an MP3 download of all the songs!
 
 For more curated product lists check out&nbsp;TMZ Deals.
 
 Sign up for Amazon Prime to get the best deals!
 
-All prices &amp; availability subject to change.
+All prices subject to change. Products are not official merchandise and are not affiliated with or endorsed by the celebrity.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/graduation-gifts-available-on-amazon/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/02/01/harry-styles-finds-amazon/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Why Xi Doesn’t Need a Deal With Trump
+### 📰 Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say
 <div align='justify'>
 
-President Xi Jinping of China is buying time for Beijing and may see an opening with a U.S. president weakened by the war in Iran.
+The Gulf Arab states have been grappling with how to deter Iran after the war made clear the limits of American security guarantees.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 As Trump and Xi Meet in China, American and Chinese People Are Drifting Apart
+### 📰 In Qatar, Energy Sector Damage Is Severe, and the Way Back Will Be Long
 <div align='justify'>
 
-Past meetings between the presidents of the U.S. and China have involved friendly displays of cultural exchange. Those gestures have largely dried up.
+Iranian strikes and a blockade have paralyzed Qatar’s gas engine, creating a technical bottleneck likely to stall exports for years.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/world/asia/trump-xi-summit-people-culture.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/business/qatar-lng-iran.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 China’s Growing Leverage Over the U.S., and How Oil Companies Hit the Jackpot
+### 📰 Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes
 <div align='justify'>
 
-Plus, a surprise reversal in the Murdaugh murder case.
+After months of avoiding confrontation, the Trump administration has taken recent steps to call out China on Iran, artificial intelligence and spying.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/podcasts/the-headlines/china-leverage-us-oil-companies.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Inside Jack Schlossberg’s Chaotic Campaign to Revive Camelot
+### 📰 Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.
 <div align='justify'>
 
-Erratic behavior and staff turnover have colored Mr. Schlossberg’s bid for a House seat in New York, raising questions about his readiness for office.
+In contrast to his rhetoric about China at home, President Trump spoke in conciliatory terms with Xi Jinping, the Chinese leader.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/nyregion/jack-schlossberg-campaign.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 South Carolina Governor Plans Special Session to Redraw House Maps
+### 📰 The Body Language of the Trump-Xi Summit Mirrored Their Styles
 <div align='justify'>
 
-Gov. Henry McMaster, a Republican, appears prepared to thrust the state into the nation’s redistricting wars.
+Although at odds over issues like trade and Taiwan, the U.S. and Chinese leaders met in Beijing with a show of friendly gestures.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/south-carolina-special-session-redistricting.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 NASA, Industry Prepare Cryogenic Fuel Technology Demo
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/csn-1518-rotated.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration.
+
+During a nine-month mission, LOXSAT will demonstrate 11 cryogenic fluid management technologies. Eta Space built LOXSAT as part of a NASA Tipping Point opportunity, and Rocket Lab is providing spacecraft and launch services to deliver it to low Earth orbit. The LOXSAT payload has been integrated with a Rocket Lab Photon satellite bus and will launch aboard the company’s Electron rocket from Launch Complex 1 on New Zealand’s Mahia Peninsula no earlier than July 17.
+
+The technologies that LOXSAT will demonstrate were selected to address the core challenges of using cryogenic, or super-cold, propellants in microgravity, including reducing boiloff, transferring propellant, maintaining tank pressure, and gauging propellant levels. Data collected from these tests will support development of future in-space propellant depots that could refuel spacecraft as they journey to the Moon, Mars, or other deep space destinations.
+
+NASA’s LOXSAT team is composed of members of the Cryogenic Fluid Management Portfolio Project from NASA’s Marshall Space Flight Center in Huntsville, Alabama, Glenn Research Center in Cleveland, and Kennedy Space Center in Florida. The cryogenic portfolio’s work is part of NASA’s Space Technology Mission Directorate and includes more than 20 individual technology development activities.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Fresh Food Delivery for Space Station
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/55227020012-87ff8b1296-o.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo.
+
+Northrop Grumman’s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and peppers, to the International Space Station. Cygnus XL also brought over 2,300 pounds of new research hardware and science experiments that the space station crew will use to explore blood stem cells to treat cancers and blood disorders and study ways to protect astronaut gut health. Other gear delivered aboard Cygnus XL include an advanced exercise system from ESA, new eye-imaging hardware, oxygen and nitrogen tanks to recharge spacesuits, and more.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Ice Moves Out of Aniak
 <img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ice-moves-out-of-aniak/alaskaicebreak_oli2_20260507_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -801,56 +805,6 @@ NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 1
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/rise-goes-to-washington/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA Outlines Preliminary Artemis III Mission Plans
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/pad.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-NASA is moving quickly to define next year’s Artemis III mission in Earth orbit, a crewed flight that will test rendezvous and docking capabilities between the agency’s Orion spacecraft and commercial landers from Blue Origin and SpaceX. Since a February announcement adding an Artemis mission ahead of crewed landing missions to the Moon’s South Pole region, engineers have been evaluating mission profile options and operational considerations for Artemis III to ensure the test flight helps the agency and its partners reduce risk ahead of the next Americans landing on the Moon during Artemis IV.
-
-“While this is a mission to Earth orbit, it is an important stepping stone to successfully landing on the Moon with Artemis IV. Artemis III is one of the most highly complex missions NASA has undertaken,” said Jeremy Parsons, Moon to Mars acting assistant deputy administrator, NASA’s Exploration Systems Development Mission Directorate in Washington. “For the first time, NASA will coordinate a launch campaign involving multiple spacecraft integrating new capabilities into Artemis operations. We’re integrating more partners and interrelated operations into this mission by design, which will help us learn how Orion, the crew, and ground teams all interact together with hardware and teams from both lander providers before we send astronauts to the Moon’s surface and build a Moon Base there.”
-
-The mission is planned to carry out a series of objectives designed to demonstrate critical systems needed for a future lunar landing. During the Artemis III mission, the SLS (Space Launch System) rocket will launch the Orion spacecraft from NASA’s Kennedy Space Center in Florida with four crew members. Instead of using the interim cryogenic propulsion stage as the upper stage of the rocket, NASA will use a “spacer,” a representation of the mass and overall dimensions of an upper stage but without propulsive capabilities. The spacer will maintain the same overall dimensions and interface connection points as the upper stage between the Orion stage adapter and launch vehicle stage adapter.
-
-Design and fabrication activities for the spacer are progressing rapidly at NASA’s Marshall Space Flight Center in Huntsville, Alabama. Material for the barrel section and the upper and lower rings is currently being machined at Marshall in preparation for upcoming welding operations.
-
-After the rocket delivers Orion to orbit, the spacecraft’s European-built service module will provide propulsion to circularize Orion’s orbit around the planet in low Earth orbit. This orbit increases overall mission success by allowing more launch opportunities for each element as compared to a lunar mission — SLS carrying Orion and its crew, SpaceX’s Starship human landing system pathfinder, and Blue Origin’s Blue Moon Mark 2 human landing system pathfinder.
-
-Informed by Blue Origin and SpaceX capabilities, NASA also is defining the concept of operations for the mission. While some decisions are yet to be determined, astronauts could potentially enter at least one lander test article.
-
-The crew will spend more time aboard Orion than during Artemis II, further advancing the evaluation of life support systems, and for the first time will demonstrate the docking system performance. The mission will inform lander rendezvous and habitation concepts and mission operations in preparation for future surface missions. The agency also plans to test an upgraded heat shield during Orion’s return to Earth to enable more flexible and robust reentry profiles for future missions.
-
-Over the coming weeks, NASA will continue to refine specific plans for the flight, including a timeline for identifying astronauts to train for mission operations, options to evaluate Axiom’s AxEMU spacesuit lander interfaces ahead of lunar surface missions, mission duration, and potential science operations for the flight. NASA has asked for industry input on potential solutions to improve the communications with the ground during the mission since the Deep Space Network will not be used. The agency also is seeking both international and domestic interest in potentially flying CubeSats to deploy in Earth orbit, and may share other opportunities as the concept of operations for the mission is further defined.
-
-As part of the Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions to explore more of the Moon for scientific discovery, economic benefits, establish an enduring human presence on the lunar surface, and to build on our foundation for the first crewed missions to Mars.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Studying Pneumonia in Space for Heart Health on Earth
-<img src='https://images-assets.nasa.gov/image/iss074e0490731/iss074e0490731~large.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases.
-
-In space, bacteria tend to be more severe and have enhanced drug resistance. Scientists are harnessing these traits to exaggerate their effect on heart cells and reveal important cellular responses that would be difficult to detect on Earth. Pinpointing the factors that make bacterial infections more severe in space could reveal targets for treatment. Dr. Palaniappan Sethu, professor of Medicine and Biomedical Engineering at the University of Alabama at Birmingham says, “By exacerbating the infection, we anticipate clear separation of the infection and control groups, making it easier to identify subtle factors that promote bacterial virulence”.
-
-The Streptococcus pneumoniae bacteria is the leading cause of community-acquired pneumonia (CAP), an infection which causes millions of deaths each year. More than a quarter of adults hospitalized for CAP develop heart disease and patients that survive severe cases have an increased risk even after the pneumonia has been fully eradicated.
-
-This research is also important as humans venture further into space. For over 25 years, researchers have utilized the space station to study how the human body and microbes respond to space, and deep space missions will require the strategies and knowledge we gain. “Addressing these questions is essential for ensuring human health during long duration space travel and for enabling sustainable habitation beyond Earth. Our experiments are expected to generate new insights into how space specific factors influence disease progression”, says Dr. Carlos J. Orihuela, professor of Microbiology at the University of Alabama at Birmingham.
-
-The space station allows researchers from around the world to address complex human health problems on Earth and in space. Using the unique environmental factors aboard the space station allows for advanced study of disease formation, testing drugs and diagnostic tools, and more.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
