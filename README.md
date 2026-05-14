@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/13 - 23:54`
+**📅 Update (Tehran Time):** `2026/05/14 - 14:58`
 
 ---
 
@@ -19,110 +19,148 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Russia unleashes massive drone barrage on Ukraine killing six
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778701293.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Russia launches hundreds more drones at Ukraine, killing three people
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a059dec812dc-1778753004.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Russia has launched a massive daytime drone barrage across Ukraine, killing at least six people.
+Russia launched a barrage of missiles and drones targeting Ukraine’s capital Kyiv, killing at least three people and wounding 40 others, Ukrainian authorities have said.
+
+The Ukrainian military said on Thursday that the overnight strikes hit six districts of Kyiv and another six in the surrounding areas. Deputy Prime Minister Oleksii Kuleba said attacks had targeted ports in the southern Odesa region and railways.
+
+In a post on X, President Volodymyr Zelenskyy said rescue operations were continuing following an attack on a nine-storey building in Kyiv after Russia launched “more than 670 attack drones and 56 missiles against Ukraine”.
+
+“In total, since midnight yesterday, Russia has used more than 1,560 drones against our cities and communities. These are definitely not the actions of those who believe the war is coming to an end,” he wrote on Thursday.
+
+“It is important that partners do not remain silent about this strike. And it is equally important to continue supporting the protection of our skies,” Zelenskyy added.
+
+The mayor of Kyiv, Vitali Klitschko, said 40 people were wounded in the attacks, including two children, while Ukrainian emergency services said three people had been killed.
+
+Reporting from Kyiv, Al Jazeera’s Audrey Macalpine said people are still feared trapped under the rubble of the building.
+
+Macalpine said it was one of Russia’s largest attacks of the war, “in a single 36-hour period just by sheer number of drones”.
+
+The attack comes as a setback for efforts to end the war after United States President Donald Trump raised faint hopes for peace by brokering a three-day ceasefire between Kyiv and Moscow last week, and Russian leader Vladimir Putin suggested the war could be winding down.
+
+The truce – put in place as Putin presided over a scaled-down military parade in Red Square to mark the anniversary of World War II victory – was marred by allegations of violations by both sides.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/russia-unleashes-massive-drone-barrage-on-ukraine-killing-six?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/14/russia-launches-hundreds-more-drones-at-ukraine-killing-three-people?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 New eye scan detects diseases years before symptoms appear
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-eye-1778700975.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 World Cup train and shuttle bus ticket prices cut in New York, New Jersey
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-17T204955Z_1692886748_RC27RKAZYI9D_RTRMADP_3_SOCCER-WORLDCUP-NEW-JERSEY-TRAIN-TICKET-PRICES-1778749011.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A Qatar-based professor has pioneered a non-invasive eye scan to detect neurodegenerative diseases in minutes.
+Local governments in New Jersey and New York have reduced the cost of train and bus tickets for commuters travelling to the states’ joint World Cup venue during the tournament.
+
+New Jersey Transit train tickets to the MetLife Stadium, renamed New Jersey New York Stadium for the FIFA World Cup, will now cost $98 as opposed to the earlier price set at $150 for a return fare, New Jersey Governor Mikie Sherrill announced on Wednesday.
+
+“Ahead of NJ Transit World Cup train tickets going on sale tonight, NJTRANSIT is lowering ticket prices to $98 without New Jersey taxpayer money,” Sherrill wrote in a social media post.
+
+The move followed intense backlash from local and international football fans planning to attend World Cup games at the stadium in East Rutherford, New Jersey, where the tournament’s final will be held on July 19.
+
+The $98 fare, which will be charged during the World Cup matches hosted in New Jersey, is still significantly higher than the regular fare of $13 for the 29km (18-mile) round trip from New York City’s Penn Station.
+
+When the $150 fare was announced, Sherrill defended it by suggesting the upcharge was necessary to ensure that her state’s commuters were not stuck with a “tab for years to come” for hosting the World Cup on its return to the United States for the first time since 1994.
+
+NJ Transit officials said it would cost $62m to transport fans to and from the stadium over the duration of the tournament and outside grants had defrayed only $14m of those anticipated expenses.
+
+“This isn’t price gouging,” NJ Transit President and CEO Kris Kolluri said last month. “We’re literally trying to recoup our costs.”
+
+Meanwhile, the cost of taking a shuttle bus from New York City to the World Cup venue has also been reduced.
+
+“The cost of shuttle bus tickets to and from matches will be reduced from the initial $80 round-trip price to $20,” New York Governor Kathy Hochul announced on the same Wednesday.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/13/new-eye-scan-detects-diseases-years-before-symptoms-appear?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/14/world-cup-train-and-shuttle-bus-ticket-prices-cut-in-new-york-new-jersey?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Will the boycott of Eurovision have any impact?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778698572.jpg?resize=1920%2C1061&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Could Iran war trigger a hunger crisis?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/web-1778750848.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Five nations are boycotting Eurovision, citing Israel’s participation. Their action is against Israel’s war in Gaza and allegations of vote manipulation in the song contest.
+The United Nations warns that if fertilisers cannot pass through the Strait of Hormuz within just a few weeks, the world could face mass starvation.
 
-But why is it so important for Israel to take part? And is the competition’s future under threat?
+It says the consequences could be severe if shipping disruptions linked to the Iran conflict drag on.
 
-Steve Wall – Musician, actor and member of the Ireland Palestine Solidarity Campaign
+Food prices are already at a three-year high, while fertiliser costs critical for agriculture have rocketed.
 
-Jonathan Hendrickx – Assistant professor in media studies at the University of Copenhagen
+Aid agencies fear a prolonged disruption could push tens of millions more people into hunger.
+
+For vulnerable economies already struggling with debt and high import costs, the risks are growing fast.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/13/will-the-boycott-of-eurovision-have-any-impact?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hamas must disarm, not ‘disappear’ from Gaza: Board of Peace’s Mladenov
-<img src='https://www.aljazeera.com/wp-content/uploads/2025/02/AA-20250220-37106396-37106389-ALQASSAM_HANDS_OVER_BODIES_OF_ISRAELI_HOSTAGES_KILLED_BY_ARMY_SHELLING_IN_GAZA-1740032671.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Federal judge blocks US sanctions against UN rapporteur Francesca Albanese
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/03/WIDE-THUMB-Francesca-Albanese-1774318725.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Nickolay Mladenov, the top diplomat overseeing the United States-brokered “ceasefire” in Gaza as part of US President Donald Trump’s International Board of Peace, has said he could envision a political role for Hamas in post-war Gaza if the Palestinian group disarms.
+A federal judge has temporarily ⁠blocked United States sanctions against Francesca Albanese, a United Nations expert on the occupied Palestinian territory.
 
-“We are not asking Hamas to disappear as a political movement,” Mladenov told reporters on Wednesday at a rare news conference in Jerusalem.
+UN Human Rights Council Special Rapporteur Francesca Albanese was sanctioned in July 2025 after she publicly criticised Washington’s policy on Israel’s genocidal war against Palestinians in Gaza.
 
-He said the phased ceasefire deal was paralysed over Hamas not yet disarming, calling it “not negotiable”.
+Albanese’s husband and daughter filed a lawsuit in February against the Trump administration over the sanctions. It argued that the sanctions were an effort to punish Albanese for bringing attention to Israel’s rights abuses against Palestinians.
 
-Disarmament remained a sticking point that stalled progress on other fronts, while Hamas blamed Israel for continuing to violate the truce.
+In his court order on Wednesday, US ⁠District Judge Richard Leon granted a preliminary injunction against the sanctions.
 
-The first phase of the agreement saw the release of the last captives seized in southern Israel in October 2023, in exchange for Palestinians detained by Israel.
+He found that the Trump administration sought to regulate ‌her speech because of the “idea or message expressed”.
 
-The transition to the second phase envisioned Hamas handing over its weapons, Israeli forces withdrawing, and the rebuilding of destroyed swaths of the coastal enclave after more than two years of war.
+“Albanese has done nothing more than speak,” judge Leon wrote in his memorandum opinion. “It is undisputed that her recommendations have no binding effect on the ICC’s actions – they are nothing more than her opinion.”
 
-Seven months since the “ceasefire” came into force on October 10, Israeli forces have killed at least 856 Palestinians and control more than 50 percent of the Gaza Strip.
+Albanese, who said the US sanctions were “calculated to weaken my mission” when they were first imposed, celebrated the ruling on social media.
 
-Humanitarian groups say Israel has not allowed the promised amount of aid in, while Hamas refuses to give up its arsenal.
+“Thanks to my daughter and my husband for stepping up to defend me, and everyone who has helped so far,” Albanese said in a statement on X.
 
-“The only way that we believe that we can ensure that Israeli withdrawal takes place to the perimeter is if we have the full element of the plan unfolding in Gaza,” Mladenov said.
+Since 2022, Albanese, a legal scholar, has served as the special rapporteur for the West Bank and Gaza, where she monitors human rights abuses against Palestinians. The UN Human Rights Council selected her for the position.
 
-Hamas spokesperson Hazem Qassem responded to Mladenov, saying he should “identify the party violating the ceasefire”.
+The Trump administration sanctioned her last July, calling her “unfit” for her role and accusing her of “biased and malicious activities” against the US and its ally, Israel. Albanese had also recommended that the International Criminal Court (ICC) pursue war crimes prosecutions against Israeli and US nationals.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/board-of-peaces-mladenov-says-gaza-ceasefire-hinges-on-hamas-disarmament?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Netanyahu visited UAE in ‘secret’ during US-Israel war on Iran, office says
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a04bcd01d-1778695376.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 In the UK, Muslim votes are treated as a problem to be managed
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a058e2565-1778748965.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Israeli Prime Minister Benjamin Netanyahu made what his office has described as a “secret visit” to the United Arab Emirates for a meeting with President Sheikh Mohamed bin Zayed Al Nahyan during the US-Israel war on Iran.
+Britain’s politics is in turmoil. The Labour government is consumed by an open leadership crisis, with the Prime Minister facing demands from more than ninety of his own MPs to resign and a likely challenge from within his own cabinet. All of this was triggered by Labour’s hammering in the local and devolved elections of May 7.
 
-In a statement published on social media on Wednesday, Netanyahu’s office called the trip a “historic breakthrough” in relations between Israel and the UAE, without disclosing the exact date.
+Westminster is absorbed in the spectacle, and understandably so. But for British Muslim communities, the lasting significance of those elections lies elsewhere. The May vote brought a real surge in Muslim civic engagement, with initiatives like the Muslim Council of Britain’s “Get Out The Vote” campaign helping to drive registration and turnout. Yet that engagement was too often met with suspicion rather than welcome.
 
-The announcement comes as cooperation between Israel and the Gulf state appears to be expanding, particularly on security issues linked to Iran.
+During the campaign, too many political actors and media outlets fell back on lazy, divisive narratives about Muslims, spreading misinformation and misrepresenting how our communities actually engage politically. Commentators repeatedly raised the spectre of “family voting”, claiming that Muslims, particularly Muslim women, were pushed or directed to vote in certain ways, as though they had no agency of their own. Others spoke of “sectarian voting,” portraying Muslims as a single bloc voting on the basis of religion alone, rather than as a diverse community with a multiplicity of political views. These terms were used to cast suspicion on Muslim voters, particularly in areas where Muslim electoral participation is more visible.
 
-United States Ambassador to Israel Mike Huckabee said this week that Israel had deployed Iron Dome air defence batteries and personnel to the UAE to help counter potential Iranian attacks.
+Reform UK, which campaigned heavily on an anti-immigration platform, made significant gains in local council elections in England, largely at the expense of both the Conservative Party and the Labour Party, the two dominant forces in British politics for over a century. In the devolved elections, Labour’s vote also declined, but the picture was more complex. In Wales, Plaid Cymru emerged as the largest party for the first time since devolution, with Reform UK Wales finishing a strong second. In Scotland, the SNP remained the largest party but lost seats, while the Greens had their best-ever result and Reform UK won its first MSPs. Voters in different parts of the UK clearly reached for different alternatives.
 
-Speaking at an event in Tel Aviv on Tuesday, Huckabee praised the UAE as an example of growing relations between Israel and Gulf Arab states.
+Frustration with the mainstream parties accounts for some of Reform’s success, but the party also gained substantial support for its hardline positions. These include proposals for large-scale immigration detention centres capable of holding tens of thousands of people, the abolition of “indefinite leave to remain”, and a combative framing of integration and national identity.
 
-According to the UAE’s state news agency, WAM, Sheikh Mohamed bin Zayed received calls from several regional leaders after Iranian attacks on the country on May 5, including from Netanyahu, who expressed solidarity with the UAE and support for measures taken to protect its security and stability.
+Elements of Reform’s rhetoric have at times overlapped with anti-Muslim and Islamophobic narratives also promoted by more extreme figures such as Tommy Robinson and Rupert Lowe, the MP who leads the far-right populist Restore Britain party. This rhetoric has included stoking fear around “political Islam,” calling for mass deportations, and advancing a more restrictive vision of British cultural identity. Such language grew louder over the course of the campaign, with some supporters and individual Reform candidates posting content on social media that was openly Islamophobic, racist or anti-Semitic. Phil Tierney, elected for Chelmsley Wood in Solihull and pictured with Reform’s deputy leader Richard Tice during the campaign, had publicly posted, “I am Islamophobic” on X, called Islam a “plague,” and shared material arguing that no Muslim should be allowed to hold public office. Ben Rowe, elected in Plymouth, was reported to have urged an anti-Muslim mob during the 2024 Southport riots to “get rid of that filthy building” as they threw bricks at police protecting a mosque. While such posts do not always reflect official Reform party policy, they contribute to a wider environment in which such rhetoric is highly visible and normalised.
 
-The UAE and other Arab countries came under Iranian missile and drone attacks after the US and Israel began bombing Iran in late February. A fragile ceasefire agreed by Iran and the US has been in place since April 8.
+Muslims, like anyone else, are not a monolith. We vote on a wide range of issues shaped by personal experience, local priorities, and wider concerns. Housing, the cost of living, education, safety, local services, and infrastructure matter to us just as they do to everyone else. And on national and international issues, including humanitarian crises, the genocide in Gaza, and human rights, we stand alongside neighbours of all faiths and none.
 
-Relations between Israel and the UAE have grown gradually since the signing of the so-called Abraham Accords in 2020, a United States-brokered agreement that normalised ties between Israel and several Arab states.
+For British Muslims, as with all communities, taking part in the democratic process is essential to ensuring fair representation and a meaningful voice in public life. We are a diverse community, and people will rightly vote for different parties and candidates. Recent shifts in voting patterns, away from traditional support for Labour and towards the Greens and independents in particular, show clearly that no community’s support can be taken for granted. When voters feel overlooked or dismissed, they will look elsewhere. Representation has to be earned through genuine engagement, respect, and accountability, not historical expectations.
 
-The deal, which was condemned by Palestinian leaders as a “stab in the back”, was formally signed in Washington, DC, on September 15, 2020, by UAE Foreign Minister Sheikh Abdullah bin Zayed Al Nahyan and Netanyahu.
+What concerns us most is not any single party or politician, but the speed at which the Overton window has shifted. Calls for the mass deportation of Muslims, for increased securitisation of our communities, and for limitations on our freedom of expression and protest were once confined to the political fringe. They are now made openly, by elected representatives, and meet silence rather than condemnation from much of the mainstream. As that fringe becomes mainstream, other parties feel pressure to move with it, and the space for a confident, plural British politics narrows.
 
-At the time, the agreement was presented as requiring Israel to suspend plans to annex parts of the occupied West Bank, including the Jordan Valley.
+Countering this requires more than calling it out. It means building confidence, strengthening civic literacy, and making sure people feel empowered rather than alienated. The more we engage politically and constructively, contacting our local councillors and MPs, responding to consultations, attending community meetings, and working with others on shared local issues, the less our communities can be sidelined, spoken for or spoken over.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/14/in-the-uk-muslim-votes-are-treated-as-a-problem-to-be-managed?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -160,6 +198,50 @@ Other CEOs expected to be travelling with Trump include Tim Cook of Apple, Larry
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 Latvian PM resigns after row over stray Ukrainian drones
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e738/live/532e5e10-4f7d-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Latvian Prime Minister Evika Silina has resigned following a political crisis over Russia-bound Ukrainian drones straying into Latvian territory.
+
+She had fired her Defence Minister Andris Spruds last week after two drones crashed down in eastern Latvia,  criticising his response and appointing a replacement.
+
+In protest, Spruds's Progressives party pulled their support for Silina's governing coalition, causing it to collapse months before a planned general election in October.
+
+"Seeing a strong candidate for the post of defence minister... political windbags have chosen a crisis," Silina said on Thursday. "I am resigning but I am not giving up."
+
+The political fallout was triggered by the incursion of three drones into Latvian airspace on 7 May - the second such accident since the start of 2026.
+
+Both Latvia and Ukraine acknowledged that the drones may have been Ukrainian UAVs intended to target Russia whose signals had been jammed, leading them to stray into Latvia.
+
+One drone crashed on the ground while another struck an empty oil product storage facility near the town of Rezekne. The third flew in and out of Latvian airspace.
+
+There were no casualties or injuries - but local residents told media that the official response to the incident had been delayed and insufficient. They said the cell broadcast alert system had not been activated for an hour after one of the drones crashed near Rezekne.
+
+Silina had said after the incident: "Something went wrong. We cannot afford for this situation to continue."
+
+She said she had also asked Spruds to resign because of the situation in the Latvian defence sector as a whole.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Watch: What happened on day one of Trump's China visit?
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/19a3/live/44d02760-4f7b-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Court overturns Alex Murdaugh's murder convictions and orders new trial
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/8ca8/live/60979bc0-4ee2-11f1-8eb9-6770c5101f32.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -177,13 +259,13 @@ In a 5-0 ruling, the South Carolina Supreme Court said Murdaugh deserved a new t
 
 "Both the State and Murdaugh's defense skillfully presented their cases to the jury as the trial court deftly presided over this complicated and high-profile matter," the justices wrote. "However, their efforts were in vain because Colleton County Clerk of Court Rebecca Hill placed her fingers on the scales of justice, thereby denying Murdaugh his right to a fair trial by an impartial jury."
 
+In a statement, South Carolina Attorney General Alan Wilson said his office would "aggressively seek to retry Alex Murdaugh for the murders of Maggie and Paul as soon as possible".
+
+Murdaugh's lawyers told US media that their client "has said from day one that he did not kill his wife and son".
+
 Last December, Hill pleaded guilty to charges of misconduct in office, obstruction of justice and perjury over accusations that she misused public funds as a clerk and shared sealed court information with a reporter, among other claims.
 
 Wednesday's ruling cites a number of comments that Hill allegedly made to jurors during the trial.
-
-One juror wrote in an affidavit that Hill made comments telling jurors to "watch [Murdaugh] closely", which she said influenced her decision to find Murdaugh guilty because she thought the clerk was implying he was.
-
-A jury found Murdaugh guilty of the murder of his wife and son - who were shot at close range near the family's dog kennels - after an extensive six-week long trial. Murdaugh was sentenced to life in prison.
 
 </div>
 
@@ -191,102 +273,102 @@ A jury found Murdaugh guilty of the murder of his wife and son - who were shot a
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8257/live/fa538c50-42d6-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 'They shot my neighbour in the head' - the lakeside city traumatised by war
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/df0f/live/9eae3c30-4ed7-11f1-ac78-2112837ce2aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Dozens of dogs kept in sham animal shelters and used for online scamming have been rescued by police and animal rights organisations in Uganda following a BBC investigation.
+Summary executions and rape were among the atrocities committed by the M23 rebel group and Rwandan soldiers during their weeks-long occupation of the lakeside city of Uvira in eastern Democratic Republic of Congo, an investigation by a leading rights group has found.
 
-A suspect has been arrested after two adjacent shelters were raided by the police. Two other suspects are said to be at large, according to animal rights activists.
+Human Rights Watch (HRW) says its investigators found evidence of the execution of 53 civilians - 46 men, one woman and six children - during door-to-door raids in the city's neighbourhoods after the rebels, widely believed to be backed by Rwanda, captured it in December.
 
-Owen Godfrey Membe has pleaded not guilty to a charge of animal cruelty and has been remanded in custody until 27 May.
+Rwanda has consistently denied supporting the M23 or that its own soldiers have been deployed to resource-rich eastern DR Congo.
 
-Membe is accused of "killing an animal in an unnecessarily cruel manner" under Uganda's Animals (Prevention of Cruelty) Act.
+But HRW says many of the interviewees alleged witnessing atrocities committed by uniformed Rwandan soldiers as well as M23 fighters.
 
-Membe's dogs and those belonging to a nearby operation remain at the raided shelters, but are now in the care of the Animal Welfare Alliance Uganda, a network of local and international activists aiming to tackle organised animal exploitation.
+"They [M23 fighters] shot my neighbour first in the head," said one of the 130 residents interviewed by HRW.
 
-The organisation, which includes qualified veterinarians, said it had secured land where an emergency shelter is being set up to receive the dogs.
+"I wasn't hit so I just ran to the lake. I saw my brother, his wife, and two of his children fall," he was quoted as saying.
 
-The case against Membe has been brought as a private prosecution by the Animal Justice Center, a Uganda-based organisation, with funding from We Won't Be Scammed, a UK-based group which uses online vigilante tactics to expose sham rescue shelters in Uganda. We Won't Be Scammed said it was working to receive the dogs from the raided shelters in its existing partner facilities in Uganda.
+The M23 and Rwandan government have not yet responded to a BBC request for comment.
 
-The arrest and rescue follow the publication of a BBC investigation exposing how scammers in Mityana, posting social content of dogs in distress, have been tricking international donors out of hundreds of thousands of pounds.
+The M23 captured Uvira - which lies on the shores of Lake Tanganyika - days after US President Donald Trump brokered a peace deal between DR Congo's President Felix Tshisekedi and his Rwandan counterpart Paul Kagame in a bid to end the devastating conflict in the resource-rich region.
 
-Undercover filming by the BBC showed that instead of benefitting the dogs, many content creators spent money on funding their own luxury lifestyles.
+The US and European powers accuse Rwanda - which borders eastern DR Congo - of supporting the rebel offensive.
 
-The investigation also revealed there have been instances of dogs being intentionally harmed for content.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Woman isolating on British island in South Pacific after hantavirus contact
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ffba/live/92827b10-4ec3-11f1-9226-1f41f7d44e1f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A woman is isolating on the Pitcairn Islands, a remote British Overseas Territory in the South Pacific, after travelling on a hantavirus-hit cruise ship.
-
-A local government spokesperson told the BBC the person "had contact with a hantavirus-exposed individual" but was "showing no signs of illness".
-
-The UK foreign office said it was "aware of an individual from the MV Hondius who has travelled on to the Pitcairn Islands".
-
-Officials said she was not a suspected case and the risk to the public was low.
-
-The woman had flown from San Francisco on 7 May and travelled through the island of Tahiti and then Mangareva in French Polynesia, the French Polynesian government said.
-
-No details have been released about when and where she left the cruise and travelled to the US.
-
-Three people have died after travelling on the Dutch-flagged MV Hondius ship. Two of them were confirmed virus cases. The third had earlier developed symptoms and is believed to have been the first infected in the outbreak, but died before he could be tested.
-
-The World Health Organization (WHO), the UN global health agency, has since confirmed nine cases, with two others suspected.
-
-On Tuesday, WHO chief Tedros Adhanom Ghebreyesus said there was at that time "no sign" of a larger hantavirus outbreak after the evacuation of the last passengers from the ship a day earlier.
-
-But he warned that "the situation could change" and there could be more confirmed virus cases.
+UN experts have said Rwanda had "de facto control" of the M23's operations. They said M23 recruits were trained under Rwandan supervision and supported by high-tech Rwandan weaponry.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 What to know as Trump visits Xi in China
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e2cf/live/54780510-4ecd-11f1-bd52-e755d604ece4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-US President Donald Trump has arrived in Beijing on the first trip to China by an American leader since in his own previous visit, during his first term in 2017.
-
-He will hold two days of talks with Chinese President Xi Jinping, originally meant to be held in March but rescheduled after the US and Israel launched attacks on Iran.
-
-The main focus of the talks is expected to be the current tense trade relationship between the two superpowers.
-
-Trump said he would ask Xi to "open up" China's economy to major tech companies.
-
-He added that he also expected a "long talk" about Iran, though he insisted he did not need China's help to end the conflict.
-
-He said Xi had been "relatively good" on Iran, adding that it would be an "exciting trip" and "a lot of good things are going to happen".
-
-Xi meanwhile is expected to press for an end to US arms sales to Taiwan, and an extension of the trade truce agreed in October that halted tariff escalation between the US and China.
-
-Commentary in Chinese media also suggested Beijing was looking for a "better future" with the US, and a relationship that would "add more stability and certainty" to a turbulent world.
-
-Trump arrived in Beijing on Air Force One on Wednesday evening local time, before the main part of the visit starts on Thursday.
-
-The US president is expected to attend an arrival ceremony with Xi at the Great Hall of the People, before the two leaders hold bilateral talks.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 UN urges Equatorial Guinea to halt plans to return US deportees to home countries
+<img src='https://i.guim.co.uk/img/media/8b16c976f04e2ef07186becf8de728c6c5757d81/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db17e87dbbb2d5d82db3f7189e97f40d' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Human rights experts make rare public appeal as US deportees describe being held in ‘prison-like’ conditions
+
+Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea, urging the West African country to halt its plans to return US deportees to their home countries where they face political violence, torture and death.
+
+The statement, cosigned by a representative of the African Commission on Human and People’s rights, adds diplomatic pressure on Equatorial Guinea, one of the world’s most repressive regimes, to comply with international human rights standards and avoid refoulement, or the expulsion of people to countries where they face persecution.
+
+“States must ensure that no one is returned, directly or indirectly, to a situation where their life, freedom or physical or mental integrity would be in danger,” the experts implored in a statement on Wednesday.
+
+The Trump administration made deals with dozens of countries to receive US deportees, as part of the president’s goal of “mass deportation”. The US gave Equatorial Guinea $7.5m to take in third-country nationals, who had been granted protections against expulsion to homelands where they faced persecution.
+
+The UN’s public plea came after several deportees sent by the US to Equatorial Guinea said security officials presented nine of the US deportees with salvo-conductos – temporary travel documents – and told them they would be deported imminently to their home countries.
+
+“Equatorial Guinea should never be treated as a safe country for migrants or asylum seekers. This is a highly repressive authoritarian state,” said Tutu Alicante, director of the human rights group Equatorial Guinea Justice. “Vulnerable migrants are being transferred into a country where they have no legal status, no family networks, and no meaningful protection mechanisms.”
+
+Esther, who landed in Malabo, Equatorial Guinea, weeks ago, said the conditions at the hotel where she has been detained are not unlike a prison. She and at other deportees had been held without access to soap, toothbrushes or clean clothes.
+
+“I have cried. I have struggled. I have done everything,” she said in a phone call with the Guardian from the hotel room where she has been confined. “I have fought and fought. Now I don’t have anything left in me.”
+
+Esther is from a different West African country. The Guardian is using a pseudonym for her, and not naming her home country in order to protect her safety. She said she fled in 2024, after she was arrested and tortured at the behest of government officials – first making her way to South America, and then migrating north through Mexico before arriving at the US southern border. She spent 14 months at a US immigration detention center before a judge heard her case, and granted her a “withholding of removal” – a special immigration status guaranteeing she wouldn’t be sent back to her home country where she faced violence.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Remains of second US soldier who went missing during military exercises in Morocco have been recovered
+<img src='https://i.guim.co.uk/img/media/9e61ea211a9ecfdd0c3725a363e61ad4714738db/372_0_3699_2961/master/3699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b71c720de52bb9636262d47ed2aced5' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Mariyah Symone Collington and Kendrick Lamont Key Jr, who also died, had fallen off a cliff during an off-duty hike
+
+The remains of the second US army soldier who went missing during military exercises in Morocco have been recovered, the army said on Wednesday, ending a multinational search operation that deployed air, naval and artificial intelligence assets.
+
+The soldier was identified as Spc Mariyah Symone Collington of Taveres, Florida, the US Army Europe and Africa said in a statement. She was 19 years old.
+
+“Royal Moroccan Armed Forces transported the soldier’s remains by a Moroccan helicopter to the morgue of Moulay El Hassan military hospital in Guelmim, Morocco,” the statement said.
+
+Collington served as an air and missile defense crew member and was assigned to Charlie battery, fifth battalion, fourth air defense artillery regiment, 10th army air and missile defense command, US Army Europe and Africa said.
+
+Collington entered the Regular Army’s Delayed Entry Program in 2023 before beginning active-duty service in 2024. She completed basic combat training and advanced individual training at Fort Sill, Oklahoma, as a 14P air and missile defense crew member. She reported to Charlie battery, fifth battalion, fourth air defense artillery regiment, in Ansbach, Germany, in February 2025 and was promoted to specialist on 1 May 2026.
+
+The announcement came days after the military said the remains of another soldier, 1st Lt Kendrick Lamont Key Jr, a 14A air defense artillery officer, had been recovered. The two soldiers fell off a cliff during an off-duty recreational hike in Morocco. Their remains are en route to the United States.
+
+A spokesperson for the US Army Southern European Task Force, Africa (SETAF-AF) told the Associated Press that the circumstances surrounding the incident remain under investigation.
+
+The two soldiers were reported missing on 2 May after participating in African Lion, an annual multinational military exercise held in Morocco. Their disappearance triggered a search operation involving more than 1,000 US and Moroccan military and civilian personnel, the SETAF-AF spokesperson added.
+
+African Lion 26 is a US-led exercise launched in April across four countries – Morocco, Tunisia, Ghana and Senegal – with more than 7,000 personnel from more than 30 nations. Since 2004, it has been the largest US joint military exercise in Africa.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 ‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown
 <img src='https://i.guim.co.uk/img/media/4e12c8f3bf0f3d8afcf7718347f97201ebd63135/234_0_3933_3144/master/3933.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3d0baa14dc43dc7af6f3975c927c2b55' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -380,162 +462,100 @@ The Botswana National Sports Commission runs programmes for 15 sports to spot an
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa
-<img src='https://i.guim.co.uk/img/media/ddd248bb8979ab25c013955062f73e9270e28886/417_0_4285_3427/master/4285.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4adcb1236732e90ee166d918d46cdab2' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Temperatures soar in California and Arizona, while deluge continues across Western and Northern Cape
-
-Heat is expected to intensify across western parts of the US and Mexico this week as a ridge of high pressure pushes temperatures well above the seasonal norm. Daytime highs are forecast to reach 10-15C above average in some areas.
-
-The US National Weather Service has issued heat advisories for parts of California and Arizona, with extreme heat warnings in force on Monday and Tuesday in places such as Palm Springs, where temperatures could reach 40-43C (104-110F). More broadly, temperatures are expected to climb into the high 30s celsius before the heat shifts eastwards towards the midwest later this week.
-
-Meanwhile, severe weather is likely to continue across parts of South Africa, with disruptive rain and damaging winds raising the risk of flooding. Rain moved in from the Atlantic across the Western and Northern Cape on Sunday morning, bringing persistent downpours over much of the weekend. Between Monday and Wednesday, more than 200mm of rain could fall across parts of Western Cape, while mountainous regions could record totals approaching 300mm.
-
-The South African Weather Service has issued several warnings, highlighting the potential for flash flooding, mudslides, rockfalls and damage to infrastructure and property.
-
-Heavy rainfall is also expected to coincide with strong, potentially damaging winds. Large areas of southern South Africa, including Western and Eastern Cape, are forecast to experience north-westerly to westerly gusts exceeding 60mph (97km/h) early this week, with even stronger gusts likely over higher ground, particularly across the Cape Fold Mountains.
-
-The latest warnings come shortly after heavy rain triggered flooding, road closures and infrastructure damage across the Western and Eastern Cape on 5-7 May. More than 300mm of rain fell in some areas, forcing evacuations in Gamtoos Valley after the Kouga dam exceeded capacity. Power outages and at least 45 road closures left many communities isolated. One person died in Knysna, Western Cape, while more than 2,000 people were evacuated to emergency shelters.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/environment/2026/may/11/weather-tracker-us-mexico-heatwave-floods-south-africa)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Body of missing US soldier recovered off coast of Morocco
-<img src='https://i.guim.co.uk/img/media/c35222b8bc10e65e16b8ab2b76b560d0aa984757/1500_0_7500_6000/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e27913fead786dc953e927871d85b3a5' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries
-
-A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Morocco, the US army said on Sunday.
-
-Moroccan searchers found the remains on Saturday in the water within a mile (1.6km) of where the soldier went missing on 2 May, the army said in a statement.
-
-The army identified the soldier as 1st Lt Kendrick Lamont Key Jr, a platoon leader in an artillery unit.
-
-A second soldier remains missing and search operations are continuing, according to the army.
-
-The US service members were participating in African Lion, the US Africa Command’s largest joint exercise among US forces, Nato allies and African partner countries.
-
-The largest part of the exercise takes place in Morocco, involving approximately 5,000 personnel from more than 40 countries, according to Africom.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 PK Kemsley's Range Rover Hits Car in L.A., Drives Away, on Video
-<img src='https://imagez.tmz.com/image/b7/16by9/2026/05/13/b7862c5f93334b34a0ead2a4f5107565_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Carnival Cruise Passenger Dead After Going Overboard
+<img src='https://imagez.tmz.com/image/f2/16by9/2026/05/14/f217d307bbd84e8c8c917bf411063831_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-PK Kemsley's got enough drama with his divorce ... but now he's adding smashing into his neighbors' car to the mix!
+A passenger has died after going overboard from a Carnival cruise ship near the Bahamas ... TMZ has learned.
 
-Check out this video from Tuesday in Los Angeles -- PK backed his $120K Range Rover out on the street, straight into a Toyota RAV4 owned by his neighbor’s caregiver ... then casually drove off like nothing happened.
+Sources on board the boat tell TMZ ... the man went into the water from the Carnival Liberty as it traveled just outside Nassau Tuesday. We're told a life ring was thrown to him, but he was soon out of sight, prompting an immediate search and rescue effort.
 
-The extent of the damage on the RAV4 is unclear, but PK's own ride was left with a pretty noticeable dent. Didn't seem to faze him though ... he was spotted strolling back into his Encino building completely unbothered.
+A Carnival spokesperson tells TMZ ... the guest climbed over his stateroom balcony and went overboard while the ship was sailing from Celebration Key to Nassau. Crew members immediately launched a search and were able to recover him from the water, but he did not survive.
 
-PK tells TMZ ... "I genuinely thought the new Range Rover had automatically braked for me. It wasn't until I got home and noticed the world's tiniest mark on my car that I realized I'd very gently nudged the neighbor's bumper. I went over, apologized, and offered to pay. Entirely my fault. Although in fairness, trying to reverse while subconsciously searching for paparazzi hiding in bushes is probably not recommended by Land Rover."
-
-Of course, PK’s already knee-deep in chaos with estranged wife Dorit Kemsley ... who recently accused him of stopping payments on their $6 Million mansion amid their ugly divorce war.
-
-TMZ obtained a fiery email filed by PK as part of the split, dated April 15, 2026, laying out the couple’s financial disputes and other ongoing issues.
-
-Sources connected to the case are brushing off Dorit’s claims though ... insisting PK covered the bills for years before pulling the plug after Dorit allegedly dropped more than $1 Mil clothes and travel while contributing nothing toward the mortgage.
+The cruise line says it is now supporting the guest's family, who were traveling with him.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/pk-kemsley-hits-neighbors-car-on-video/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/carnival-cruise-passenger-dead-after-going-overboard/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Spencer Pratt Fires Back Over Claims He Misled Voters About Living in Trailer
-<img src='https://imagez.tmz.com/image/b8/16by9/2026/05/13/b8d18c6839d549c6bab901661e37b265_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Chud The Builder Hit With Attempted Murder and Other Charges After Shooting
+<img src='https://imagez.tmz.com/image/00/16by9/2026/05/11/0032e726271b498a85cfe808f190474a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Spencer Pratt is digging in over the backlash surrounding his mayoral campaign ad ... insisting he never lied about living in an Airstream trailer after being called out for actually staying at the ritzy Hotel Bel-Air.
+Chud the Builder's problems are stacking up ... the controversial streamer has now been charged in connection with Wednesday's wild shooting outside a Tennessee courthouse.
 
-The candidate joined "TMZ Live" Wednesday after we broke the story ... he's been staying at maybe the swankiest hotel in L.A.&nbsp;... this after calling out the luxury homes where incumbent Mayor Karen Bass and challenger Nithya Raman live. But Spencer says people are missing the point.
+The Montgomery County Sheriff's Office announced that Chud, whose real name is Dalton Eatherly, was charged and booked for criminal attempt: murder, employing a firearm during dangerous felony, aggravated assault, and reckless endangerment with a deadly weapon.&nbsp;
 
-“I don't live at the hotel Bel Air. I don't live in the Airstream. I don't live in Santa Barbara. I don't have a house. They burned it down,” he said.
+On Wednesday afternoon ... officers responded to a call of "shots fired" outside the Montgomery County Courthouse and detained two men who got into a fight that escalated into gunfire, according to the sheriff's office.
 
-Harvey pressed Spencer repeatedly over the ad's wording ... noting the commercial clearly gave viewers the impression he was physically living in the trailer. Spencer texted Harvey early today, "I have never told anyone I lived there." Yet in the campaign he said, "This is where I live" as he stood in front of his trailer with the door open.
+The men suffered bullet wounds with one being transported to a local hospital and the other treated at the scene. Both were listed in stable condition.
 
-Spencer didn't back down, saying of the Palisades property ... "That is where I live, period. I don't need to sleep there every night. I don't need to go number two on that toilet. That is where I live."
+The Montgomery County District Attorney General's Office identified Eatherly as a suspect who was taken into custody before he was formally charged.
 
-He also claimed death threats tied to his campaign forced him into temporary housing and hotels for safety reasons -- and claims he only sleeps about 4 hours per night anyway. We're also told his wife,&nbsp;Heidi, and their kids are staying in Carpinteria, just north of L.A. So the trailer is sitting lonely.
+Eatherly live-streamed the entire incident, claiming he was jumped outside the courthouse and fired shots in self-defense. He also said he accidentally shot himself in all the confusion.
 
-"I'm at a hotel because these psychopaths are messaging me every day they’re going to kill me,” Spencer said ... later adding, "You can literally snipe me out from any part from 300 yards away easily."
+Last week, Eatherly had another run-in with the law in Nashville, where he was arrested for disorderly conduct and theft of services.
 
-Even after Harvey asked point-blank whether he had ever physically lived in the trailer ... Spencer dodged giving a direct answer, instead repeating, "I haven't lived anywhere since my house burned down."
+Police say he got into a spat with customers who asked him to stop filming them at a restaurant before he skipped out on a $371.55 bill.
+
+Chud's bad news.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/spencer-pratt-responds-to-bel-air-hotel-living-criticism/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/chud-the-builder-dalton-eatherly-tennessee/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Noah Syndergaard Addresses Alex Cooper Diss, Guess I Live Rent-Free In Her Head!
-<img src='https://imagez.tmz.com/image/b4/16by9/2026/05/13/b42c84ab922e4e49b599e3108dbac981_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Tiffany Haddish's Lawyers Call 4-Year-Old DUI Case 'Unprecedented' With No Victims
+<img src='https://imagez.tmz.com/image/10/16by9/2026/01/20/10fc3b0fae934488873c3c021fbec822_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-It only took three years, but Noah Syndergaard is finally responding to a savage diss his ex Alex Cooper uttered in 2023 ... saying he must be living rent-free in her head if she's still talking about him.
+Tiffany Haddish's attorneys have had it with the comedian's seemingly never-ending DUI case, demanding the whole thing be tossed since there wasn't a single injury or victim!
 
-The former New York Mets star -- who dated the "Call Her Daddy" host in 2017 -- joined OutKick's "Tomi Lahren is Fearless" podcast this week ... and was asked about getting shaded on Cooper's platform back in the day.
+Last week, Haddish's lawyers, Marissa Goldberg and Drew Findling, filed a motion saying her 4-year-old misdemeanor case for driving under the influence should be thrown out of court because it's stuck in legal limbo and negatively impacting her career.
 
-For those who aren't in the Daddy Gang, Cooper said he "can't get a f***ing contract" ... and even though she didn't name him, everyone knew it was about Thor.
+But now the attorneys are going even further, telling TMZ&nbsp; ... "The procrastinated failure to rule on a misdemeanor case with no victims or injuries is unprecedented."
 
-So ... what did he think about it??
+The lawyers also say that prosecutors couldn't give a rat's ass about the case because they don't even inquire about it anymore. Haddish's attorneys go on to say that "fairness and the constitution require that the court dismiss this case."
 
-"I haven't spoken to her in eight years or so," Syndergaard said. "So, I guess I continue to live rent-free in her head. I don't really know."
+In last week's motion, Tiffany points out that she's having trouble getting travel documents for overseas work opportunities, and companies are reluctant to hire her because of the unresolved legal issue, hurting her financially.
 
-"Cheap shot, but she's entitled to her own opinion and freedom of speech, so I can't really control what comes out of her mouth. It doesn't really bother me ... It's kind of comical, but whatever."
+She also claims to have notified the court she was "ready for trial" about 10 times, and then waited for rulings that never came. That's why, she says, the case should be nixed on constitutional grounds for lack of a speedy trial.
 
-As Lahren took it to Cooper's current drama with Alix Earle, she suggested maybe she's a different woman now ... and Syndergaard said that's unlikely.
-
-"I don't want to get into it," he admitted. "I don't want to kick the hornets nest any more than I have."
-
-Sounds like Coop wasn't the nicest when they dated ... and Syndergaard is not surprised one bit that she's beefing with her former business partner, but he seems to want out of her crosshairs.
+Talk about a legal nightmare!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/noah-syndergaard-reacts-to-alex-cooper-diss/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/tiffany-haddishs-lawyers-demand-4-year-dui-case-be-tossed-there-were-no-injuries/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Billionaire Stephen Cloobeck's Arrest Tied to Fiancée's Criminal Case
-<img src='https://imagez.tmz.com/image/c1/16by9/2026/05/13/c1f94d21792247c1a57abdf7976daf12_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 50 Cent & Eminem Reunite Courtside at Pistons-Cavs Playoff Game
+<img src='https://imagez.tmz.com/image/7b/16by9/2026/05/14/7b22170236264739a575a79f29c4ee8b_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Billionaire Stephen Cloobeck's surprising arrest is tied directly to the criminal case surrounding his fiancée, Adva Lavie ... TMZ has learned.
+50 Cent and Eminem just gave fans a full on nostalgia moment ... reuniting courtside in Detroit like it was the early 2000s all over again.
 
-TMZ broke the story ... Cloobeck was arrested Tuesday in L.A. on a felony charge connected to discouraging a witness from testifying, and we're told investigators believe that witness was tied to Lavie's ongoing theft case.
+The hip-hop heavyweights and longtime friends were spotted at Little Caesars Arena for Game 5 of the NBA Eastern Conference Semifinals Tuesday night, where the Detroit Pistons battled the Cleveland Cavaliers.
 
-Lavie -- a former Penthouse Pet -- is accused of targeting wealthy men through dating apps and social circles ... allegedly stealing luxury goods, cash and personal information. She has pleaded not guilty to multiple felony charges.
+50 and Em were seen laughing, chopping it up, and soaking in the action and once they hit the jumbotron, the crowd erupted with social media quickly following suit over the rare public reunion.
 
-According to prosecutors, Cloobeck attempted to dissuade or prevent 3 of Lavie's alleged victims from testifying against her.
+It's not just any link up either ... this actually marks the first time the two have been seen together courtside at a basketball game since the 2005 NBA Finals in nearby Auburn Hills ... making the moment feel even bigger for longtime fans.
 
-He's also been charged with a misdemeanor for "annoying telephone calls" to a 4th man reportedly connected to her case.
-
-The arrest marks a stunning escalation in the legal drama surrounding the billionaire businessman and his fiancée ... whose lavish Jerusalem wedding plans were already hanging by a thread after a judge ordered Lavie to surrender her passport and remain in California pending trial.
-
-Cloobeck was booked Tuesday and later released on $300,000 bond. So far, neither he nor his attorney has publicly commented.
+Call it what you want ... but Slim Shady and 50 definitely stole the spotlight.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/stephen-cloobeck-arrested-allegedly-pressured-fiancee-victim/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/13/50-cent-and-eminem-reunite-courtside-at-pistons-cavs-playoff-game/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -649,64 +669,95 @@ All prices &amp; availability subject to change.
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Trump and Xi: Beneath the Pomp and Niceties, a Geopolitical Rivalry
+### 📰 Why Xi Doesn’t Need a Deal With Trump
 <div align='justify'>
 
-The relationship between the two leaders is marked just as much by mistrust and confrontation as it is by niceties.
+President Xi Jinping of China is buying time for Beijing and may see an opening with a U.S. president weakened by the war in Iran.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/politics/trump-xi-rivalry.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Chinese Firms Plot Secret Arms Sales to Iran, U.S. Officials Say
+### 📰 As Trump and Xi Meet in China, American and Chinese People Are Drifting Apart
 <div align='justify'>
 
-The effort involves plans to send weapons through other countries in an effort to hide the origins of the shipments.
+Past meetings between the presidents of the U.S. and China have involved friendly displays of cultural exchange. Those gestures have largely dried up.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/world/asia/trump-xi-summit-people-culture.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 How China Sent a Message to Trump on His Arrival
+### 📰 China’s Growing Leverage Over the U.S., and How Oil Companies Hit the Jackpot
 <div align='justify'>
 
-Beijing welcomed President Trump with a high-ranking vice president, but the choice of a ceremonial leader suggests China is trading symbolism for substance.
+Plus, a surprise reversal in the Murdaugh murder case.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/podcasts/the-headlines/china-leverage-us-oil-companies.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 What to Watch at Trump and Xi’s U.S.-China Summit
+### 📰 Inside Jack Schlossberg’s Chaotic Campaign to Revive Camelot
 <div align='justify'>
 
-Here’s what to know about the biggest sources of tension in U.S.-China relations before the first summit in Beijing in nine years between the nations’ leaders.
+Erratic behavior and staff turnover have colored Mr. Schlossberg’s bid for a House seat in New York, raising questions about his readiness for office.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/business/economy/china-trump-xi-beijing-summit.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/nyregion/jack-schlossberg-campaign.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Alex Murdaugh Murder Convictions Overturned by South Carolina’s Top Court
+### 📰 South Carolina Governor Plans Special Session to Redraw House Maps
 <div align='justify'>
 
-The decision, in which judges cited jury interference by a court clerk, upends one of America’s highest-profile homicide cases.
+Gov. Henry McMaster, a Republican, appears prepared to thrust the state into the nation’s redistricting wars.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/13/us/south-carolina-special-session-redistricting.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 Ice Moves Out of Aniak
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/ice-moves-out-of-aniak/alaskaicebreak_oli2_20260507_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding.
+
+Thawing may be a welcome sight for Alaskans following a remarkably cold winter and early spring in much of the state. But with melting comes the threat of rapid flooding in low-lying areas as river ice breaks up and periodically jams.
+
+The landscape along the Kuskokwim River appeared frozen in a Landsat 9 image acquired on April 21, 2026 (left). According to observations published by the Alaska-Pacific River Forecast Center, river ice near the town of Aniak was thick and still covered in deep snow as of April 16. The Kuskokwim ice road connecting numerous villages traces a dark line down the river. The thick river ice supported a route that extended about 350 miles (560 kilometers) in winter 2025-2026 and shut down for the season on April 10, according to news reports.
+
+Conditions were changing quickly around May 7, when the right image was acquired. The previous day, the front of the ice breakup had nearly reached Aniak, and a sheet of grounded ice caused a jam that stretched 21 miles (34 kilometers) upstream. News reports showed ice chunks several feet thick piled up on riverbanks around the town. Ice became unstuck by May 7, and the backup, visible above (right), had started to flow downstream.
+
+Aniak remained at risk, however, as ice clogged the river later that night, this time several miles downstream from the community. Waters began to rise, and a flood watch was issued for the town on May 8. Water inundated low-lying areas and encroached on homes and businesses near the east side of the runway, according to reports, before receding two days later.
+
+Flooding caused by spring breakup can be most hazardous when heavy snowpack and thick ice remain in place from the winter and there’s a sudden transition from freezing to warmer temperatures. In what is known as a dynamic breakup, snowmelt encounters intact ice and causes water to back up quickly. On the other hand, if ice weakens before significant snowmelt or ice from upstream arrives, jams are less likely to form.
+
+Forecasters noted that spring 2026 showed warning signs of a dynamic breakup. Snowpack was above average in some major river drainages, and historically low temperatures marked the winter and spring months in many places. For example, the March average temperature in Bethel, downstream of Aniak, was 14 degrees Fahrenheit (8 degrees Celsius) below normal. However, floods had been relatively minor along the large rivers through early May, experts noted, while cautioning that more severe flooding still has the potential to develop quickly.
+
+NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey. Story by Lindsey Doermann.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+Ice in the Hudson River hugged the shore of Manhattan amid a deep freeze.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 NASA-Supported Space Tech Advances Earthly Construction
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/lunar-habitat-e1778695522319.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -800,37 +851,6 @@ The space station allows researchers from around the world to address complex hu
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA’s Planet-Hunting TESS Reveals Dazzling Night Sky
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/tess/news/2026/all-sky-2025/TESS_both_bin4_planets-Half.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-NASA’s TESS (Transiting Exoplanet Survey Satellite) has released its most complete view of the starry sky to date, filling in gaps from previous observations. Nearly 6,000 colored dots scattered across the image show the locations of either confirmed or candidate exoplanets — worlds beyond our solar system — identified by the mission as of September 2025 at the end of TESS’s second extended mission.
-
-“Over the last eight years, TESS has become a fire hose of exoplanet science,” said Rebekah Hounsell, a TESS associate project scientist at the University of Maryland Baltimore County and NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “It’s helped us find planets of all different sizes, from tiny Mercury-like ones to those larger than Jupiter. Some of them are even in the habitable zone, where liquid water might be possible on the surface, an important factor in our search for life beyond Earth.”
-
-The TESS mission scans a wide swath of the sky, called a sector, for about a month at a time using its four cameras. These long stares allow the spacecraft to track the brightness changes of tens of thousands of stars, looking for variations in their light that might come from orbiting planets.
-
-Researchers assembled an all-sky mosaic made of 96 sectors observed between April 2018, when TESS began its work, and September 2025.
-
-The blue dots in the image mark the locations of nearly 700 confirmed planets, as of September 9. This menagerie includes worlds that may be covered by volcanoes, are being destroyed by their stars, or orbit two stars — experiencing double sunrises and sunsets each day. The orange dots represent more than 5,000 candidate planets that are awaiting verification.
-
-To date, scientists have confirmed over 6,270 exoplanets using missions like TESS, NASA’s retired Kepler Space Telescope, and other facilities.
-
-Also captured in the mosaic is the bright plane of our Milky Way galaxy, seen as a glowing arc through the center. The bright white ovals in the lower left are the Large and Small Magellanic Clouds. These satellite galaxies are located 160,000 and 200,000 light-years away, respectively.
-
-“The more we dig into the large TESS dataset, especially using automated algorithms, the more surprises we find,” said Allison Youngblood, the TESS project scientist at NASA Goddard. “In addition to planets, TESS has helped us study rivers of young stars, observe dynamic galactic behavior, and monitor asteroids near Earth. As TESS fills in more of the night sky, there’s no knowing what it might see next.”
-
-You could discover the next exoplanet! Join the Planet Hunters TESS citizen science project, and you’ll learn how to read light curves — plots of light data from distant stars — to find telltale signals from orbiting exoplanets.
-
-By Jeanette KazmierczakNASA’s Goddard Space Flight Center, Greenbelt, Md.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/tess/nasas-planet-hunting-tess-reveals-dazzling-night-sky/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
