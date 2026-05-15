@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/14 - 23:50`
+**📅 Update (Tehran Time):** `2026/05/15 - 15:05`
 
 ---
 
@@ -19,268 +19,201 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Mbappe and Dembele head up star-studded France World Cup squad
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-25T204908Z_2013982320_UP1EM3P1LTVP0_RTRMADP_3_SOCCER-FRIENDLY-BRA-FRA-PREVIEW-1-1778785417.jpg?resize=1200%2C630' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Finland ends drone alert amid regional fears of Ukraine war spillover
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-15T075014Z_636138941_RC2J9LABG2VK_RTRMADP_3_FINLAND-SECURITY-1778834120.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-France coach Didier Deschamps has assembled a World Cup squad with formidable attacking talent led by Kylian Mbappe, while rewarding goalkeeper Robin Risser following his breakthrough season with a call-up for the showpiece tournament.
+Finland has stood down its defence forces after sounding an alarm over suspected drone activities in its airspace.
 
-Deschamps, who guided France to World Cup glory in 2018 and will leave after this tournament, included few surprises in his announcement of the 26-man squad on Thursday.
+The authorities said on Friday that suspected drone activity above the Helsinki region no longer posed a threat and that the situation was ⁠returning to normal hours after launching an emergency response, including the launch of fighter jets and closure of the capital’s airport.
 
-Risser, though, who plays for Lens, has been one of the revelations of the French league season and won the award for best goalkeeper earlier this week. He played a big role in making Lens the second-best defence in Ligue 1 and was selected by Deschamps in a No. 3 role behind Mike Maignan and Brice Samba.
+The alarm illustrates the tension stalking the region as Finland and the Baltic states eye Russian aggression and daily missile and drone attacks amid Moscow’s continued war on Ukraine.
 
-Looking to win a third World Cup, the French are among the tournament favourites in Canada, Mexico and the United States from June 11 – July 19.
+The Helsinki City Rescue Department had warned the nearly 2 million inhabitants of Finland’s Uusimaa region to stay indoors starting about 4am local time (1:00 GMT), as fighter jets were scrambled. Helsinki’s airport was also closed for about three hours.
 
-France are in Group I taking on Senegal, Iraq and Norway during the group stage.
+Later, President Alexander Stubb wrote on X that authorities had “demonstrated their readiness and capacity to react”, adding that the country was now facing “no direct military threat”.
 
-Mbappe will likely captain the team, despite a thigh injury sustained last month, which caused him to miss key matches in Real Madrid’s La Liga run-in.
+Kimmo Kohvakka, director general for rescue services at the Ministry of the Interior, called the response a “precautionary measure” and said “daily life can continue.”
 
-The 27-year-old will be on the plane to North America as part of an impressive attacking force which includes Ballon d’Or winner Ousmane Dembele, rising star Desire Doue, Michael Olise, Rayan Cherki and Maghnes Akliouche.
+The incident arose amid growing concerns about regional spillover from the Ukraine war.
 
-Cherki will be making his World Cup debut following an impressive first season at Manchester City for the 22-year-old.
+The Baltic states of ‌Estonia, Latvia and Lithuania have reported a series of suspected Ukrainian drones headed for Russia entering their airspace, prompting domestic criticism over their ability to respond to military threats.
 
-Deschamps also called up Crystal Palace forward Jean-Philippe Mateta, who was preferred to Randal Kolo Muani. The Tottenham striker had been a late addition to France’s previous World Cup squad four years ago. Kolo Muani scored a goal against Morocco in the semi-finals and came close to becoming a national hero in the final, before France lost to Argentina in a penalty shootout.
+The situation has led to a full-blown government crisis in Latvia. Prime Minister Evika Silina resigned on Thursday after a coalition partner pulled support. The move followed the ousting of the defence minister after a drone crashed at a fuel storage facility.
 
-Deschamps’s reign began in 2012 and saw France win the 2018 World Cup and reach the 2022 final.
+In March, two drones crossed into Finnish territory and crashed after flying low over the sea and southeastern Finland.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/14/mbappe-and-dembele-head-up-star-studded-france-world-cup-squad?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778787153.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 This is the Palestinian Nakba, measured in land taken
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/BTN_Thumbnail_Landscape_V07-1778842255.png?resize=1920%2C1008&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-US President Donald Trump returns to Beijing after nine years to meet Chinese President Xi Jinping. The trade war, conflict in Iran, and rising fears over Taiwan shape the talks. With global tensions mounting, can the two leaders find common ground, or will rivalry push the world further into crisis?
-
-This episode was produced by Marcos Bartolomé and Sarí el-Khalili with Spencer Cline, Catherine Nouhan, Tuleen Barakat, Alexandra Locke, and our guest host, Kevin Hirten. It was edited by Tamara Khandaker.
-
-Our sound designer is Alex Roldan. Our video editors are Hisham Abu Salah and Mohannad al-Melhem. Alexandra Locke is The Take’s executive producer.
+On May 15, Palestinians mark 78 years since the Nakba. The count of land Israel has taken keeps growing today.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/by-the-numbers-3/2026/5/15/this-is-the-palestinian-nakba-measured-in-land-taken?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 US Air Force rescues 11 after plane crashes into waters off Florida coast
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778786149.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 India hikes fuel prices as Iran crisis bites
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/03/GettyImages-2264657837-1773381522_9b7c9f-1773381611.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-US Air Force footage showed the rescue of 11 people after a private plane crashed into the Atlantic Ocean
+India has raised fuel prices by about 3 percent as the energy crisis driven by the Iran war and closure of the Strait of Hormuz starts to bite on the economy.
+
+The government in New Delhi announced the 3 rupees ($0.03) per litre price hike on Friday, as it moved to offset losses triggered by the shortage of supply. Gasoline prices rose to 97.77 rupees ($1.02) a litre, while diesel climbed to 90.67 rupees ($0.94).
+
+India is the world’s third-largest oil importer, with 90 percent of the oil it consumes coming from overseas, and about half of its usual crude supplies transiting the Strait of Hormuz.
+
+This has seen the country heavily impacted by rising energy prices and supply disruptions from the US-Israel war on Iran.
+
+However, New Delhi had been avoiding hiking retail fuel prices, making it one of the last major economies to pass higher crude prices on to consumers.
+
+The increases come days after Prime Minister Narendra Modi urged Indians to adopt voluntary austerity measures, calling on them to work from home whenever possible, limit travelling abroad, and reduce purchases of gold.
+
+Modi described saving fuel as an act of “patriotism” and encouraged greater use of public transport, carpooling, and lower fertiliser consumption.
+
+Opposition leaders noted that Modi’s appeal came after the conclusion of a key round of state elections and that fuel prices were kept unchanged during the campaign. The polls ended this month, with Modi’s BJP winning two of four states and expanding its influence.
+
+Manoj Kumar, a 48-year-old taxi driver in New Delhi, told The Associated Press news agency that the rise in fuel prices would put extra strain on working-class people.
+
+“For common people like us, even one rupee has great value. People work so hard from morning till evening just to make ends meet. The government is not seeing this,” he said.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 What does the US hope to achieve from Lebanon-Israel talks?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778784246.jpg?resize=1920%2C1061&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Three years of the West Bank’s ‘third Nakba’
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Abu-Najjeh-closeup-copy-1778787967.jpg?resize=1674%2C1080' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-As Israeli attacks in Lebanon continue despite a ceasefire, the United States is hosting the third round of talks between Lebanese and Israeli officials.
+Rammun, occupied West Bank – Fresh off the seventh forced displacement of his central West Bank Bedouin community since 1948, Abu Najjeh was not in a contemplative mood leading up to Nakba Day. He said he was in a rush, too busy reacting to the crises of the day – the continuing “third Nakba”, as he called it.
 
-Can the process help find a way forward for Lebanon after decades of war?
+“This is not a proper place to live – that’s why I’m in a hurry … waiting for a car to take me,” said Abu Najjeh, the mukhtar, or leader, of the former Bedouin community of Ein Samiya, speaking from a recently erected tent in the outskirts of Rammun before rushing to find his sons amid unfolding violence in Jiljilyya.
 
-Jennifer Gavito – Former acting principal deputy assistant secretary of state for Near Eastern affairs
+Just that morning, Jewish settlers had stolen hundreds of sheep and two tractors from a member of his extended family in Jiljilyya, to the north of Rammun, as well as shooting and killing 16-year-old Yousef Kaabneh – also from Abu Najjeh’s Kaabneh clan.
 
-Rami Khouri – Distinguished fellow at the American University of Beirut
+Like the community of Ein Samiya, Yousef and his family had been forcibly displaced from Wadi as-Seeq in 2023, one of dozens of Palestinian Bedouin communities emptied since October 7, 2023. Already ascendant, the Israeli far right has used the Hamas-led attack on Israel, along with the cover of Israel’s genocidal war on Gaza, to ramp up attacks on Palestinians in the West Bank and seize more land.
+
+Yousef’s family had relocated to Jiljilyya, hoping to finally be safe from settler attacks in an area under Palestinian Authority (PA) administration and where Israeli civilians are prohibited from entering under Israeli law.
+
+One of Abu Najjeh’s own sons had also fled to Jiljilyya two months earlier, thinking the same. But on Wednesday morning, dozens of settlers rampaged through Jiljilyya, Sinjil and Abwein, all in Area A. The armed settlers opened fire on residents, shooting Yousef dead. The killing took place two days before Nakba Day, May 15, when Palestinians mark the forced expulsion of 750,000 Palestinians from their homes during the Nakba – the Arabic word for catastrophe, used by Palestinians to refer to the ethnic cleansing that took place during the formation of Israel on historical Palestine.
+
+And now, a few hundred metres away from where they recently moved to near Rammun, is another illegal settler outpost.
+
+It is a question that has haunted the Kaabneh family for eight decades.
+
+Before 1948, the Kaabneh were Bedouins of the larger Jahalin clan living freely in the Bir al-Saba area in the Naqab Desert. They were pastoral people who grazed their flocks of livestock across the vast open ranges.
+
+But in 1948, they were expelled from their homes by Zionist paramilitary and later military forces during the Nakba.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/15/three-years-of-the-west-banks-third-nakba?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Iran expands tiered internet access amid continued online blackout
-<img src='https://www.aljazeera.com/wp-content/uploads/2024/02/AP120213018241-1-1708692200.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Trump and Xi move towards business-first relationship after Beijing summit
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a06ad4d4e-1778822477.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Tehran, Iran – Iran is looking at ways of providing limited connectivity to approved individuals and entities amid a continued state-imposed internet shutdown, with a tiered access model currently being offered that experts have said still undermines the digital rights of Iranians.
+Early signs point to the United States and China moving towards a relationship focused on pragmatic areas of common interest following US President Donald Trump’s trip to China, according to analysts, setting aside the turmoil that marked 2025.
 
-President Masoud Pezeshkian on Wednesday announced the creation of a new entity to review internet coverage in the country named the Specialised Headquarters for Organising and Guiding Iran’s Cyberspace, with First Vice President Mohammad Reza Aref, a relative moderate, appointed as its head.
+Trump was in Beijing for three days this week to meet with Chinese President Xi Jinping, accompanied by a delegation of American CEOs, including the heads of Apple, Nvidia, BlackRock and Goldman Sachs.
 
-Pezeshkian said he expects the 74-year-old vice president to “create institutional cohesion and align policies and measures by relevant bodies” and “prevent parallel work and end multiple voices in the management of the country’s cyberspace”, referring to the multiple bodies overseeing communications in Iran.
+The meeting between the two leaders came just over six months after they agreed to pause the US-China trade war for a year on the sidelines of a multilateral summit in South Korea. While a frequent critic of China’s economic policies at home, Trump appeared to get along with Xi in person throughout his trip and lavished praise on the Chinese leader.
 
-Reza Aref is also expected to devise and enforce a roadmap to “overhaul cyberspace governance”, and perhaps most importantly, to review the efficiency of the secretariat of the Supreme Council of Cyberspace and its subsidiary, the National Cyberspace Center.
+“It’s an honour to be with you, it’s an honour to be your friend, and the relationship between China and the USA is going to be better than ever before,” Trump told Xi on Thursday.
 
-The council, which Pezeshkian has now said he wants to reform, is a powerful state body established by slain Supreme Leader Ayatollah Ali Khamenei in 2012 to govern the internet landscape in Iran.
+The White House readout of the Trump-Xi meeting on Thursday stressed areas of common ground, stating that the leaders had “discussed ways to enhance economic cooperation between our two countries” by “expanding market access for American businesses into China and increasing Chinese investment into our industries”.
 
-The council, and its current secretary, Mohammad Amin Aghamiri, have led the charge in heavily restricting Iranians’ access to the internet based on “security considerations”.
+Notably absent from the statement was any mention of China’s export controls on rare earths, critical materials used across the tech, defence and energy sectors. China controls nearly the entire industry, and it has moved to restrict US access.
 
-Pezeshkian’s move to review the government’s internet policy comes 11 weeks into a near-total online blackout affecting 90 million-plus citizens, which followed a similar 20-day outage during deadly nationwide protests in January.
+William Yang, senior Northeast Asia analyst at the Crisis Group, told Al Jazeera that Trump’s remarks showed he would likely try to compartmentalise US-China relations into areas where the two sides can work together without being overshadowed by geopolitical concerns.
 
-Despite the economic pain and mounting public frustration the outage has caused, the new body does not spell out an end to the internet shutdown.
+Xi, while less effusive, also spoke of his desire to move towards a new US-China framework based on “constructive strategic stability”, meaning that the US and China should try to “minimise competition, manage differences and allow stability to be the foundation of the bilateral relationship”, according to Yang.
 
-Since February 28, when the war with the United States and Israel began, most Iranians have been completely disconnected from the worldwide web, which the government insists is an essential measure to keep Israel’s Mossad spy agency and other harmful actors at bay.
+Both leaders appear to have sidestepped other controversial issues, such as the status of Taiwan, a 23 million-person democracy claimed by Beijing but unofficially backed by Washington.
 
-It is now the longest nationwide internet shutdown in the world, with users only able to access a slow and patchy intranet, which supports a number of state-approved local applications and content.
+Xi told Trump during their meeting that Taiwan was the “most important issue” in the US-China relationship, and that mishandling it could lead to “clashes and even conflicts” between the two sides. Beijing objects to Washington’s ongoing military support of Taiwan and has pressed the US to take a more explicit line on Taiwan’s political status.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/15/trump-and-xi-move-towards-business-first-relationship-after-beijing-summit?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Flattery and fanfare as Trump welcomed to China - but thorny issues remain
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/bbb8/live/894ab4a0-4fb7-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Trump and Xi conclude 'very successful' talks but no deals announced
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/0a5a/live/1af75870-5041-11f1-acce-79302838e29f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Xi Jinping threw a grand welcome for Donald Trump on the first day of a visit that could reset ties between the rival superpowers.
+US President Donald Trump left Beijing after a two-day summit saying he had struck "fantastic trade deals, great for both countries", but few details have emerged on what the two superpowers agreed.
 
-The military honour guard lined up outside the Great Hall of the People to welcome Trump, complete with a gun salute and a band playing the US national anthem. The president paused twice to say hello to schoolchildren cheering with Chinese and American flags.
+Trump arrived for a high-stakes summit with Chinese leader Xi Jinping on Wednesday, accompanied by several CEOs: a high-profile business delegation spanning agriculture, aviation, electric vehicles and artificial intelligence (AI) chips.
 
-As he shook hands with Xi, he leaned in to pat him on the arm in what appeared to be a gesture of warmth. And he lavished praise on his host.
+Trade was near the top of the agenda despite recent tensions over the Iran war, and businesses hoped for key deals as well as an extension of the tariff truce that is due to expire in November.
 
-"You're a great leader. I say it to everybody," he declared in what appeared to be unscripted remarks. Later, on his tour of the 15th Century Temple of Heaven, he remarked to reporters that China was beautiful. At the banquet this evening, he called the talks a "cherished" opportunity.
+The visit was defined by warm rhetoric and symbolism. Trump was wooed with a packed itinerary that included an honour guard, a state banquet, and an invitation to the exclusive compound where China's Communist Party leaders live and work.
 
-It was a remarkable day given Trump built up his political brand by talking tough on China.
+The US President seemed impressed and invited Xi to the White House in September. He said talks had been "very successful", while Xi called it a "historic and landmark" visit.
 
-"We can't continue to allow China to rape our country, and that's what they're doing," he told a campaign rally in 2016.
+But neither side has announced trade breakthroughs or significant business deals.
 
-In 2020, he claimed China has "ripped off the United States like no one has ever done before", and described the Covid-19 pandemic as the "Chinese virus". Before returning to power, he vowed to "make China pay".
+In an interview with Fox News, Trump said that "China is going to invest hundreds of billions of dollars" with the business leaders who travelled to China but did not elaborate further.
 
-At the height of the trade war last year, the two sides had levied tariffs that crossed 100% on each other. A fragile truce followed but one of the main questions hanging over this visit is whether that will last, and what deal would take its place?
+He also said China had agreed to order 200 Boeing planes, its first purchase of US-made commercial jets in nearly a decade, though a smaller number than analysts had expected.
 
-The others are around Iran - can Beijing help broker a deal? – and Taiwan, the US ally and self-governed island that China claims as its territory.
+Asked about Trump's comments, foreign ministry spokesperson Guo Jiakun did not directly address them, saying instead that the "essence of China-US economic and trade relations is mutual benefit and win-win co-operation".
 
-Beijing put on a spectacle designed to flatter Trump ahead of any deal to prove China's door is open to guests. However, soon after talks began, state media published comments from Xi making clear that tensions over Taiwan could prove challenging.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 'Floating armoury' ship reportedly seized by Iran
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/22e4/live/decae190-4f97-11f1-89a3-d1f559421220.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A vessel reportedly operating as a "floating armoury" in the Gulf of Oman has been seized by Iranian military personnel, according to the maritime risk management company Vanguard.
-
-The ship is now "bound for Iranian territorial waters", the UK's Maritime Trade Operations (UKMTO) organisation said.
-
-BBC Verify has checked ship-tracking data from MarineTraffic which shows the vessel - identified by Vanguard as the Honduras-flagged Hui Chuan - last broadcast its location 70km (40 miles) north-east of Fujairah in the UAE on Wednesday.
-
-Hui Chuan's operators told Vanguard it was operating as a floating armoury which stores weapons for security firms who protect ships at sea from attack by pirates.
-
-The BBC has previously reported how these vessels are based in the Red Sea, Gulf of Aden and Gulf of Oman so security guards can easily collect and drop off weapons and ammunition.
-
-Location data shows the ship has spent the last month off the north-east coasts of Oman and the UAE.
-
-The apparent seizure of Hui Chuan comes after an Indian-flagged vessel was attacked off the coast of Oman on Wednesday, according to Indian officials.
-
-The Haji Ali "reportedly sank" off the coast of Oman, following a suspected explosion believed to have been caused by a "drone or missile", according to Vanguard.
-
-"All Indian crew on board are safe and we thank the Omani authorities for rescuing them," Indian authorities said on Thursday.
-
-Ship-tracking data from MarineTraffic shows the 57m (187ft) vessel left Berbera Port in Somalia on 6 May. Its intended destination was Sharjah in the UAE, the Indian shipping ministry said.
+He added that both sides should work to implement the "important consensus" reached by the two leaders and bring greater stability to bilateral trade ties and the global economy.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d41b/live/7ad75e60-4fac-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-At least 12 people have been killed, including two children, in Kyiv after Russia launched a massive overnight drone and missile strikes on the Ukrainian capital and other regions, officials have said.
-
-The victims' bodies were pulled from the rubble of a partially destroyed apartment building in Kyiv, where rescuers are still searching for at least 20 people feared missing, Ukraine's emergencies service DSNS said.
-
-It said 45 people, including two children, were injured. Friday has been declared a day of mourning in the city.
-
-It is the third day in a row Ukraine has reported deaths, as Moscow ramps up its assault after a three-day ceasefire expired on Monday.
-
-The overnight barrage saw more than 670 drones and 56 missiles targeting the country, President Volodomyr Zelensky said. This is among the largest attacks Russia has mounted since the start of its full-scale invasion of Ukraine in 2022.
-
-The strikes hit more than 180 sites across Ukraine, including more than 50 residential buildings, Zelensky added.
-
-He said a total of more than 1,560 Russian drones had targeted Ukrainian cities since Tuesday night, describing Moscow's assault as "definitely not the actions of those who believe the war is coming to an end" and urging allies to hold Moscow accountable.
-
-After an urgent meeting with Ukraine's top military and security officials, Zelensky said a "significant number" of drones were shot down, with an "overall interception rate" of 93%.
-
-But the same figures for missiles stood at 73%, the Ukrainian leader said, admitting that the "key challenge" remained in how to defend against Russian ballistic missiles.
-
-He said the "priority number one" was to secure more deliveries of "anti-ballistic systems and missiles for them".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Giant new dinosaur identified from fossils in Thailand
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/0b03/live/c2109ea0-4fb5-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A new type of giant long-necked dinosaur has been identified by scientists from remains dug up in Thailand.
-
-The nagatitan, the largest-ever dinosaur found in South-East Asia, weighed 27 tonnes - as much as nine adult Asian elephants - and measured 27m (88ft) in length, longer than a diplodocus. Like that dinosaur, it belonged to the sauropod family of long-necked herbivores.
-
-A team of researchers from the UK and Thailand identified the species from fossils found beside a pond in north-eastern Thailand a decade ago.
-
-They say the discovery sheds light on how changes in ancient climatic conditions allowed gigantic dinosaurs to develop.
-
-The dinosaur's full name is Nagatitan chaiyaphumensis, with "naga" referring to a serpent in South-East Asian folklore, "titan" referring to the gods in Greek mythology, and chaiyaphumensis meaning "from Chaiyaphum", the province where the fossils were discovered.
-
-It lived between 100 and 120 million years ago - around 40 million years earlier than the tyrannosaurus rex - and is about twice the size of that creature.
-
-Thitiwoot Sethapanichsakul, a Thai doctoral student at University College London (UCL), was the lead author of the study which was published in the Scientific Reports journal.
-
-He said the researchers referred to the nagatitan as "the last titan" of Thailand, because the fossils were found in the country's youngest dinosaur-bearing rock formation.
-
-"Younger rocks laid down towards the end of the time of the dinosaurs are unlikely to contain dinosaur remains because the region by then had become a shallow sea. So this may be the last or most recent large sauropod we will find in South-East Asia," he said.
-
-Sethapanichsakul, a self-confessed "dinosaur kid", said in a UCL press release that the study also "fulfils a childhood promise of naming a dinosaur".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx21pk5g20ro?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Cuba considers $100m US aid offer as energy crisis worsens
+### 📰 CIA chief visits Cuba as energy crisis worsens
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/c3a8/live/b2271bc0-4fad-11f1-b2ff-f5e2d2fddf7e.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The Cuban government says it is open to reviewing a US offer of $100m (£74m) in aid, hours after rare protests over worsening power cuts erupted on the Communist-run island.
+CIA director John Ratcliffe has met his Cuban counterpart at the interior ministry in Havana, after the US renewed an offer of $100m (£74m) of aid to ease the effects of its oil blockade.
 
-Foreign Minister Bruno Rodríguez said on Thursday that Cuba was "ready to hear the details of the proposal and how it would be implemented".
+A Cuban statement said the meeting was an attempt to improve dialogue and American officials were told Havana was not a threat to US national security.
 
-The shortages have been exacerbated by a US-imposed blockade of oil which has squeezed the country's supplies of essentials such as diesel and fuel oil.
+A CIA official told BBC's US partner, CBS News, that the US is "prepared to seriously engage on economic and security issues, but only if Cuba makes fundamental changes".
 
-Hospitals have been unable to function normally, and schools and government offices have been forced to close. Tourism, an economic engine for Cuba, has also been impacted.
+Fuel shortages exacerbated by the US oil blockade on the country have left hospitals unable to function normally and forced schools and government offices to close.
 
-Cuba has in the past relied on Venezuela and Mexico to supply oil to its refinery system. However, the two countries have largely cut off supplies since US President Donald Trump threatened tariffs on countries that send fuel to Cuba.
+Separately, Cuban president Miguel Diaz-Canel said that instead of offering aid, conditions could be eased faster if the US lifted its blockade.
 
-On Wednesday, the US state department said it was renewing an offer to "provide generous assistance to the Cuban people".
+Attending the meeting was Raúl Rodríguez Castro, the grandson of former President Raúl Castro, Interior Minister Lázaro Álvarez Casas, and the head of Cuba's intelligence services, the CIA official told CBS News.
 
-Last week, US Secretary of State Marco Rubio had said that Havana had rejected a previous US offer of humanitarian aid worth $100m (£74m), a claim Cuba denied.
+The delegation met "to personally deliver President Trump's message", the CIA official said.
 
-In its statement, the US state department repeated its offer but made it clear that the aid would have to be distributed "in coordination with the Catholic Church and other reliable independent humanitarian organisations", bypassing the Cuban government.
+"During the meeting, Director Ratcliffe and Cuban officials discussed intelligence cooperation, economic stability, and security issues, all against the backdrop that Cuba can no longer be a safe haven for adversaries in the Western Hemisphere," the official added.
 
-It added that the decision now rested with the Cuban regime "to accept our offer of assistance or deny critical living-saving aid and ultimately be accountable to the Cuban people for standing in the way of critical assistance".
+The Cuban statement said: "Both sides also underscored their interest in developing bilateral cooperation between law enforcement agencies in the interest of the security of both countries, as well as regional and international security."
 
-In his response, Cuban Foreign Minister Rodríguez said it was unclear whether the US aid offer would be in cash or in-kind assistance.
+Cuba and the US acknowledged earlier this year they were in talks, but negotiations appeared to stall as the oil blockade wore on.
 
 </div>
 
@@ -288,9 +221,133 @@ In his response, Cuban Foreign Minister Rodríguez said it was unclear whether t
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 New outbreak of Ebola kills 65 in eastern DR Congo
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/477c/live/0e4a0510-504a-11f1-a712-bdb9a88fa140.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Africa's top health agency has declared an Ebola outbreak in the Democratic Republic of Congo's eastern Ituri province.
+
+Around 246 cases and 65 deaths have been reported, mainly in the gold-mining towns of Mongwalu and Rwampara, said the Africa Centres for Disease Control and Prevention (Africa CDC).
+
+Its statement on Friday added that it was convening a meeting with DR Congo, neighbouring Uganda and South Sudan, and other international partners to discuss priorities, including response efforts and cross-border surveillance.
+
+Ebola was first discovered in 1976 in what is now DR Congo, and is thought to have spread from bats. This is the 17th outbreak of the deadly viral disease in the country.
+
+It is spread through direct contact with bodily fluids and through broken skin, causing severe bleeding and organ failure.
+
+Early symptoms include fever, muscle pain, fatigue, headache and sore throat, and are followed by vomiting, diarrhoea, a rash and bleeding.
+
+There is no proven cure for Ebola. According to the World Health Organisation (WHO), the average fatality rate is around 50%.
+
+Preliminary tests conducted at the Institut National de Recherche Biomédicale (INRB) in the capital, Kinshasa, have detected the virus in 13 of 20 samples analysed, following consultations with DR Congo's Ministry of Health and National Public Institute.
+
+Of the 65 deaths, four were reported among lab-confirmed cases, Africa CDC said.
+
+Additional suspected cases have also been reported in Ituri's provincial capital, Bunia, with laboratory confirmation pending.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Five Italians die during cave scuba dive in Maldives
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ec8a/live/e46b9940-503d-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Five Italians have died in a scuba diving accident in the Maldives, the foreign ministry in Rome has said.
+
+"The divers are believed to have died while attempting to explore caves at a depth of 50 metres (164ft)," the ministry said, adding that this happened in Vaavu Atoll.
+
+Four of the divers were part of a University of Genoa team, including professor of ecology Monica Montefalcone, her daughter and two researchers.
+
+The Maldives' military said one body had been found in a cave about 60m underwater, and the other four divers were believed to be also there.
+
+It said divers with special equipment had been sent to the area, describing a search operation as a very high risk.
+
+The incident is believed to be the worst single diving accident in the tiny Indian Ocean nation, a popular tourist destination because of its string of coral islands.
+
+The five Italians entered the water on Thursday morning, local media reported.
+
+The crew of the diving vessel they were travelling on reported them missing when they failed to resurface later on.
+
+Police said the weather was rough in the area, about 100km (62 miles) south of the capital Malé. A yellow warning was issued for passenger boats and fishermen.
+
+The University of Genoa later named the victims as Montefalcone, her daughter Giorgia Sommacal, who was also a student, research fellow Muriel Oddenino and marine biology graduate Federico Gualtieri.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Australia court doubles payout for trans woman in landmark discrimination case
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ce99/live/f5beb9e0-5027-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+A Sydney court has doubled the discrimination payout for an Australian trans woman who was kicked off a female-only app.
+
+It comes almost two years after Roxanne Tickle successfully sued Sall Grover, founder of the Giggle for Girls app, for blocking her account on the grounds of gender identity.
+
+Grover lodged an appeal against that verdict, but on Friday, the Federal Court dismissed it and further found that Tickle was directly - rather than indirectly - discriminated against by Grover.
+
+Tickle was also awarded compensation of AU$20,000 ($14,000; £11,000), double the original amount.
+
+Giggle's legal team argued throughout the original case that sex is a biological concept. They freely conceded that Tickle was discriminated against, but on the grounds of sex, rather than gender identity.
+
+Known as "Tickle vs Giggle", the years-long dispute is the first time a case of alleged gender identity discrimination has been heard by the Federal Court in Australia.
+
+During the original case, the court heard that Grover had removed Tickle from the app after spotting "male facial features" on Tickle's profile photo.
+
+Grover told the court that when she looked at Tickle's profile picture, she decided Tickle was not a woman and removed the account, saying that the process was "the same as removing all males".
+
+"I would have seen the photo and just gone, 'male', and blocked," Grover told the court during the initial hearing.
+
+Under the country's Sex Discrimination Act, it is illegal for providers of goods or services to discriminate against another person on the ground of a person's gender identity.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cdjpzgppr7mo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo
+<img src='https://i.guim.co.uk/img/media/5be3bfd3792b7a8d5df2ff062e1ced61a269a7a0/353_0_3678_2944/master/3678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a49d589f1ecc2db1a973e94cdb42165' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Concerns raised that cases were caused by a new strain of the virus as African health officials race to coordinate and contain the infection
+
+An outbreak of Ebola has killed 65 people in the Democratic Republic of the Congo, according to African health officials.
+
+There have been 246 suspected cases of the deadly haemorrhagic fever reported so far in Ituri province, which shares borders with Uganda and South Sudan.
+
+Officials at the Africa Centres for Disease Control and Prevention (Africa CDC) said they were concerned about the risk of further spread. The area is home to mining towns where people are constantly coming and going, making infectious disease control challenging.
+
+Ebola is a severe illness with a high fatality rate that spreads through direct contact with body fluids such as the blood or vomit of infected people, or dead bodies, such as during funeral preparations.
+
+The DRC’s national research laboratory has detected the Ebola virus in 13 of 20 samples tested, Africa CDC said on Friday.
+
+The DRC has had 16 outbreaks of Ebola since the virus was identified there in 1976.
+
+Typically they have had the Zaire strain of Ebola, for which vaccines are available. However, Africa CDC said early testing suggested the current outbreak was a different type, with fuller genetic sequencing results due within 24 hours.
+
+The health watchdog said it was convening an urgent meeting on Friday with authorities from the DRC, Uganda and South Sudan as well as the World Health Organization and pharmaceutical companies.
+
+“Africa CDC stands in solidarity with the government and people of the Democratic Republic of the Congo as they respond to this outbreak,” said Dr Jean Kaseya, director general of Africa CDC. “Given the high population movement between affected areas and neighbouring countries, rapid regional coordination is essential.”
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/15/ebola-outbreak-drc-africa-deaths)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Judge orders Trump administration to return Colombian woman deported to DRC back to the US
 <img src='https://i.guim.co.uk/img/media/6f7e676b5f197186e19b1d695edbd36ac520c9c0/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a4b91dd503a9763ff0f06352d531fdc' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -415,288 +472,313 @@ The law is one of a number of far-reaching changes to codify a crackdown on diss
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Internal displacements caused by violence or conflict at record high in 2025
-<img src='https://i.guim.co.uk/img/media/b811e0f2e21092d50146ecede9734b90a211d2bd/1170_0_6385_5108/master/6385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa70d4c74181ff74212064c03628d829' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-The 32.3m surpasses those caused by disasters for the first time, as 82.2m people displaced in total around world
-
-The number of internal displacements triggered by conflict or violence around the world reached a record high in 2025, surpassing the number of disaster-driven internal displacements for the first time.
-
-A report published by the Internal Displacement Monitoring Centre (IDMC) shows that by the end of 2025 there were 32.3m conflict-driven internal displacements. That is 60% higher than those recorded the previous year, and – for the first time since data collection began in 2008 – above displacements driven by natural disasters, which reached 29.9m in 2025.
-
-Jan Egeland, the secretary general of the Norwegian Refugee Council, described the figures as a “sign of a global collapse” in basic protection of civilians.
-
-“Countless families are returning to destroyed homes and disappearing services – or cannot return at all. From DR Congo and Sudan to Iran and Lebanon, we see millions more displaced on top of the previous record numbers driven out of their homes,” he added.
-
-Internal displacements refer to each new instance that a person is forced to flee within the borders of their own country. The same person can be displaced several times.
-
-The IDMC’s Global Report on Internal Displacement also shows that the number of people displaced – during 2025 or earlier but who still remain displaced – remains high.
-
-In total, 82.2 million people were displaced in 2025, the second-highest figure after the historical peak in 2024 of 83.5 million and the first decrease in the number of people forced to flee since data collection began 20 years ago. The total number of internal displacements was 62.2m in 2025.
-
-The decline in the number of people displaced is due to people returning in parts of Sudan, the Democratic Republic of the Congo and Syria, and lack of data availability. However, the report highlights the decline in number “should not be mistaken for progress” as behind the numbers “lie hundreds of thousands of forced returns, destroyed infrastructure and deepening social and environmental pressures” that make permanent solutions for people unrealistic.
-
-More than 83% of the people displaced in 2025 were forced to flee their homes in their countries because of conflict and violence, with the remainder having left because of natural disasters.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 'Love on the Spectrum' Star Pari Kim Loses Mom Esme to Cancer Fight
-<img src='https://imagez.tmz.com/image/9e/16by9/2026/05/14/9e2c98b17542486394de92ecac717959_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Toddler Escapes Mom's Rollover Car Crash In High-Speed Chase, on Video
+<img src='https://imagez.tmz.com/image/0b/16by9/2026/05/15/0bf3d2dc2a1546e5b4294189fb0f65a6_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-"Love on the Spectrum" star Pari Kim is dealing with unimaginable heartbreak ... revealing her mother, Esme, has died after a reported battle with stage 4 breast cancer.
+A mother in Arkansas led police on a high-speed chase with her child in the car ... she crashed and the vehicle rolled over, but they both escaped unharmed ... and it's all on video.
 
-The 24-year-old reality star shared the devastating news in an emotional Instagram post Wednesday night ... opening up about the crushing grief of losing both parents at such a young age. Pari wrote, "It feels like everything is becoming a train wreck" as she described the internal battle between mourning and trying to stay positive enough to move forward.
+Footage shows the police pursuit earlier this month in Joiner, AR, where cops say 23-year-old Thalia Jones refused to pull over for state troopers.
 
-Trains have long been a huge part of Pari's life -- she is known for her deep love of railroads and public transit. Keeping with her metaphors, Pari added ... "It’s difficult to keep chugging along when your guardian locomotive reaches the end of the line but you have to keep going somehow even without her."
+Police tried a P.I.T. maneuver and Jones' car veered off the street, drove over some grass, crossed back over the road and rolled near a roadside ditch.
 
-Pari later shared another gut-punch on her IG Story ... reminding followers to cherish loving parents while they can, because "time is precious" ... adding she didn't expect to lose both of them so young.
+With the car upside down, Jones opened the door and her 3-year-old-son ran towards police as state troopers told him, "You’re OK. Come. Come right here, baby."
 
-Her father, Henry, died suddenly back in 2020 at age 55. Esme was 61.
+A member of law enforcement held the child and comforted him during the aftermath of what was miraculously not a deadly crash.
 
-Several of Pari’s fellow "Love on the Spectrum" castmates flooded the comments with support ... including Madison Marilla, who wrote Esme "fought very hard," and Abbey Romeo, who said she wanted to give Pari a big hug.
-
-The heartbreaking loss comes just weeks after Pari also revealed she and ex-girlfriend Tina Zhu Xi Caruso had split ... saying they were "two trains on different tracks."
+Jones was charged with speeding, driving with a suspended license, reckless driving, and child endangerment ... and a trooper at the crash scene told her, "That was the stupidest thing I've ever seen. You could have killed your own child."
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/love-on-the-spectrum-star-pari-kim-mom-esme-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/video-of-toddler-escaping-from-moms-car-crash/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hayden Panettiere's Estranged Mother Rips Into Her Tell-All Memoir
-<img src='https://imagez.tmz.com/image/b6/16by9/2026/05/14/b6a85ec432b94a5e8dfcc98be1a5473a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Taylor Frankie Paul Claims Dakota Mortensen ‘Manipulated, Threatened’ Her
+<img src='https://imagez.tmz.com/image/a0/16by9/2026/04/30/a0dc2a43293945fcbf0b6a40757e6c7c_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Hayden Panettiere's estranged mom has some harsh judgment about her daughter's upcoming memoir ... accusing the actress of giving her "20 years of trauma" -- and suggesting the whole thing's more about selling books than healing wounds.
+Taylor Frankie Paul is once again reflecting on her tumultuous relationship with Dakota Mortensen&nbsp;... posting a lengthy note to Instagram about allegedly being manipulated, threatened and gaslit.
 
-Lesley Vogel unloaded over Hayden's tell-all, "This Is Me: A Reckoning," saying, "There is a personality 'style' which manifests as a need for control, entitlement and a lack of empathy. The major fear is that someone will see through the mask they present to the world and discover who they truthfully are."
+The "Secret Wives of Mormon Wives" star laid her feelings bare in a Thursday night post ... never mentioning Dakota by name, but alluding to their relationship as she reminded people she knows she's not fully innnocent in the legalities of it all. She says she blames herself for staying in the relationship for so long, but notes she felt insane due to Dakota "twisting" everything that went down in their romance and gaslighting her to make her "feel insane."
 
-Lesley told Page Six there’s no fixing the "condition" she was referring to ... claiming years of support and encouragement "will never be enough," and eventually she had no choice but to go no-contact.
+She further alleges ... "I was love bombed, then manipulated, threatened, physically hurt, cops called on me, publicly humiliated, lost most friends because he got to them, had CPS called, and am now in court all because I said no more and he knew I meant it this time."
 
-She continued ... "When someone leaves, the smear campaign begins; accusations, anger, belittling, gaslighting, etc. are the classic signs of this behavior style. The craving of drama and punitive action is traditional and to be expected."
+Taylor then questions the validity of their love, saying she truly felt love for him "without gaining anything" ... but she's unsure if his feelings were authentic in return.
 
-The comments come after Lesley recently questioned Hayden’s bisexuality claims ... and now it’s clear she’s also upset over how their fractured relationship and professional split are portrayed in the memoir. Safe to say ... this mother-daughter feud looks nowhere near over.
+She goes on ... "I wish he had been the person he pretended to be ... The mask fell off, and not only with me. We’re both in the wrong. What I can say is I didn’t want to ruin his life, call cops on him, take his child away, or claim complete innocence … that’s the difference between us."
 
-Panettiere's memoir drops May 19.
+Taylor also took a swing at her costar and former bestie Mikayla Matthews, who has distanced herself from her following the legal drama with Dakota this year. She slammed, "She can go kick rocks instead of kicking me right now." Yikes.
+
+She captioned her post by saying she wants to share the ugly of her healing process despite people warning her to stay offline.
+
+The former "Bachelorette" star shared a similar post about her thoughts and feelings on Mother's Day, expressing frustration over feeling misunderstood and backstabbed by friends ... but saying she's taking the time to focus on her kids.
+
+As you know, a judge&nbsp;awarded TFP nearly 12 hours of "parent-time"&nbsp;on Mother's Day with her and Dakota's son, Ever. She had temporarily lost custody of Ever after TMZ posted video of her&nbsp;accidentally hitting&nbsp;her other child with a barstool during an argument with&nbsp;Dakota. She was then awarded 8 hours a week with their kiddo, which was bumped up to 12 hours during the latest ruling.
+
+While she focuses on spending time with Ever and her other 2 kids&nbsp;Indy&nbsp;and&nbsp;Ocean, whom she shares with her ex-husband,&nbsp;Tate, fans await to learn when 'Secret Wives' will resume filming.
+
+We told you the show is headed back into production, but some of the husbands of the show are refusing to to return unless they're paid more money. As for Taylor's cancelled "Bachelorette" season -- it's not on the lineup for ABC's summer schedule.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/hayden-panettieres-mom-responds-to-memoir/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/15/taylor-frankie-paul-claims-dakota-mortensen-manipulated-threatened-her/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NC Teacher Arrested on Child Sex Abuse Charges Dating Back to 2005
-<img src='https://imagez.tmz.com/image/86/16by9/2026/05/14/860cf58865c741aeabc26eeb6b718370_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'RHOA's Lisa Wu Denies Theft by Deception After Ex-Pal Files Police Report Over Home
+<img src='https://imagez.tmz.com/image/84/16by9/2026/05/14/84a70d7d5ff5482f99b01724d7898368_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-A high school teacher in North Carolina is in police custody after being charged with sexually abusing children ... and the alleged events took place two decades ago.
+Former 'Real Housewives of Atlanta' star Lisa Wu is firing back at allegations she perpetrated a scheme to defraud her friend out of a home -- after the ex-pal filed a police report against her.
 
-Steven Robert Kohls is charged with eight counts of sexual activity by a custodian, three counts of sex offense in a parental role, and two counts of statutory sex offense of a child by an adult ... according to multiple reports.
+TMZ obtained a DeKalb County, Georgia police report, dated April 9, 2026, listing a woman named Norma Denise Mitchem as the victim of a theft by deception from back in November 2025.
 
-Police say the alleged abuse was first reported May 2 ... but the allegations date as far back as 2005.
+According to the report, cops talked to a nephew of Norma, who told them Lisa and Lisa’s boyfriend, Donald Jacob, were involved in the alleged scheme to defraud Norma out of a house.
 
-The 57-year-old was arrested Wednesday ... and he's being held without bond at Wake County Detention Center in the Raleigh-Durham area.
+He said Lisa helped Norma acquire the home through an LLC, but was supposed to transfer the deed back to Norma after she cleared up a lien issue ... but the nephew claimed Donald never actually intended to give the home back to her.
 
-Kohls works at Broughton Magnet High School in Raleigh, NC as a Career and Technical Education teacher.
+Lisa adamantly denies the claims. She tells TMZ, “For more than 30 years, I've built my career and reputation with integrity, professionalism, and hard work. I have absolutely no involvement in fraudulent activity of any kind, and the idea that I would be implicated simply because of people I know or professional relationships is preposterous."
 
-Following Kohls' arrest, the principal at BMHS sent a letter to parents. The note, obtained by local outlett ABC11, says ... "The charged conduct is alleged to have occurred in 2005 and is not related to incidents that occurred on our campus or with our current students."
+Lisa told us the woman was a longtime friend of hers who couldn't qualify for the home, so she helped her acquire the place.
 
-The school says Kohls is suspended with pay.
+She says the friend assured her she would be able to get the loan after closing. Despite the promise, Lisa claims the friend made a few payments and then ghosted her after she wouldn't put the home in her son's name ... and is essentially squatting in the home.
+
+TMZ obtained an alleged text from Lisa to Norma, dated April 3, reading, “GM Denise. Reminding you to send the payment today. Also got another water bill for you. I screenshot the last one not sure if u paid. Don’t want them to cut ur water off.”
+
+Days later, she allegedly wrote, “Denise, please sent your payment it has came out of the account.”&nbsp;
+
+Norma disputes this narrative ... and says yes, it's true she could not qualify for a loan ... so Lisa bought the home and then allegedly turned around to try and sell it to her at a jacked up price.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/north-carolina-teacher-arrested-for-2005-sexual-assault/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/15/lisa-wu-denies-theft-by-deception-claims/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Spencer Pratt Signs On Reality Show to Film If He Wins Mayoral Race
-<img src='https://imagez.tmz.com/image/a4/16by9/2026/05/14/a4885191938e484db6f1e07532daa08c_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Andre Berto Predicts Mayweather Beating Pacquiao Again, Doesn't Expect 'Explosive' Fight
+<img src='https://imagez.tmz.com/image/3d/16by9/2026/05/13/3d87f3f1610742a0b15fe7c738371d29_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Spencer Pratt could be back in the reality show biz if he's elected Mayor of Los Angeles ... because he signed a contract to document the first family of L.A.
+If ya wanna know how Floyd Mayweather vs. Manny Pacquiao II will go down, just watch the first time they fought in 2015 ... 'cause Andre Berto tells TMZ Sports he's expecting similar results when they duke it out again later this year.
 
-Sources with direct knowledge tell TMZ &nbsp;... Pratt inked a deal with Los Angeles production company Boardwalk Pictures to roll cameras as he runs for Mayor. The production team is about to begin filming with Spencer, his wife Heidi Montag, and their kids throughout his political journey.
+49-year-old Floyd and 47-year-old Pacquiao's professional bout in Las Vegas is just months away ... so we had to get Berto's take on the spectacle.
 
-What's really interesting ... our sources say filming would not stop if Spencer gets sworn into office. The contract specifically provides that the show would go on.
+Even though Pac-Man is active and Money has been retired for years, Berto doesn't expect "explosive" shots from either guy ... which would line up with the snooze fest their first go-round ended up being.
 
-Now we're told Spencer and the production company have not put the cart before the horse. As of now everyone is focusing on the campaign, and they haven't discussed details on how filming would continue if he wins. But the ink is dry in the contract.
+He did say he thinks they will still put on a show, even though both legends are past their prime ... 'cause Pacquiao desperately wants that win.
 
-Our sources say Heidi Montag and the kids are a big part of the show. She's living outside L.A. with the kids in the aftermath of the fires, and Spencer is spending most of his time in L.A. running for office. If he wins, they will presumably be living in the Mayor's mansion in the Hancock Park area of L.A.
+Berto gives the edge to Floyd ... 'cause he's got the knowledge and experience no one else has.
 
-The L.A. mayor hopeful joined us on "TMZ Live" this week to defend himself after we revealed he's not actually living out of the AirStream he's featured prominently in campaign ads ... saying he doesn't live anywhere -- because the Pacific Palisades fire left him homeless.
+Berto believes Floyd HAD to put his perfect record on the line in order to make the fight enticing for boxing fans ... but like he said, he doesn't expect it to be ruined after September 25.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/14/spencer-pratt-may-film-reality-show-in-mayoral-office/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/15/andre-berto-weighs-in-on-floyd-vs-manny-rematch/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Harry Styles-Inspired Finds on Amazon
-<img src='https://imagez.tmz.com/image/9d/16by9/2026/01/26/9dbbfea12c6e42f9b34dcc2b3e4f15cd_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Cheap Watches Male Celebrities Love
+<img src='https://imagez.tmz.com/image/85/16by9/2026/05/05/850b7ce1038940c6bf43d3360f3293d5_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
-Harry Styles is back on the road, and it's already shaping up to be a major moment for his fans.
+All leading men have these three things: charisma, adaptability ... and a cheap watch!
 
-If you managed to snag tickets to the "Together, Together" tour -- or you're still hoping to -- there's no better excuse to stock up on fan gear and treat yourself … because showing up for Harry is part of the experience.
+Now, just because it's cheap doesn't mean it can't look good. In fact, these watches are so good that they have appeared on the wrists of some of your favorite celebrities -- whether it be in the movies or out in the real world!
 
-Whether you've been here since the One Direction days or just recently caught yourself humming "Aperture," we've rounded up the best fan merch and must-haves to help you channel his music, his style, and that undeniable star power.
+Take a gander at some of these time-keepers so you get the next leading role!
 
 Want more great finds? Head to&nbsp;TMZ Deals.
 
-TMZ CHEAT SHEET: You're So Golden, We Adore You!
+Idris Elba's Gold Casio
 
-Harry Styles: And the Clothes He Wears -- $16Harry Styles Coloring Book For Stylers -- $11Dress Up Harry: A Harry Styles Paper Doll Book -- $15Harry Styles Rainbow Tote Bag -- $14Harry's Girl Compact Mirror -- $15Watermelon Sugar High Candle -- $19You're So Golden T-Shirt -- $18Retro Harry T-Shirt -- $22Watermelon Sugar High T-Shirt -- $20Harry's House Vinyl -- $38
+It's the man that will always be on your wife's "list" (if you know, you know). Oh, you don't know who we're talking about? Well let us blunt the edge for you ... it's Idris Elba!
 
-Harry Styles: And the Clothes He Wears
+This gold vintage Casio is a piece of bling you'll see on Idris's wrist in photos across the internet ... and for good reason.
 
-It’s no secret Harry’s got style…it’s literally in his name. This Harry Styles: And the Clothes He Wears coffee table book is the ultimate way to showcase your fandom…and all of Harry’s greatest ’fits.
+Idris has been a leading man for years now, and while we won't say it's because of this watch, it definitely doesn't hurt when trying to make that A-list impression!
 
-With over 150 pages featuring Harry’s best looks, you’ll find yourself flipping through for outfit inspo. It’s part fashion history lesson, part love letter to one of music’s most stylish icons.
+You see good taste doesn't always mean the most expensive item money can buy ... sometimes it's wearing the right thing at the right time -- and on the right person (ahem).
 
-Harry Styles Coloring Book For Stylers
+Tom Cruise's G-Shock in Mission Impossible II
 
-While Harry’s not shy about coloring outside the lines, you just may have to stay within them while you’re working on this Harry Styles Coloring Book For Stylers.
+There is no leading man in modern cinema who is as much of a star as Tom Cruise ... nor as much of a bada** as Ethan Hunt! Which is why this watch, worn by Tom Cruise in Mission Impossible II, is the the perfect leading man accessory!
 
-This adult coloring book features detailed drawings of everyone’s favorite pop star and illustrations inspired by his music. It’s the ideal calming activity to help you to relax and destress…while still being creative.
+We get it ... sometimes even getting out of bed for the day can feel like an impossible mission. But when you wrap this watch around your wrist, you'll feel like you're the lead of a Mission Impossible. Even if you're not exactly stopping a global pandemic like Ethan is in John Wu's film!
 
-Dress Up Harry: A Harry Styles Paper Doll Book
+Ryan Gosling's Casio
 
-Now’s your chance to be Harry’s stylist. This Dress Up Harry: A Harry Styles Paper Doll Book features 12 of Harry’s most iconic looks that you can mix and match however you wish!
+This is another guy you'll probably see on your wife's list ... Ryan Gosling has become one of the most popular leading men in the movies nowadays, so it only makes sense to try and look the part with this silver Casio Men's Vintage watch!
 
-With your very own pop-out Harry doll and highly detailed illustrations of his outfits, from Coachella to the Met Gala, this book is perfect for any fan who loves fashion and wants to get creative.
+This watch is so classy, Ken couldn't even pull it off for Barbie! It was instead used for Ryan Gosling's modeling shoots ... allegedly because this watch was the only thing that could match his natural hotness. No, we won't give out our sources (definitely kidding here, you numbskulls) ... either way you should buy the watch and see it for yourself! It's a stunner!
 
-Rainbow Tote Bag
+Mark Wahlberg's Ironman
 
-Who wouldn’t want to take a little Harry with them wherever they go? This Rainbow Tote Bag is about to become your go-to carrier for all your belongings.
+While Mark Wahlberg has an extensive luxury watch collection, he still knows how to keep things real. In fact, most days you'll see him sporting the humble yet rugged Timex Ironman watch to workout ... and even attend the occasional red carpet!
 
-Whether you’re hitting up the farmer’s market or running to class, this tote is a quintessential addition to your wardrobe and an instant outfit upgrade for any Harry fan.
+In fact, the Transformer-fighting Bostonian has made a point of wearing the functional sports watch for decades ... showcasing his down-to-earth style and that true leading men can elevate any timepiece on their wrist.
 
-It’s the easiest way to bring a little pop-star energy into your everyday errands.
+So, you know we don't need to sell you on how only a kicka** leading man can pull this watch off? You gonna go Balls Up and get one, or are you not Ironman enough?
 
-Harry’s Girl Compact Mirror
+Tyler the Creator's Analog Casio
 
-Remind yourself who you are…with this Harry’s Girl Compact Mirror. Whether you’re touching up your makeup or fixing your slickback, everyone could use a mini mirror in their purse.
+Wanna make a fashion statement "EARFQUAKE" style? Tyler the Creator's choice to wear a dirt cheap Casio Analog shows -- as we keep saying -- that style is deeper than price tags.
 
-Featuring an engraved illustration of Harry blowing a kiss, this compact mirror is sturdy but still lightweight and can even fit into your tiniest clutch.
+This Casio may look simple compared to the rest, but bear in mind: If Tyler the Creator decided to put it on, you know it's a nuanced pick for anyone aspiring to be a standout leading man!
 
-Watermelon Sugar High Candle
+Young Barack Obama Used to Rock This Casio F91W
 
-Ever wondered what watermelon sugar actually smells like? Well now you’ll know with this Watermelon Sugar High Candle.
+My fellow Americans ... and anyone else looking to wear the watch of a former president, check out this Casio F91W. It's a legendary watch, beloved by enthusiasts, military, and average hard-working people across the nation -- and one Barack Obama ... at least in his younger days.
 
-Inspired by one of Harry’s biggest hits, this candle features &nbsp;hints of sweet strawberries and, of course, watermelon. Sweet but not overpowering, you’ll want to light up this soy wax candle year-round.
+Is there a better example of a leading man watch than the one the former president used to wear back in his youth? Didn't think so!
 
-You’re So Golden T-Shirt
+Dwayne "The Rock" Johnson's G-Shock
 
-Harry’s merch can be hard to get your hands on between waiting in never-ending lines for the merch stand at the venue or everything selling out online.
+Can you smell what The Rock is ... wearing? The Casio G-Shock DW9052 -- that Dwayne Johnson wore in 2013 movie&nbsp;Empire State -- is the answer to that question, by the way.
 
-But this You’re So Golden T-Shirt can be at your doorstep at a moment’s notice. Rep your favorite song in this tee and consider it everyone’s daily reminder that you’re, in fact, golden.
+How many times have you seen Dwayne Johnson as a leading man? Whether it be in the ring or on the screen, he's always the biggest figure of the show ... physically and star-wise. So, if you want any leading man watch on your wrist that shows you're humble, you're hungry, and the hardest worker in the room, it's gotta be this one!
 
-Retro Harry T-Shirt
+Keanu Reeves' Casio G-Shock in Speed
 
-When you’re Harry Styles, you don’t need a last name for everyone to know who you are. This Retro Harry T-Shirt features a 70s-inspired graphic that says it all.
+When you're in a race against time and can't go under 50mph or else your life will literally end ... you'll want this nearly indestructible Casio G-Shock worn by Keanu Reeves in Speed to help you face the stakes!
 
-Whether you’re heading to a concert or just hanging with friends, this statement tee is an easy way to show your stan status … without saying too much.
+Okay, we get it ... sometimes a super important meeting with your boss or client can feel like the end of the world. This watch from Speed is going to keep it all in perspective for you.
 
-Watermelon Sugar High T-Shirt
-
-If you know, you know. This hilarious Watermelon Sugar High T-Shirt is a subtle nod to one of Harry’s most iconic songs that only true fans will understand.
-
-Featuring a watermelon and sugar cube graphic, this tee is guaranteed to get some laughs … and be a conversation starter for those people who aren’t in the know.
-
-Harry’s House Vinyl
-
-Can you even consider yourself a Harry Styles fan without owning his music on multiple forms of media? The Harry’s House Vinyl is a must-have for any fan. Whether you’ve got a record player or just want to put it on display, you can’t go wrong with this vinyl. Plus, it also comes with an MP3 download of all the songs!
-
-For more curated product lists check out&nbsp;TMZ Deals.
+For more curated product lists check out TMZ Deals.
 
 Sign up for Amazon Prime to get the best deals!
 
-All prices subject to change. Products are not official merchandise and are not affiliated with or endorsed by the celebrity.
+All prices &amp; availability subject to change. Not official merchandise unless explicitly stated.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/02/01/harry-styles-finds-amazon/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/15/inexpensive-timepieces-adored-by-hollywood-stars/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Saudi Arabia and U.A.E. Carried Out Secret Attacks in Iran, U.S. Officials Say
+### 📰 Trump Announces Boeing Jet Order From China. Beijing Stays Silent.
 <div align='justify'>
 
-The Gulf Arab states have been grappling with how to deter Iran after the war made clear the limits of American security guarantees.
+The deal, if it materializes, would be a major win for Boeing, which has lost ground to Airbus in one of the world’s largest aviation markets.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/world/asia/trump-boeing-order-china.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 In Qatar, Energy Sector Damage Is Severe, and the Way Back Will Be Long
+### 📰 Nvidia’s Future in China Remains Unclear After Trump-Xi Summit
 <div align='justify'>
 
-Iranian strikes and a blockade have paralyzed Qatar’s gas engine, creating a technical bottleneck likely to stall exports for years.
+The standoff comes as Chinese firms increasingly turn to domestic chipmakers like Huawei, in a drive to reduce China’s dependence on Western technologies.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/business/qatar-lng-iran.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/world/asia/nvidia-china-chips.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Spies, Sanctions, Cyberattacks: China and the U.S. Clash Behind the Scenes
+### 📰 In Photos and Video: President Trump Goes to China
 <div align='justify'>
 
-After months of avoiding confrontation, the Trump administration has taken recent steps to call out China on Iran, artificial intelligence and spying.
+Mr. Trump’s trip, the first U.S. presidential visit to China in almost a decade, was closely watched for signs of whether a trade truce between the countries would hold.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/us/politics/china-us-sanctions-ai-cybersecurity.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/world/asia/trump-china-photos.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump Was Flattering, Xi Was Resolute. The Difference Spoke Volumes.
+### 📰 A Surge of U.S. Spy Planes Over Cuba, and Retailers’ $20 Billion Bet on Physical Stores
 <div align='justify'>
 
-In contrast to his rhetoric about China at home, President Trump spoke in conciliatory terms with Xi Jinping, the Chinese leader.
+Plus, the Friday news quiz.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/world/asia/trump-xi-jinping-us-china.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/podcasts/the-headlines/spy-planes-cuba-physical-stores-retailers.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 The Body Language of the Trump-Xi Summit Mirrored Their Styles
+### 📰 As Powell Steps Down, the Fed Confronts ‘Regime Change’
 <div align='justify'>
 
-Although at odds over issues like trade and Taiwan, the U.S. and Chinese leaders met in Beijing with a show of friendly gestures.
+Jerome H. Powell is passing the chair’s baton to Kevin M. Warsh at the Federal Reserve, an institution that President Trump’s pick says needs an overhaul.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/14/world/asia/trump-xi-body-language.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/us/politics/jerome-powell-kevin-warsh-federal-reserve.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 Picturing Earth in a New Light
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/picturing-earth-in-a-new-light/nightlights_20142022_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+A recent analysis revealed where artificial light at night has intensified, as well as where it has diminished.
+
+Maps can show more than just where things are—they can also show how things change. New maps of artificial light reveal a planet that has been reshaping its nights through patterns of brightening and dimming.
+
+The maps are based on a recent analysis of NASA’s Black Marble data, which found that instead of a gradual increase in artificial light at night over the course of nearly a decade, the patterns are much more nuanced. The analysis portrays a world flickering with industrial booms and busts, construction, and blackouts, as well as more gradual shifts, such as policy-driven retrofits.
+
+NASA’s Black Marble product uses observations from the VIIRS (Visible Infrared Imaging Radiometer Suite) sensors on the Suomi-NPP, NOAA-20, and NOAA-21 satellites to produce records of nighttime lights at daily, monthly, and yearly time scales. The VIIRS day-night band detects nighttime light in a range of wavelengths from green to near-infrared and uses filtering techniques to observe signals such as city lights, reflected moonlight, and auroras.
+
+The map above shows changes in brightness across most of the inhabited world (between 60 degrees south and 70 degrees north). Yellow and gold areas are where there has been more brightening during the study period, from 2014 to 2022, and purple areas are where there has been more dimming.
+
+The visualization below shows the same data for the Eastern Hemisphere. Note that this version includes some artistic touches, such as simulated sunlight and shadows, while the nighttime lights data overlaid on the globe remain grounded in the scientific analysis. The image was featured on the cover of Nature, where the study was published in April 2026.
+
+Overall, the researchers found that global radiance increased by 34 percent during the study period, but that surge masks large areas of dimming. Such “bidirectional changes” often happen side by side. In the U.S., for example, West Coast cities grew brighter as their populations increased, while much of the East Coast showed dimming, which the team attributed to the increased use of energy-efficient LEDs and broader economic restructuring.
+
+The authors concluded that internationally, nighttime light surged in China and northern India along with urban development, while LEDs and energy conservation measures coincided with reduced light pollution in Paris and throughout France (a 33 percent dimming), the UK (22 percent dimming), and the Netherlands (21 percent dimming). European nights dimmed sharply in 2022 during a regional energy crisis that followed the outbreak of the Russia-Ukraine conflict.
+
+Large versions of the maps on this page can be downloaded below. Animations showing annual changes in nighttime lights throughout the study period are available from NASA’s Scientific Visualization Studio.
+
+NASA Earth Observatory images by Michala Garrison, using data from Li, T., et al. (2026). Story by Sally Younger adapted for Earth Observatory by Kathryn Hansen.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 NASA Draws on Industry for Mars Telecommunications Network
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/mars.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network.
+
+Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration.
+
+This RFP builds on a draft released April 2, as well as insights gathered during the accompanying industry day at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, where commercial partners provided feedback on agency objectives for the Mars Telecommunications Network.
+
+The request seeks responses that address both current and future operational missions. It also seeks a science payload accommodation that will be selected by NASA’s Science Mission Directorate. Industry is asked to respond within 30 calendar days of the posting, and the network should be ready to operate at Mars no later than 2030.
+
+The Mars Telecommunications Network is part of NASA’s evolving space architecture, extending continuous network services beyond Earth to the Moon and Mars. The Mars Telecommunications Network is part of NASA’s SCaN (Space Communications and Navigation) Program’s Moon to Mars strategy, and is enabled by the direction and funding provided by Congress in the Working Families Tax Cut Act.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 NASA, Industry Prepare Cryogenic Fuel Technology Demo
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/csn-1518-rotated.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -759,52 +841,6 @@ Ice in the Hudson River hugged the shore of Manhattan amid a deep freeze.
 </div>
 
  [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA-Supported Space Tech Advances Earthly Construction
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/lunar-habitat-e1778695522319.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong.
-
-Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture visually interesting, modular building elements, such as wall panels and cladding.
-
-“Our process eliminates a ton of material from something that otherwise might be printed solid all the way through,” said David Goodloe, who leads Branch Technology’s Advanced Concepts team, which manages the company’s NASA collaborations.
-
-In 2017, the company won Phase II of NASA’s 3D-Printed Habitat Challenge, a public competition to build a habitat for deep space exploration.
-
-Tracie Prater, a technical manager in the Habitat Systems Development Branch at NASA’s Marshall Spaceflight Center in Huntsville, Alabama, served as a subject matter expert for the challenge and worked with Branch Technology on a cooperative agreement.
-
-“With the 3D-Printed Habitat Challenge, teams were focused on how to build a large habitat structure on a planetary surface,” said Prater. “But once that structure is pressurized and ready for crew occupancy, how do you populate it with systems and supplies? That’s what Branch was looking at through the cooperative agreement — what their on-demand fabrication process enables in terms of novel designs for interior items.”
-
-NASA’s parameters for the habitat challenge led Branch to develop its nozzles to extrude unique lattice structures as well as more traditional layers. The company uses this dual capability frequently in its wall panels where traditionally printed sections offer solid substrates for attaching fasteners.
-
-The polymers Branch extrudes were informed by its materials science research for the 3D-Printed Habitat Challenge, which asked that print material be made of something like the dust and rocks found on the Martian surface and mission recyclables. Branch came up with a basalt fiber-reinforced plastic and from that work went on to develop an optimal loading recipe for its terrestrial “inks.”
-
-These innovations exemplify the purpose of NASA’s Technology Transfer program within the Space Technology Mission Directorate, which uses space-based solutions to improve life on Earth. For 50 years, NASA has documented the everyday benefits of space technology through the agency’s Spinoff publication.
-
-Air taxis and drones navigate different flight zones with NASA-inspired system
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Rise Goes to Washington
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington.
-
-NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day journey around the Moon and back to Earth in April 2026.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/rise-goes-to-washington/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
