@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/16 - 13:31`
+**📅 Update (Tehran Time):** `2026/05/16 - 18:11`
 
 ---
 
@@ -19,180 +19,250 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Britain is losing the ability to tell anti-Semitism from dissent
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/02/getty_699171d84a-1771139544.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Tens of thousands march in London in far-right and pro-Palestine protests
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a086aefa4-1778936559.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Sir Mark Rowley’s recent comments that some pro-Palestinian demonstrations in London send a message “that feels like anti-Semitism” are the latest sign of a dangerous trend in British public life: the conflation of anti-Semitism with criticism of the Israeli state.
+Tens of thousands of people are marching through central London in two separate protests – one pro-Palestine demonstration a day after Nakba Day, and the other, a far-right rally staged by Tommy Robinson.
 
-The Metropolitan Police commissioner suggested that some protest organisers deliberately route marches near synagogues in ways that intimidate British Jews. Any genuine intimidation of Jewish communities should, of course, be treated seriously. Anti-Semitism is real, dangerous and rising in Britain and across parts of Europe. It must be confronted clearly wherever it appears.
+Police in the British capital deployed 4,000 officers, including reinforcements from ⁠outside the city, on Saturday and pledged “the most assertive possible use of our powers” in what they called their biggest public order operation in years.
 
-But Britain is entering troubling territory when protests against the destruction of Gaza, opposition to Israeli state violence, or expressions of Palestinian grief are treated as inherently suspicious, even anti-Jewish, political acts.
+Armoured vehicles, horses, dogs, drones and helicopters were also deployed to manage the separate protest marches, the UK Metropolitan Police said.
 
-The issue is no longer only how Britain combats anti-Semitism. It is whether the country can still distinguish between hatred of Jews and opposition to the policies of the Israeli government.
+By 1200 GMT, shortly after both marches started, police said they had made 11 arrests for a range of offences. They had earlier forecast ⁠turnout of at least 80,000 – about 50,000 at Robinson’s “Unite the Kingdom” march, and 30,000 more expected to go to the Nakba Day rally.
 
-That distinction matters enormously, not only for Palestinians but for Jewish communities, too.
+Authorities had imposed various conditions on the two rallies over their routes and timings, in a bid to keep rival attendees apart.
 
-For Palestinians, there is something painfully familiar about this moment. Many grew up being told that their dispossession was tragic but necessary; that the destruction of their villages, the loss of their homes and their transformation into refugees were justified by somebody else’s need for safety and statehood.
+Prosecutors were told to consider whether certain protest placards or chants may amount to offences and stir up aggression during the rallies.
 
-Entire generations of Palestinians were raised inside this logic. Their catastrophe was acknowledged only insofar as it remained secondary to another historical trauma. In much of the Western imagination, Palestinian suffering occupied a different moral category: visible enough to be discussed, but rarely enough to disturb political comfort.
+“This is not about restricting free speech,” said the Crown Prosecution Service’s director, Stephen Parkinson. “It is about preventing hate crime and protecting the public, particularly at a time of heightened tensions.”
 
-Now, as Gaza continues to be devastated before the eyes of the world, Palestinians in Britain and across the West are finding that even speaking about their grief, anger and loss is increasingly treated as a source of discomfort requiring management.
+The police force, which estimates its operation will cost 4.5 million pounds ($6m), warned in a statement that it would adopt “a zero-tolerance approach”. That includes, for the first time, making organisers legally responsible for ensuring invited speakers do not break hate speech laws.
 
-For more than two and a half years, the world has witnessed scenes from Gaza that many legal experts, human rights organisations and genocide scholars have described using words once reserved for history books: ethnic cleansing, collective punishment, extermination and genocide.
+The British government earlier blocked 11 foreign nationals from entering the country for the “Unite the Kingdom” rally. Right-wing figures claiming to have been barred include Polish politician Dominik Tarczynski, Belgian politician Filip Dewinter, Colombian-American anti-Islam commentator Valentina Gomez and Dutch activist Eva Vlaardingerbroek.
 
-Entire neighbourhoods have been erased. Families wiped out. Hospitals bombed. Journalists killed. Civilians starved under siege. Children pulled lifeless from rubble in numbers so vast that the scale of the catastrophe defies comprehension.
+On the eve of demonstrations, Prime Minister Keir Starmer warned: “Anyone who sets out to wreak havoc on our streets, to intimidate or threaten anyone … can expect to face the full force of the law.”
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/16/britain-is-losing-the-ability-to-tell-anti-semitism-from-dissent?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 From the Nakba to Gaza’s ruins: One man’s lifetime of displacement
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/873A2314-1778905949.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Zimbabwe’s diaspora reshapes real estate and farming investment trends
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Kelvin-Bhirioti-in-the-field-during-content-creation-1778849233.jpeg?resize=1200%2C630' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Jabalia, Gaza – Inside his partially destroyed home in the Jabalia refugee camp in northern Gaza, 85-year-old Abdel Mahdi al-Wuheidi sits beside a small fire brewing coffee, staring at what remains of a life, now surrounded by rubble.
+Harare, Zimbabwe – Zimbabwe’s real estate and farming sectors are seeing a surge in diaspora-driven investment, with two young content creators quietly emerging as unexpected influencers shaping the trend.
 
-Next to him sits his wife, Aziza, also in her 80s, whom he married six decades ago. Despite years of trying, the couple was never able to have children.
+Kundai Chitima, 31, and Kelvin Birioti, 20, each running their own social media channel, have built followings that seem to influence a growing number of Zimbabweans abroad considering return or investment.
 
-Today, they live together with the five sons of Abdel Mahdi’s late brother. They were children when their father died, and Abdel Mahdi raised them and helped them to marry and start families of their own.
+On YouTube and Instagram, they share short videos and posts highlighting opportunities in Zimbabwe. Their popular content ranges from property tours and agricultural tips to market trend analysis.
 
-Born in 1940, Abdel Mahdi was only a child when the 1948 Nakba – the mass expulsion of 750,000 Palestinians from their home at the founding of the state of Israel – unfolded. And yet, despite living through that pain and trauma, he says that what Palestinians are enduring today, brought on by Israel’s genocidal war on Gaza, surpasses anything he has ever witnessed.
+For some in the diaspora, decisions about returning or investing increasingly appear to be shaped less by official narratives and more by social media content offering on-the-ground perspectives of life in Zimbabwe.
 
-“We are from Bir al-Saba [Beersheba] … that was our homeland,” he says in a tired voice. Bir al-Saba is the largest city in the Naqab Desert. It was captured by Israeli forces in 1948, forcing much of its Palestinian population out.
+One of those influenced is Catherine Mutisi, who spent 17 years living in the United Kingdom working as an accountant. During that time, she had already begun investing in Zimbabwe, building two houses, buying a small plot and starting a business.
 
-Abdel Mahdi’s sharp memory carries him back to his childhood, living with his parents on their land, among their livestock and property – a normal life, before everything changed.
+She said her thinking shifted after coming across Birioti’s content during construction.
 
-Abdel Mahdi says he still remembers the heated discussions among families in Bir al-Saba when news first spread that Zionist Haganah militias were approaching, with some wanting to flee, and others insisting on staying.
+“Gradually, my mind and plans shifted from just visiting Zimbabwe towards wanting to permanently relocate,” she said.
 
-The decision was eventually made to leave for Gaza, to the west, with the hope of returning in a few weeks.
+Mutisi said earlier narratives about Zimbabwe had made her cautious, but online content presented a different perspective.
 
-And so Abdel Mahdi, along with his parents, three siblings, and the rest of his extended family, left, carrying whatever livestock, money and supplies they could manage.
+“Previously, I was just building my houses for my family to get some money. But after watching the videos, my eyes opened,” she told Al Jazeera.
 
-“We all left … We walked for days. We would rest, then continue walking,” he says. “We carried some of our belongings with us. We never imagined it would become a permanent exile.”
+Her experience is not isolated. Both Chitima and Birioti say they hear similar accounts from the Zimbabwean diaspora reassessing their long-term plans.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Russia’s Putin to visit China following Trump’s trip
-<img src='https://www.aljazeera.com/wp-content/uploads/2025/09/AP25245170505338-1756795816.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Mexico teachers threaten World Cup disruption over pay
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778936404.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Russia’s President Vladimir Putin will pay an official visit to China from May 19 to 20, the Kremlin has announced.
-
-Putin and his Chinese counterpart, President Xi Jinping, plan to “further strengthen the comprehensive partnership and strategic cooperation” between Moscow and Beijing, the Kremlin said in a statement.
-
-Putin is also scheduled to discuss economic and trade cooperation with Chinese Premier Li Qiang.
-
-Russia’s TASS news agency reported that the visit is timed to commemorate the 25th anniversary of the signing of the Treaty of Good-Neighborliness and Friendly Cooperation, a key Moscow-Beijing agreement signed in 2001.
-
-News of Putin’s forthcoming trip arrives one day after United States President Donald Trump departed China following the first presidential visit to Beijing in almost a decade.
-
-Although Trump and Xi touted several broad trade deals, they appeared to make little public progress on key sticking points related to Taiwan or the US-Israel war on Iran.
-
-They also touched on the Russia-Ukraine war, in which China is officially neutral and Xi has presented himself as a mediator.
-
-Still, Xi’s “no limits” alliance with Putin – announced just before the full-scale Russian invasion of Ukraine in 2022 – has undercut that stance.
-
-China has also denied reports from Reuters and other news agencies showing that Chinese firms have single-handedly sustained Russian drone production, in part by shipping engines mislabelled as “industrial refrigeration units” to drone assembly plants.
-
-“We discussed – well, it’s one that we’d like to see settled,” Trump said in remarks reported by the Kyiv Post.
+‘The ball will not roll!’
+Mexico’s teachers are threatening to disrupt next month’s 2026 FIFA World Cup if their demands for higher pay and reforms are not met. Thousands of teachers marched through Mexico City on Friday, where the opening match of the competition is set to take place.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-15T165609Z_764780773_RC2N9LAPUTJ1_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1778914537.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Moment of deadly train crash in Bangkok
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778934088.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Lebanon has welcomed an agreement with Israel to extend a fragile ceasefire by 45 days beyond Sunday’s deadline following talks in the United States, even as Israeli forces continued attacks on towns and villages in southern Lebanon.
-
-At least 12 people were killed on Friday, including three paramedics, according to Lebanese authorities.
-
-Meanwhile, Iran’s Foreign Minister Abbas Araghchi said during a BRICS meeting that Tehran had received communication from the administration of US President Donald Trump indicating openness to new negotiations aimed at ending the war. However, Araghchi said a “deadlock” remained over the issue of Iran’s enriched nuclear material.
-
-Trump also suggested he could be open to Iran placing its civilian nuclear programme on hold for two decades, provided Tehran demonstrates what he described as a genuine commitment to a broader agreement.
+At least eight people have been killed after a freight train crashed into a public bus in Thailand.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/16/moment-of-deadly-train-crash-in-bangkok?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Gunmen kidnap dozens of students in Nigeria’s Borno State
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-17T083046Z_195947351_RC266KA62YZJ_RTRMADP_3_NIGERIA-SECURITY-1776614570.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Ultra-Orthodox conscription dispute pushes Israeli government to brink
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_695e9f5f-1767808863.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Gunmen have ⁠kidnapped dozens of school pupils in Nigeria’s rebellion-ravaged northeastern state of Borno, residents ⁠told the Reuters and AFP news agencies.
+Israel’s ruling coalition has submitted a call for an early election following continued fractures from government allies over the issue of ultra-Orthodox conscription.
 
-The suspected fighters stormed Mussa Primary and Junior Secondary School in Askira-Uba Local Government Area at about 9 am (08:00 GMT) on Friday while classes were in session and ⁠took several students with them, Ubaidallah Hasaan, who lives near the school, told Reuters.
+If the vote passes in the Knesset next week, as expected, then a general election will be held within 90 days of its passage – projected for the third week of August; two months before the mandated end of the government’s current term on October 27.
 
-A teacher at the school told Reuters that armed attackers had arrived on motorcycles. “Despite some students escaping to the bushes, I can tell you many were taken away,” the teacher ‌said.
+Ultra-Orthodox parties, which were a key component in the 2022 far-right coalition government, have made the exemption of their constituents from the draft – which almost all Israeli adults are eligible for – a pillar of their political campaigning in recent years.
 
-No group claimed responsibility for the raid, which bore the hallmark of the Boko Haram group. Local lawmaker Midala Usman Balami called the attack “heartbreaking” and urged authorities to act swiftly.
+A crisis began in Prime Minister Benjamin Netanyahu’s government in July 2025, when the ultra-Orthodox parties Shas and United Torah Judaism (UTJ) pulled their support from the coalition unless a bill was passed exempting constituents from the draft.
 
-Africa’s most populous country is battling a 17-year armed rebellion from such groups, who have made abductions a key tactic – including the infamous 2014 kidnapping of hundreds of schoolgirls in Chibok.
+The parties have continued to back the government on important votes in the Knesset, but now one of UTJ’s factions, led by Degel Hatorah, has demanded the collapse of the government, with the party’s spiritual leader, Rabbi Dov Lando, saying he had finally lost faith in Netanyahu.
 
-Mass kidnappings have become a common way for gangs and armed groups to make quick money in Africa’s most populous country, especially in rural areas with little government presence.
+“From now on, we will only do what is good for Haredi Judaism and the yeshiva (religious school) world,” the rabbi told his UTJ Knesset members. “We must work to dissolve the Knesset as soon as possible. The concept of a ‘bloc’ no longer exists for us.”
 
-A few weeks ago, gunmen raided an orphanage and kidnapped at least 23 children from an “isolated area” in Nigeria’s Kogi State capital, Lokoja, Kogi Information Commissioner Kingsley Fanwo said in a statement.
+Here’s what we know about ultra-Orthodox military conscription and how the issue could affect Israeli politics.
 
-Borno ⁠and neighbouring states have seen repeated attacks on schools and communities despite ongoing military operations, raising concerns about ⁠security gaps in rural areas.
+Ultra-Orthodox men enrolled in full-time religious study have been exempt from military service since the state of Israel was created in 1948.
 
-The community of Mussa lies near ⁠the Sambisa Forest, a longstanding stronghold ⁠of rebel fighters who have waged a campaign of violence in northeast Nigeria for more than a decade.
+This was ruled illegal by Israel’s High Court of Justice in 1998, with a series of temporary measures intended to defer Haredi recruitment being repeatedly struck down.
 
-In a separate incident ‌on Friday, gunmen abducted students at Baptist Nursery and Primary School in the southwestern state of Oyo. The state has ordered school closures in the ‌area ‌while police launched a manhunt for the abductors.
+However, as the size of the ultra-Orthodox population has grown – and the Israel military’s need for new recruits amid an expansion of its military campaigns – so too has the pressure to include men in the draft.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/how-ultra-orthodox_recruitment_could_unseat_netanyahu_in_israeli_elections?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Senior IS leader killed by US and Nigerian forces
+### 📰 Senior IS leader killed in joint operation, US and Nigeria say
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Nigeria's President Bola Tinubu has confirmed the killing of a senior Islamic State (IS) leader in a joint-operation with the US.
+Nigeria and the United States say they have killed a senior Islamic State (IS) leader in a joint-operation.
 
-"Our determined Nigerian Armed Forces, working closely with the Armed Forces of the United States, conducted a daring joint operation that dealt a heavy blow to the ranks of the Islamic State," Tinubu said in a statement.
+Abu-Bilal al-Minuki was described by US President Donald Trump as the "second in command of ISIS globally" and "the most active terrorist in the world".
 
-The operation was first announced by US President Donald Trump, who described Abu-Bilal al-Minuki as the "second in command of ISIS globally" and "the most active terrorist in the world".
+IS has radically shifted in recent years, with around 90% of its attacks now taking place in sub-Saharan Africa. Its Nigeria-based branch is by far the most active.
+
+Nigerian President Bola Tinubu said the two countries had carried out a "daring joint operation that dealt a heavy blow" to IS.
 
 Al‑Minuki was declared a Specially Designated Global Terrorist by Washington in 2023.
 
-The killing marks another significant setback for Islamic State group (IS) following the killing of its leader Abu Bakr al‑Baghdadi in 2019.
+He was killed along with "several of his lieutenants" during a strike on his compound in the Lake Chad Basin, a huge region of waterways and swampland shared by Nigeria, Chad, Niger and Cameroon.
 
-Tinubu said in a statement that al-Manuki was killed along with "several of his lieutenants" during a strike on his compound in the Lake Chad Basin.
+A military spokesman said intelligence had established Minuki had established a fortified base in the area - in Metele, Borno state.
 
-The basin is a huge region of waterways and swampland shared by Nigeria, Chad, Niger and Cameroon. It has long been a stronghold for Boko Haram and its rival faction, Islamic State West Africa Province (Iswap).
+The Lake Chad basin has long been a stronghold for Boko Haram and its rival faction, Islamic State West Africa Province (Iswap).
 
-Abu-Bilal al-Manuki is believed to have been from Borno State in north-eastern Nigeria. Analysts say his nickname likely came from Mainok, a town in the state, following a common regional tradition where people are identified by their hometowns or family names.
+The Nigerian military said the operation began shortly after midnight on Saturday, after months of intelligence gathering and reconnaissance. It said the operation "zero casualties or loss of assets" were recorded, describing the operation as evidence of growing cooperation between Nigerian and US forces.
 
-The Nigerian Military said the "precision operation" was made possible through the "recently formed US-Nigeria partnership and intelligence sharing efforts."
-
-It said al-Minuki had been promoted to "Head of General Directorate of States", making him one of the most senior figures within the global IS hierarchy.
+It said that al-Minuki had been promoted to "Head of General Directorate of States", making him one of the most senior figures within the global IS hierarchy.
 
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Rescue diver dies during search for bodies of Italians who drowned in Maldives caves
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6c7d/live/b63ca910-5123-11f1-a5d4-1388da3b9f7b.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+A rescue diver has died while searching for the bodies of four Italians who died in a scuba-diving accident in the Maldives.
+
+Staff Sgt Mohamed Mahdhee was taken to hospital in critical condition and later succumbed to his injuries, a government spokesman told the BBC on Saturday.
+
+The five Italians died while attempting to explore caves at a depth of around 50m (164ft). So far, just one of their bodies is thought to have been recovered, in a cave at a depth of around 60m (197ft).
+
+The incident is believed to be the worst single diving accident in the tiny Indian Ocean nation, a popular tourist destination because of its string of coral islands.
+
+Maldivian President Mohamed Muizzu travelled to Vaavu Atoll on Saturday to observe the search operations.
+
+"Eight rescue divers went into the water today.  When they surfaced, they realised Mr Mahdhee didn't come up," Mohamed Hossain Shareef, a Maldivian government spokesman told the BBC.
+
+The other divers immediately went into the water again and they found Mahdhee had blacked out.
+
+The Maldives military has described the operation as very high risk, with unfavourable weather conditions.
+
+Four of the Italian divers were part of a University of Genoa team, including professor of ecology Monica Montefalcone, her daughter and two researchers. The fifth was a boat operations manager and diving instructor.
+
+The five entered the water at Vaavu Atoll on Thursday morning, local media said, and were reported missing when they failed to resurface later on.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 US planning to charge ex-Cuban leader Raúl Castro
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7816/live/82d5a7f0-50bc-11f1-a365-3d2203a67fc4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+The US justice department is reportedly preparing to indict aging Cuban leader Raúl Castro in the coming days over the shooting down of two aircraft three decades ago.
+
+The reported charges, which would need to be approved by a US grand jury, emerged as the director of the CIA travelled to Cuba to meet officials in Havana.
+
+Castro, 94, stepped down as Cuban Communist Party leader in 2021, ending his family's more than half a century in power. He led the country for 15 years, stepping in after his brother, Fidel, resigned.
+
+The potential indictment is the latest move in a US pressure campaign that has included an oil blockade and widespread sanctions.
+
+The charges are said to centre on the 1996 downing of two planes operated by the US activist-humanitarian group Brothers to the Rescue.
+
+Unnamed US Department of Justice (DoJ) officials told US media the indictment could come as soon as next Wednesday.
+
+Asked on Friday about the reported indictment plan, President Donald Trump told reporters on Air Force One: "I'll let DoJ comment on it."
+
+He added: "But [Cubans] need help, as you know. And you talk about a declining country. They are really a nation, a country in decline."
+
+Trump has issued an oil blockade against Cuba, which has exacerbated fuel shortages. This week the island's energy minister acknowledged that Cuba has, in essence, run out of fuel oil.
+
+Potential charges against Raúl Castro were unclear, but officials said the investigation centred on an attack on two small planes, which happened on 24 February 1996 while Fidel was president and Raúl was armed forces minister.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Toddlers among more than 50 schoolchildren kidnapped in Nigeria
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e73e/live/4e3d7bf0-5128-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Gunmen have kidnapped more than 50 children from three schools in the same town in north-eastern Nigeria, teachers and residents have said.
+
+Eyewitnesses who saw the attacks on Friday morning in Mussa, Borno state, say the suspects used the children as human shields while fleeing on motorbikes, preventing security forces from opening fire.
+
+No group has claimed responsibility for the attack, and government officials have yet to respond to the BBC's requests for comment.
+
+The kidnappings took place at the town's Government Day Secondary School, Mussa Central Primary School, and State Universal Basis Education Board (SUBEB) Primary School.
+
+Some reports suggest the attacks bore the hallmark of Boko Haram - the Islamist group vying for control over the region against its rival faction, Islamic State West Africa Province (Iswap).
+
+Nigeria is currently grappling with a spate of mass abductions by a range of culprits.
+
+Locals in Borno state have endured decades of insecurity. These latest attacks have prompted some resident of Mussa to flee the area.
+
+Yet traumatised parents have told the BBC they feel they have no choice but to wait in anguish for news about their children.
+
+One man, who did not want to be named for fear of reprisal, said his wife was inconsolable after their six-year-old daughter was snatched away by the gunmen.
+
+Abdu Dunama, headmaster of Mussa Central Primary School, described hearing gunfire before armed men stormed the school and rounded up children.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -224,99 +294,6 @@ In his interview with Fox News, Trump reiterated that US policy on the matter ha
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Trump and Xi conclude 'very successful' talks but few deals confirmed
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f0ee/live/9a4e0250-5077-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-US President Donald Trump left Beijing after a two-day summit saying he had struck "fantastic trade deals, great for both countries", but few details have emerged on what the two superpowers agreed.
-
-Trump arrived for a high-stakes summit with Chinese leader Xi Jinping on Wednesday, accompanied by several CEOs: a high-profile business delegation spanning agriculture, aviation, electric vehicles and artificial intelligence (AI) chips.
-
-Trade was near the top of the agenda despite recent tensions over the Iran war, and businesses hoped for key deals as well as an extension of the tariff truce that is due to expire in November.
-
-The visit was defined by warm rhetoric and symbolism. Trump was wooed with a packed itinerary that included an honour guard, a state banquet, and an invitation to the exclusive compound where China's Communist Party leaders live and work.
-
-The US president seemed impressed and invited Xi to the White House in September. He said talks had been "very successful", while Xi called it a "historic and landmark" visit.
-
-China's Foreign Minister Wang Yi confirmed on Friday that Xi would visit the White House in the autumn.
-
-But neither side has announced trade breakthroughs or significant business deals.
-
-President Trump, however, spoke to reporters aboard Air Force One and said China had agreed to buy 200 Boeing jets, with a potential commitment to buy an additional 750 planes. The aerospace giant confirmed the deal.
-
-Trump also said American farmers will be happy with his trade deals because China would be buying "billions of dollars" of soybeans.
-
-There has been no confirmation of any deals or purchases from the Chinese.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6805/live/1e2b8d50-5081-11f1-b637-39d6d94b351f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-The Swiss Federal Intelligence Service has said it will finally open long-sealed files on the notorious Nazi war criminal Josef Mengele, but without saying when.
-
-Mengele fled Europe after World War Two, but for years there have been rumours  that he spent time in Switzerland, even though an international warrant was out for his arrest.
-
-Historians have repeatedly requested access to the files, but until now the Swiss authorities have refused.
-
-Mengele was a doctor who served in Germany's Waffen SS. He was posted to the Auschwitz extermination camp in Nazi-occupied Poland, where he selected those to be sent to the gas chambers – an estimated 1.1 million people died, including about a million Jews.
-
-Known as the Angel of Death, he also selected prisoners, primarily children and twins, for sadistic medical experiments, before sending them to their deaths as well.
-
-After the war Mengele, like many high-ranking Nazis, quickly changed both his uniform, and his name.
-
-With the help of his false identity, he was issued Red Cross travel documents at the Swiss consulate in Genoa in northern Italy, and used them to flee to South America.
-
-The Red Cross intended the documents for thousands of people across Europe who had been displaced or made stateless by the war, but Nazis seeking to escape prosecution also managed to acquire them, something for which the Red Cross has subsequently apologised.
-
-Although he fled Europe in 1949, Mengele had a skiing holiday in the Swiss Alps with his son Rolf in 1956. That information has been known since the 1980s.
-
-Officially, after that, he spent the rest of his life in South America.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Man killed by 13ft great white shark in Western Australia
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/3951/live/8a118df0-50f2-11f1-93a7-b1fded84e358.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A 38-year-old man has been killed by a 13ft (4m) great white shark in Western Australia.
-
-On Saturday, the man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.
-
-Aerial footage showed the man being rushed to shore by boat where paramedics and police performed CPR at the Geordie Bay jetty, local media ABC reported.
-
-The state's Department of Primary Industries and Regional Development told AFP news agency it received a report the man was bitten by the great white.
-
-The department urged the public to take "additional caution" in waters around the area.
-
-The attack is the first fatal incident in Western Australia since March last year, when a surfer was mauled off a remote beach.
-
-Since records began in 1791, there have been almost 1,300 recorded shark attacks in Australia, with more than 260 of them resulting in death.
-
-Earlier this year in January, four shark attacks were reported along the New South Wales coast over two days.
-
-One of the victims included 12-year-old Nico Antic who jumped from a rock into the Sydney Harbour and was attacked by a suspected bull shark.
-
-He died a week later, with his parents saying in a joint statement they were "heartbroken".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -481,8 +458,35 @@ Esther is from a different African country. The Guardian is using a pseudonym fo
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
+### 📰 Six-Year-Old Boy's Remains Found in Texas, Mother Charged With Murder
+<img src='https://imagez.tmz.com/image/7a/16by9/2026/05/16/7a4c127fb9f1473cbdbcb07ea420b7f2_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+Six-year-old Noel Rodriguez-Alvarez went missing in Texas four years ago ... but now investigators have learned the little boy is dead and have finally found his remains.
+
+The Tarrant County District Attorney's Office announced Friday that Noel's corpse was discovered the day before in Everman, a small city near Fort Worth, and dental records were used to confirm his identity.
+
+During a press conference, Tarrant DA Phil Sorrells said the child's mom, Cindy Rodriguez Singh, has been indicted for capital murder and will stand trial in the case.&nbsp;&nbsp;
+
+Three years ago, Singh was on the FBI’s Ten Most Wanted Fugitives List after she flew to India with her husband and six children, but Noel was not on the family trip.
+
+In August 2023, the FBI took Singh into custody in India and brought her back to Texas as police were desperately searching for Noel. Extended family told cops that the boy had vanished without a trace in October 2022.
+
+Then, in March 2023, cops paid a visit to the family's Everman home after a welfare check request was made by the Texas Department of Family and Protective Services.
+
+Cops say Singh lied to them during the visit, telling officers Noel was staying with relatives in Mexico. Singh then hopped a plane for India with everyone in her immediate family except for Noel, that is.&nbsp;The DA has not disclosed any other evidence in the case.
+
+Singh is currently being held at the Lon Evans Corrections Center in Fort Worth.
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/six-year-old-boys-remains-discovered-in-texas-mom-arrested/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Spencer Pratt Trades Insults With Chelsea Handler Over His L.A. Mayoral Run
-<img src='https://imagez.tmz.com/image/30/16by9/2026/05/12/3004875f0a024b688d70475e2d5e45a7_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+<img src='https://imagez.tmz.com/image/3b/16by9/2026/05/16/3bb70473f32d4f17a760004b739b17c8_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
@@ -494,36 +498,13 @@ Chelsea posted a video on Instagram reminding everyone that Spencer is a "straig
 
 Well, Spencer wasn't happy at all with Chelsea, so he posted his own video on X, showing Shane Gillis doing a comedy routine at Kevin Hart's recent roast on Netflix.
 
-In the clip, Gillis cracks a nasty joke about Chelsea partying with Epstein, Prince Andrew and Woody Allen.
+In the clip, Gillis cracks a nasty joke about Chelsea partying with Epstein, Andrew Mountbatten-Windsor, FKA Prince Andrew, and Woody Allen.
 
 Meanwhile, Spencer has been on the campaign trial, running against Bass and several other candidates. Who the next L.A. mayor will be is anyone's guess at this point.
 
 </div>
 
  [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/spencer-pratt-chelsea-handler-karen-bass-mayor/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Eric Trump Says He's Suing Jen Psaki and MS Now For 'False' China Report
-<img src='https://imagez.tmz.com/image/36/16by9/2024/08/06/36dbc38e14c0432b89d16b90334196bd_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-President Trump appears to be rubbing off on his son, Eric, who is now gearing up to sue MS Now and their popular host, Jen Psaki, over their recent coverage of him in China.
-
-As everyone knows, Donald is usually the one in the Trump family to slap his rivals with lawsuits, but not this&nbsp;time.
-
-On Friday, Eric posted a message on X, saying Psaki aired a FALSE report on MS Now about him sitting on the board of a company, ALT5, which is purportedly trying to do business with China. The report implied that Eric is using his dad's powerful position as commander-in-chief to make money in China off his business ventures.
-
-As for President Trump, he recently met with his Chinese counterpart, Xi Jinping, in the capital of Beijing. Eric was at his father's side during the trip and made it clear on X he was only there as a loving son who adores his father.
-
-In his X post, Eric also said he has no business interests in China and put Psaki and her network on notice that he's about to sue their asses!
-
-Like father, like son.
-
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/eric-trump-donald-china-jen-psaki-ms-now/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -540,6 +521,31 @@ Drake drops 3 new albums and a whole lotta beef, Spencer Pratt rolls reality cam
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 Chase Infiniti and Tyriq Withers Photographed on Date in NYC
+<img src='https://imagez.tmz.com/image/39/16by9/2026/05/16/39180ab3526649fb969dbf87c0b7f739_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+Hollywood's newest couple Tyriq Withers&nbsp;and&nbsp;Chase Infiniti&nbsp;turned into New York's hottest couple Friday night ... the lovebirds were spotted side-by-side in Midtown Manhattan -- and we got the pics to prove it!
+
+Check 'em out ... Chase and Tyriq are hanging out in front of the Booth Theater near Times Square after a showing of the Tony-award winning Broadway play, "Proof." Gotta say the two look pretty cute and happy as they smiled while enjoying their night out together.
+
+An eyewitness tells us a friend was with the A-list actors, trying to stand between them so they would be less noticeable to the crowd that formed outside the theater. We're told Tyriq kept looking at Chase with fondness as Chase talked with their friend.
+
+PEOPLE first reported this week that Chase and Tyriq are definitely an item with one source telling the publication that Chase is "having fun" and "enjoying herself like any young woman."
+
+In addition, the pair have been snapped by photogs at several recent events, including GQ's post-Met Gala party and in Audi's team garage at the F1 Grand Prix in Miami.
+
+It certainly seems things are revving up for these two!
+
+Here's hoping they don't Wither away as a couple ... and go to Infiniti and beyond.
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/chase-infiniti-and-tyriq-withers-broadway-date-pictures/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Taylor Swift and Travis Kelce Enjoy a Date Night As Wedding Rumors Swirl
 <img src='https://imagez.tmz.com/image/f7/16by9/2026/05/16/f7af308e70c74564912070976743987c_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
@@ -551,13 +557,13 @@ The power couple was photographed by paparazzi Friday night, strolling hand-in-h
 
 Taylor couldn't help but smile in her chic flowery dress and high heels while rocking the engagement ring given to her by her hunky fiancé. Speaking of whom, Travis was also sporting a grin while dressed in dark pants, black dress shoes and a pinstripe button down shirt with animal patterns.&nbsp;
 
-The lovebirds probably had lots to discuss over their meal given all the chatter about their upcoming nuptials. It's good to see Travis back with Taylor whose been doing the town without him for the last couple weeks. &nbsp;
+The lovebirds probably had lots to discuss over their meal given all the chatter about their upcoming nuptials. It's good to see Travis back with Taylor whose been painting the town without him for the last week.
 
-Taylor dined at Manhattan's Via Carota with other guests for Lena Dunham’s birthday. The pop star has also been going out nights in NYC with her closest pals, including BFF Ashley Avignone.&nbsp;
+Taylor dined at Manhattan's Via Carota with other guests for Lena Dunham’s birthday. The pop star has also been having GNOs in NYC with her closest pals, including BFF Ashley Avignone.&nbsp;
 
 Not only that, but Taylor has been burning up the phones we're told, making calls to friends to make sure they keep this summer open for the big day with her NFL star, soon-to-be hubby.
 
-Now all we need is the date!
+Now all we need is the date ... and an invite!
 
 </div>
 
@@ -565,90 +571,20 @@ Now all we need is the date!
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Cheap Watches Male Celebrities Love
-<img src='https://imagez.tmz.com/image/85/16by9/2026/05/05/850b7ce1038940c6bf43d3360f3293d5_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-TMZ may collect a share of sales or other compensation from links on this page.
-
-All leading men have these three things: charisma, adaptability ... and a cheap watch!
-
-Now, just because it's cheap doesn't mean it can't look good. In fact, these watches are so good that they have appeared on the wrists of some of your favorite celebrities -- whether it be in the movies or out in the real world!
-
-Take a gander at some of these time-keepers so you get the next leading role!
-
-Want more great finds? Head to&nbsp;TMZ Deals.
-
-Idris Elba's Gold Casio
-
-It's the man that will always be on your wife's "list" (if you know, you know). Oh, you don't know who we're talking about? Well let us blunt the edge for you ... it's Idris Elba!
-
-This gold vintage Casio is a piece of bling you'll see on Idris's wrist in photos across the internet ... and for good reason.
-
-Idris has been a leading man for years now, and while we won't say it's because of this watch, it definitely doesn't hurt when trying to make that A-list impression!
-
-You see good taste doesn't always mean the most expensive item money can buy ... sometimes it's wearing the right thing at the right time -- and on the right person (ahem).
-
-Tom Cruise's G-Shock in Mission Impossible II
-
-There is no leading man in modern cinema who is as much of a star as Tom Cruise ... nor as much of a bada** as Ethan Hunt! Which is why this watch, worn by Tom Cruise in Mission Impossible II, is the the perfect leading man accessory!
-
-We get it ... sometimes even getting out of bed for the day can feel like an impossible mission. But when you wrap this watch around your wrist, you'll feel like you're the lead of a Mission Impossible. Even if you're not exactly stopping a global pandemic like Ethan is in John Wu's film!
-
-Ryan Gosling's Casio
-
-This is another guy you'll probably see on your wife's list ... Ryan Gosling has become one of the most popular leading men in the movies nowadays, so it only makes sense to try and look the part with this silver Casio Men's Vintage watch!
-
-This watch is so classy, Ken couldn't even pull it off for Barbie! It was instead used for Ryan Gosling's modeling shoots ... allegedly because this watch was the only thing that could match his natural hotness. No, we won't give out our sources (definitely kidding here, you numbskulls) ... either way you should buy the watch and see it for yourself! It's a stunner!
-
-Mark Wahlberg's Ironman
-
-While Mark Wahlberg has an extensive luxury watch collection, he still knows how to keep things real. In fact, most days you'll see him sporting the humble yet rugged Timex Ironman watch to workout ... and even attend the occasional red carpet!
-
-In fact, the Transformer-fighting Bostonian has made a point of wearing the functional sports watch for decades ... showcasing his down-to-earth style and that true leading men can elevate any timepiece on their wrist.
-
-So, you know we don't need to sell you on how only a kicka** leading man can pull this watch off? You gonna go Balls Up and get one, or are you not Ironman enough?
-
-Tyler the Creator's Analog Casio
-
-Wanna make a fashion statement "EARFQUAKE" style? Tyler the Creator's choice to wear a dirt cheap Casio Analog shows -- as we keep saying -- that style is deeper than price tags.
-
-This Casio may look simple compared to the rest, but bear in mind: If Tyler the Creator decided to put it on, you know it's a nuanced pick for anyone aspiring to be a standout leading man!
-
-Young Barack Obama Used to Rock This Casio F91W
-
-My fellow Americans ... and anyone else looking to wear the watch of a former president, check out this Casio F91W. It's a legendary watch, beloved by enthusiasts, military, and average hard-working people across the nation -- and one Barack Obama ... at least in his younger days.
-
-Is there a better example of a leading man watch than the one the former president used to wear back in his youth? Didn't think so!
-
-Dwayne "The Rock" Johnson's G-Shock
-
-Can you smell what The Rock is ... wearing? The Casio G-Shock DW9052 -- that Dwayne Johnson wore in 2013 movie&nbsp;Empire State -- is the answer to that question, by the way.
-
-How many times have you seen Dwayne Johnson as a leading man? Whether it be in the ring or on the screen, he's always the biggest figure of the show ... physically and star-wise. So, if you want any leading man watch on your wrist that shows you're humble, you're hungry, and the hardest worker in the room, it's gotta be this one!
-
-Keanu Reeves' Casio G-Shock in Speed
-
-When you're in a race against time and can't go under 50mph or else your life will literally end ... you'll want this nearly indestructible Casio G-Shock worn by Keanu Reeves in Speed to help you face the stakes!
-
-Okay, we get it ... sometimes a super important meeting with your boss or client can feel like the end of the world. This watch from Speed is going to keep it all in perspective for you.
-
-For more curated product lists check out TMZ Deals.
-
-Sign up for Amazon Prime to get the best deals!
-
-All prices &amp; availability subject to change. Not official merchandise unless explicitly stated.
-
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/15/inexpensive-timepieces-adored-by-hollywood-stars/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
+### 📰 How a Nature Cruise Turned Into a Nightmare
+<div align='justify'>
+
+The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 With Possible Raúl Castro Indictment, U.S. Eyes Venezuela Playbook
 <div align='justify'>
 
@@ -663,7 +599,7 @@ Amid stepped-up surveillance flights, a visit of the C.I.A. director and an ener
 ### 📰 The Push to Indict Raúl Castro, Cuba’s Former President
 <div align='justify'>
 
-Mr. Castro, Cuba’s former president, could soon face charges in the 1996 killings of four volunteer airmen who were members of a humanitarian group that searched for migrants at sea.
+With Raúl Castro, Cuba’s former president, possibly facing charges in the 1996 killings, here’s a look back at what happened that day.
 
 </div>
 
@@ -671,25 +607,14 @@ Mr. Castro, Cuba’s former president, could soon face charges in the 1996 killi
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map
+### 📰 Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move
 <div align='justify'>
 
-State officials had asked the justices to step in to allow the state to use a congressional map in the midterms that was drawn by Democrats and recently approved by voters.
+The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the reliability of U.S. support.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Texas Supreme Court Rejects Abbott Effort to Remove Democrats After Walkout
-<div align='justify'>
-
-Republican state leaders tried to expel Democratic lawmakers during their fight over redistricting last year. The court said it was not necessary.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
