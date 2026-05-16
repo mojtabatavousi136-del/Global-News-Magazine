@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/16 - 18:11`
+**📅 Update (Tehran Time):** `2026/05/16 - 23:39`
 
 ---
 
@@ -19,129 +19,182 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Tens of thousands march in London in far-right and pro-Palestine protests
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a086aefa4-1778936559.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Can new Pakistan-Afghanistan tensions lead to another border clash?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778955455.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Tens of thousands of people are marching through central London in two separate protests – one pro-Palestine demonstration a day after Nakba Day, and the other, a far-right rally staged by Tommy Robinson.
+Relations between Pakistan and Afghanistan have been tense since the Taliban took power in 2021.
 
-Police in the British capital deployed 4,000 officers, including reinforcements from ⁠outside the city, on Saturday and pledged “the most assertive possible use of our powers” in what they called their biggest public order operation in years.
+On Monday, Pakistan summoned a senior Afghan diplomat after an attack claimed by the Pakistan Taliban, known by the acronym TPP. The group said it carried out two more attacks since, mostly against security forces.
 
-Armoured vehicles, horses, dogs, drones and helicopters were also deployed to manage the separate protest marches, the UK Metropolitan Police said.
+The latest violence started with a major border skirmish in February. Mediation efforts by Saudi Arabia, Qatar, Turkiye and China led to a pause in the fighting.
 
-By 1200 GMT, shortly after both marches started, police said they had made 11 arrests for a range of offences. They had earlier forecast ⁠turnout of at least 80,000 – about 50,000 at Robinson’s “Unite the Kingdom” march, and 30,000 more expected to go to the Nakba Day rally.
+But the two sides have continued to target each other. This includes a Pakistani strike on a drug rehabilitation centre that killed more than 250 people.
 
-Authorities had imposed various conditions on the two rallies over their routes and timings, in a bid to keep rival attendees apart.
+Will these breaches lead to a resumption of hostilities? And is lasting peace possible between the neighbours?
 
-Prosecutors were told to consider whether certain protest placards or chants may amount to offences and stir up aggression during the rallies.
+Masood Khan – Former permanent representative of Pakistan, United Nations
 
-“This is not about restricting free speech,” said the Crown Prosecution Service’s director, Stephen Parkinson. “It is about preventing hate crime and protecting the public, particularly at a time of heightened tensions.”
-
-The police force, which estimates its operation will cost 4.5 million pounds ($6m), warned in a statement that it would adopt “a zero-tolerance approach”. That includes, for the first time, making organisers legally responsible for ensuring invited speakers do not break hate speech laws.
-
-The British government earlier blocked 11 foreign nationals from entering the country for the “Unite the Kingdom” rally. Right-wing figures claiming to have been barred include Polish politician Dominik Tarczynski, Belgian politician Filip Dewinter, Colombian-American anti-Islam commentator Valentina Gomez and Dutch activist Eva Vlaardingerbroek.
-
-On the eve of demonstrations, Prime Minister Keir Starmer warned: “Anyone who sets out to wreak havoc on our streets, to intimidate or threaten anyone … can expect to face the full force of the law.”
+Obaidullah Baheer – Adjunct lecturer, American University of Afghanistan
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Zimbabwe’s diaspora reshapes real estate and farming investment trends
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Kelvin-Bhirioti-in-the-field-during-content-creation-1778849233.jpeg?resize=1200%2C630' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 In response to Trump, Taiwan says it is ‘sovereign and independent’
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a08b6763f2c-1778955894.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Harare, Zimbabwe – Zimbabwe’s real estate and farming sectors are seeing a surge in diaspora-driven investment, with two young content creators quietly emerging as unexpected influencers shaping the trend.
+Following a visit from United States President Donald Trump to China, the island of Taiwan has issued a statement saying it is “sovereign and independent”.
 
-Kundai Chitima, 31, and Kelvin Birioti, 20, each running their own social media channel, have built followings that seem to influence a growing number of Zimbabweans abroad considering return or investment.
+But Saturday’s statement added that Taiwan plans to maintain the “cross-strait status quo”, under which it will not officially declare independence from China.
 
-On YouTube and Instagram, they share short videos and posts highlighting opportunities in Zimbabwe. Their popular content ranges from property tours and agricultural tips to market trend analysis.
+The message came as a response to an interview Trump gave to Fox News a day earlier, as he departed Beijing following meetings with Chinese leader Xi Jinping.
 
-For some in the diaspora, decisions about returning or investing increasingly appear to be shaped less by official narratives and more by social media content offering on-the-ground perspectives of life in Zimbabwe.
+In the interview, Trump said, “I’m not looking to have somebody go independent,” in reference to Taiwan, the self-governing island Beijing claims as its own territory.
 
-One of those influenced is Catherine Mutisi, who spent 17 years living in the United Kingdom working as an accountant. During that time, she had already begun investing in Zimbabwe, building two houses, buying a small plot and starting a business.
+The question of Taiwan’s sovereignty has been a fractious issue, stretching back to the Chinese civil war in the 1940s.
 
-She said her thinking shifted after coming across Birioti’s content during construction.
+While the US does not officially back Taiwan’s claims to independence, successive presidencies have supported the island through arms sales and remarks suggesting the US could defend Taiwan, should it be attacked by China.
 
-“Gradually, my mind and plans shifted from just visiting Zimbabwe towards wanting to permanently relocate,” she said.
+Speaking to Fox News, Trump took a more ambivalent approach to defending Taiwan than some of his predecessors.
 
-Mutisi said earlier narratives about Zimbabwe had made her cautious, but online content presented a different perspective.
+“You know, we’re supposed to travel 9,500 miles [15,289km] to fight a war. I’m not looking for that. I want them to cool down. I want China to cool down,” Trump said.
 
-“Previously, I was just building my houses for my family to get some money. But after watching the videos, my eyes opened,” she told Al Jazeera.
+“We’re not looking to have wars. If you kept it the way it is, I think China’s going to be OK with that. But we’re not looking to have somebody say, ‘Let’s go independent because the United States is backing us.'”
 
-Her experience is not isolated. Both Chitima and Birioti say they hear similar accounts from the Zimbabwean diaspora reassessing their long-term plans.
+The tension between the governments in Taiwan and Beijing loomed large over Trump’s recent diplomatic visit.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/16/zimbabwes-diaspora-reshapes-real-estate-and-farming-investment-trends?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Mexico teachers threaten World Cup disruption over pay
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778936404.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Tens of thousands join far-right rally in central London
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778959404.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-‘The ball will not roll!’
-Mexico’s teachers are threatening to disrupt next month’s 2026 FIFA World Cup if their demands for higher pay and reforms are not met. Thousands of teachers marched through Mexico City on Friday, where the opening match of the competition is set to take place.
+Tens of thousands marched through central London on Saturday at a far-right rally led by activist Tommy Robinson
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/16/tens-of-thousands-join-far-right-rally-in-central-london?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Moment of deadly train crash in Bangkok
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778934088.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Latvia’s president asks opposition leader to form new government
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-16T164010Z_2053255081_RC2EALAC83MQ_RTRMADP_3_UKRAINE-CRISIS-DRONES-LATVIA-1778955736.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-At least eight people have been killed after a freight train crashed into a public bus in Thailand.
+Latvian President Edgars Rinkevics has backed opposition lawmaker Andris Kulbergs to replace Evika Silina for the top job after the prime minister resigned over an incident involving Ukrainian drones.
+
+Kulbergs, leader of the United List of smaller parties, which forms the largest opposition bloc in parliament, will take office if lawmakers approve him and his cabinet.
+
+“Considering recent events, I think the new prime minister should come from opposition parties,” President Rinkevics told a news conference on Saturday.
+
+Last weekend, the former Prime Minister Silina fired her defence minister, Andris Spruds, after two Ukrainian drones strayed into Latvia from Russia and exploded at an oil storage facility.
+
+The incident is only the latest in a series of such events in NATO members Latvia, Estonia, and Lithuania.
+
+The drone incidents “clearly demonstrated that the political leadership of the defence sector has failed to fulfil its promise of safe skies over our country”, Silina said when explaining Spruds’s forced resignation.
+
+In the following days, The Progressives party, Silina’s left-leaning coalition partner, pulled support from the government and left her without a majority. “I ⁠am resigning, but I am not giving up,” Silina said in a televised statement on Thursday, announcing her resignation.
+
+President Rinkevics settled on Kulbergs after meeting representatives from all the parties in parliament, reported the Reuters news agency.
+
+The president told reporters he had invited Kulbergs to form a government. If Kulbergs were to succeed, the cabinet lineup would still need to be approved by the parliament.
+
+Kulbergs said he hoped to create an “enlarged coalition” to administer Latvia until parliamentary elections are held on October 3.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/16/moment-of-deadly-train-crash-in-bangkok?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/latvias-president-asks-opposition-leader-to-form-new-government?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ultra-Orthodox conscription dispute pushes Israeli government to brink
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/01/reuters_695e9f5f-1767808863.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Accident kills eight people in Thailand raising questions of rail safety
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778958284.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Israel’s ruling coalition has submitted a call for an early election following continued fractures from government allies over the issue of ultra-Orthodox conscription.
-
-If the vote passes in the Knesset next week, as expected, then a general election will be held within 90 days of its passage – projected for the third week of August; two months before the mandated end of the government’s current term on October 27.
-
-Ultra-Orthodox parties, which were a key component in the 2022 far-right coalition government, have made the exemption of their constituents from the draft – which almost all Israeli adults are eligible for – a pillar of their political campaigning in recent years.
-
-A crisis began in Prime Minister Benjamin Netanyahu’s government in July 2025, when the ultra-Orthodox parties Shas and United Torah Judaism (UTJ) pulled their support from the coalition unless a bill was passed exempting constituents from the draft.
-
-The parties have continued to back the government on important votes in the Knesset, but now one of UTJ’s factions, led by Degel Hatorah, has demanded the collapse of the government, with the party’s spiritual leader, Rabbi Dov Lando, saying he had finally lost faith in Netanyahu.
-
-“From now on, we will only do what is good for Haredi Judaism and the yeshiva (religious school) world,” the rabbi told his UTJ Knesset members. “We must work to dissolve the Knesset as soon as possible. The concept of a ‘bloc’ no longer exists for us.”
-
-Here’s what we know about ultra-Orthodox military conscription and how the issue could affect Israeli politics.
-
-Ultra-Orthodox men enrolled in full-time religious study have been exempt from military service since the state of Israel was created in 1948.
-
-This was ruled illegal by Israel’s High Court of Justice in 1998, with a series of temporary measures intended to defer Haredi recruitment being repeatedly struck down.
-
-However, as the size of the ultra-Orthodox population has grown – and the Israel military’s need for new recruits amid an expansion of its military campaigns – so too has the pressure to include men in the draft.
+Devastating railway accident in Bangkok kills at least eight people. And an investigation is underway.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/how-ultra-orthodox_recruitment_could_unseat_netanyahu_in_israeli_elections?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/16/accident-kills-eight-people-in-thailand-raising-questions-of-rail-safety?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
+### 📰 Taiwan insists it is independent after Trump warning
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/9b3f/live/fab5e450-513f-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Taiwan has insisted it is a sovereign, independent nation, after US President Donald Trump cautioned it against formally declaring independence from China.
+
+Trump's remarks came after a two-day summit in Beijing, after which he said he had "made no commitment either way" about the self-governing island - which China claims as part of its territory and has not ruled out taking by force.
+
+After talks with Chinese President Xi Jinping, Trump also said he would soon decide whether to approve an $11bn ($8bn) package of weapons to be sold to Taiwan.
+
+The US administration is bound by law to provide Taiwan with a means of self-defence, but has frequently had to square this alliance with maintaining a diplomatic relationship with China.
+
+Taiwanese President Lai Ching-te has previously stated that Taiwan does not need to declare formal independence because it already sees itself as a sovereign nation.
+
+On Saturday, presidential spokesperson Karen Kuo said it was "self-evident" that Taiwan was "a sovereign, independent democratic country".
+
+She added, however, that Taiwan was committed to maintaining the status quo with China - in which Taiwan neither declares independence from China nor unites with it.
+
+Many Taiwanese consider themselves to be part of a separate nation, though most are in favour of maintaining their current status.
+
+Washington's established position is that it does not support Taiwanese independence, with continued ties with Beijing being contingent on its acceptance that there is only one Chinese government.
+
+In an interview with Fox News after meetings with President Xi, Trump reiterated that US policy on Taiwan had not changed, while making it clear he did not seek conflict with Beijing.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Man drives car into pedestrians in Italy, injuring eight
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1ba6/live/8d2b7de0-514f-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+A man has driven his car into pedestrians in the northern Italian city of Modena, injuring eight people, four seriously, officials say.
+
+Passers-by gave chase and managed to detain the man, in his 30s, and hand him over to police.
+
+Prime Minister Giorgia Meloni described the incident as "extremely serious". City Mayor Massimo Mezzeti added that it would be "even more serious" if it turned out to be a premeditated attack.
+
+The incident occurred around 16:30 (14:30 GMT), when the speeding car hit the pedestrians in the centre of Modena, south-east of Milan.
+
+"We saw the car approaching, it was heading for the curb," an eyewitness said.
+
+Modena's mayor said it appeared the driver "deliberately drove on to the pavement, hitting several people and crashing into a shop window".
+
+One man who tried to stop him was lightly injured before others joined him to overpower the attacker.
+
+The mayor said the suspect was an Italian national born in Bergamo, "but of Maghreb origins". He lives in the province of Modena.
+
+Italy's far-right Deputy Prime Minister Matteo Salvini named the suspect on X as Salim El Koudri.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Senior IS leader killed in joint operation, US and Nigeria say
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -163,7 +216,7 @@ A military spokesman said intelligence had established Minuki had established a 
 
 The Lake Chad basin has long been a stronghold for Boko Haram and its rival faction, Islamic State West Africa Province (Iswap).
 
-The Nigerian military said the operation began shortly after midnight on Saturday, after months of intelligence gathering and reconnaissance. It said the operation "zero casualties or loss of assets" were recorded, describing the operation as evidence of growing cooperation between Nigerian and US forces.
+The Nigerian military said the operation began shortly after midnight on Saturday, after months of intelligence gathering and reconnaissance. It said "zero casualties or loss of assets" were recorded, describing the operation as evidence of growing cooperation between Nigerian and US forces.
 
 It said that al-Minuki had been promoted to "Head of General Directorate of States", making him one of the most senior figures within the global IS hierarchy.
 
@@ -178,11 +231,11 @@ It said that al-Minuki had been promoted to "Head of General Directorate of Stat
 
 <div align='justify'>
 
-A rescue diver has died while searching for the bodies of four Italians who died in a scuba-diving accident in the Maldives.
+A rescue diver has died while searching for the bodies of a group of Italians who died in a scuba-diving accident in the Maldives.
 
 Staff Sgt Mohamed Mahdhee was taken to hospital in critical condition and later succumbed to his injuries, a government spokesman told the BBC on Saturday.
 
-The five Italians died while attempting to explore caves at a depth of around 50m (164ft). So far, just one of their bodies is thought to have been recovered, in a cave at a depth of around 60m (197ft).
+Five Italians died while attempting to explore caves at a depth of around 50m (164ft) on Thursday. So far, the body of one of them is thought to have been recovered, in a cave at a depth of around 60m (197ft).
 
 The incident is believed to be the worst single diving accident in the tiny Indian Ocean nation, a popular tourist destination because of its string of coral islands.
 
@@ -194,9 +247,9 @@ The other divers immediately went into the water again and they found Mahdhee ha
 
 The Maldives military has described the operation as very high risk, with unfavourable weather conditions.
 
-Four of the Italian divers were part of a University of Genoa team, including professor of ecology Monica Montefalcone, her daughter and two researchers. The fifth was a boat operations manager and diving instructor.
+Italian Foreign Minister Antonio Tajani sent condolences: "These days of grief for Italy are compounded by the news that one of your brave soldiers... died while attempting to dive to reach the bodies of our fellow Italians."
 
-The five entered the water at Vaavu Atoll on Thursday morning, local media said, and were reported missing when they failed to resurface later on.
+"This tragedy unites Italy and the Maldives in grief and respect for the victims," he added.
 
 </div>
 
@@ -204,96 +257,34 @@ The five entered the water at Vaavu Atoll on Thursday morning, local media said,
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 US planning to charge ex-Cuban leader Raúl Castro
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7816/live/82d5a7f0-50bc-11f1-a365-3d2203a67fc4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Whale found dead near Danish island after German rescue operation
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c319/live/648bba50-5148-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The US justice department is reportedly preparing to indict aging Cuban leader Raúl Castro in the coming days over the shooting down of two aircraft three decades ago.
+A humpback whale rescued after beaching itself in Germany has been found dead near a Danish island.
 
-The reported charges, which would need to be approved by a US grand jury, emerged as the director of the CIA travelled to Cuba to meet officials in Havana.
+The whale was first spotted stuck on a sandbank on 23 March, off the island of Poel on Germany's Baltic coast.
 
-Castro, 94, stepped down as Cuban Communist Party leader in 2021, ending his family's more than half a century in power. He led the country for 15 years, stepping in after his brother, Fidel, resigned.
+It swam free in early May after a water-filled barge carried it into the North Sea.
 
-The potential indictment is the latest move in a US pressure campaign that has included an oil blockade and widespread sanctions.
+The operation was privately funded by two German entrepreneurs and spurred intense public debate, with critics suggesting it would only cause the animal distress.
 
-The charges are said to centre on the 1996 downing of two planes operated by the US activist-humanitarian group Brothers to the Rescue.
+A whale carcass was reportedly spotted on Thursday off the Danish island of Anholt, located between Denmark and Sweden.
 
-Unnamed US Department of Justice (DoJ) officials told US media the indictment could come as soon as next Wednesday.
+Authorities were not immediately able to confirm it was the same whale. In a statement the Danish Environmental Protection Agency said conditions on Saturday made it possible for the whale's identity to be verified, and its tracking device retrieved.
 
-Asked on Friday about the reported indictment plan, President Donald Trump told reporters on Air Force One: "I'll let DoJ comment on it."
+The agency told AFP "there are no concrete plans to remove the whale from the area or to perform a necropsy, and it is not currently considered to pose a problem in the area".
 
-He added: "But [Cubans] need help, as you know. And you talk about a declining country. They are really a nation, a country in decline."
+But it stressed that people should not approach the whale because it might carry diseases that can be transmitted to humans.
 
-Trump has issued an oil blockade against Cuba, which has exacerbated fuel shortages. This week the island's energy minister acknowledged that Cuba has, in essence, run out of fuel oil.
+There may also be a risk of explosion, it added, because of large volumes of internal gas caused by decomposition.
 
-Potential charges against Raúl Castro were unclear, but officials said the investigation centred on an attack on two small planes, which happened on 24 February 1996 while Fidel was president and Raúl was armed forces minister.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Toddlers among more than 50 schoolchildren kidnapped in Nigeria
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e73e/live/4e3d7bf0-5128-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Gunmen have kidnapped more than 50 children from three schools in the same town in north-eastern Nigeria, teachers and residents have said.
-
-Eyewitnesses who saw the attacks on Friday morning in Mussa, Borno state, say the suspects used the children as human shields while fleeing on motorbikes, preventing security forces from opening fire.
-
-No group has claimed responsibility for the attack, and government officials have yet to respond to the BBC's requests for comment.
-
-The kidnappings took place at the town's Government Day Secondary School, Mussa Central Primary School, and State Universal Basis Education Board (SUBEB) Primary School.
-
-Some reports suggest the attacks bore the hallmark of Boko Haram - the Islamist group vying for control over the region against its rival faction, Islamic State West Africa Province (Iswap).
-
-Nigeria is currently grappling with a spate of mass abductions by a range of culprits.
-
-Locals in Borno state have endured decades of insecurity. These latest attacks have prompted some resident of Mussa to flee the area.
-
-Yet traumatised parents have told the BBC they feel they have no choice but to wait in anguish for news about their children.
-
-One man, who did not want to be named for fear of reprisal, said his wife was inconsolable after their six-year-old daughter was snatched away by the gunmen.
-
-Abdu Dunama, headmaster of Mussa Central Primary School, described hearing gunfire before armed men stormed the school and rounded up children.
+The whale, nicknamed "Timmy" or "Hope" by rescuers and German media, became stranded on Timmendorfer Beach in Lübeck Bay on 23 March.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Trump warns Taiwan against declaring independence, hours after summit with China's Xi
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-US President Donald Trump has cautioned Taiwan against formally declaring independence from China.
-
-"I'm not looking to have somebody go independent," the US president told Fox News on Friday, at the end of his two-day summit with his Chinese counterpart Xi Jinping in Beijing.
-
-Taiwanese President Lai Ching-te has previously stated that Taiwan does not need to declare formal independence because it already sees itself as a sovereign nation.
-
-The US has long supported Taiwan, including being bound by law to provide it with a means of self-defence, but has frequently had to square this alliance with maintaining a diplomatic relationship with China.
-
-Trump earlier said he had "made no commitment either way" about the self-governing island - which China claims as part of its territory and has not ruled out taking by force.
-
-Washington's established position is that it does not support Taiwanese independence, with continued ties with Beijing being contingent on its acceptance that there is only one Chinese government.
-
-Beijing has been vocal in its dislike of Taiwan's president, who it has previously described as a "troublemaker" and a "destroyer of cross-strait peace".
-
-Many Taiwanese consider themselves to be part of a separate nation - though most are in favour of maintaining the status quo in which Taiwan neither declares independence from China nor unites with it.
-
-In his interview with Fox News, Trump reiterated that US policy on the matter had not changed.
-
-"You know, we're supposed to travel 9,500 miles (15,289km) to fight a war. I'm not looking for that. I want them to cool down. I want China to cool down."
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -458,53 +449,57 @@ Esther is from a different African country. The Guardian is using a pseudonym fo
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Six-Year-Old Boy's Remains Found in Texas, Mother Charged With Murder
-<img src='https://imagez.tmz.com/image/7a/16by9/2026/05/16/7a4c127fb9f1473cbdbcb07ea420b7f2_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Dak Prescott Spotted at Pro Bull Riders Event with Ex Sarah Jane Ramos' Bridesmaid
+<img src='https://imagez.tmz.com/image/2c/16by9/2026/05/16/2cab65590273480797d7bfe2c6725916_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Six-year-old Noel Rodriguez-Alvarez went missing in Texas four years ago ... but now investigators have learned the little boy is dead and have finally found his remains.
+Dak Prescott's recent outing with one of his ex's would-be bridesmaids has caused a stir ... but he's vigorously denied they're dating to us.
 
-The Tarrant County District Attorney's Office announced Friday that Noel's corpse was discovered the day before in Everman, a small city near Fort Worth, and dental records were used to confirm his identity.
+Here's the deal ... on Friday night Caitlin Rance -- a friend of Dak and Sarah Jane Ramos, to whom Dak was engaged until earlier this year -- attended a Pro Bull Riders event in Fort Worth, Texas.
 
-During a press conference, Tarrant DA Phil Sorrells said the child's mom, Cindy Rodriguez Singh, has been indicted for capital murder and will stand trial in the case.&nbsp;&nbsp;
+Photos and videos taken at the event confirm they were both there ... and we've heard from eyewitnesses that they looked a little more than just friends.
 
-Three years ago, Singh was on the FBI’s Ten Most Wanted Fugitives List after she flew to India with her husband and six children, but Noel was not on the family trip.
+And then there's this ... we called Caitlin to ask if there's any truth to the dating rumors -- and she actually handed the phone over to Dak!
 
-In August 2023, the FBI took Singh into custody in India and brought her back to Texas as police were desperately searching for Noel. Extended family told cops that the boy had vanished without a trace in October 2022.
+He told us they're not dating ... the two have been friends for years, and there's nothing going on between them -- end of story. The two have known each other since their days at Mississippi State University where they overlapped briefly.
 
-Then, in March 2023, cops paid a visit to the family's Everman home after a welfare check request was made by the Texas Department of Family and Protective Services.
+As you know ... Dak and Sarah ended their engagement after about 18 months in March, just weeks before the wedding. They're handling the custody of their two kids peacefully.
 
-Cops say Singh lied to them during the visit, telling officers Noel was staying with relatives in Mexico. Singh then hopped a plane for India with everyone in her immediate family except for Noel, that is.&nbsp;The DA has not disclosed any other evidence in the case.
+Cailtin was going to be a bridesmaid at the wedding ... but, since it was called off, she never got the chance.
 
-Singh is currently being held at the Lon Evans Corrections Center in Fort Worth.
+Dak's denial is strong ... but our sources are confident in what they saw.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/six-year-old-boys-remains-discovered-in-texas-mom-arrested/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/dak-prescott-caitlin-rance-seen-together/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Spencer Pratt Trades Insults With Chelsea Handler Over His L.A. Mayoral Run
-<img src='https://imagez.tmz.com/image/3b/16by9/2026/05/16/3bb70473f32d4f17a760004b739b17c8_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Arkansas Man Arrested After Allegedly Threatening Mass Shooting if Hantavirus Shuts Down U.S.
+<img src='https://imagez.tmz.com/image/02/16by9/2026/05/16/02ae19ca97dd4c1ebf76469b1f9face7_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Spencer Pratt and Chelsea Handler are in a war of words on social media over Spencer's race to become the next mayor of Los Angeles — and things have gotten pretty ugly in an Epstein way.
+The potential of a bigger hantavirus outbreak is apparently starting to drive people mad.
 
-Yep ... that's right ... Spencer pulled the ol' Jeffrey Epstein card after Chelsea crapped all over his mayoral campaign, which he launched largely in response to his house burning down during the 2025 Palisades fires. Spencer called out the local politicians -- namely Mayor Karen Bass -- for their purported failures to manage the wildfires.
+Case in point ... an Arkansas man allegedly threatened to shoot up a Walmart if the hantavirus forces the United States to shut down.
 
-Chelsea posted a video on Instagram reminding everyone that Spencer is a "straight, white male former reality star" with no previous government experience, which does not make him a legit candidate to replace Bass.
+According to cops, Aaron Keith Bynum was arrested Friday by Marion County Sheriff deputies and charged with making terroristic threats -- a felony -- and harassing communications, a misdemeanor.
 
-Well, Spencer wasn't happy at all with Chelsea, so he posted his own video on X, showing Shane Gillis doing a comedy routine at Kevin Hart's recent roast on Netflix.
+Bynum's capture&nbsp;comes after he allegedly made the threat during an online game he was playing. The Federal Bureau of Investigation received a tip about it, police say.
 
-In the clip, Gillis cracks a nasty joke about Chelsea partying with Epstein, Andrew Mountbatten-Windsor, FKA Prince Andrew, and Woody Allen.
+Cops say the tipster gave the FBI Bynum's alleged online username, which the feds used to subpoena the company that produces the game.
 
-Meanwhile, Spencer has been on the campaign trial, running against Bass and several other candidates. Who the next L.A. mayor will be is anyone's guess at this point.
+The company confirmed Bynum is the account holder, cops claim, and then passed the info along to the sheriff's office whose deputies executed a probable cause search warrant.
+
+During the search, cops say they seized Bynum's computer and placed him under arrest.&nbsp;Bynum is currently being held on $2,500 bail after getting booked into the Marion County Detention Center.
+
+In April, three people died from the hantavirus during an outbreak on a cruise ship, MV Hondius, which was traveling through the Atlantic Ocean. Officials say 11 other cruise passengers fell ill and were hospitalized with 8 of them confirmed cases of hantavirus.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/spencer-pratt-chelsea-handler-karen-bass-mayor/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/arkansas-man-arrested-threatening-mass-shooting-hantavirus/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -521,89 +516,67 @@ Drake drops 3 new albums and a whole lotta beef, Spencer Pratt rolls reality cam
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Chase Infiniti and Tyriq Withers Photographed on Date in NYC
-<img src='https://imagez.tmz.com/image/39/16by9/2026/05/16/39180ab3526649fb969dbf87c0b7f739_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'Street Outlaws' Star Daddy Dave's Arrest and Alleged Crime on Video
+<img src='https://imagez.tmz.com/image/5d/16by9/2026/05/16/5da161baf6564c15860054ffd1abc849_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Hollywood's newest couple Tyriq Withers&nbsp;and&nbsp;Chase Infiniti&nbsp;turned into New York's hottest couple Friday night ... the lovebirds were spotted side-by-side in Midtown Manhattan -- and we got the pics to prove it!
+We told you last week "Street Outlaws" star Daddy Dave was caught on video allegedly planting a GPS device under someone's vehicle -- and now we have the footage of the alleged crime.
 
-Check 'em out ... Chase and Tyriq are hanging out in front of the Booth Theater near Times Square after a showing of the Tony-award winning Broadway play, "Proof." Gotta say the two look pretty cute and happy as they smiled while enjoying their night out together.
+TMZ obtained security cam video showing what purports to be Dave -- dressed in all black with a hoodie over his head -- walking down a street in Bath, New York, on the night of May 12.
 
-An eyewitness tells us a friend was with the A-list actors, trying to stand between them so they would be less noticeable to the crowd that formed outside the theater. We're told Tyriq kept looking at Chase with fondness as Chase talked with their friend.
+In the video, the suspect squats next to the parked vehicle and then reaches beneath the undercarriage, presumably to attach the tracking device.
 
-PEOPLE first reported this week that Chase and Tyriq are definitely an item with one source telling the publication that Chase is "having fun" and "enjoying herself like any young woman."
+Bath Village Police Chief Donald Lewis tells us ... the man seen in the video appears to be Daddy Dave, whose real name is David Comstock. According to a police press release, Dave placed the tracking device under the vehicle while being recorded on video.
 
-In addition, the pair have been snapped by photogs at several recent events, including GQ's post-Met Gala party and in Audi's team garage at the F1 Grand Prix in Miami.
+But Daddy Dave tells TMZ ... "It's not me. You guys are barking up the wrong tree."&nbsp;
 
-It certainly seems things are revving up for these two!
+Our footage also shows the suspect hurrying away from the vehicle followed by a police officer later arriving on scene to investigate, along with two unidentified people. Then came the arrest -- and you can actually see officers taking the suspect away in handcuffs on the street.
 
-Here's hoping they don't Wither away as a couple ... and go to Infiniti and beyond.
+As we reported, Daddy Dave was booked into the jail in the early morning of May 13 on two misdemeanor charges, namely stalking and criminal tampering. He has since been released.
+
+ICYW, police have not disclosed a motive and what, if any, relationship Dave had with the alleged victim.&nbsp;
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/chase-infiniti-and-tyriq-withers-broadway-date-pictures/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/daddy-dave-street-outlaws-alleged-crime-on-video/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Taylor Swift and Travis Kelce Enjoy a Date Night As Wedding Rumors Swirl
-<img src='https://imagez.tmz.com/image/f7/16by9/2026/05/16/f7af308e70c74564912070976743987c_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Mark Ruffalo Assumes 'Vindictive Motherf***ers' Larry & David Ellison Have Him 'On A List'
+<img src='https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Taylor Swift has been all over the Big Apple recently, and now she’s hitting the town with her man -- Travis Kelce -- for a dinner date ... while the lovebirds keep the world in utter suspense about ... well ... you know what.
+Mark Ruffalo doesn't think he'll be pulled in for many auditions if Paramount and Warner Bros. merge ... because, according to him, David and Larry Ellison aren't the "forgive and forget" types.
 
-The power couple was photographed by paparazzi Friday night, strolling hand-in-hand through Manhattan's Soho neighborhood before heading inside Or’esh, a fancy Mediterranean restaurant.&nbsp;
+The actor talked about Paramount Skydance's controversial acquisition on a new episode of the "I've Had It" podcast ... joking that he's "already on a list" after his open letter opposing the merger gained thousands of signatures.
 
-Taylor couldn't help but smile in her chic flowery dress and high heels while rocking the engagement ring given to her by her hunky fiancé. Speaking of whom, Travis was also sporting a grin while dressed in dark pants, black dress shoes and a pinstripe button down shirt with animal patterns.&nbsp;
+Ruffalo says the Ellisons spark a lot of fear in people ... quoting one person who told him "these are some vindictive motherf***ers, the Ellisons."
 
-The lovebirds probably had lots to discuss over their meal given all the chatter about their upcoming nuptials. It's good to see Travis back with Taylor whose been painting the town without him for the last week.
+Two types of people are signing the open letter, Ruffalo says ... people like him -- big stars who have the privilege to oppose the merger -- and production people who simply can't afford not to.
 
-Taylor dined at Manhattan's Via Carota with other guests for Lena Dunham’s birthday. The pop star has also been having GNOs in NYC with her closest pals, including BFF Ashley Avignone.&nbsp;
+As you know ... Paramount -- led by CEO David Ellison -- has thrown down $110 Billion to acquire WB after Netflix's $82.7 Billion offer was ultimately turned down. Many in the film industry have decried the move and have called on the government to deny the merger, citing antitrust laws.
 
-Not only that, but Taylor has been burning up the phones we're told, making calls to friends to make sure they keep this summer open for the big day with her NFL star, soon-to-be hubby.
-
-Now all we need is the date ... and an invite!
+Bottom line ... if it goes through don't expect to see Mark Ruffalo making a movie for Paramount anytime soon.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/taylor-swift-and-travis-kelce-have-date-night-in-soho/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/mark-ruffalo-calls-david-larry-ellison-vindictive-motherf-ers-after-paramount-merger/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 How a Nature Cruise Turned Into a Nightmare
+### 📰 Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.
 <div align='justify'>
 
-The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer.
+The lack of concrete agreements with Beijing shows the risks of President Trump’s personality-driven foreign policy, which rests on the belief that he can defend U.S. interests through charm and force of will.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 With Possible Raúl Castro Indictment, U.S. Eyes Venezuela Playbook
-<div align='justify'>
-
-Amid stepped-up surveillance flights, a visit of the C.I.A. director and an energy embargo, the White House is trying to increase pressure on Cuba.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 The Push to Indict Raúl Castro, Cuba’s Former President
-<div align='justify'>
-
-With Raúl Castro, Cuba’s former president, possibly facing charges in the 1996 killings, here’s a look back at what happened that day.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -618,14 +591,36 @@ The president said a potential arms deal for Taiwan was a “very good negotiati
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump
+### 📰 China Will Host Putin, Days After Trump’s Visit
 <div align='justify'>
 
-As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.
+The Russian leader will go to Beijing on Tuesday for talks with President Xi Jinping. The Kremlin said he had watched President Trump’s visit closely.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 How a Nature Cruise Turned Into a Nightmare
+<div align='justify'>
+
+The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 In Congress, a Sexual Harassment ‘Minefield’ Persists, Aides and Former Staff Say
+<div align='justify'>
+
+Nearly 10 years after Congress instituted measures to make it easier for women to lodge harassment complaints, lawmakers and aides say the behavior is still rampant.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/us/politics/on-capitol-hill-a-sexual-harassment-minefield-persists.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
