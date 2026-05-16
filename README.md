@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/15 - 23:35`
+**📅 Update (Tehran Time):** `2026/05/16 - 13:31`
 
 ---
 
@@ -19,172 +19,201 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Is the US dialling down its support for Taiwan?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778868919.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Britain is losing the ability to tell anti-Semitism from dissent
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/02/getty_699171d84a-1771139544.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A year ago, United States-China relations reached one of their lowest points when Donald Trump announced his “Liberation Day” tariffs.
+Sir Mark Rowley’s recent comments that some pro-Palestinian demonstrations in London send a message “that feels like anti-Semitism” are the latest sign of a dangerous trend in British public life: the conflation of anti-Semitism with criticism of the Israeli state.
 
-The US president made some concessions when he met his Chinese counterpart, Xi Jinping, a few months later.
+The Metropolitan Police commissioner suggested that some protest organisers deliberately route marches near synagogues in ways that intimidate British Jews. Any genuine intimidation of Jewish communities should, of course, be treated seriously. Anti-Semitism is real, dangerous and rising in Britain and across parts of Europe. It must be confronted clearly wherever it appears.
 
-And the White House yielded more ground in the run-up to Trump’s visit to Beijing this week.
+But Britain is entering troubling territory when protests against the destruction of Gaza, opposition to Israeli state violence, or expressions of Palestinian grief are treated as inherently suspicious, even anti-Jewish, political acts.
 
-It suspended a $14bn arms sale to Taiwan, which China claims as its sovereign territory.
+The issue is no longer only how Britain combats anti-Semitism. It is whether the country can still distinguish between hatred of Jews and opposition to the policies of the Israeli government.
 
-But that did not stop Xi from calling Taiwan “the single most important issue” in relations with the US.
+That distinction matters enormously, not only for Palestinians but for Jewish communities, too.
 
-Could a dispute over the territory lead to conflict between Beijing and Washington?
+For Palestinians, there is something painfully familiar about this moment. Many grew up being told that their dispossession was tragic but necessary; that the destruction of their villages, the loss of their homes and their transformation into refugees were justified by somebody else’s need for safety and statehood.
 
-Ali Wyne – Senior research and advocacy adviser for US-China relations, The International Crisis Group
+Entire generations of Palestinians were raised inside this logic. Their catastrophe was acknowledged only insofar as it remained secondary to another historical trauma. In much of the Western imagination, Palestinian suffering occupied a different moral category: visible enough to be discussed, but rarely enough to disturb political comfort.
+
+Now, as Gaza continues to be devastated before the eyes of the world, Palestinians in Britain and across the West are finding that even speaking about their grief, anger and loss is increasingly treated as a source of discomfort requiring management.
+
+For more than two and a half years, the world has witnessed scenes from Gaza that many legal experts, human rights organisations and genocide scholars have described using words once reserved for history books: ethnic cleansing, collective punishment, extermination and genocide.
+
+Entire neighbourhoods have been erased. Families wiped out. Hospitals bombed. Journalists killed. Civilians starved under siege. Children pulled lifeless from rubble in numbers so vast that the scale of the catastrophe defies comprehension.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/15/is-the-us-dialling-down-its-support-for-taiwan?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/16/britain-is-losing-the-ability-to-tell-anti-semitism-from-dissent?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 WHO confirms 10 global hantavirus cases, Hondius crew remain symptom-free
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260510__B2DN2ZL__v2__HighRes__TopshotSpainHealthHantavirusIllnessTourism-1778397136.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 From the Nakba to Gaza’s ruins: One man’s lifetime of displacement
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/873A2314-1778905949.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-There are currently 10 global cases of hantavirus, the World Health Organization (WHO) has said, lowering its earlier figure of 11 after a person who was thought to have contracted hantavirus was confirmed to be negative.
+Jabalia, Gaza – Inside his partially destroyed home in the Jabalia refugee camp in northern Gaza, 85-year-old Abdel Mahdi al-Wuheidi sits beside a small fire brewing coffee, staring at what remains of a life, now surrounded by rubble.
 
-Maria Van Kerkhove, the director of the WHO’s department for epidemic and pandemic preparedness and prevention, said on Friday that the earlier count “included one individual who had an inconclusive test … We’ve had further confirmation from the United States that person was negative.”
+Next to him sits his wife, Aziza, also in her 80s, whom he married six decades ago. Despite years of trying, the couple was never able to have children.
 
-Eight cases were laboratory-confirmed, while two were classified as probable, according to the WHO.
+Today, they live together with the five sons of Abdel Mahdi’s late brother. They were children when their father died, and Abdel Mahdi raised them and helped them to marry and start families of their own.
 
-Three people have died since the outbreak began on the MV Hondius, a Dutch luxury cruise ship that departed Argentina on a polar expedition.
+Born in 1940, Abdel Mahdi was only a child when the 1948 Nakba – the mass expulsion of 750,000 Palestinians from their home at the founding of the state of Israel – unfolded. And yet, despite living through that pain and trauma, he says that what Palestinians are enduring today, brought on by Israel’s genocidal war on Gaza, surpasses anything he has ever witnessed.
 
-WHO Director-General Tedros Adhanom Ghebreyesus reiterated that the “risk” to the global population is “low”.
+“We are from Bir al-Saba [Beersheba] … that was our homeland,” he says in a tired voice. Bir al-Saba is the largest city in the Naqab Desert. It was captured by Israeli forces in 1948, forcing much of its Palestinian population out.
 
-The captain and the ship’s 26-member crew remain on board and continue to be monitored, with Tedros confirming that there are currently no symptomatic individuals on board.
+Abdel Mahdi’s sharp memory carries him back to his childhood, living with his parents on their land, among their livestock and property – a normal life, before everything changed.
 
-However, due to the long incubation time – which is six weeks – Tedros warned that “more cases may be reported in coming days as passengers return to their countries.”
+Abdel Mahdi says he still remembers the heated discussions among families in Bir al-Saba when news first spread that Zionist Haganah militias were approaching, with some wanting to flee, and others insisting on staying.
 
-The passengers will be quarantined and tested in specialised facilities or at home, he added
+The decision was eventually made to leave for Gaza, to the west, with the hope of returning in a few weeks.
 
-“This does not mean the outbreak is expanding; it shows that the control measures are working, that laboratory testing is ongoing, and that people are being cared for with support from their governments,” the WHO chief said.
+And so Abdel Mahdi, along with his parents, three siblings, and the rest of his extended family, left, carrying whatever livestock, money and supplies they could manage.
 
-Kerkhove said the remains of a passenger who died remain on board, and that WHO is working with the ship to ensure the proper handling of her body.
+“We all left … We walked for days. We would rest, then continue walking,” he says. “We carried some of our belongings with us. We never imagined it would become a permanent exile.”
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/15/who-confirms-10-global-hantavirus-cases-hondius-crew-remain-symptom-free?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Canada’s Carney travels to Alberta as separatists face legal setback
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a075fa9-1778868137.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Russia’s Putin to visit China following Trump’s trip
+<img src='https://www.aljazeera.com/wp-content/uploads/2025/09/AP25245170505338-1756795816.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Canada’s Prime Minister Mark Carney is visiting Alberta, days after a separatist movement in the western province faced a major legal setback in its push for a referendum on the issue.
+Russia’s President Vladimir Putin will pay an official visit to China from May 19 to 20, the Kremlin has announced.
 
-Carney’s visit on Friday was officially to unveil a new agreement laying the groundwork for a crude oil pipeline alongside the province’s premier, Danielle Smith.
+Putin and his Chinese counterpart, President Xi Jinping, plan to “further strengthen the comprehensive partnership and strategic cooperation” between Moscow and Beijing, the Kremlin said in a statement.
 
-However, the simmering secessionist movement was set to loom large over the trip.
+Putin is also scheduled to discuss economic and trade cooperation with Chinese Premier Li Qiang.
 
-Carney and his Liberal party have pushed for a united Canadian front as he grapples with US tariffs and tensions with US President Donald Trump.
+Russia’s TASS news agency reported that the visit is timed to commemorate the 25th anniversary of the signing of the Treaty of Good-Neighborliness and Friendly Cooperation, a key Moscow-Beijing agreement signed in 2001.
 
-Leaders of the Alberta Prosperity Project, one of the groups spearheading the separatist movement, have sought to capitalise on regional discontent with consecutive Liberal party leadership, arguing that Ottawa has over-regulated the province’s lucrative oil and gas industry.
+News of Putin’s forthcoming trip arrives one day after United States President Donald Trump departed China following the first presidential visit to Beijing in almost a decade.
 
-Earlier this year, members of the group met with members of the US Department of State. After which, they held positive meetings during which they discussed the logistics of a possible secession.
+Although Trump and Xi touted several broad trade deals, they appeared to make little public progress on key sticking points related to Taiwan or the US-Israel war on Iran.
 
-On Wednesday, supporters faced a major setback, with a provincial court ruling in favour of a First Nations bid to halt a referendum on secession.
+They also touched on the Russia-Ukraine war, in which China is officially neutral and Xi has presented himself as a mediator.
 
-Justice Shaina Leonard ruled ‌that the province’s chief electoral officer was wrong to allow separatists to collect signatures requesting a referendum. Leonard maintained that the process should have triggered a consultation with Indigenous peoples whose rights might be violated by Alberta’s secession from Canada.
+Still, Xi’s “no limits” alliance with Putin – announced just before the full-scale Russian invasion of Ukraine in 2022 – has undercut that stance.
 
-That came after another separatist group, Stay Free Alberta, said it delivered a petition to Elections Alberta with more than 300,000 signatures. If approved, the signatures would be enough to trigger a referendum.
+China has also denied reports from Reuters and other news agencies showing that Chinese firms have single-handedly sustained Russian drone production, in part by shipping engines mislabelled as “industrial refrigeration units” to drone assembly plants.
 
-“Alberta independence would fundamentally contravene” the land treaties Indigenous peoples signed with Canada, Leonard said.
+“We discussed – well, it’s one that we’d like to see settled,” Trump said in remarks reported by the Kyiv Post.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/15/canadas-carney-travels-to-alberta-as-separatists-face-legal-setback?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump says China to buy 200 Boeing planes, much lower than expected
-<img src='https://www.aljazeera.com/wp-content/uploads/2025/11/2025-06-20T150939Z_868496399_RC2E6FACO9GB_RTRMADP_3_FRANCE-AIRSHOW-MACRON-1762444813.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-15T165609Z_764780773_RC2N9LAPUTJ1_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1778914537.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-China has agreed to buy 200 Boeing jets, with a potential for the order to rise to as many as 750 planes, United States President Donald Trump has said, adding that the planes would have GE Aerospace engines.
+Lebanon has welcomed an agreement with Israel to extend a fragile ceasefire by 45 days beyond Sunday’s deadline following talks in the United States, even as Israeli forces continued attacks on towns and villages in southern Lebanon.
 
-The deal “includes approximately 200 planes and a promise of up to 750 if they do a good job”, Trump told reporters on Air Force One on Friday. More details about the deal, such as which type of jets and when the order would be delivered, were not immediately available.
+At least 12 people were killed on Friday, including three paramedics, according to Lebanese authorities.
 
-Neither the Chinese government nor Boeing issued statements confirming the purchase agreement, which would mark a significant breakthrough in a market that was once central to the US aerospace company’s long-term growth and from which the US planemaker was largely shut out, amid trade tensions between Beijing and Washington. Planemakers usually disclose large deals once they are formalised.
+Meanwhile, Iran’s Foreign Minister Abbas Araghchi said during a BRICS meeting that Tehran had received communication from the administration of US President Donald Trump indicating openness to new negotiations aimed at ending the war. However, Araghchi said a “deadlock” remained over the issue of Iran’s enriched nuclear material.
 
-Boeing CEO Kelly Ortberg was among a large group of US CEOs who joined Trump during the president’s trip to Beijing, seeking to sell products and services to China.
-
-It was not immediately clear how many of the 200 planes announced by Trump represented new business for Boeing versus aircraft already in its order backlog.
-
-People familiar with China’s purchasing patterns said Beijing has previously bundled new orders with repeat announcements when unveiling trade packages tied to diplomatic visits by US and European leaders.
-
-For China, such a big order would secure capacity to keep growing its aviation market, even as production of its home-grown COMAC C919 narrow-body falls short of ambitious targets.
-
-It would also help Boeing narrow the gap with rival Airbus, which has pulled far ahead in China in recent years.
-
-An estimate from aviation intelligence and advisory firm IBA put the value of the 200-aircraft order at roughly $17bn to $19bn, assuming 80 percent of the mix is made up of MAX jets.
-
-“This number, however, could increase to $25bn if a larger proportion [about 40 percent] of the total order is announced for the widebody aircraft,” IBA’s Samuel Kenekueyero said.
+Trump also suggested he could be open to Iran placing its civilian nuclear programme on hold for two decades, provided Tehran demonstrates what he described as a genuine commitment to a broader agreement.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/15/trump-says-china-to-buy-200-boeing-planes-much-lower-than-expected?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Zelenskyy vows response after Russian strike kills 24 in Kyiv
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a07596c2a-1778866540.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Gunmen kidnap dozens of students in Nigeria’s Borno State
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/2026-03-17T083046Z_195947351_RC266KA62YZJ_RTRMADP_3_NIGERIA-SECURITY-1776614570.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Ukrainian President Volodymyr Zelenskyy says strikes targeting Russia’s oil industry and military production facilities are “entirely justified” after Moscow flattened an apartment block in Kyiv, killing at least 24 people.
+Gunmen have ⁠kidnapped dozens of school pupils in Nigeria’s rebellion-ravaged northeastern state of Borno, residents ⁠told the Reuters and AFP news agencies.
 
-On Friday, Zelenskyy warned that Russia’s attacks would not go unpunished, saying he had discussed long-range strikes with senior military, security and intelligence officials, as a day of mourning was observed in Kyiv following Thursday’s attack on a nine-storey apartment block in the capital’s Darnytskyi district.
+The suspected fighters stormed Mussa Primary and Junior Secondary School in Askira-Uba Local Government Area at about 9 am (08:00 GMT) on Friday while classes were in session and ⁠took several students with them, Ubaidallah Hasaan, who lives near the school, told Reuters.
 
-Ukraine’s air force said the strike, which also killed three children, was part of Russia’s largest aerial assault on the country since the war began more than four years ago.
+A teacher at the school told Reuters that armed attackers had arrived on motorcycles. “Despite some students escaping to the bushes, I can tell you many were taken away,” the teacher ‌said.
 
-Zelenskyy added that he had also discussed what he described as Moscow’s attempts “to draw Belarus deeper into the war” with senior officials, and alleged that Russia was preparing strikes against more than 20 decision-making centres across Ukraine. He said his office and state residence were among the targets, alongside government buildings and military command posts.
+No group claimed responsibility for the raid, which bore the hallmark of the Boko Haram group. Local lawmaker Midala Usman Balami called the attack “heartbreaking” and urged authorities to act swiftly.
 
-Ukraine began responding on Friday to Russian strikes, launching a large-scale long-range drone attack targeting energy and military infrastructure across several Russian regions. At least four people, including a child, were killed in a drone strike in the city of Ryazan, according to the regional governor. Ukrainian drones also struck the local oil refinery, one of the largest in the country.
+Africa’s most populous country is battling a 17-year armed rebellion from such groups, who have made abductions a key tactic – including the infamous 2014 kidnapping of hundreds of schoolgirls in Chibok.
 
-Footage of tearful Ukrainian soldiers and jubilant Russian troops emerged on Friday after the two countries completed an exchange of 205 prisoners of war each.
+Mass kidnappings have become a common way for gangs and armed groups to make quick money in Africa’s most populous country, especially in rural areas with little government presence.
 
-The swap formed part of last week’s three-day ceasefire, brokered by United States President Donald Trump. Both sides are expected to exchange a total of 1,000 prisoners each.
+A few weeks ago, gunmen raided an orphanage and kidnapped at least 23 children from an “isolated area” in Nigeria’s Kogi State capital, Lokoja, Kogi Information Commissioner Kingsley Fanwo said in a statement.
 
-The remains of those killed in battle were also exchanged, with Russia handing over 526 bodies in return for the remains of 41 of its soldiers.
+Borno ⁠and neighbouring states have seen repeated attacks on schools and communities despite ongoing military operations, raising concerns about ⁠security gaps in rural areas.
 
-Last weekend, Russian President Vladimir Putin suggested the war was nearing its end. His comments were later echoed by Kremlin spokesperson Dmitry Peskov.
+The community of Mussa lies near ⁠the Sambisa Forest, a longstanding stronghold ⁠of rebel fighters who have waged a campaign of violence in northeast Nigeria for more than a decade.
 
-Zelenskyy, however, dismissed Putin’s remarks, saying Moscow had no intention of ending the conflict. Trump, who made ending the war a key pledge during his 2024 election campaign, later said Thursday’s strike on the Ukrainian apartment block could delay peace efforts.
+In a separate incident ‌on Friday, gunmen abducted students at Baptist Nursery and Primary School in the southwestern state of Oyo. The state has ordered school closures in the ‌area ‌while police launched a manhunt for the abductors.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
+### 📰 Senior IS leader killed by US and Nigerian forces
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Nigeria's President Bola Tinubu has confirmed the killing of a senior Islamic State (IS) leader in a joint-operation with the US.
+
+"Our determined Nigerian Armed Forces, working closely with the Armed Forces of the United States, conducted a daring joint operation that dealt a heavy blow to the ranks of the Islamic State," Tinubu said in a statement.
+
+The operation was first announced by US President Donald Trump, who described Abu-Bilal al-Minuki as the "second in command of ISIS globally" and "the most active terrorist in the world".
+
+Al‑Minuki was declared a Specially Designated Global Terrorist by Washington in 2023.
+
+The killing marks another significant setback for Islamic State group (IS) following the killing of its leader Abu Bakr al‑Baghdadi in 2019.
+
+Tinubu said in a statement that al-Manuki was killed along with "several of his lieutenants" during a strike on his compound in the Lake Chad Basin.
+
+The basin is a huge region of waterways and swampland shared by Nigeria, Chad, Niger and Cameroon. It has long been a stronghold for Boko Haram and its rival faction, Islamic State West Africa Province (Iswap).
+
+Abu-Bilal al-Manuki is believed to have been from Borno State in north-eastern Nigeria. Analysts say his nickname likely came from Mainok, a town in the state, following a common regional tradition where people are identified by their hometowns or family names.
+
+The Nigerian Military said the "precision operation" was made possible through the "recently formed US-Nigeria partnership and intelligence sharing efforts."
+
+It said al-Minuki had been promoted to "Head of General Directorate of States", making him one of the most senior figures within the global IS hierarchy.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Trump warns Taiwan against declaring independence, hours after summit with China's Xi
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/fc97/live/44d90680-5077-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Donald Trump has cautioned Taiwan against formally declaring independence from China.
+US President Donald Trump has cautioned Taiwan against formally declaring independence from China.
 
 "I'm not looking to have somebody go independent," the US president told Fox News on Friday, at the end of his two-day summit with his Chinese counterpart Xi Jinping in Beijing.
 
-Trump earlier said he had "made no commitment either way" about the self-governing island - which China claims as part of its territory and has not ruled out taking by force.
+Taiwanese President Lai Ching-te has previously stated that Taiwan does not need to declare formal independence because it already sees itself as a sovereign nation.
 
 The US has long supported Taiwan, including being bound by law to provide it with a means of self-defence, but has frequently had to square this alliance with maintaining a diplomatic relationship with China.
 
+Trump earlier said he had "made no commitment either way" about the self-governing island - which China claims as part of its territory and has not ruled out taking by force.
+
 Washington's established position is that it does not support Taiwanese independence, with continued ties with Beijing being contingent on its acceptance that there is only one Chinese government.
+
+Beijing has been vocal in its dislike of Taiwan's president, who it has previously described as a "troublemaker" and a "destroyer of cross-strait peace".
 
 Many Taiwanese consider themselves to be part of a separate nation - though most are in favour of maintaining the status quo in which Taiwan neither declares independence from China nor unites with it.
 
@@ -192,17 +221,13 @@ In his interview with Fox News, Trump reiterated that US policy on the matter ha
 
 "You know, we're supposed to travel 9,500 miles (15,289km) to fight a war. I'm not looking for that. I want them to cool down. I want China to cool down."
 
-On the flight back to Washington, the US president had told reporters that he and Xi had spoken "a lot" about the island, but said he had declined to discuss whether the US would defend it.
-
-Xi "feels very strongly" about the island and "doesn't want to see a movement for independence", Trump said.
-
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump and Xi conclude 'very successful' talks but no deals confirmed
+### 📰 Trump and Xi conclude 'very successful' talks but few deals confirmed
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/f0ee/live/9a4e0250-5077-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
@@ -221,7 +246,7 @@ China's Foreign Minister Wang Yi confirmed on Friday that Xi would visit the Whi
 
 But neither side has announced trade breakthroughs or significant business deals.
 
-President Trump, however, spoke to reporters aboard Air Force One and said China has agreed to buy 200 Boeing jets, with a potential commitment to buy an additional 750 planes. The BBC has contacted Boeing for comment.
+President Trump, however, spoke to reporters aboard Air Force One and said China had agreed to buy 200 Boeing jets, with a potential commitment to buy an additional 750 planes. The aerospace giant confirmed the deal.
 
 Trump also said American farmers will be happy with his trade deals because China would be buying "billions of dollars" of soybeans.
 
@@ -233,102 +258,102 @@ There has been no confirmation of any deals or purchases from the Chinese.
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel and Lebanon agree to extend ceasefire, US state department says
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/cc2c/live/b1a99d90-508d-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6805/live/1e2b8d50-5081-11f1-b637-39d6d94b351f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Israel and Lebanon have agreed a 45-day extension to a shaky ceasefire, following two days of negotiations in Washington DC, the US state department said.
+The Swiss Federal Intelligence Service has said it will finally open long-sealed files on the notorious Nazi war criminal Josef Mengele, but without saying when.
 
-"We hope these discussions will advance lasting peace between the two countries, full recognition of each other's sovereignty and territorial integrity, and establishing genuine security along their shared border," said state department spokesman Tommy Pigott.
+Mengele fled Europe after World War Two, but for years there have been rumours  that he spent time in Switzerland, even though an international warrant was out for his arrest.
 
-US President Donald Trump announced the truce on 16 April, but Israel and Hezbollah have continued to exchange fire since then.
+Historians have repeatedly requested access to the files, but until now the Swiss authorities have refused.
 
-On Wednesday, Lebanon's health ministry said Israeli air strikes had killed 22 people, including eight children, across the south.
+Mengele was a doctor who served in Germany's Waffen SS. He was posted to the Auschwitz extermination camp in Nazi-occupied Poland, where he selected those to be sent to the gas chambers – an estimated 1.1 million people died, including about a million Jews.
 
-The state department said it would "reconvene the political track of negotiations" in June.
+Known as the Angel of Death, he also selected prisoners, primarily children and twins, for sadistic medical experiments, before sending them to their deaths as well.
 
-"In addition, a security track will be launched at the Pentagon on May 29 with military delegations from both countries," Pigott added.
+After the war Mengele, like many high-ranking Nazis, quickly changed both his uniform, and his name.
 
-Israel's Ambassador to the US, Yechiel Leiter, said the talks were "frank and constructive".
+With the help of his false identity, he was issued Red Cross travel documents at the Swiss consulate in Genoa in northern Italy, and used them to flee to South America.
 
-There have been almost daily reports of Hezbollah and Israel trading fire across the southern border of Lebanon since the ceasefire began.
+The Red Cross intended the documents for thousands of people across Europe who had been displaced or made stateless by the war, but Nazis seeking to escape prosecution also managed to acquire them, something for which the Red Cross has subsequently apologised.
 
-Israel has intensified its air and artillery strikes in recent days, particularly in southern Lebanon, saying it is targeting Hezbollah fighters and infrastructure.
+Although he fled Europe in 1949, Mengele had a skiing holiday in the Swiss Alps with his son Rolf in 1956. That information has been known since the 1980s.
 
-Lebanon's health ministry has accused Israel of targeting civilians and paramedics, which Israel denies.
+Officially, after that, he spent the rest of his life in South America.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7997/live/fb6da600-5057-11f1-82d0-dba52fc3f32a.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Man killed by 13ft great white shark in Western Australia
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/3951/live/8a118df0-50f2-11f1-93a7-b1fded84e358.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Russia and Ukraine exchanged 205 prisoners of war on Friday, hours after rescue workers ended their search of a destroyed block of flats in Kyiv in which 24 people were killed, including three girls.
+A 38-year-old man has been killed by a 13ft (4m) great white shark in Western Australia.
 
-Most of the Ukrainian prisoners had been held since 2022, said President Zelensky.
+On Saturday, the man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.
 
-The swap was part of a short-lived ceasefire ending this week with the launch of massive Russian strikes across Ukraine, including a missile attack that reduced 18 flats to rubble. Among the victims was 12-year-old Lyubava Yakovleva, whose father was killed during the war.
+Aerial footage showed the man being rushed to shore by boat where paramedics and police performed CPR at the Geordie Bay jetty, local media ABC reported.
 
-Meanwhile, Russian officials said four people, including a child, were killed when  Ukrainian drones hit the city of Ryazan, south-east of Moscow.
+The state's Department of Primary Industries and Regional Development told AFP news agency it received a report the man was bitten by the great white.
 
-Images on social media showed damage to two blocks of flats, which Ryazan Governor Pavel Malkov said had been damaged by debris.
+The department urged the public to take "additional caution" in waters around the area.
 
-Twenty-eight people were hurt in the attack. Ukrainian's drone commander said his forces had hit Ryazan's oil refinery - one of the biggest in Russia.
+The attack is the first fatal incident in Western Australia since March last year, when a surfer was mauled off a remote beach.
 
-Rescue services in the Darnytskyi district of south-east Kyiv completed their search of the rubble of a devastated nine-storey apartment block on Friday. Throughout the 28-hour operation residents and soldiers looked on, waiting for news of missing relatives.
+Since records began in 1791, there have been almost 1,300 recorded shark attacks in Australia, with more than 260 of them resulting in death.
 
-Kyiv was marking a day of mourning on Friday for the 24 victims of the strike.
+Earlier this year in January, four shark attacks were reported along the New South Wales coast over two days.
 
-The Nova Poshta postal service said two of its staff, both named Dmytro, had been killed in the attack, one of them alongside his wife. Former hockey player Yuriy Orlov and his 24-year-old girlfriend Maryna Homeniuk, an English teacher, were among the victims. A kindergarten teacher, Svitlana Moskalishyna, was also killed.
+One of the victims included 12-year-old Nico Antic who jumped from a rock into the Sydney Harbour and was attacked by a suspected bull shark.
 
-Lyubava Yakovleva's elder sister was initially declared missing in the rubble, and it was later reported that she too had been killed. The girls' school said on Facebook that the "scariest face of war is the children's lives it takes".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 AI vigilante trap snares alleged paedophile ex-teacher in France
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/764e/live/62f61850-505a-11f1-a466-d530a9b261a6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A retired French sports teacher is in custody after being caught making sexual propositions online to a 14 year-old girl.
-
-She was an AI-generated face and voice being operated by a popular, male influencer, who specialises in the entrapment of paedophiles.
-
-The 66-year-old ex-teacher – named as Dominique B – turned himself in to police in eastern France on Tuesday, a day after his conversation with the "girl" was broadcast on several platforms.
-
-In the video, Dominique B can be seen on one side of the screen, lounging in a chair.  On the other side is the influencer, known as FINNYZYY, with a girl's face and voice superimposed.
-
-The visual alteration was not brilliant – the influencer has to cover the bottom of his chin to hide his beard – but it was clearly enough to fool the retired teacher.
-
-In the 40 minute chat – seen live by more than 40,000 viewers and around a million times since – Dominique B suggests meeting the "girl" at the Parc des Princes football stadium in Paris.
-
-He asks if she would like to kiss him, if she has ever shared nude photos of herself with friends, and if she would like to see him naked.
-
-When he is reminded that "she" is only 14, he dismisses the objection on the grounds that many girls "younger than that have already made love".
-
-The man was recognised by some viewers who alerted Pharos, France's state-run platform for whistleblowers reporting content online.
-
-Before they could act,  Dominique B took himself to a local police station.
+He died a week later, with his parents saying in a joint statement they were "heartbroken".
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1m2xg7x0m3o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Trump says Islamic State ‘second in command’ killed by US and Nigerian forces
+<img src='https://i.guim.co.uk/img/media/3aa3dd424ebbe972ed5755fd40ab0a1ee9e65104/123_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5284bfcc16891c2b96c9b76f25058d26' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’
+
+Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic State.
+
+“Tonight, at my direction, brave American forces and the Armed Forces of Nigeria flawlessly executed a meticulously planned and very complex mission to eliminate the most active terrorist in the world from the battlefield,” the US president said on his Truth Social platform on Friday.
+
+“Abu-Bilal al-Minuki, second in command of ISIS globally, thought he could hide in Africa, but little did he know we had sources who kept us informed on what he was doing,” Trump added.
+
+Al-Minuki had been placed under US sanctions in 2023 for ties to the Islamic State group.
+
+“He will no longer terrorize the people of Africa, or help plan operations to target Americans,” Trump said. “With his removal, ISIS’s global operation is greatly diminished.”
+
+Trump thanked the government of Nigeria for its “partnership” on the operation, while not disclosing exactly where it took place or the form of attack involved.
+
+Al-Minuki, a Nigerian national, was designated as a “specially designated global terrorist” by the former Biden administration in 2023, according to the US federal register. At the time the state department called him a Sahel-based IS senior leader and part of its general directorate of provinces, the group’s administrative body that provides “operational guidance and funding around the world”.
+
+Trump has previously accused Nigeria of failing to protect Christians from Islamist militants in the north-west.
+
+Nigeria denies discriminating against any religion, saying its security forces target armed groups that attack both Christians and Muslims.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo
 <img src='https://i.guim.co.uk/img/media/5be3bfd3792b7a8d5df2ff062e1ced61a269a7a0/353_0_3678_2944/master/3678.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3a49d589f1ecc2db1a973e94cdb42165' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -453,133 +478,90 @@ Esther is from a different African country. The Guardian is using a pseudonym fo
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Remains of second US soldier who went missing in Morocco recovered
-<img src='https://i.guim.co.uk/img/media/9e61ea211a9ecfdd0c3725a363e61ad4714738db/372_0_3699_2961/master/3699.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b71c720de52bb9636262d47ed2aced5' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Mariyah Symone Collington and Kendrick Lamont Key Jr, who also died, had fallen off a cliff during an off-duty hike
-
-The remains of the second US army soldier who went missing during military exercises in Morocco have been recovered, the army said on Wednesday, ending a multinational search operation that deployed air, naval and artificial intelligence assets.
-
-The soldier was identified as Spc Mariyah Symone Collington of Taveres, Florida, the US Army Europe and Africa said in a statement. She was 19 years old.
-
-“Royal Moroccan Armed Forces transported the soldier’s remains by a Moroccan helicopter to the morgue of Moulay El Hassan military hospital in Guelmim, Morocco,” the statement said.
-
-Collington served as an air and missile defense crew member and was assigned to Charlie battery, fifth battalion, fourth air defense artillery regiment, 10th army air and missile defense command, US Army Europe and Africa said.
-
-Collington entered the Regular Army’s Delayed Entry Program in 2023 before beginning active-duty service in 2024. She completed basic combat training and advanced individual training at Fort Sill, Oklahoma, as a 14P air and missile defense crew member. She reported to Charlie battery, fifth battalion, fourth air defense artillery regiment, in Ansbach, Germany, in February 2025 and was promoted to specialist on 1 May 2026.
-
-The announcement came days after the military said the remains of another soldier, 1st Lt Kendrick Lamont Key Jr, a 14A air defense artillery officer, had been recovered. The two soldiers fell off a cliff during an off-duty recreational hike in Morocco. Their remains are en route to the United States.
-
-A spokesperson for the US Army Southern European Task Force, Africa (SETAF-AF) told the Associated Press that the circumstances surrounding the incident remain under investigation.
-
-The two soldiers were reported missing on 2 May after participating in African Lion, an annual multinational military exercise held in Morocco. Their disappearance triggered a search operation involving more than 1,000 US and Moroccan military and civilian personnel, the SETAF-AF spokesperson added.
-
-African Lion 26 is a US-led exercise launched in April across four countries – Morocco, Tunisia, Ghana and Senegal – with more than 7,000 personnel from more than 30 nations. Since 2004, it has been the largest US joint military exercise in Africa.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/13/second-us-soldier-recovered-remains-morocco)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Eric Stonestreet's Home Security Calls Cops on Alleged Trespasser, Ambulance Arrives
-<img src='https://imagez.tmz.com/image/ce/16by9/2026/05/15/ceac8d38454b46d9b8a0c87f8bde6d80_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Spencer Pratt Trades Insults With Chelsea Handler Over His L.A. Mayoral Run
+<img src='https://imagez.tmz.com/image/30/16by9/2026/05/12/3004875f0a024b688d70475e2d5e45a7_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Eric Stonestreet's Kansas City home was crawling with activity Friday ... someone got onto his property, and the cops were called ... and we've got photos of the police response.
+Spencer Pratt and Chelsea Handler are in a war of words on social media over Spencer's race to become the next mayor of Los Angeles — and things have gotten pretty ugly in an Epstein way.
 
-Sources familiar with the situation tell TMZ ... an alleged trespasser crossed onto Eric's Missouri property Friday morning, and the "Modern Family" star's personal security detail called the police.
+Yep ... that's right ... Spencer pulled the ol' Jeffrey Epstein card after Chelsea crapped all over his mayoral campaign, which he launched largely in response to his house burning down during the 2025 Palisades fires. Spencer called out the local politicians -- namely Mayor Karen Bass -- for their purported failures to manage the wildfires.
 
-We're told Eric wasn't home at the time.
+Chelsea posted a video on Instagram reminding everyone that Spencer is a "straight, white male former reality star" with no previous government experience, which does not make him a legit candidate to replace Bass.
 
-TMZ obtained photos showing a police SUV and a Kansas City Fire Department Ambulance at Eric's home ... and you see an officer walking around the perimeter.
+Well, Spencer wasn't happy at all with Chelsea, so he posted his own video on X, showing Shane Gillis doing a comedy routine at Kevin Hart's recent roast on Netflix.
 
-Kansas City Fire Chief Riley Nolan tells TMZ ...&nbsp;an ambulance was dispatched to the address around 10:15 AM.
+In the clip, Gillis cracks a nasty joke about Chelsea partying with Epstein, Prince Andrew and Woody Allen.
 
-We're told the ambulance did not have its lights or sirens activated when it left the property ... though a white pickup truck followed behind. We're told it was the trespassing suspect who suffered the medical emergency, prompting the ambulance call.
-
-Eric's lived at the property for about 9 months.
+Meanwhile, Spencer has been on the campaign trial, running against Bass and several other candidates. Who the next L.A. mayor will be is anyone's guess at this point.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/15/trespasser-reported-at-eric-stonestreet-missouri-property/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/spencer-pratt-chelsea-handler-karen-bass-mayor/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Auburn Graduate Allegedly Killed by Boyfriend's Dad Died From Gunshot to Chest
-<img src='https://imagez.tmz.com/image/a3/16by9/2026/05/15/a3848e6a13d54d96a20a44716c7a640b_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Eric Trump Says He's Suing Jen Psaki and MS Now For 'False' China Report
+<img src='https://imagez.tmz.com/image/36/16by9/2024/08/06/36dbc38e14c0432b89d16b90334196bd_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-The Auburn graduate who was allegedly killed by her boyfriend's dad died from a gunshot wound to the chest ... TMZ has learned.
+President Trump appears to be rubbing off on his son, Eric, who is now gearing up to sue MS Now and their popular host, Jen Psaki, over their recent coverage of him in China.
 
-According to the Jefferson County Coroner and Medical Examiner's Office ... 22-year-old Whitney Robeson died from "injury to left lung, heart, and aorta, due to gunshot wound of chest."
+As everyone knows, Donald is usually the one in the Trump family to slap his rivals with lawsuits, but not this&nbsp;time.
 
-The manner of death is homicide, the office also announced on Friday.
+On Friday, Eric posted a message on X, saying Psaki aired a FALSE report on MS Now about him sitting on the board of a company, ALT5, which is purportedly trying to do business with China. The report implied that Eric is using his dad's powerful position as commander-in-chief to make money in China off his business ventures.
 
-As you know ... Jeffrey Scott Towers -- the father of Robeson's partner -- was arrested and charged with manslaughter on Monday, 2 months after Whitney's death.
+As for President Trump, he recently met with his Chinese counterpart, Xi Jinping, in the capital of Beijing. Eric was at his father's side during the trip and made it clear on X he was only there as a loving son who adores his father.
 
-Police announced that -- after an extensive investigation -- it was determined Robeson was killed in an accidental shooting on March 7 ... though they have not yet detailed how they came to that conclusion.
+In his X post, Eric also said he has no business interests in China and put Psaki and her network on notice that he's about to sue their asses!
 
-Robeson got a degree in interior design from Auburn in May 2025, and had recently started a job as a trade consultant for Restoration Hardware, according to her obituary.&nbsp;
-
-Towers was released from jail after posting a $30K bond.
+Like father, like son.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/15/auburn-graduate-whitney-robeson-cause-of-death/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/eric-trump-donald-china-jen-psaki-ms-now/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Karen Read's Controversial SUV Sold Ahead of Scheduled Auction
-<img src='https://imagez.tmz.com/image/f5/16by9/2026/05/15/f5fcaa7c0429486291d406a40fbdde5c_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Stars and Scars -- You Be the Judge
+<img src='https://imagez.tmz.com/image/c5/16by9/2026/05/16/c5940eb60ea143c4a6c3ce0c5360d274_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Karen Read's infamous SUV -- the one she was accused of using to kill her Boston cop boyfriend -- didn't even make it to bidding ... 'cause someone swooped in with an offer before the auction could officially kick off.
-
-The Lexus was set to go up for auction at Manzi Appraisers in Woburn, Mass. ... where bidders had to prove they had at least $20K in the bank just to register.
-
-A few people showed up ready to throw their hats in the ring -- including two spotted holding bidding signs -- but the whole thing was abruptly halted after an outside group made an offer behind the scenes.
-
-Now, the SUV's owner and the mystery buyers are negotiating the final deal ... with proceeds expected to go toward Read's defense fund.
-
-As you know, prosecutors claimed Read used the SUV to strike and kill her boyfriend, John O'Keefe, during a snowy night in Canton back in 2022. But after a mistrial in her first case, Read was ultimately acquitted at retrial.
+Drake drops 3 new albums and a whole lotta beef, Spencer Pratt rolls reality cameras on his mayoral campaign, plus Alex Murdaugh's gets a murder retrial, and Congress members get lost in the weed. So, we gotta ask ...
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/15/private-offer-accepted-for-karen-read-suv/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/polls-you-be-the-judge/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Shannon Beador Announces Death of Dog, Archie, in Heartfelt Tribute
-<img src='https://imagez.tmz.com/image/6d/16by9/2026/05/15/6d7b7b25b8614ef189aeb470feab35db_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Taylor Swift and Travis Kelce Enjoy a Date Night As Wedding Rumors Swirl
+<img src='https://imagez.tmz.com/image/f7/16by9/2026/05/16/f7af308e70c74564912070976743987c_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Shannon Beador says her dog, Archie, has gone up to the big farm in the sky ... announcing his death in a heartfelt post.
+Taylor Swift has been all over the Big Apple recently, and now she’s hitting the town with her man -- Travis Kelce -- for a dinner date ... while the lovebirds keep the world in utter suspense about ... well ... you know what.
 
-The 'Real Housewives' star announced the sad news via Instagram ... sharing a happy photo of her golden retriever on the beach with several dove emojis over his head.
+The power couple was photographed by paparazzi Friday night, strolling hand-in-hand through Manhattan's Soho neighborhood before heading inside Or’esh, a fancy Mediterranean restaurant.&nbsp;
 
-Beador writes, "Heaven has a new special angel. Archie passed away yesterday and the girls and I are heartbroken."
+Taylor couldn't help but smile in her chic flowery dress and high heels while rocking the engagement ring given to her by her hunky fiancé. Speaking of whom, Travis was also sporting a grin while dressed in dark pants, black dress shoes and a pinstripe button down shirt with animal patterns.&nbsp;
 
-She says Archie was more than a dog in the 10 years he was part of the family ... he was also a protector, best friend and the real "man" in her life.
+The lovebirds probably had lots to discuss over their meal given all the chatter about their upcoming nuptials. It's good to see Travis back with Taylor whose been doing the town without him for the last couple weeks. &nbsp;
 
-Archie was always by Shannon's side, she says ... and, she's grateful fans got the chance to watch him grow up on "The Real Housewives of Orange County" -- while also mentioning his "Best Appearance" award win at Bravocon.Shannon says her daughter, Stella, was able to fly home from Paris and be with Archie on his final day when he did all his favorite things ... standing in the ocean, sitting in the park and eating a ton.
+Taylor dined at Manhattan's Via Carota with other guests for Lena Dunham’s birthday. The pop star has also been going out nights in NYC with her closest pals, including BFF Ashley Avignone.&nbsp;
 
-Shannon also mentions the other dog she has, Troy, who she says keeps looking for Archie, another heartbreaker. Despite the sadness, she adds she's happy Archie's "a very special angel in heaven and is swimming, running, and playing catch with no more pain."Beador promises more posts about Archie ... and she's asking other pet owners to give their animals a hug and kiss in memory of her pup.
+Not only that, but Taylor has been burning up the phones we're told, making calls to friends to make sure they keep this summer open for the big day with her NFL star, soon-to-be hubby.
 
-RIP, Archie. Good boy.
+Now all we need is the date!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/15/shannon-beadors-pet-archie-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/taylor-swift-and-travis-kelce-have-date-night-in-soho/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -667,64 +649,95 @@ All prices &amp; availability subject to change. Not official merchandise unless
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Trump’s ‘Learning Curve’ on China Ends With Conciliation at Summit
+### 📰 With Possible Raúl Castro Indictment, U.S. Eyes Venezuela Playbook
 <div align='justify'>
 
-The president has shifted the foundations of American policy toward China, throwing aside the adversarial approach of recent years.
+Amid stepped-up surveillance flights, a visit of the C.I.A. director and an energy embargo, the White House is trying to increase pressure on Cuba.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/us/politics/trump-cuba-pressue-castro.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Xi Pitches His Vision for Avoiding Conflict With the U.S.
+### 📰 The Push to Indict Raúl Castro, Cuba’s Former President
 <div align='justify'>
 
-Having fought the Trump administration to a draw, China’s Xi Jinping is proposing “constructive strategic stability,” aimed at drawing lines he thinks the U.S. should not cross.
+Mr. Castro, Cuba’s former president, could soon face charges in the 1996 killings of four volunteer airmen who were members of a humanitarian group that searched for migrants at sea.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/world/asia/xi-trump-superpower-thucydides-stability.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/world/americas/cuba-raul-castro-us-indictment.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 For Xi’s Critics, Trump’s China Visit Is Fuel for Jokes They Can’t Tell
+### 📰 Supreme Court Rejects Virginia Democrats’ Effort to Reinstate New Voting Map
 <div align='justify'>
 
-On Threads and other sites, liberal-minded Chinese accounts were mocking the proceedings and offering a rare window into opinions on Xi Jinping and his leadership style.
+State officials had asked the justices to step in to allow the state to use a congressional map in the midterms that was drawn by Democrats and recently approved by voters.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/business/trump-xi-meeting-china-social-media.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/us/politics/supreme-court-virginia-redistricting.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Kataib Hezbollah Commander Accused of Planning Attacks on N.Y.C.
+### 📰 Texas Supreme Court Rejects Abbott Effort to Remove Democrats After Walkout
 <div align='justify'>
 
-Mohammad Baqer Saad Dawood Al-Saadi is accused of leading attacks in Europe and being part of a retaliation campaign by Iran. Prosecutors say he is a leader of Kataib Hezbollah, an Iraqi militia with ties to Iran.
+Republican state leaders tried to expel Democratic lawmakers during their fight over redistricting last year. The court said it was not necessary.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/nyregion/hezbollah-arrest-nyc-jewish-targets.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/us/texas-supreme-court-abbott-democrats-walkout-redistricting.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Executions Surge in Iran Since Cease-Fire, Rights Groups Say
+### 📰 Rubio, Once a China Hawk, Strikes Softer Tone to Align With Trump
 <div align='justify'>
 
-Many were detained during January’s mass protests, according to a rights group, amid concerns the authorities are trying to intimidate Iranians from returning to the streets.
+As a senator, Marco Rubio even hinted at the need for regime change in China. Now he talks about cooperation.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/15/world/middleeast/execution-iran-ceasefire.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/us/politics/rubio-china-trump-trip.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/crs-34-mission-dragon-liftoff-image-2.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+The 34th SpaceX commercial resupply mission under contract with NASA is headed to the International Space Station with new scientific experiments after lifting off at 6:05 p.m. EDT Friday on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida.
+
+The SpaceX spacecraft, loaded with nearly 6,500 pounds of cargo for the space station’s Expedition 74 crew, is scheduled to autonomously dock at about 7 a.m. Sunday, May 17, to the forward port of the station’s Harmony module.
+
+Watch NASA’s live rendezvous and docking coverage beginning at 5:30 a.m. on NASA+, Amazon Prime, and the agency’s YouTube channel. Learn how to watch NASA content through a variety of online platforms, including social media.
+
+In addition to cargo for the crew aboard the space station, Dragon will deliver several new experiments, including a project to determine how well Earth-based simulators mimic microgravity conditions, a bone scaffold made from wood that could produce new treatments for fragile bone conditions like osteoporosis, and equipment to help researchers evaluate how red blood cells and the spleen change in space. The Dragon spacecraft also will carry a new instrument to study charged particles around Earth that can impact power grids and satellites, an investigation that could provide a fundamental understanding of how planets form, and an instrument designed to take highly accurate measurements of sunlight reflected by Earth and the Moon.
+
+These experiments are just a sample of the hundreds of investigations conducted aboard the orbiting laboratory in the areas of biology and biotechnology, physical sciences, and Earth and space science. For more than 25 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs that aren’t possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars.
+
+The Dragon spacecraft is scheduled to remain at the station until mid-June, when it will depart and return to Earth with time-sensitive research and cargo, ahead of splashing down off the coast of California.
+
+Learn more about International Space Station research, operations, and its crews at:
+
+Jimi RussellHeadquarters, Washington202-358-1100james.j.russell@nasa.gov
+
+Danielle Sempsrott / Leejay LockhartKennedy Space Center, Fla.321-867-2468danielle.c.sempsrott@nasa.gov / leejay.lockhart@nasa.gov
+
+Sandra Jones / Joseph ZakrzewskiJohnson Space Center, Houston281-483-5111sandra.p.jones@nasa.gov / joseph.a.zakrzewski@nasa.gov
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Curiosity Shakes Loose a Pesky Rock
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/pia26724.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -816,25 +829,6 @@ The Mars Telecommunications Network is part of NASA’s evolving space architect
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA, Industry Prepare Cryogenic Fuel Technology Demo
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/csn-1518-rotated.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration.
-
-During a nine-month mission, LOXSAT will demonstrate 11 cryogenic fluid management technologies. Eta Space built LOXSAT as part of a NASA Tipping Point opportunity, and Rocket Lab is providing spacecraft and launch services to deliver it to low Earth orbit. The LOXSAT payload has been integrated with a Rocket Lab Photon satellite bus and will launch aboard the company’s Electron rocket from Launch Complex 1 on New Zealand’s Mahia Peninsula no earlier than July 17.
-
-The technologies that LOXSAT will demonstrate were selected to address the core challenges of using cryogenic, or super-cold, propellants in microgravity, including reducing boiloff, transferring propellant, maintaining tank pressure, and gauging propellant levels. Data collected from these tests will support development of future in-space propellant depots that could refuel spacecraft as they journey to the Moon, Mars, or other deep space destinations.
-
-NASA’s LOXSAT team is composed of members of the Cryogenic Fluid Management Portfolio Project from NASA’s Marshall Space Flight Center in Huntsville, Alabama, Glenn Research Center in Cleveland, and Kennedy Space Center in Florida. The cryogenic portfolio’s work is part of NASA’s Space Technology Mission Directorate and includes more than 20 individual technology development activities.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
