@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/17 - 13:42`
+**📅 Update (Tehran Time):** `2026/05/17 - 18:14`
 
 ---
 
@@ -19,140 +19,166 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/IMG_0455-1778999965.webp?resize=1920%2C1368' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 What to know about Georgia’s primary as Republicans set sights on Senate
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP24268721643143-1-1778943199.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Egypt’s Amina Orfi has rewritten squash history in her sensational title-winning run at the Professional Squash Association (PSA) World Championships 2026, beating world number two Nour El-Sherbini in a thrilling five-game final to become the youngest women’s world champion.
+The southern state of Georgia is set to hold its primary vote on Tuesday, drawing battle lines for November’s consequential midterm elections in the United States.
 
-Eighteen-year-old Orfi defeated compatriot El-Sherbini 6-11, 11-6, 11-9, 7-11, 14-12 in Saturday’s final in Giza, Egypt.
+Among the most closely watched races will be the Republican contest to choose a challenger for Democratic Senator Jon Ossoff, whose 2020 victory came amid a liberal surge in a state long dominated by conservatives.
 
-At 18 years and 10 months, Orfi is not only the youngest women’s champion but also the first player to hold both world junior and senior PSA championship titles at the same time. The PSA is the global governing body for men’s and women’s professional squash circuits.
+Also topping the ticket will be the race to choose a Democratic gubernatorial candidate. Many in the party see the opening in the governor’s mansion this year as a generational opportunity to win the highest state-level office.
 
-“I’m speechless,” Orfi said after bagging her 12th PSA title. “I worked so hard to get here and had so many tough losses this season.”
+Meanwhile, issues of affordability, election administration and gerrymandering have loomed large over the primary race. Here’s what to know:
 
-Orfi denied the 31-year-old El-Sherbini her ninth world title, the first of which she won at the age of 20.
+Senator Jon Ossoff, the incumbent Democrat, is running unopposed in his party’s primary and is all but assured to be its candidate in the general election.
 
-The final produced the eighth-longest women’s match of all time and the second-longest women’s PSA World Championships final, behind only Rhonda Thorne and Vicki Hoffman’s 118-minute marathon in 1981.
+The Republican field is much more crowded. Five Republicans are vying to take on Ossoff, including two sitting members of the US House of Representatives: Buddy Carter and Mike Collins.
 
-El-Sherbini took the first game with ease as Orfi struggled to gather her rhythm on court. However, the opening loss didn’t seem to affect the teenager, who took control of the next two games to inch closer to her debut world championship title.
+Both Carter and Collins have hewed close to Donald Trump in their messaging, with their campaigns mostly focusing on who will be the staunchest ally to the US president. Trump has not made an endorsement in the race.
 
-The eight-time champion found a second win in the fourth game after dominating Orfi to set up a historic fifth game.
+Collins has led the pack in fundraising and endorsements, but has been dogged by an ongoing ethics probe into his alleged misuse of congressional funds.
 
-Repeated tie-breaks signalled that the match could go either way, but a powerful backhand from Orfi that El-Sherbini failed to pick up saw the teenager claim victory.
+Outgoing Republican Governor Brian Kemp, who has a more complicated relationship with Trump, endorsed college American football coach Derek Dooley, who has pitched himself as a more moderate alternative to Carter and Collins.
 
-Orfi, number three in the PSA’s world rankings, overcame another tough challenge in the semifinals when she defeated top-ranked Hania El-Hammamy in a four-game match.
+Rounding out the race are former US Army General Jonathan McColumn and businessman John Coyne. If McColumn were elected in November, he would become only the second Black Republican in the Senate.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/what-to-know-about-georgias-primary-as-republicans-set-sights-on-senate?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 How Arsenal or Man City can clinch Premier League title with two games left
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_68d0271f538f-1758471967-1779010343.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Is Christian Zionism in the US on a decline?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__19980120__SAWH980120189930__v1__MidRes__UsNetanyahuFalwell-1778865912.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The two-horse Premier League title race between Arsenal and Manchester City has reached crunch time, as the 2025-26 season is set to enter its final week.
+In March 1992, Christianity Today, a prominent evangelical Christian magazine based in the US, featured a cover story dedicated to Christian Zionism – a theological and political movement that believes that all Jews should immigrate to Palestine to trigger the return of Jesus Christ.
 
-The two sides have two games left – Arsenal are in action on Monday, City are playing on Tuesday, and then both head into the last day of the season next Sunday, May 24.
+The article warned that the movement was witnessing a “decline” in its support, most of which comes from conservative evangelical Christians, who traditionally vote for the Republican Party.
 
-So, what does each club need to do to win the title in the final two rounds?
+But in the following three decades, Christian Zionism thrived. It is estimated that it has tens of millions of followers, mostly  in the southeast and south-central regions, known as “the Bible Belt”.
 
-However, if clubs finish with the same number of points, the winners are determined by goal difference.
+Commanding significant political sway and financial resources, Christian Zionism played a key role in establishing unconditional US support for Israel among the right-wing base. The movement also helped elect George W Bush for two terms and rallied support for his devastating war on Iraq, which was theologically justified by some Christian Zionists as necessary to usher in the rebuilding of Babylon, the second coming of Jesus Christ and the end of times.
 
-If their goal difference is the same, then it goes to goals scored, then to the team that collected the most points in head-to-head matches, then to the team that scored the most away goals in the head-to-head games.
+More than 30 years later, another publication declared the imminent decline of the movement. In its November 2025 issue, Jacobin, a leftist magazine based in the US, predicted the “end-times for Christian Zionism”.
 
-The league leaders are two points ahead of Man City, so if the Gunners win their final two games, they will lift the Premier League trophy for the first time in 22 years.
+The magazine’s obituary of one of the most powerful political groups in the US came in the wake of Israel’s genocidal war on Gaza, which has seen a plunge in American public support for America’s closest ally. The war, which saw more than 72,000 Palestinians, including 38,000 women and children killed, has created a divide within the evangelical base.
 
-However, Man City are currently one goal ahead on goal difference and could still snatch the title if Mikel Arteta’s side slip up. City also have the advantage in terms of goals scored – 75 to 68 going into the last two games.
+But despite the dwindling public support, Christian Zionists still have considerable influence over the US power structure due to their substantial financial resources and institutional heft.
 
-City also have the better head-to-head record in the league this season as they beat Arsenal 2-1 at home in April and got a 1-1 draw at the Emirates in September.
+The lobby arm of Christians United for Israel (CUFI), a Christian Zionist organisation, for example, spent more than $670,000 on lobbying in Washington to strengthen sanctions on Iran, among other issues. CUFI has also worked to secure billions in funding to Israel.
 
-On paper, Arsenal’s run-in looks easier than City’s as the Gunners face already relegated Burnley at home and then have an away trip to a 15th-placed Crystal Palace side who are safe from the drop and will have an eye on their upcoming Europa Conference League final against Rayo Vallecano on May 27.
+Christian Zionists have used their influence to help stoke the current war on Iran. Prominent Christian leaders praised the Trump administration for launching what they saw as a religious war that could trigger the fulfilment of another biblical prophecy about a war between Israel and “Persia”.
 
-City will likely have to win both their last games and hope that Arsenal slip up. They will also be looking to boost their goal difference in case the teams finish level on points.
+So, can they sustain their influence amid declining support for Israel in the US? Or is a fall imminent this time?
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/17/how-arsenal-or-man-city-can-clinch-premier-league-title-with-two-games-left?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 At least four killed in Ukrainian drone attacks on Russia
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260517__B33H8NQ__v2__HighRes__RussiaUkraineConflict-1779008733.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Fabio Di Giannantonio wins shortened Catalan MotoGP after Marquez crash
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260517__B3424MD__v2__HighRes__MotoPrixEspCatalunyaMotoGp-1779025582.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-At least four people have been killed after Ukraine launched large-scale drone attacks on several Russian regions, including Moscow, in what officials described as the biggest drone assault in more than a year.
+VR46 Racing’s Fabio Di Giannantonio claimed victory at the Catalan Grand Prix on Sunday in extraordinary circumstances, taking the chequered flag after a race that was red-flagged twice due to multiple crashes.
 
-Russian authorities said on Sunday three people were killed in the Moscow region and another person died in Belgorod, near the Ukrainian border.
+The Italian secured only his second MotoGP victory and VR46 Racing’s first since the Indian Grand Prix in 2023, but the triumph was overshadowed by serious incidents that sent Alex Marquez and Johann Zarco to hospital.
 
-Moscow region’s Governor Andrei Vorobyov said a woman was killed after a drone struck a house in Khimki, north of Moscow. Rescue workers were searching the rubble for another possible victim. Two other men were killed in the village of Pogorelki in the Mytishchi district, he said.
+Honda’s Joan Mir finished second ahead of Gresini Racing’s Fermin Aldeguer while pole sitter Acosta crashed on the final lap after contact from Trackhouse rider Ai Ogura, who was handed a three-second penalty.
 
-Vorobyov added that apartment buildings and infrastructure sites were damaged in the attacks.
+However, six riders were being investigated for their tyre pressures, leaving the final standings uncertain.
 
-Russia’s state news agency TASS, quoting Moscow Mayor Sergei Sobyanin, reported that air defence systems shot down 81 drones targeting the capital overnight.
+“Today has not been an easy day for everybody. I really hope that Alex is fine,” Di Giannantonio said.
 
-He said 12 people were injured, most of them near Moscow’s oil refinery, adding it continued operating without disruption, while three homes were damaged.
+“We’ve been really lucky. We know that our sport is amazing. We try to give an amazing show, but also we are humans and we are in danger. So I really hope that everybody is safe.”
 
-Russia’s Ministry of Defence said it intercepted 556 drones across the country overnight and into Sunday morning.
+The drama began on lap 12 when race leader Pedro Acosta’s KTM suddenly lost power on the straight near turn 10 and Gresini Racing’s Marquez, running second, had no time to react as he crashed into the back of the stricken machine.
 
-Sheremetyevo airport, Moscow’s largest, said drone debris had fallen on its grounds but caused no damage.
+Marquez and his Ducati careered towards the wall before both cartwheeled through the air as he lost control on the gravel.
 
-The attacks came after United States President Donald Trump and his Russian counterpart, Vladimir Putin, suggested the war could be nearing an end. Trump said last week he believed Moscow and Kyiv would “soon reach a deal” to stop the fighting.
+The wheel from Marquez’s bike also struck Di Giannantonio, who went down but managed to nurse his machine back to the pits.
 
-Meanwhile, Ukrainian officials said Russian attacks continued in parts of Ukraine. In the Kharkiv region, authorities said Russian forces targeted 15 settlements over the past 24 hours, wounding seven people.
+The second red flag came after an even more chaotic restart, when LCR Honda’s Zarco braked late on turn one of the first lap and took out Ducati’s Francesco Bagnaia and Honda’s Luca Marini in a three-rider pile-up.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/17/fabio-di-giannantonio-wins-shortened-catalan-motogp-after-marquez-crash?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Conor McGregor to fight Max Holloway in UFC return on July 11
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26137109494734-1779007366_311048-1779008066.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a09bae5e706-1779022565.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Conor McGregor, a huge ‌name in mixed martial arts (MMA) despite not fighting ⁠since 2021, ⁠will return for a match with Max Holloway on July 11 in Las Vegas, Ultimate Fighting Championship (UFC) ⁠CEO Dana White has announced.
+A drone strike has sparked a fire on the perimeter of the Barakah Nuclear Energy Plant in the United Arab Emirates (UAE), raising new concerns over a potential new regional escalation amid a fragile ceasefire between Iran and the United States.
 
-Ireland’s McGregor (22-6-0) will face fellow former champion Holloway (27-9-0) in a nontitle welterweight bout ⁠as the main event of UFC 329 during International Fight Week, White said on Saturday. It’s a rematch of their featherweight bout in August 2013, which McGregor won by a three-round decision ‌despite a torn ACL.
+Authorities in Abu Dhabi said the blaze broke out at an electrical generator outside the plant’s inner perimeter in the Al Dhafra region on Sunday. No injuries were reported, and officials said radiation levels remained normal.
 
-McGregor, 37, last fought on July 10, 2021, losing by TKO to Dustin Poirier after breaking his leg during the final seconds of the first round. The fighters had split two earlier matches.
+The UAE’s nuclear regulator said operations at the facility – the first nuclear power station on the Arabian Peninsula – were not affected. “All units are operating as normal,” it said in a social media post.
 
-Another return ⁠was cancelled when McGregor sustained ⁠a toe injury before his match with Michael Chandler scheduled for June 2024.
+There was no immediate claim of responsibility, and the UAE has not publicly blamed any country.
 
-McGregor became the first UFC fighter to be champion simultaneously ⁠in two weight divisions in 2016. He knocked out Jose Aldo for ⁠the featherweight belt in December 2015 ⁠and stopped Eddie Alvarez for the lightweight title in November 2016. He is 1-3 in his last four bouts.
+In a statement later on Sunday, the ⁠UAE’s ⁠Defense Ministry said air defences had dealt “successfully” ⁠with two drones, while ⁠a third one hit a generator ⁠near the plant.
 
-Holloway, 34, is a ‌former featherweight champion who has beaten Justin Gaethje, Aldo (twice), Poirier and Frankie Edgar. The Hawaii native is ‌1-1 since ‌moving to lightweight in 2025, losing his last bout to Charles Oliveira by a five-round decision in March.
+⁠It added the drones ⁠were launched from the “western border”, without providing details, and said ⁠investigations were under way to determine the ⁠source of the attack.
+
+The UAE has faced repeated ⁠Iranian missile and drone attacks after the US and Israel began attacking Iran on February 28.
+
+The International Atomic Energy Agency (IAEA) said the incident forced one reactor to rely temporarily on emergency diesel generators.
+
+IAEA chief Rafael Grossi expressed “grave concern” and warned that military activity threatening nuclear facilities was “unacceptable”.
+
+The plant is located close to the border with Saudi Arabia, some 225km (140 miles) west of the UAE’s capital city, Abu Dhabi.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/17/conor-mcgregor-to-fight-max-holloway-in-ufc-return-on-july-11?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779008138.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Son of Palestinian President Mahmoud Abbas elected to top Fatah body
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-05T122117Z_895383237_RC2X2LA6ELVB_RTRMADP_3_PALESTINIANS-POLITICS-ABBAS-SON-1779019950.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Al Jazeera’s Tohid Asadi reports from the strait and explains Tehran’s newest plan to manage shipping.
+The son of Palestinian President Mahmoud Abbas has secured a seat on Fatah’s highest leadership body, as initial results emerged from the movement’s first Congress in the occupied West Bank in a decade.
+
+The three-day Eighth General Conference in Ramallah, which began on Thursday and finished on Sunday, came as Fatah faces existential challenges following Israel’s genocidal war on Gaza.
+
+Yasser Abbas, 64, a businessman who spends most of his time in Canada, joins the central committee after being appointed around five years ago as his father’s “special representative”.
+
+With several existing members retaining their seats, the Congress’s outcome was already being criticised.
+
+Marwan Barghouti, a popular Palestinian leader held in Israeli prison since 2002, retained his seat on the committee with the highest number of votes, according to figures seen by the AFP news agency.
+
+Jibril Rajoub was re-elected as the committee’s secretary-general, while Palestinian Vice President Hussein Al-Sheikh retained his position.
+
+The Congress had 2,507 voters and a turnout of 94.6 percent, organisers said.
+
+Fifty-nine candidates competed for 18 seats on the central committee, while 450 vied for 80 seats on the revolutionary council, the party’s parliament.
+
+Mahmoud Abbas, who was re-elected as head of the movement on Thursday, vowed in his opening address to reform the Palestinian Authority (PA), and hold long-delayed presidential and parliamentary elections.
+
+Abbas and the PA are under mounting international pressure to implement reforms and hold elections, amid widespread accusations of corruption and political stagnation, which have eroded their legitimacy among Palestinians.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/son-of-palestinian-president-mahmoud-abbas-elected-to-top-fatah-body?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 WHO declares Ebola outbreak in DR Congo a global health emergency
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/404c/live/7be494d0-51be-11f1-a61d-97b09d8870ae.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 WHO declares Ebola outbreak in DR Congo an international emergency
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/957b/live/de6aaf10-51da-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
@@ -179,6 +205,99 @@ A laboratory has also confirmed an Ebola case in the eastern city of Goma, curre
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 How worrying is the Ebola outbreak in DR Congo?
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/0fab/live/4cc2b0d0-51ee-11f1-86f6-35d8fdccc492.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+The outbreak of Ebola in the Democratic Republic of Congo is concerning.
+
+It has been spreading for weeks undetected in a part of the world where civil war makes getting on top of the virus difficult, and the species of Ebola involved is rare, so there are fewer tools to stop a virus that kills between a third and half of people infected.
+
+This is a critical moment in an outbreak where there is uncertainty about how far it has spread, but there are already almost 250 suspected cases and 80 deaths.
+
+Most Ebola outbreaks tend to be small, but specialists are haunted by the 2014-16 outbreak. Then, 28,600 people in West Africa were infected in the largest ever outbreak of the disease.
+
+The declaration of a public health emergency of international concern by the World Health Organization (WHO) does not mean we are in the early stages of a Covid-style pandemic.
+
+The risk Ebola poses to the whole world remains tiny. Even in the 2014-16 outbreak, there were only three cases in the UK and all were healthcare workers who had volunteered to help.
+
+"But it does reflect that the situation is complex enough to require international coordination," says Dr Amanda Rojek, from the Pandemic Sciences Institute at the University of Oxford.
+
+Ebola is a severe and deadly disease, although it is thankfully rare. Ebola viruses naturally infect animals – mainly fruit bats – but people can become infected if they come into close contact.
+
+This outbreak is being caused by the Bundibugyo species of Ebola – it is one of three species known to cause outbreaks but is relatively unfamiliar.
+
+Bundibugyo has caused only two outbreaks before – in 2007 and 2012 – where it killed 30% and 50% of people infected.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/06bb/live/77399570-51e1-11f1-8d79-4731acfb89e0.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+At least three people were killed and several injured overnight in a large-scale Ukrainian drone attack on the Moscow region, Russian officials have said.
+
+A woman died in Khimki, north of Moscow, and a person was trapped under rubble, regional governor Andrei Vorobiev said. A man and a woman were killed in the village of Pogorelki.
+
+A male Indian citizen was killed and three others injured, India's Moscow embassy said, but it was not clear whether these casualties were included in Vorobiev's tally. Another person died in Belgorod region bordering Ukraine.
+
+Ukrainian President Volodymyr Zelensky said the strikes were an "entirely justified" response to deadly Russian attacks on Ukrainian cities.
+
+Russian state news agency Tass described the strikes as the biggest attack on Moscow for more than a year.
+
+Earlier this week, a massive Russian drone and missile attack killed 24 people in Kyiv.
+
+In Ukraine, eight people were injured in overnight Russian drone attacks and shelling in the central Dnipropetrovsk region, officials said.
+
+Russian President Vladimir Putin launched a full-scale invasion of Ukraine in 2022, and Moscow currently controls about 20% of Ukrainian territory.
+
+In a post on Telegram early on Sunday, Vorobiev wrote that "since three o'clock in the morning, air defence forces have been repelling a large-scale UAV [drone] attack on the capital region".
+
+He said four people - three men and a woman - were injured in the region, and a number of houses damaged.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Man drives car into pedestrians in Italy, injuring eight
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/be55/live/7d9e5030-5165-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+A man drove his car into pedestrians in the northern Italian city of Modena on Saturday, injuring eight people, four seriously, officials said.
+
+After the car came to a halt against a shop window, the driver emerged holding a knife and injured a passer-by who gave chase, before the suspect was overpowered.
+
+The suspect, 31, has been identified by officials as an Italian national of Moroccan origin.
+
+Italy's Prime Minister Giorgia Meloni, who cancelled a planned trip to Cyprus and described the incident as "extremely serious", visited the injured in hospital with President Sergio Mattarella on Sunday.
+
+She also met Luca Signorelli, the passer-by who intervened, and thanked him for his actions.
+
+"What makes an ordinary person heroic is the moment when the heart chooses to do good, even when that involves a risk," she wrote on X, and shared an image of them embracing.
+
+The incident occurred around 16:30 (14:30 GMT), when the speeding car hit the pedestrians in Via Emilia next to the iconic cathedral of Modena, south-east of Milan.
+
+The vehicle then veered left before coming to a halt against a shop window.
+
+Signorelli had told Italian media he was trying to help the woman when he noticed the driver trying to run away.
+
+He said he gave chase and the attacker turned on him with a knife in hand. He received a blow to the head and one on his chest before being able to restrain the suspect, with the help of other passers-by.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -210,99 +329,6 @@ Hezbollah has been using several types of larger attack drones against targets i
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Taiwan insists it is independent after Trump warning
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/9b3f/live/fab5e450-513f-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Taiwan has insisted it is a sovereign, independent nation, after US President Donald Trump cautioned it against formally declaring independence from China.
-
-Trump's remarks came after a two-day summit in Beijing, after which he said he had "made no commitment either way" about the self-governing island - which China claims as part of its territory and has not ruled out taking by force.
-
-After talks with Chinese President Xi Jinping, Trump also said he would soon decide whether to approve an $11bn ($8bn) package of weapons to be sold to Taiwan.
-
-The US administration is bound by law to provide Taiwan with a means of self-defence, but has frequently had to square this alliance with maintaining a diplomatic relationship with China.
-
-Taiwanese President Lai Ching-te has previously stated that Taiwan does not need to declare formal independence because it already sees itself as a sovereign nation.
-
-On Saturday, presidential spokesperson Karen Kuo said it was "self-evident" that Taiwan was "a sovereign, independent democratic country".
-
-She added, however, that Taiwan was committed to maintaining the status quo with China - in which Taiwan neither declares independence from China nor unites with it.
-
-Many Taiwanese consider themselves to be part of a separate nation, though most are in favour of maintaining their current status.
-
-Washington's established position is that it does not support Taiwanese independence, with continued ties with Beijing being contingent on its acceptance that there is only one Chinese government.
-
-In an interview with Fox News after meetings with President Xi, Trump reiterated that US policy on Taiwan had not changed, while making it clear he did not seek conflict with Beijing.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/043b/live/04a83f80-51bd-11f1-a61d-97b09d8870ae.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Three people were killed overnight in a large-scale Ukrainian drone attack on the Moscow region, Russian officials have said.
-
-A woman died in a house in Khimki, north of the capital, where a person was trapped under rubble, regional governor Andrei Vorobiev said. A man and a woman were killed in the village of Pogorelki.
-
-Moscow Mayor Sergei Sobyanin said 12 people were injured in strikes on a city oil refinery. Russia's military said 556 drones were intercepted.
-
-Ukrainian President Volodymyr Zelensky said the strikes were an "entirely justified" response to deadly Russian attacks on Ukrainian cities.
-
-Earlier this week, a massive Russian drone and missile attack killed 24 people in Kyiv.
-
-In Ukraine, eight people were injured in overnight Russian drone attacks and shelling in the central Dnipropetrovsk region, officials said.
-
-Russian President Vladimir Putin launched a full-scale invasion of Ukraine in 2022, and Moscow currently controls about 20% of Ukrainian territory.
-
-In a post on Telegram early on Sunday, Vorobiev wrote that "since three o'clock in the morning, air defence forces have been repelling a large-scale UAV [drone] attack on the capital region".
-
-He said four people - three men and a woman - were injured in the region, and a number of houses damaged.
-
-A private house was on fire in the village of Subbotino, south-west of Moscow, the governor added.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Man drives car into pedestrians in Italy, injuring eight
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/be55/live/7d9e5030-5165-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A man has driven his car into pedestrians in the northern Italian city of Modena, injuring eight people, four seriously, officials say.
-
-After the car came to a halt against a shop window, the driver emerged holding a knife and injured a passer-by who gave chase, before the suspect was overpowered.
-
-The suspect, 31, has been identified by officials as an Italian national of Moroccan origin. Italy's Prime Minister Giorgia Meloni described Saturday's incident as "extremely serious".
-
-Meloni, who has cancelled her planned visit to Cyprus, and Italian President Sergio Mattarella will visit the injured people later on Sunday.
-
-At a news conference on Saturday evening, the prefect of Modena Fabrizia Triolo said that El Koudri had been referred to a mental health centre in 2022 for "schizoid disorders", but had then "disappeared without a trace".
-
-The incident occurred around 16:30 (14:30 GMT), when the speeding car hit the pedestrians in Via Emilia next to the iconic cathedral of Modena, south-east of Milan. The vehicle then veered left before coming to a halt against a shop window.
-
-"We saw the car approaching, it was heading for the kerb," an eyewitness said.
-
-Modena's Mayor Massimo Mezzetti said it appeared the driver "deliberately drove on to the pavement, hitting several people and crashing into a shop window".
-
-Luca Signorelli told Italian media he was trying to help the woman when he noticed the driver trying to run away.
-
-Signorelli said he gave chase and the attacker turned on him with a knife in hand. He received a blow to the head and one on his chest before being able to restrain the suspect, with the help of other passers-by.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -467,99 +493,111 @@ Esther is from a different African country. The Guardian is using a pseudonym fo
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Taylor Swift and Travis Kelce Hit Private Event in NYC as Marriage Rumors Grow
-<img src='https://imagez.tmz.com/image/34/16by9/2026/05/17/34fbb7084d834e90bc18fd10e3c4fd43_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Alex Cooper and Matt Kaplan Expecting First Baby Together
+<img src='https://imagez.tmz.com/image/c7/16by9/2026/05/17/c7e4554fde3542f4802bcd0c1add6f10_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Taylor Swift and Travis Kelce may not be married yet, but they're certainly acting like a married couple while out and about in NYC.
+Call her mommy ... 'cause Alex Cooper and hubby Matt Kaplan are expecting their first child together!!!
 
-The famous lovebirds hit up a private event at HONEY's cocktail bar in Williamsburg, Brooklyn, on Saturday night. After being chauffeured to the pub, the two hopped out of an SUV in their fancy outfits and walked hand-in-hand to the front door.
+The couple announced the news Sunday morning with a wholesome post, Cooper showing off her baby bump and captioning the post "Our family" ... with the comments immediately flooding with support from fans and fellow internet personalities.
 
-Travis then placed one of his hands gently on Taylor's back as he guided her inside the building.
+Cooper -- famed podcast host for "Call Her Daddy" and CEO of "The Unwell Network" -- teased the news in an Instagram story, shortly before the reveal ... saying "Daddy Gang, there is something I've been waiting to share with you."
 
-Although they haven't walked down the aisle yet, Travis and Taylor are clearly very comfortable with each other and ready to take the next step in their relationship.
+Cooper and Kaplan’s relationship has largely stayed out of the spotlight compared to her very public career. The pair were first linked in 2020 after meeting through professional circles in the entertainment world ... eventually building a romance that developed fairly privately at first.
 
-On Friday night, the power couple was photographed by paparazzi strolling hand-in-hand through Manhattan's Soho neighborhood before heading inside Or’esh for a fancy Mediterranean dinner.&nbsp;
+Kaplan, a film producer known for his work in Hollywood, and Cooper kept much of their relationship to themselves before eventually tying the knot in 2024, choosing to share only select moments of their life together with fans ... up until recently when reports begun circulating about the couple's alleged toxic work environment.
 
-We're all just waiting now for the big day.
+Nonetheless ... congratulations are certainly in order -- and it looks like Cooper’s next "Call Her Daddy" chapter comes with a permanent co-host who won’t need a guest invite, just a feeding schedule.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/taylor-swift-and-travis-kelce-hit-private-event-in-brooklyn/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/alex-cooper-pregnant/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Celebrity Scramble -- Can You Guess The Mayoral Candidate?!
-<img src='https://imagez.tmz.com/image/1a/16by9/2026/05/12/1aa121cb21c5497cac7bb2e9730473a8_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'SNL' Ends Season with Will Ferrell as Epstein Haunting Trump in Grim Cold Open
+<img src='https://imagez.tmz.com/image/07/16by9/2026/05/17/07919dcef3a8445c96fd9df9c5edaedb_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Swirled inside this snazzy snap is a reality TV star from Los Angeles, California who is running for mayor. Can you guess who he is?
+"Saturday Night Live" wasted no time diving into controversy during its Season 51 finale, opening the show with a brutally dark sketch featuring Will Ferrell as the ghost of Jeffrey Epstein haunting Donald Trump inside the Oval Office.
 
-He's speaking up for those affected by the January 2025 L.A. Wildfires ... and when he's not spilling the tea on his podcast, he's a doting father to his kiddos.
+The cold open began with cast member James Austin Johnson portraying President Trump, who drifted off to sleep behind the Resolute Desk before being startled by the arrival of Ferrell’s chained-up Epstein apparition.
 
-Still not sure? Talk to Heidi!
+Ferrell’s version of the disgraced financier jokingly announced he had returned to visit his "best friend," while Johnson’s Trump reacted with excitement before complaining about sinking approval numbers.
 
-Hit up the gallery for the reveal!
+The sketch leaned heavily into edgy humor, with Trump asking Epstein what heaven was like. Ferrell quickly fired back, “It’s really, really hot.”
+
+Johnson’s Trump then rambled about upcoming plans, including attending The World Cup, hosting bizarre “Patriot Games” for high school students, and staging a UFC fight on the White House lawn “like white trash on Worldstar.”
+
+One of the sketch’s darkest jokes came when the comedian's portrayal of Trump asked the fictionalized Epstein for a high-five, only for him to respond, "You know what, this time, I’m going to leave you hanging" ... a grim reference to Epstein’s death in jail.
+
+The bit escalated with Epstein sharing surreal “visions” of the administration’s future, including former Homeland Security Secretary Kristi Noem selling products on the Home Shopping Network and Secretary of War Pete Hegseth smoking marijuana during a podcast appearance with FBI Director Kash Patel.
+
+Ferrell’s Epstein eventually turned serious for one final jab, warning Trump that no matter what distractions unfold politically, the public would never stop linking the two together.
+
+The sketch wrapped with Ferrell and Johnson breaking into a parody duet of Grover Washington Jr. and Bill Withers’ "Just the Two of Us," capping off one of the show’s most provocative season openers in recent memory.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/guess-who-is-running-for-mayor/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/will-ferrell-jeffrey-epstein-snl-cold-open/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Motocross Pro Colby Raha Talks Death Defying Caesars Palace Jump
-<img src='https://imagez.tmz.com/image/26/16by9/2026/05/14/26cb2375d7344dc29a7a2817c2446d7d_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Dianna Russini Keeps It Carefree During NYC Dinner, Amid Mike Vrabel Scandal
+<img src='https://imagez.tmz.com/image/ee/16by9/2026/05/17/eed8e3ab682d470293e0b0e9e7fc5a94_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Colby Raha, pro motocross rider, is attempting a death-defying jump ... and he walked TMZ Sports through the insane stunt!
+Dianna Russini appeared unbothered by the recent controversy involving New England Patriots head coach Mike Vrabel, spending Saturday evening out in New York City with her husband before attending a Bruce Springsteen concert, according to reports.
 
-Raha, 31, will attempt to break his own world record for highest vertical jump off a quarter-pipe, which is currently 90 feet, gunning to fly 100 feet above one of the most iconic locales on the Las Vegas Strip Sunday afternoon, all to celebrate the grand opening of OMNIA Dayclub &amp; Skybar.
+Per photos published by the Daily Mail, Russini and her husband -- Shake Shack executive Kevin Goldschmidt -- spent the evening dining with a large circle of friends at Bourbon and Branch Bar in Midtown before making their way to Madison Square Garden.
 
-"We're here at the beautiful Caesars Palace fountains, where Evel Knievel and a bunch of other legends jump their bikes, and I'm going to be jumping my motorcycle, going for a world record," Raha told Babcock.
+One eyewitness source told the outlet, "They were having a great time." The source continued ... "They were having a blast with a big group of friends. Lots of food and drinks ordered to their table and they were very carefree given everything that has gone on."
 
-He explains, "I'm going for the highest ever motorcycle jump in the air of all time. I'm going for 100 feet off the floor. It's kind of like a half pipe. If you know Tony Hawk or a skateboarder, I'm doing it on a dirt bike. So I'm going straight up and down."
+A witness source told the DM that both Russini and Goldschmidt appeared to be in "good spirits" throughout the evening, with their group energetically sharing drinks and plates before the concert began.
 
-If the level risk isn't crystal clear ... consider Knievel attempted a jump at the fountains in 1967, crashing and injuring himself so badly that he nearly died. Raha's jump is fundamentally different -- he's going for height, not distance -- but the point remains ... this is dangerous stuff.
+According to the witness, there were no visible signs the couple was struggling despite being tied to a controversy that continues to create buzz around the NFL and the couple reportedly sat opposite each other during the meal ... and didn’t appear concerned about being recognized.
 
-If anyone can hit the 100-foot mark and land the jump, it's Colby ... who won 13 X-Games medals, 7 of them being gold ones.
+As we've previously reported ... Russini and Vrabel have been spending time together socially since at least 2020 -- including a 2021&nbsp;boat outing&nbsp;in Tennessee while Russini was pregnant with her first child.&nbsp;
 
-The epic stunt is all to celebrate the opening of the dayclub ... and Colby says we shouldn't be surprised if we see him hanging out there after he sets the record.
+TMZ Sports&nbsp;also obtained photos of the pair&nbsp;hugging&nbsp;during a Super Bowl party in 2022 and later at a&nbsp;casino&nbsp;in 2024.
 
-Colby assures us, "The OMNIA Dayclub will be going off. It's like Rufus Du Sol and Martin Garrix, and I'm sure I'll end up in there, but it's a day club. It's going to be at about 3 o'clock, so I'm sure I'll round up with the family and close friends and my team, and we'll go out and see what this town's all about."
+The reporter was spotted on Mother's Day for the first time since she resigned from The Athletic on April 14 ... and in pics obtained by&nbsp;Page Six, she is carrying their son as she leans in for a smooch outside their home -- Kevin is also wearing a wedding band.
 
-Raha sends it at 2PM on Sunday ... and if you're not lucky enough to be in Sin City, it'll stream online!
+Russini and Goldschmidt tied the knot in 2020 and share two children together.
+
+Bottom line ... whatever headlines may be swirling around Russini and her love life, it appeared she and her husband were more focused on "Dancing in the Dark" than dwelling on the drama.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/colby-raha-jump-caesars-palace/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/dianna-russini-on-date-with-husband/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hayden Panettiere's Ex Blasts Her Estranged Mom Over Memoir Comments
-<img src='https://imagez.tmz.com/image/8d/16by9/2026/05/15/8d0edd5c852e4eeebd3b56620aa6e601_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Ronda Rousey Destroys Gina Carano in MMA Comeback Fight
+<img src='https://imagez.tmz.com/image/95/16by9/2026/05/17/95227fee95d04ca485cc43f5fc0f307f_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Hayden Panettiere's ex Brian Hickerson is jumping into the actress' bitter family feud ... blasting Hayden's estranged mother after she publicly questioned Hayden opening up about her sexuality in her new memoir.
+Ronda Rousey made quick work of Gina Carano in their highly anticipated mixed martial arts fight, forcing her tap out in just 17 seconds.
 
-Brian sat down with TMZ's Charlie Neff and reacted to recent comments by Hayden's mom, Lesley Vogel ... the former momager cast doubt as to why Hayden was discussing being bisexual now, suggesting the timing had more to do with promoting her new book.
+Rousey returned to the Octagon at L.A.'s Inuit Dome Saturday night after a nearly 10-year hiatus and came storming out of the gate in the first round, tackling Carano to the canvas.&nbsp;
 
-When Charlie asked Brian if he knew Hayden was attracted to women, he kept it simple -- "Yeah. Hayden is into beautiful people."
+The MMA star then put Carano in her signature armbar, and that was it, folks. Carano immediately tapped out. After the match, Rousey said she's headed back into retirement to be with her family, ending her 13-2 MMA career on a high note.
 
-But things escalated quickly when Brian turned his attention to Lesley. He didn't hold back ... saying, "Hayden's mother is by far one of the worst people I've ever met in my life ... I just can't with her. She's terrible."
+As you know, Rousey was a pioneer in the world of women's MMA, winning several titles as part of the Ultimate Fighting Championship before being inducted into the UFC Hall of Fame. She retired from the UFC in 2016 after twice going down in defeat and then became a familiar face in WWE wrestling.&nbsp;&nbsp;
 
-The comments add another messy layer to the ongoing drama surrounding Hayden's upcoming memoir, "This Is Me: A Reckoning," which has already sparked headlines over her addiction struggles, family trauma, and past abusive relationships -- including her tumultuous coupling with Brian.
+Carano also had a successful MMA career with 7 wins and 2 loses over 6 years. She retired from MMA in 2009 and turned to acting in major films such as "Deadpool" and "Haywire" before getting canceled over controversial social media posts.&nbsp;
 
-As we reported ... Hayden recently revealed she felt pressured to keep parts of her identity private while growing up in Hollywood under her mother's management. Meanwhile, Lesley is accusing her daughter of giving her "20 years of trauma" ... suggesting the drama is more about book sales than healing wounds.
+After last night's loss, Carano kept the door cracked open on her MMA career, but noted she's now 44 and didn't get anything out of her fight with Ronda.
 
-Brian and Hayden's dynamic remains complicated ... check out the rest of the YouTube interview above -- he gives his perspective on her new memoir and discusses where he stands with the actress currently.
+Better luck next time, Gina ... if there even is a next time!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/brian-hickerson-slams-hayden-panettieres-mom/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/ronda-rousey-crushes-gina-carano/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -674,10 +712,10 @@ Washington quickly brushed off a startling milestone in a mounting problem.
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump Flexes Hold on G.O.P., Even as It Braces for Midterm Backlash
+### 📰 Trump Tightens Grasp on G.O.P. as Cassidy Loss Shows Cost of Defiance
 <div align='justify'>
 
-The defeat of Senator Bill Cassidy showed the president’s dominance in his party at a moment when a broader range of views about Mr. Trump could be a major liability for November.
+The defeat showed the president’s dominance in his party, even as a broader range of views about Mr. Trump could be a major Republican liability in the midterms.
 
 </div>
 
@@ -685,14 +723,14 @@ The defeat of Senator Bill Cassidy showed the president’s dominance in his par
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 7 Republicans Voted to Convict Trump. Most Are No Longer in Office.
+### 📰 Cassidy Loses Senate Primary in Louisiana, as Trump Vanquishes G.O.P. Foe
 <div align='justify'>
 
-Senator Bill Cassidy’s defeat means no more than two of them will be left in Congress next year.
+Senator Bill Cassidy, a two-term Republican who voted to convict President Trump in his 2021 impeachment trial,  took a veiled swipe at Mr. Trump, saying power should not focus on “one individual.”
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/us/politics/republicans-trump-cassidy-conviction-impeachment.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
