@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/16 - 23:39`
+**📅 Update (Tehran Time):** `2026/05/17 - 13:42`
 
 ---
 
@@ -19,122 +19,200 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Can new Pakistan-Afghanistan tensions lead to another border clash?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778955455.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Egyptian teen Amina Orfi beats El-Sherbini to win PSA world squash title
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/IMG_0455-1778999965.webp?resize=1920%2C1368' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Relations between Pakistan and Afghanistan have been tense since the Taliban took power in 2021.
+Egypt’s Amina Orfi has rewritten squash history in her sensational title-winning run at the Professional Squash Association (PSA) World Championships 2026, beating world number two Nour El-Sherbini in a thrilling five-game final to become the youngest women’s world champion.
 
-On Monday, Pakistan summoned a senior Afghan diplomat after an attack claimed by the Pakistan Taliban, known by the acronym TPP. The group said it carried out two more attacks since, mostly against security forces.
+Eighteen-year-old Orfi defeated compatriot El-Sherbini 6-11, 11-6, 11-9, 7-11, 14-12 in Saturday’s final in Giza, Egypt.
 
-The latest violence started with a major border skirmish in February. Mediation efforts by Saudi Arabia, Qatar, Turkiye and China led to a pause in the fighting.
+At 18 years and 10 months, Orfi is not only the youngest women’s champion but also the first player to hold both world junior and senior PSA championship titles at the same time. The PSA is the global governing body for men’s and women’s professional squash circuits.
 
-But the two sides have continued to target each other. This includes a Pakistani strike on a drug rehabilitation centre that killed more than 250 people.
+“I’m speechless,” Orfi said after bagging her 12th PSA title. “I worked so hard to get here and had so many tough losses this season.”
 
-Will these breaches lead to a resumption of hostilities? And is lasting peace possible between the neighbours?
+Orfi denied the 31-year-old El-Sherbini her ninth world title, the first of which she won at the age of 20.
 
-Masood Khan – Former permanent representative of Pakistan, United Nations
+The final produced the eighth-longest women’s match of all time and the second-longest women’s PSA World Championships final, behind only Rhonda Thorne and Vicki Hoffman’s 118-minute marathon in 1981.
 
-Obaidullah Baheer – Adjunct lecturer, American University of Afghanistan
+El-Sherbini took the first game with ease as Orfi struggled to gather her rhythm on court. However, the opening loss didn’t seem to affect the teenager, who took control of the next two games to inch closer to her debut world championship title.
+
+The eight-time champion found a second win in the fourth game after dominating Orfi to set up a historic fifth game.
+
+Repeated tie-breaks signalled that the match could go either way, but a powerful backhand from Orfi that El-Sherbini failed to pick up saw the teenager claim victory.
+
+Orfi, number three in the PSA’s world rankings, overcame another tough challenge in the semifinals when she defeated top-ranked Hania El-Hammamy in a four-game match.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/17/egyptian-teen-amina-orfi-beats-el-sherbini-to-win-psa-world-squash-title?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 In response to Trump, Taiwan says it is ‘sovereign and independent’
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a08b6763f2c-1778955894.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 How Arsenal or Man City can clinch Premier League title with two games left
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_68d0271f538f-1758471967-1779010343.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Following a visit from United States President Donald Trump to China, the island of Taiwan has issued a statement saying it is “sovereign and independent”.
+The two-horse Premier League title race between Arsenal and Manchester City has reached crunch time, as the 2025-26 season is set to enter its final week.
 
-But Saturday’s statement added that Taiwan plans to maintain the “cross-strait status quo”, under which it will not officially declare independence from China.
+The two sides have two games left – Arsenal are in action on Monday, City are playing on Tuesday, and then both head into the last day of the season next Sunday, May 24.
 
-The message came as a response to an interview Trump gave to Fox News a day earlier, as he departed Beijing following meetings with Chinese leader Xi Jinping.
+So, what does each club need to do to win the title in the final two rounds?
 
-In the interview, Trump said, “I’m not looking to have somebody go independent,” in reference to Taiwan, the self-governing island Beijing claims as its own territory.
+However, if clubs finish with the same number of points, the winners are determined by goal difference.
 
-The question of Taiwan’s sovereignty has been a fractious issue, stretching back to the Chinese civil war in the 1940s.
+If their goal difference is the same, then it goes to goals scored, then to the team that collected the most points in head-to-head matches, then to the team that scored the most away goals in the head-to-head games.
 
-While the US does not officially back Taiwan’s claims to independence, successive presidencies have supported the island through arms sales and remarks suggesting the US could defend Taiwan, should it be attacked by China.
+The league leaders are two points ahead of Man City, so if the Gunners win their final two games, they will lift the Premier League trophy for the first time in 22 years.
 
-Speaking to Fox News, Trump took a more ambivalent approach to defending Taiwan than some of his predecessors.
+However, Man City are currently one goal ahead on goal difference and could still snatch the title if Mikel Arteta’s side slip up. City also have the advantage in terms of goals scored – 75 to 68 going into the last two games.
 
-“You know, we’re supposed to travel 9,500 miles [15,289km] to fight a war. I’m not looking for that. I want them to cool down. I want China to cool down,” Trump said.
+City also have the better head-to-head record in the league this season as they beat Arsenal 2-1 at home in April and got a 1-1 draw at the Emirates in September.
 
-“We’re not looking to have wars. If you kept it the way it is, I think China’s going to be OK with that. But we’re not looking to have somebody say, ‘Let’s go independent because the United States is backing us.'”
+On paper, Arsenal’s run-in looks easier than City’s as the Gunners face already relegated Burnley at home and then have an away trip to a 15th-placed Crystal Palace side who are safe from the drop and will have an eye on their upcoming Europa Conference League final against Rayo Vallecano on May 27.
 
-The tension between the governments in Taiwan and Beijing loomed large over Trump’s recent diplomatic visit.
+City will likely have to win both their last games and hope that Arsenal slip up. They will also be looking to boost their goal difference in case the teams finish level on points.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/in-response-to-trump-taiwan-says-it-is-sovereign-and-independent?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/17/how-arsenal-or-man-city-can-clinch-premier-league-title-with-two-games-left?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Tens of thousands join far-right rally in central London
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778959404.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 At least four killed in Ukrainian drone attacks on Russia
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260517__B33H8NQ__v2__HighRes__RussiaUkraineConflict-1779008733.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Tens of thousands marched through central London on Saturday at a far-right rally led by activist Tommy Robinson
+At least four people have been killed after Ukraine launched large-scale drone attacks on several Russian regions, including Moscow, in what officials described as the biggest drone assault in more than a year.
+
+Russian authorities said on Sunday three people were killed in the Moscow region and another person died in Belgorod, near the Ukrainian border.
+
+Moscow region’s Governor Andrei Vorobyov said a woman was killed after a drone struck a house in Khimki, north of Moscow. Rescue workers were searching the rubble for another possible victim. Two other men were killed in the village of Pogorelki in the Mytishchi district, he said.
+
+Vorobyov added that apartment buildings and infrastructure sites were damaged in the attacks.
+
+Russia’s state news agency TASS, quoting Moscow Mayor Sergei Sobyanin, reported that air defence systems shot down 81 drones targeting the capital overnight.
+
+He said 12 people were injured, most of them near Moscow’s oil refinery, adding it continued operating without disruption, while three homes were damaged.
+
+Russia’s Ministry of Defence said it intercepted 556 drones across the country overnight and into Sunday morning.
+
+Sheremetyevo airport, Moscow’s largest, said drone debris had fallen on its grounds but caused no damage.
+
+The attacks came after United States President Donald Trump and his Russian counterpart, Vladimir Putin, suggested the war could be nearing an end. Trump said last week he believed Moscow and Kyiv would “soon reach a deal” to stop the fighting.
+
+Meanwhile, Ukrainian officials said Russian attacks continued in parts of Ukraine. In the Kharkiv region, authorities said Russian forces targeted 15 settlements over the past 24 hours, wounding seven people.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/16/tens-of-thousands-join-far-right-rally-in-central-london?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Latvia’s president asks opposition leader to form new government
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-16T164010Z_2053255081_RC2EALAC83MQ_RTRMADP_3_UKRAINE-CRISIS-DRONES-LATVIA-1778955736.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Conor McGregor to fight Max Holloway in UFC return on July 11
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26137109494734-1779007366_311048-1779008066.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Latvian President Edgars Rinkevics has backed opposition lawmaker Andris Kulbergs to replace Evika Silina for the top job after the prime minister resigned over an incident involving Ukrainian drones.
+Conor McGregor, a huge ‌name in mixed martial arts (MMA) despite not fighting ⁠since 2021, ⁠will return for a match with Max Holloway on July 11 in Las Vegas, Ultimate Fighting Championship (UFC) ⁠CEO Dana White has announced.
 
-Kulbergs, leader of the United List of smaller parties, which forms the largest opposition bloc in parliament, will take office if lawmakers approve him and his cabinet.
+Ireland’s McGregor (22-6-0) will face fellow former champion Holloway (27-9-0) in a nontitle welterweight bout ⁠as the main event of UFC 329 during International Fight Week, White said on Saturday. It’s a rematch of their featherweight bout in August 2013, which McGregor won by a three-round decision ‌despite a torn ACL.
 
-“Considering recent events, I think the new prime minister should come from opposition parties,” President Rinkevics told a news conference on Saturday.
+McGregor, 37, last fought on July 10, 2021, losing by TKO to Dustin Poirier after breaking his leg during the final seconds of the first round. The fighters had split two earlier matches.
 
-Last weekend, the former Prime Minister Silina fired her defence minister, Andris Spruds, after two Ukrainian drones strayed into Latvia from Russia and exploded at an oil storage facility.
+Another return ⁠was cancelled when McGregor sustained ⁠a toe injury before his match with Michael Chandler scheduled for June 2024.
 
-The incident is only the latest in a series of such events in NATO members Latvia, Estonia, and Lithuania.
+McGregor became the first UFC fighter to be champion simultaneously ⁠in two weight divisions in 2016. He knocked out Jose Aldo for ⁠the featherweight belt in December 2015 ⁠and stopped Eddie Alvarez for the lightweight title in November 2016. He is 1-3 in his last four bouts.
 
-The drone incidents “clearly demonstrated that the political leadership of the defence sector has failed to fulfil its promise of safe skies over our country”, Silina said when explaining Spruds’s forced resignation.
-
-In the following days, The Progressives party, Silina’s left-leaning coalition partner, pulled support from the government and left her without a majority. “I ⁠am resigning, but I am not giving up,” Silina said in a televised statement on Thursday, announcing her resignation.
-
-President Rinkevics settled on Kulbergs after meeting representatives from all the parties in parliament, reported the Reuters news agency.
-
-The president told reporters he had invited Kulbergs to form a government. If Kulbergs were to succeed, the cabinet lineup would still need to be approved by the parliament.
-
-Kulbergs said he hoped to create an “enlarged coalition” to administer Latvia until parliamentary elections are held on October 3.
+Holloway, 34, is a ‌former featherweight champion who has beaten Justin Gaethje, Aldo (twice), Poirier and Frankie Edgar. The Hawaii native is ‌1-1 since ‌moving to lightweight in 2025, losing his last bout to Charles Oliveira by a five-round decision in March.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/16/latvias-president-asks-opposition-leader-to-form-new-government?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/17/conor-mcgregor-to-fight-max-holloway-in-ufc-return-on-july-11?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Accident kills eight people in Thailand raising questions of rail safety
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778958284.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779008138.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Devastating railway accident in Bangkok kills at least eight people. And an investigation is underway.
+Al Jazeera’s Tohid Asadi reports from the strait and explains Tehran’s newest plan to manage shipping.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/16/accident-kills-eight-people-in-thailand-raising-questions-of-rail-safety?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
+### 📰 WHO declares Ebola outbreak in DR Congo a global health emergency
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/404c/live/7be494d0-51be-11f1-a61d-97b09d8870ae.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+The World Health Organization (WHO) has declared an Ebola outbreak in the Democratic Republic of Congo a public health emergency of international concern.
+
+The agency said the outbreak in DR Congo's eastern Ituri province, which has seen around 246 suspected cases and 80 deaths reported, does not meet the criteria of a pandemic emergency.
+
+But it warned it could potentially be "a much larger outbreak" than what is currently being detected and reported, with significant risk of local and regional spread.
+
+The current strain of Ebola is caused by the Bundibugyo virus, the health agency said, for which there are no approved drugs or vaccines.
+
+Early symptoms include fever, muscle pain, fatigue, headache and sore throat, and are followed by vomiting, diarrhoea, a rash and bleeding.
+
+The WHO said there are now eight laboratory-confirmed cases of the virus, with other suspected cases and deaths across three health zones including Bunia the capital of Ituri province, and the gold-mining towns of Mongwalu and Rwampara.
+
+One case of the virus has been confirmed in the capital Kinshasa, believed to be in a patient returning from Ituri.
+
+The WHO said that the virus has spread beyond DR Congo, with two confirmed cases reported in neighbouring Uganda. Ugandan officials said a 59-year-old man who died on Thursday had tested positive.
+
+In a statement, the Ugandan government said the patient who died was a Congolese citizen whose body has already been returned to DR Congo.
+
+A laboratory has also confirmed an Ebola case in the eastern city of Goma, currently controlled by the M23 rebels, the AFP news agency reported on Sunday.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Hezbollah drone strike videos show evolving tactics against Israel
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/538f/live/25317530-5075-11f1-89a3-d1f559421220.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Hezbollah has increased its use of small first-person view (FPV) drones to attack Israel, including systems controlled by fibre-optic cables to evade sophisticated defences.
+
+BBC Verify has geolocated 35 videos shared by the Lebanese armed group since 26 March which show strikes on Israeli soldiers, armoured vehicles and air defence systems in southern Lebanon and northern Israel.
+
+Experts told BBC Verify the Israel Defense Forces (IDF) has "so far been unable to develop any effective countermeasures", as the small drones can easily bypass detection systems.
+
+The drones can also be made from commercially available and 3D-printed components - and are cheap compared to the high-value targets they can destroy, experts also said.
+
+The use of cheap FPV drones has become widespread during the Russia-Ukraine war and has changed modern warfare.
+
+While the Israeli military has not published all casualty details, Israeli media reports indicate four IDF soldiers and one civilian have been killed in FPV strikes, with dozens more injured.
+
+The IDF told BBC Verify it recognises the threat from drones and is investing "significant resources" in improving defences, developing "more effective alert models" and training soldiers for "improving readiness and increasing awareness of the threat".
+
+According to the Institute for National Security Studies, the IDF has also been using FPV drones for several years, currently operating with them in southern Lebanon and against Hamas in Gaza.
+
+Hisham Jaber, a military analyst and former Lebanese army general, told BBC Arabic the FPV drones can be "undetectable by radar" and the "hundreds" of them at Hezbollah's disposal have been used to disable armoured vehicles - including tanks.
+
+Hezbollah has been using several types of larger attack drones against targets in northern Israel for many years, Jaber added, but the use of FPVs represents an "entirely different category".
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Taiwan insists it is independent after Trump warning
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/9b3f/live/fab5e450-513f-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -166,125 +244,65 @@ In an interview with Fox News after meetings with President Xi, Trump reiterated
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/043b/live/04a83f80-51bd-11f1-a61d-97b09d8870ae.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Three people were killed overnight in a large-scale Ukrainian drone attack on the Moscow region, Russian officials have said.
+
+A woman died in a house in Khimki, north of the capital, where a person was trapped under rubble, regional governor Andrei Vorobiev said. A man and a woman were killed in the village of Pogorelki.
+
+Moscow Mayor Sergei Sobyanin said 12 people were injured in strikes on a city oil refinery. Russia's military said 556 drones were intercepted.
+
+Ukrainian President Volodymyr Zelensky said the strikes were an "entirely justified" response to deadly Russian attacks on Ukrainian cities.
+
+Earlier this week, a massive Russian drone and missile attack killed 24 people in Kyiv.
+
+In Ukraine, eight people were injured in overnight Russian drone attacks and shelling in the central Dnipropetrovsk region, officials said.
+
+Russian President Vladimir Putin launched a full-scale invasion of Ukraine in 2022, and Moscow currently controls about 20% of Ukrainian territory.
+
+In a post on Telegram early on Sunday, Vorobiev wrote that "since three o'clock in the morning, air defence forces have been repelling a large-scale UAV [drone] attack on the capital region".
+
+He said four people - three men and a woman - were injured in the region, and a number of houses damaged.
+
+A private house was on fire in the village of Subbotino, south-west of Moscow, the governor added.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Man drives car into pedestrians in Italy, injuring eight
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1ba6/live/8d2b7de0-514f-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/be55/live/7d9e5030-5165-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
 A man has driven his car into pedestrians in the northern Italian city of Modena, injuring eight people, four seriously, officials say.
 
-Passers-by gave chase and managed to detain the man, in his 30s, and hand him over to police.
+After the car came to a halt against a shop window, the driver emerged holding a knife and injured a passer-by who gave chase, before the suspect was overpowered.
 
-Prime Minister Giorgia Meloni described the incident as "extremely serious". City Mayor Massimo Mezzeti added that it would be "even more serious" if it turned out to be a premeditated attack.
+The suspect, 31, has been identified by officials as an Italian national of Moroccan origin. Italy's Prime Minister Giorgia Meloni described Saturday's incident as "extremely serious".
 
-The incident occurred around 16:30 (14:30 GMT), when the speeding car hit the pedestrians in the centre of Modena, south-east of Milan.
+Meloni, who has cancelled her planned visit to Cyprus, and Italian President Sergio Mattarella will visit the injured people later on Sunday.
 
-"We saw the car approaching, it was heading for the curb," an eyewitness said.
+At a news conference on Saturday evening, the prefect of Modena Fabrizia Triolo said that El Koudri had been referred to a mental health centre in 2022 for "schizoid disorders", but had then "disappeared without a trace".
 
-Modena's mayor said it appeared the driver "deliberately drove on to the pavement, hitting several people and crashing into a shop window".
+The incident occurred around 16:30 (14:30 GMT), when the speeding car hit the pedestrians in Via Emilia next to the iconic cathedral of Modena, south-east of Milan. The vehicle then veered left before coming to a halt against a shop window.
 
-One man who tried to stop him was lightly injured before others joined him to overpower the attacker.
+"We saw the car approaching, it was heading for the kerb," an eyewitness said.
 
-The mayor said the suspect was an Italian national born in Bergamo, "but of Maghreb origins". He lives in the province of Modena.
+Modena's Mayor Massimo Mezzetti said it appeared the driver "deliberately drove on to the pavement, hitting several people and crashing into a shop window".
 
-Italy's far-right Deputy Prime Minister Matteo Salvini named the suspect on X as Salim El Koudri.
+Luca Signorelli told Italian media he was trying to help the woman when he noticed the driver trying to run away.
+
+Signorelli said he gave chase and the attacker turned on him with a knife in hand. He received a blow to the head and one on his chest before being able to restrain the suspect, with the help of other passers-by.
 
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Senior IS leader killed in joint operation, US and Nigeria say
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a680/live/14280950-50ef-11f1-a68e-c34d4e405829.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Nigeria and the United States say they have killed a senior Islamic State (IS) leader in a joint-operation.
-
-Abu-Bilal al-Minuki was described by US President Donald Trump as the "second in command of ISIS globally" and "the most active terrorist in the world".
-
-IS has radically shifted in recent years, with around 90% of its attacks now taking place in sub-Saharan Africa. Its Nigeria-based branch is by far the most active.
-
-Nigerian President Bola Tinubu said the two countries had carried out a "daring joint operation that dealt a heavy blow" to IS.
-
-Al‑Minuki was declared a Specially Designated Global Terrorist by Washington in 2023.
-
-He was killed along with "several of his lieutenants" during a strike on his compound in the Lake Chad Basin, a huge region of waterways and swampland shared by Nigeria, Chad, Niger and Cameroon.
-
-A military spokesman said intelligence had established Minuki had established a fortified base in the area - in Metele, Borno state.
-
-The Lake Chad basin has long been a stronghold for Boko Haram and its rival faction, Islamic State West Africa Province (Iswap).
-
-The Nigerian military said the operation began shortly after midnight on Saturday, after months of intelligence gathering and reconnaissance. It said "zero casualties or loss of assets" were recorded, describing the operation as evidence of growing cooperation between Nigerian and US forces.
-
-It said that al-Minuki had been promoted to "Head of General Directorate of States", making him one of the most senior figures within the global IS hierarchy.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Rescue diver dies during search for bodies of Italians who drowned in Maldives caves
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6c7d/live/b63ca910-5123-11f1-a5d4-1388da3b9f7b.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A rescue diver has died while searching for the bodies of a group of Italians who died in a scuba-diving accident in the Maldives.
-
-Staff Sgt Mohamed Mahdhee was taken to hospital in critical condition and later succumbed to his injuries, a government spokesman told the BBC on Saturday.
-
-Five Italians died while attempting to explore caves at a depth of around 50m (164ft) on Thursday. So far, the body of one of them is thought to have been recovered, in a cave at a depth of around 60m (197ft).
-
-The incident is believed to be the worst single diving accident in the tiny Indian Ocean nation, a popular tourist destination because of its string of coral islands.
-
-Maldivian President Mohamed Muizzu travelled to Vaavu Atoll on Saturday to observe the search operations.
-
-"Eight rescue divers went into the water today.  When they surfaced, they realised Mr Mahdhee didn't come up," Mohamed Hossain Shareef, a Maldivian government spokesman told the BBC.
-
-The other divers immediately went into the water again and they found Mahdhee had blacked out.
-
-The Maldives military has described the operation as very high risk, with unfavourable weather conditions.
-
-Italian Foreign Minister Antonio Tajani sent condolences: "These days of grief for Italy are compounded by the news that one of your brave soldiers... died while attempting to dive to reach the bodies of our fellow Italians."
-
-"This tragedy unites Italy and the Maldives in grief and respect for the victims," he added.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Whale found dead near Danish island after German rescue operation
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c319/live/648bba50-5148-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A humpback whale rescued after beaching itself in Germany has been found dead near a Danish island.
-
-The whale was first spotted stuck on a sandbank on 23 March, off the island of Poel on Germany's Baltic coast.
-
-It swam free in early May after a water-filled barge carried it into the North Sea.
-
-The operation was privately funded by two German entrepreneurs and spurred intense public debate, with critics suggesting it would only cause the animal distress.
-
-A whale carcass was reportedly spotted on Thursday off the Danish island of Anholt, located between Denmark and Sweden.
-
-Authorities were not immediately able to confirm it was the same whale. In a statement the Danish Environmental Protection Agency said conditions on Saturday made it possible for the whale's identity to be verified, and its tracking device retrieved.
-
-The agency told AFP "there are no concrete plans to remove the whale from the area or to perform a necropsy, and it is not currently considered to pose a problem in the area".
-
-But it stressed that people should not approach the whale because it might carry diseases that can be transmitted to humans.
-
-There may also be a risk of explosion, it added, because of large volumes of internal gas caused by decomposition.
-
-The whale, nicknamed "Timmy" or "Hope" by rescuers and German media, became stranded on Timmendorfer Beach in Lübeck Bay on 23 March.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -449,178 +467,232 @@ Esther is from a different African country. The Guardian is using a pseudonym fo
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Dak Prescott Spotted at Pro Bull Riders Event with Ex Sarah Jane Ramos' Bridesmaid
-<img src='https://imagez.tmz.com/image/2c/16by9/2026/05/16/2cab65590273480797d7bfe2c6725916_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Taylor Swift and Travis Kelce Hit Private Event in NYC as Marriage Rumors Grow
+<img src='https://imagez.tmz.com/image/34/16by9/2026/05/17/34fbb7084d834e90bc18fd10e3c4fd43_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Dak Prescott's recent outing with one of his ex's would-be bridesmaids has caused a stir ... but he's vigorously denied they're dating to us.
+Taylor Swift and Travis Kelce may not be married yet, but they're certainly acting like a married couple while out and about in NYC.
 
-Here's the deal ... on Friday night Caitlin Rance -- a friend of Dak and Sarah Jane Ramos, to whom Dak was engaged until earlier this year -- attended a Pro Bull Riders event in Fort Worth, Texas.
+The famous lovebirds hit up a private event at HONEY's cocktail bar in Williamsburg, Brooklyn, on Saturday night. After being chauffeured to the pub, the two hopped out of an SUV in their fancy outfits and walked hand-in-hand to the front door.
 
-Photos and videos taken at the event confirm they were both there ... and we've heard from eyewitnesses that they looked a little more than just friends.
+Travis then placed one of his hands gently on Taylor's back as he guided her inside the building.
 
-And then there's this ... we called Caitlin to ask if there's any truth to the dating rumors -- and she actually handed the phone over to Dak!
+Although they haven't walked down the aisle yet, Travis and Taylor are clearly very comfortable with each other and ready to take the next step in their relationship.
 
-He told us they're not dating ... the two have been friends for years, and there's nothing going on between them -- end of story. The two have known each other since their days at Mississippi State University where they overlapped briefly.
+On Friday night, the power couple was photographed by paparazzi strolling hand-in-hand through Manhattan's Soho neighborhood before heading inside Or’esh for a fancy Mediterranean dinner.&nbsp;
 
-As you know ... Dak and Sarah ended their engagement after about 18 months in March, just weeks before the wedding. They're handling the custody of their two kids peacefully.
-
-Cailtin was going to be a bridesmaid at the wedding ... but, since it was called off, she never got the chance.
-
-Dak's denial is strong ... but our sources are confident in what they saw.
+We're all just waiting now for the big day.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/dak-prescott-caitlin-rance-seen-together/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/taylor-swift-and-travis-kelce-hit-private-event-in-brooklyn/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Arkansas Man Arrested After Allegedly Threatening Mass Shooting if Hantavirus Shuts Down U.S.
-<img src='https://imagez.tmz.com/image/02/16by9/2026/05/16/02ae19ca97dd4c1ebf76469b1f9face7_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Celebrity Scramble -- Can You Guess The Mayoral Candidate?!
+<img src='https://imagez.tmz.com/image/1a/16by9/2026/05/12/1aa121cb21c5497cac7bb2e9730473a8_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-The potential of a bigger hantavirus outbreak is apparently starting to drive people mad.
+Swirled inside this snazzy snap is a reality TV star from Los Angeles, California who is running for mayor. Can you guess who he is?
 
-Case in point ... an Arkansas man allegedly threatened to shoot up a Walmart if the hantavirus forces the United States to shut down.
+He's speaking up for those affected by the January 2025 L.A. Wildfires ... and when he's not spilling the tea on his podcast, he's a doting father to his kiddos.
 
-According to cops, Aaron Keith Bynum was arrested Friday by Marion County Sheriff deputies and charged with making terroristic threats -- a felony -- and harassing communications, a misdemeanor.
+Still not sure? Talk to Heidi!
 
-Bynum's capture&nbsp;comes after he allegedly made the threat during an online game he was playing. The Federal Bureau of Investigation received a tip about it, police say.
-
-Cops say the tipster gave the FBI Bynum's alleged online username, which the feds used to subpoena the company that produces the game.
-
-The company confirmed Bynum is the account holder, cops claim, and then passed the info along to the sheriff's office whose deputies executed a probable cause search warrant.
-
-During the search, cops say they seized Bynum's computer and placed him under arrest.&nbsp;Bynum is currently being held on $2,500 bail after getting booked into the Marion County Detention Center.
-
-In April, three people died from the hantavirus during an outbreak on a cruise ship, MV Hondius, which was traveling through the Atlantic Ocean. Officials say 11 other cruise passengers fell ill and were hospitalized with 8 of them confirmed cases of hantavirus.
+Hit up the gallery for the reveal!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/arkansas-man-arrested-threatening-mass-shooting-hantavirus/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/guess-who-is-running-for-mayor/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Stars and Scars -- You Be the Judge
-<img src='https://imagez.tmz.com/image/c5/16by9/2026/05/16/c5940eb60ea143c4a6c3ce0c5360d274_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Motocross Pro Colby Raha Talks Death Defying Caesars Palace Jump
+<img src='https://imagez.tmz.com/image/26/16by9/2026/05/14/26cb2375d7344dc29a7a2817c2446d7d_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Drake drops 3 new albums and a whole lotta beef, Spencer Pratt rolls reality cameras on his mayoral campaign, plus Alex Murdaugh's gets a murder retrial, and Congress members get lost in the weed. So, we gotta ask ...
+Colby Raha, pro motocross rider, is attempting a death-defying jump ... and he walked TMZ Sports through the insane stunt!
+
+Raha, 31, will attempt to break his own world record for highest vertical jump off a quarter-pipe, which is currently 90 feet, gunning to fly 100 feet above one of the most iconic locales on the Las Vegas Strip Sunday afternoon, all to celebrate the grand opening of OMNIA Dayclub &amp; Skybar.
+
+"We're here at the beautiful Caesars Palace fountains, where Evel Knievel and a bunch of other legends jump their bikes, and I'm going to be jumping my motorcycle, going for a world record," Raha told Babcock.
+
+He explains, "I'm going for the highest ever motorcycle jump in the air of all time. I'm going for 100 feet off the floor. It's kind of like a half pipe. If you know Tony Hawk or a skateboarder, I'm doing it on a dirt bike. So I'm going straight up and down."
+
+If the level risk isn't crystal clear ... consider Knievel attempted a jump at the fountains in 1967, crashing and injuring himself so badly that he nearly died. Raha's jump is fundamentally different -- he's going for height, not distance -- but the point remains ... this is dangerous stuff.
+
+If anyone can hit the 100-foot mark and land the jump, it's Colby ... who won 13 X-Games medals, 7 of them being gold ones.
+
+The epic stunt is all to celebrate the opening of the dayclub ... and Colby says we shouldn't be surprised if we see him hanging out there after he sets the record.
+
+Colby assures us, "The OMNIA Dayclub will be going off. It's like Rufus Du Sol and Martin Garrix, and I'm sure I'll end up in there, but it's a day club. It's going to be at about 3 o'clock, so I'm sure I'll round up with the family and close friends and my team, and we'll go out and see what this town's all about."
+
+Raha sends it at 2PM on Sunday ... and if you're not lucky enough to be in Sin City, it'll stream online!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/polls-you-be-the-judge/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/colby-raha-jump-caesars-palace/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 'Street Outlaws' Star Daddy Dave's Arrest and Alleged Crime on Video
-<img src='https://imagez.tmz.com/image/5d/16by9/2026/05/16/5da161baf6564c15860054ffd1abc849_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Hayden Panettiere's Ex Blasts Her Estranged Mom Over Memoir Comments
+<img src='https://imagez.tmz.com/image/8d/16by9/2026/05/15/8d0edd5c852e4eeebd3b56620aa6e601_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-We told you last week "Street Outlaws" star Daddy Dave was caught on video allegedly planting a GPS device under someone's vehicle -- and now we have the footage of the alleged crime.
+Hayden Panettiere's ex Brian Hickerson is jumping into the actress' bitter family feud ... blasting Hayden's estranged mother after she publicly questioned Hayden opening up about her sexuality in her new memoir.
 
-TMZ obtained security cam video showing what purports to be Dave -- dressed in all black with a hoodie over his head -- walking down a street in Bath, New York, on the night of May 12.
+Brian sat down with TMZ's Charlie Neff and reacted to recent comments by Hayden's mom, Lesley Vogel ... the former momager cast doubt as to why Hayden was discussing being bisexual now, suggesting the timing had more to do with promoting her new book.
 
-In the video, the suspect squats next to the parked vehicle and then reaches beneath the undercarriage, presumably to attach the tracking device.
+When Charlie asked Brian if he knew Hayden was attracted to women, he kept it simple -- "Yeah. Hayden is into beautiful people."
 
-Bath Village Police Chief Donald Lewis tells us ... the man seen in the video appears to be Daddy Dave, whose real name is David Comstock. According to a police press release, Dave placed the tracking device under the vehicle while being recorded on video.
+But things escalated quickly when Brian turned his attention to Lesley. He didn't hold back ... saying, "Hayden's mother is by far one of the worst people I've ever met in my life ... I just can't with her. She's terrible."
 
-But Daddy Dave tells TMZ ... "It's not me. You guys are barking up the wrong tree."&nbsp;
+The comments add another messy layer to the ongoing drama surrounding Hayden's upcoming memoir, "This Is Me: A Reckoning," which has already sparked headlines over her addiction struggles, family trauma, and past abusive relationships -- including her tumultuous coupling with Brian.
 
-Our footage also shows the suspect hurrying away from the vehicle followed by a police officer later arriving on scene to investigate, along with two unidentified people. Then came the arrest -- and you can actually see officers taking the suspect away in handcuffs on the street.
+As we reported ... Hayden recently revealed she felt pressured to keep parts of her identity private while growing up in Hollywood under her mother's management. Meanwhile, Lesley is accusing her daughter of giving her "20 years of trauma" ... suggesting the drama is more about book sales than healing wounds.
 
-As we reported, Daddy Dave was booked into the jail in the early morning of May 13 on two misdemeanor charges, namely stalking and criminal tampering. He has since been released.
-
-ICYW, police have not disclosed a motive and what, if any, relationship Dave had with the alleged victim.&nbsp;
+Brian and Hayden's dynamic remains complicated ... check out the rest of the YouTube interview above -- he gives his perspective on her new memoir and discusses where he stands with the actress currently.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/daddy-dave-street-outlaws-alleged-crime-on-video/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/brian-hickerson-slams-hayden-panettieres-mom/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Mark Ruffalo Assumes 'Vindictive Motherf***ers' Larry & David Ellison Have Him 'On A List'
-<img src='https://imagez.tmz.com/image/69/16by9/2026/05/16/69e330c5f6ae4c5d8b0fc455f8857419_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Recreate High School Musical 2 Pool Scene: Shop Iconic Must-Haves
+<img src='https://imagez.tmz.com/image/ae/16by9/2026/05/12/ae4b7fb45e784bf3890f8954e34b2cd6_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Mark Ruffalo doesn't think he'll be pulled in for many auditions if Paramount and Warner Bros. merge ... because, according to him, David and Larry Ellison aren't the "forgive and forget" types.
+TMZ may collect a share of sales or other compensation from links on this page.
 
-The actor talked about Paramount Skydance's controversial acquisition on a new episode of the "I've Had It" podcast ... joking that he's "already on a list" after his open letter opposing the merger gained thousands of signatures.
+Summer's almost here, which means goodbye clouds of gray and hello skies of blue! Now that the weather's warmer ... it's the perfect time for some pool party planning!
 
-Ruffalo says the Ellisons spark a lot of fear in people ... quoting one person who told him "these are some vindictive motherf***ers, the Ellisons."
+And what better inspo could you need than Sharpay Evans' fabulous poolside day from "High School Musical 2"?!
 
-Two types of people are signing the open letter, Ruffalo says ... people like him -- big stars who have the privilege to oppose the merger -- and production people who simply can't afford not to.
+Whether you want to shop her style or are intrigued by her divalicious demands ... we've got you covered. Check out our picks to recreate Disney's most iconic pool party!
 
-As you know ... Paramount -- led by CEO David Ellison -- has thrown down $110 Billion to acquire WB after Netflix's $82.7 Billion offer was ultimately turned down. Many in the film industry have decried the move and have called on the government to deny the merger, citing antitrust laws.
+Want more great finds? Head to TMZ Deals.&nbsp;
 
-Bottom line ... if it goes through don't expect to see Mark Ruffalo making a movie for Paramount anytime soon.
+SweatyRocks White Tankini
+
+You'll be the spitting image of Sharpay in this SweatyRocks White Tankini.
+
+The top has a flared, flattering fit and is adorned with a metal seashell.
+
+It's so cute, no one will even notice if you happen to have a high-maintenance moment.
+
+PURPLE LEAF Outdoor Chaise Lounge
+
+With the PURPLE LEAF Outdoor Chaise Lounge, you actually can spend endless days in your chaise ... and who doesn't want that?!
+
+You and your bestie -- an equally-musical-obsessed brother, perhaps? -- can both soak up the sun, because this set comes with 2 chairs and a table.
+
+Hibluco Women's Pink Cover Up
+
+If you really want to steal Sharpay's look, the tankini alone won't cut it. You'll need the Hibluco Women's Pink Cover Up to really sell the homage to East High's resident prima donna.
+
+It's soft and breathable, so you won't overheat while you're laying out.
+
+BAY LAUREL Turkish Beach Towel
+
+If you're on the hunt for towels imported from Turkey -- like Sharpay is -- you can't go wrong with this BAY LAUREL Turkish Beach Towel. It's actually made in Turkey ... so you know you're getting an authentic, high-quality towel to dry off with.
+
+Allegra K Lace-Up Platform Wedges
+
+Sure, you could wear flip flops to the pool. Or you could ask yourself ... "What would Sharpay do?" In the movie, she's rocking a little lift in shoes super similar to the Allegra K Lace-Up Platform Wedges. They come in fun metallic colors that shine as bright as the aspiring star of the spring musical.
+
+ZHUYNXIR Lime Slice Pool Float
+
+And when you're ready to go for a float, the ZHUYNXIR Lime Slice Pool Float looks an awful lot like the one Sharpay's using in her big, musical montage. It's over 5 feet in diameter ... so you'll have plenty of room to stretch out and relax on the water.
+
+SA106 Oversized Sunglasses
+
+Sharpay's go-to pool party shades are a pair of pink, oversized sunnies ... and you can score some, too. The SA106 Oversized Sunglasses are pretty close to the ones from the movie, boasting a square silhouette and thick frames. The lenses block both UVA &amp; UVB rays, so they're both fashionable and functional.
+
+New English Teas British Tea Tins
+
+Looking for iced tea imported from England? Well, look no further than these New English Teas British Tea Tins. The British brand is based in Coventry, England ... and this set comes with 3 tins of iconic English tea. All you have to do is brew and add ice!
+
+Deidreamers Sterling Silver Star Necklace
+
+Sharpay loves to remind herself -- and everyone around her -- that she's a star. So if you're trying to steal her style down to the details, check out the Deidreamers Sterling Silver Star Necklace. Sharpay's may have a few more rhinestones ... but this necklace will certainly get the same message across.
+
+Used Prada Carey Tote Bag
+
+One of the things on Sharpay's lengthy list of pool party necessities is, of course, her pink Prada tote. And while we can't confirm this used Prada Carey Tote Bag is secondhand Sharpay ... it is pink, Prada and a tote!
+
+For more curated product lists check out TMZ Deals.
+
+Sign up for Amazon Prime to get the best deals!
+
+All prices &amp; availability subject to change.&nbsp;Not official merchandise.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/16/mark-ruffalo-calls-david-larry-ellison-vindictive-motherf-ers-after-paramount-merger/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/high-school-musical-2-fabulous-pool-day-buy-on-amazon/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.
+### 📰 For Trump, Soaring Prices Test Voters’ Finances and Patience
 <div align='justify'>
 
-The lack of concrete agreements with Beijing shows the risks of President Trump’s personality-driven foreign policy, which rests on the belief that he can defend U.S. interests through charm and force of will.
+Just months before another election that may hinge on the economy, the war in Iran has sent gas and other goods soaring.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/europe/trump-xi-china-summit.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump Uses Taiwan Arms Sales as Bargaining Chip With China, in a Risky Move
+### 📰 To Critics, Trump Remarks Reveal a Billionaire Out of Touch
 <div align='justify'>
 
-The president said a potential arms deal for Taiwan was a “very good negotiating chip” in talks with Beijing. His words raise questions about the reliability of U.S. support.
+The president has never pretended to be an ordinary American, but a recent “truth bomb” has opened him to criticism that he doesn’t grasp the economic strain of his war with Iran.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/us/politics/to-critics-trump-remarks-reveal-a-billionaire-out-of-touch.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 China Will Host Putin, Days After Trump’s Visit
+### 📰 U.S. Debt Is Now Bigger Than the Economy. That’s Not the Real Problem.
 <div align='justify'>
 
-The Russian leader will go to Beijing on Tuesday for talks with President Xi Jinping. The Kremlin said he had watched President Trump’s visit closely.
+Washington quickly brushed off a startling milestone in a mounting problem.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 How a Nature Cruise Turned Into a Nightmare
+### 📰 Trump Flexes Hold on G.O.P., Even as It Braces for Midterm Backlash
 <div align='justify'>
 
-The hantavirus outbreak on the MV Hondius set off alarms for a world still traumatized by Covid. For those on board, the danger was much closer.
+The defeat of Senator Bill Cassidy showed the president’s dominance in his party at a moment when a broader range of views about Mr. Trump could be a major liability for November.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/us/politics/trump-flexes-hold-on-gop-even-as-it-braces-for-midterm-backlash.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 In Congress, a Sexual Harassment ‘Minefield’ Persists, Aides and Former Staff Say
+### 📰 7 Republicans Voted to Convict Trump. Most Are No Longer in Office.
 <div align='justify'>
 
-Nearly 10 years after Congress instituted measures to make it easier for women to lodge harassment complaints, lawmakers and aides say the behavior is still rampant.
+Senator Bill Cassidy’s defeat means no more than two of them will be left in Congress next year.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/us/politics/on-capitol-hill-a-sexual-harassment-minefield-persists.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/us/politics/republicans-trump-cassidy-conviction-impeachment.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
