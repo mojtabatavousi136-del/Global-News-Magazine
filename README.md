@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/17 - 18:14`
+**📅 Update (Tehran Time):** `2026/05/17 - 23:42`
 
 ---
 
@@ -19,158 +19,112 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 What to know about Georgia’s primary as Republicans set sights on Senate
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP24268721643143-1-1778943199.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 DRC struggling to contain ebola outbreak as cases spread
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779048492.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The southern state of Georgia is set to hold its primary vote on Tuesday, drawing battle lines for November’s consequential midterm elections in the United States.
-
-Among the most closely watched races will be the Republican contest to choose a challenger for Democratic Senator Jon Ossoff, whose 2020 victory came amid a liberal surge in a state long dominated by conservatives.
-
-Also topping the ticket will be the race to choose a Democratic gubernatorial candidate. Many in the party see the opening in the governor’s mansion this year as a generational opportunity to win the highest state-level office.
-
-Meanwhile, issues of affordability, election administration and gerrymandering have loomed large over the primary race. Here’s what to know:
-
-Senator Jon Ossoff, the incumbent Democrat, is running unopposed in his party’s primary and is all but assured to be its candidate in the general election.
-
-The Republican field is much more crowded. Five Republicans are vying to take on Ossoff, including two sitting members of the US House of Representatives: Buddy Carter and Mike Collins.
-
-Both Carter and Collins have hewed close to Donald Trump in their messaging, with their campaigns mostly focusing on who will be the staunchest ally to the US president. Trump has not made an endorsement in the race.
-
-Collins has led the pack in fundraising and endorsements, but has been dogged by an ongoing ethics probe into his alleged misuse of congressional funds.
-
-Outgoing Republican Governor Brian Kemp, who has a more complicated relationship with Trump, endorsed college American football coach Derek Dooley, who has pitched himself as a more moderate alternative to Carter and Collins.
-
-Rounding out the race are former US Army General Jonathan McColumn and businessman John Coyne. If McColumn were elected in November, he would become only the second Black Republican in the Senate.
+The Democratic Republic of Congo has faced repeated Ebola outbreaks.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/what-to-know-about-georgias-primary-as-republicans-set-sights-on-senate?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Is Christian Zionism in the US on a decline?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__19980120__SAWH980120189930__v1__MidRes__UsNetanyahuFalwell-1778865912.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Will the latest Ebola outbreak in DR Congo and Uganda spread further?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a0a15b2e6-1779045810.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-In March 1992, Christianity Today, a prominent evangelical Christian magazine based in the US, featured a cover story dedicated to Christian Zionism – a theological and political movement that believes that all Jews should immigrate to Palestine to trigger the return of Jesus Christ.
+But the World Health Organization is warning that the Ebola outbreak in the Democratic Republic of the Congo and neighbouring Uganda could be much larger than what has been detected so far.
 
-The article warned that the movement was witnessing a “decline” in its support, most of which comes from conservative evangelical Christians, who traditionally vote for the Republican Party.
+The global health body is advising countries to activate national disaster mechanisms and introduce cross-border and internal screening.
 
-But in the following three decades, Christian Zionism thrived. It is estimated that it has tens of millions of followers, mostly  in the southeast and south-central regions, known as “the Bible Belt”.
+Ariel Kestens – Head of the Kinshasa delegation, International Federation of Red Cross and Red Crescent Societies
 
-Commanding significant political sway and financial resources, Christian Zionism played a key role in establishing unconditional US support for Israel among the right-wing base. The movement also helped elect George W Bush for two terms and rallied support for his devastating war on Iraq, which was theologically justified by some Christian Zionists as necessary to usher in the rebuilding of Babylon, the second coming of Jesus Christ and the end of times.
+Dr Margaret Harris – Lecturer at the United Nations Institute for Training and Research
 
-More than 30 years later, another publication declared the imminent decline of the movement. In its November 2025 issue, Jacobin, a leftist magazine based in the US, predicted the “end-times for Christian Zionism”.
-
-The magazine’s obituary of one of the most powerful political groups in the US came in the wake of Israel’s genocidal war on Gaza, which has seen a plunge in American public support for America’s closest ally. The war, which saw more than 72,000 Palestinians, including 38,000 women and children killed, has created a divide within the evangelical base.
-
-But despite the dwindling public support, Christian Zionists still have considerable influence over the US power structure due to their substantial financial resources and institutional heft.
-
-The lobby arm of Christians United for Israel (CUFI), a Christian Zionist organisation, for example, spent more than $670,000 on lobbying in Washington to strengthen sanctions on Iran, among other issues. CUFI has also worked to secure billions in funding to Israel.
-
-Christian Zionists have used their influence to help stoke the current war on Iran. Prominent Christian leaders praised the Trump administration for launching what they saw as a religious war that could trigger the fulfilment of another biblical prophecy about a war between Israel and “Persia”.
-
-So, can they sustain their influence amid declining support for Israel in the US? Or is a fall imminent this time?
+Dr Ahmed Ogwell Ouma – Former deputy director-general of the Africa Centres for Disease Control and Prevention
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/17/will-the-latest-ebola-outbreak-in-dr-congo-and-uganda-spread-further?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Fabio Di Giannantonio wins shortened Catalan MotoGP after Marquez crash
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260517__B3424MD__v2__HighRes__MotoPrixEspCatalunyaMotoGp-1779025582.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Mexican officials announce 10 dead in early-morning shooting in Tehuitzingo
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a0a00cc12b8-1779040460.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-VR46 Racing’s Fabio Di Giannantonio claimed victory at the Catalan Grand Prix on Sunday in extraordinary circumstances, taking the chequered flag after a race that was red-flagged twice due to multiple crashes.
+The government in the Mexican state of Puebla has confirmed the deaths of 10 people in an early-morning shooting in the city of Tehuitzingo.
 
-The Italian secured only his second MotoGP victory and VR46 Racing’s first since the Indian Grand Prix in 2023, but the triumph was overshadowed by serious incidents that sent Alex Marquez and Johann Zarco to hospital.
+On Sunday, the state government identified the victims as six men, three women and a minor, though no names were offered.
 
-Honda’s Joan Mir finished second ahead of Gresini Racing’s Fermin Aldeguer while pole sitter Acosta crashed on the final lap after contact from Trackhouse rider Ai Ogura, who was handed a three-second penalty.
+It added that the victims “were allegedly attacked by armed individuals” at a residence. No arrests have been announced as of mid-morning, and the motive for the attack remains unclear.
 
-However, six riders were being investigated for their tyre pressures, leaving the final standings uncertain.
+Separately, the state Attorney General’s Office announced it had opened an investigation into the shooting, which comes as Mexico prepares to co-host the FIFA World Cup in less than a month.
 
-“Today has not been an easy day for everybody. I really hope that Alex is fine,” Di Giannantonio said.
+“According to initial reports, municipal police officers went to the property after receiving a request for assistance from a citizen who observed people apparently without vital signs,” the statement said.
 
-“We’ve been really lucky. We know that our sport is amazing. We try to give an amazing show, but also we are humans and we are in danger. So I really hope that everybody is safe.”
+“Upon arriving at the residence, authorities located several people with gunshot wounds. A woman died en route while being transported for medical attention.”
 
-The drama began on lap 12 when race leader Pedro Acosta’s KTM suddenly lost power on the straight near turn 10 and Gresini Racing’s Marquez, running second, had no time to react as he crashed into the back of the stricken machine.
+Tehuitzingo, a city of around 11,300 inhabitants, sits roughly 208 kilometres or 130 miles south of the country’s capital, Mexico City.
 
-Marquez and his Ducati careered towards the wall before both cartwheeled through the air as he lost control on the gravel.
+Local media reports indicate the shooting happened around 1:55am local time (6:55 GMT), when neighbours heard gunfire.
 
-The wheel from Marquez’s bike also struck Di Giannantonio, who went down but managed to nurse his machine back to the pits.
+Officials have pledged a multi-pronged response to the attack, with the participation of the National Guard, the state Attorney General’s Office and state and local police, as well as “intelligence, analysis and inter-institutional coordination efforts”.
 
-The second red flag came after an even more chaotic restart, when LCR Honda’s Zarco braked late on turn one of the first lap and took out Ducati’s Francesco Bagnaia and Honda’s Luca Marini in a three-rider pile-up.
+Mexico’s ability to combat violent crime has been under the microscope in recent months, as it faces pressure from the United States and heightened scrutiny ahead of the World Cup.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/17/fabio-di-giannantonio-wins-shortened-catalan-motogp-after-marquez-crash?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/mexican-officials-announce-10-dead-in-early-morning-shooting-in-tehuitzingo?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a09bae5e706-1779022565.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israel kills three Palestinians in strike on an aid kitchen in Gaza
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779045264.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A drone strike has sparked a fire on the perimeter of the Barakah Nuclear Energy Plant in the United Arab Emirates (UAE), raising new concerns over a potential new regional escalation amid a fragile ceasefire between Iran and the United States.
-
-Authorities in Abu Dhabi said the blaze broke out at an electrical generator outside the plant’s inner perimeter in the Al Dhafra region on Sunday. No injuries were reported, and officials said radiation levels remained normal.
-
-The UAE’s nuclear regulator said operations at the facility – the first nuclear power station on the Arabian Peninsula – were not affected. “All units are operating as normal,” it said in a social media post.
-
-There was no immediate claim of responsibility, and the UAE has not publicly blamed any country.
-
-In a statement later on Sunday, the ⁠UAE’s ⁠Defense Ministry said air defences had dealt “successfully” ⁠with two drones, while ⁠a third one hit a generator ⁠near the plant.
-
-⁠It added the drones ⁠were launched from the “western border”, without providing details, and said ⁠investigations were under way to determine the ⁠source of the attack.
-
-The UAE has faced repeated ⁠Iranian missile and drone attacks after the US and Israel began attacking Iran on February 28.
-
-The International Atomic Energy Agency (IAEA) said the incident forced one reactor to rely temporarily on emergency diesel generators.
-
-IAEA chief Rafael Grossi expressed “grave concern” and warned that military activity threatening nuclear facilities was “unacceptable”.
-
-The plant is located close to the border with Saudi Arabia, some 225km (140 miles) west of the UAE’s capital city, Abu Dhabi.
+Israel bombed a kitchen that provided meals to the displaced in Gaza, killing three and injuring others.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Son of Palestinian President Mahmoud Abbas elected to top Fatah body
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-05T122117Z_895383237_RC2X2LA6ELVB_RTRMADP_3_PALESTINIANS-POLITICS-ABBAS-SON-1779019950.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Peruvian authorities confirm Fujimori and Sanchez advance to runoff
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a09ee0314e0-1779035651.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The son of Palestinian President Mahmoud Abbas has secured a seat on Fatah’s highest leadership body, as initial results emerged from the movement’s first Congress in the occupied West Bank in a decade.
+Peruvian election authorities have confirmed that right-wing candidate Keiko Fujimori will face off against the left-wing Congress member Roberto Sanchez in the country’s presidential runoff, following a chaotic first round of voting.
 
-The three-day Eighth General Conference in Ramallah, which began on Thursday and finished on Sunday, came as Fatah faces existential challenges following Israel’s genocidal war on Gaza.
+Peru’s National Jury of Elections (JNE) confirmed the results of the first round of voting on Sunday, with Fujimori taking first place with 17 percent of the vote. She was followed by Sanchez with 12 percent.
 
-Yasser Abbas, 64, a businessman who spends most of his time in Canada, joins the central committee after being appointed around five years ago as his father’s “special representative”.
+The electoral body also acknowledged problems with the first round of voting, which was marred by count delays and logistical issues. It pledged to make fixes before the runoff next month.
 
-With several existing members retaining their seats, the Congress’s outcome was already being criticised.
+“We cannot deny that there were many difficulties and flaws in the logistical deployment by the organising entity, ONPE,” JNE President Roberto Burneo said during a press conference.
 
-Marwan Barghouti, a popular Palestinian leader held in Israeli prison since 2002, retained his seat on the committee with the highest number of votes, according to figures seen by the AFP news agency.
+“We have incorporated all the lessons learned from the first round and are strengthening oversight,” he added.
 
-Jibril Rajoub was re-elected as the committee’s secretary-general, while Palestinian Vice President Hussein Al-Sheikh retained his position.
+The elections body stated that a committee of national and international experts will be convened to ensure a smoother process during the second round of voting.
 
-The Congress had 2,507 voters and a turnout of 94.6 percent, organisers said.
+Shortcomings in the first round on April 12 led to voting in some places being extended to the next day.
 
-Fifty-nine candidates competed for 18 seats on the central committee, while 450 vied for 80 seats on the revolutionary council, the party’s parliament.
+The election-day hiccups underscored widespread discontent and mistrust with the country’s political system and sparked allegations of fraud from several candidates.
 
-Mahmoud Abbas, who was re-elected as head of the movement on Thursday, vowed in his opening address to reform the Palestinian Authority (PA), and hold long-delayed presidential and parliamentary elections.
+Election observers have acknowledged frustrations but cautioned that there is no evidence of fraud.
 
-Abbas and the PA are under mounting international pressure to implement reforms and hold elections, amid widespread accusations of corruption and political stagnation, which have eroded their legitimacy among Palestinians.
+Far-right candidate Rafael Lopez Aliaga, who came in third place with 11.9 percent of the vote, has called for the first round of voting to be annulled. In a social media post on Sunday, he said he would not accept the results.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/son-of-palestinian-president-mahmoud-abbas-elected-to-top-fatah-body?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -215,7 +169,7 @@ A laboratory has also confirmed an Ebola case in the eastern city of Goma, curre
 
 The outbreak of Ebola in the Democratic Republic of Congo is concerning.
 
-It has been spreading for weeks undetected in a part of the world where civil war makes getting on top of the virus difficult, and the species of Ebola involved is rare, so there are fewer tools to stop a virus that kills between a third and half of people infected.
+It has been spreading for weeks undetected in a part of the world where civil war makes getting on top of the virus difficult, and the species of Ebola involved is rare, so there are fewer tools to stop a virus that kills around a third of people infected.
 
 This is a critical moment in an outbreak where there is uncertainty about how far it has spread, but there are already almost 250 suspected cases and 80 deaths.
 
@@ -227,11 +181,11 @@ The risk Ebola poses to the whole world remains tiny. Even in the 2014-16 outbre
 
 "But it does reflect that the situation is complex enough to require international coordination," says Dr Amanda Rojek, from the Pandemic Sciences Institute at the University of Oxford.
 
+After all, there is still a significant threat to neighbouring countries like Uganda, South Sudan and Rwanda, considered high risk because of close trade and travel links.
+
+Two people have already been confirmed to have the virus in Uganda, of whom one has died.
+
 Ebola is a severe and deadly disease, although it is thankfully rare. Ebola viruses naturally infect animals – mainly fruit bats – but people can become infected if they come into close contact.
-
-This outbreak is being caused by the Bundibugyo species of Ebola – it is one of three species known to cause outbreaks but is relatively unfamiliar.
-
-Bundibugyo has caused only two outbreaks before – in 2007 and 2012 – where it killed 30% and 50% of people infected.
 
 </div>
 
@@ -270,6 +224,37 @@ He said four people - three men and a woman - were injured in the region, and a 
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 UAE reports strike near Abu Dhabi nuclear power plant
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/9d73/live/7bd39ee0-5200-11f1-8cef-69c0db7c54a0.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+The United Arab Emirates said a drone strike had triggered a fire near its nuclear power station on Sunday, calling the incident a "dangerous escalation".
+
+Officials are investigating the source of the strike. The country's defence ministry said three drones had entered the UAE from the "western border direction".
+
+While two were intercepted, the third drone struck an electrical generator "outside the inner perimeter" of the Barakah Nuclear Power Plant in Abu Dhabi, sparking a fire.
+
+No injuries were reported and there was no impact on radiological safety levels, local authorities said.
+
+The UAE's foreign ministry called the strike an "unacceptable act of aggression" and said it had the right to respond to any hostilities.
+
+It added that "the targeting of peaceful nuclear energy facilities is a flagrant violation of international law, the UN charter, and the principles of humanitarian law".
+
+The country's defence ministry meanwhile said it would "firmly confront any attempts to undermine the country's security".
+
+Officials have not said from where the drone was launched. The UAE has previously accused Iran of being behind attacks on its energy and economic infrastructure since war broke out in the region in February.
+
+The Abu Dhabi Media Office said the fire "broke out in an electric generator" and confirmed precautionary measures had been taken at the plant, which is operating as normal.
+
+The UN's nuclear watchdog said it was monitoring the situation closely and that its director general Rafael Grossi expressed "grave concern" about the incident.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Man drives car into pedestrians in Italy, injuring eight
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/be55/live/7d9e5030-5165-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -298,37 +283,6 @@ He said he gave chase and the attacker turned on him with a knife in hand. He re
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Hezbollah drone strike videos show evolving tactics against Israel
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/538f/live/25317530-5075-11f1-89a3-d1f559421220.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Hezbollah has increased its use of small first-person view (FPV) drones to attack Israel, including systems controlled by fibre-optic cables to evade sophisticated defences.
-
-BBC Verify has geolocated 35 videos shared by the Lebanese armed group since 26 March which show strikes on Israeli soldiers, armoured vehicles and air defence systems in southern Lebanon and northern Israel.
-
-Experts told BBC Verify the Israel Defense Forces (IDF) has "so far been unable to develop any effective countermeasures", as the small drones can easily bypass detection systems.
-
-The drones can also be made from commercially available and 3D-printed components - and are cheap compared to the high-value targets they can destroy, experts also said.
-
-The use of cheap FPV drones has become widespread during the Russia-Ukraine war and has changed modern warfare.
-
-While the Israeli military has not published all casualty details, Israeli media reports indicate four IDF soldiers and one civilian have been killed in FPV strikes, with dozens more injured.
-
-The IDF told BBC Verify it recognises the threat from drones and is investing "significant resources" in improving defences, developing "more effective alert models" and training soldiers for "improving readiness and increasing awareness of the threat".
-
-According to the Institute for National Security Studies, the IDF has also been using FPV drones for several years, currently operating with them in southern Lebanon and against Hamas in Gaza.
-
-Hisham Jaber, a military analyst and former Lebanese army general, told BBC Arabic the FPV drones can be "undetectable by radar" and the "hundreds" of them at Hezbollah's disposal have been used to disable armoured vehicles - including tanks.
-
-Hezbollah has been using several types of larger attack drones against targets in northern Israel for many years, Jaber added, but the use of FPVs represents an "entirely different category".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -493,111 +447,111 @@ Esther is from a different African country. The Guardian is using a pseudonym fo
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Alex Cooper and Matt Kaplan Expecting First Baby Together
-<img src='https://imagez.tmz.com/image/c7/16by9/2026/05/17/c7e4554fde3542f4802bcd0c1add6f10_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Philadelphia Eagles Star A.J. Brown Marries Kelsey Riley in Laguna Beach
+<img src='https://imagez.tmz.com/image/9a/16by9/2026/05/17/9a9f0c930ace4cdfb7d41ac21e2ed3ad_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Call her mommy ... 'cause Alex Cooper and hubby Matt Kaplan are expecting their first child together!!!
+Philadelphia Eagles star A.J. Brown officially tied the knot this weekend, and TMZ Sports obtained photos from the luxury California ceremony.
 
-The couple announced the news Sunday morning with a wholesome post, Cooper showing off her baby bump and captioning the post "Our family" ... with the comments immediately flooding with support from fans and fellow internet personalities.
+Sources tell us the A.J. married with fiancée Kelsey Riley on May 16 at Montage Laguna Beach, with guests arriving in the late afternoon for the 5 PM ceremony overlooking the ocean.
 
-Cooper -- famed podcast host for "Call Her Daddy" and CEO of "The Unwell Network" -- teased the news in an Instagram story, shortly before the reveal ... saying "Daddy Gang, there is something I've been waiting to share with you."
+The upscale event featured plenty of elegant touches ... including a violinist performing outside the reception area while greeting guests as they arrived for the celebration.
 
-Cooper and Kaplan’s relationship has largely stayed out of the spotlight compared to her very public career. The pair were first linked in 2020 after meeting through professional circles in the entertainment world ... eventually building a romance that developed fairly privately at first.
+Brown’s son also had a standout moment during the festivities. We’re told he walked into the event to applause from attendees, and just before making his entrance, someone handed him a couple pieces of Skittles to hold in his hand.
 
-Kaplan, a film producer known for his work in Hollywood, and Cooper kept much of their relationship to themselves before eventually tying the knot in 2024, choosing to share only select moments of their life together with fans ... up until recently when reports begun circulating about the couple's alleged toxic work environment.
+Sources say the dress code leaned heavily into earthy tones, with guests specifically asked to wear brown for the occasion -- one familiar NFL face standing alongside Brown as a groomsman was fellow Eagles champion Darius Slay.
 
-Nonetheless ... congratulations are certainly in order -- and it looks like Cooper’s next "Call Her Daddy" chapter comes with a permanent co-host who won’t need a guest invite, just a feeding schedule.
+As for the food, we're told attendees were treated to mini lobster rolls and mini tacos while the celebration carried on into the night.
+
+Security was reportedly tight throughout the evening, with multiple walkways blocked off and guards stationed around the property to keep the wedding private.
+
+Brown proposed to Kelsey in true superstar fashion last May at the Four Seasons in Philadelphia. Brown pulled off an over-the-top engagement complete with a private performance by John Legend, while the Eagles star popped the question in the company of his teammates.
+
+And despite the formal ceremony starting in the early evening, the party definitely didn’t end early, 'cause our sources say the celebration kept rolling well past 9 PM, as guests continued partying at the luxury beachfront resort.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/alex-cooper-pregnant/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/aj-brown-wedding-pictures/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 'SNL' Ends Season with Will Ferrell as Epstein Haunting Trump in Grim Cold Open
-<img src='https://imagez.tmz.com/image/07/16by9/2026/05/17/07919dcef3a8445c96fd9df9c5edaedb_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Tyson Fury's Teen Daughter Venezuela's Wedding, See More Pics & Video
+<img src='https://imagez.tmz.com/image/30/16by9/2026/05/17/30347b0d76824bbca1ce60a4ea1821a9_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-"Saturday Night Live" wasted no time diving into controversy during its Season 51 finale, opening the show with a brutally dark sketch featuring Will Ferrell as the ghost of Jeffrey Epstein haunting Donald Trump inside the Oval Office.
+Tyson Fury’s daughter Venezuela Fury had one seriously lavish wedding weekend with her hubby Noah Price -- and TMZ’s got a gorgeous peek inside the big day.
 
-The cold open began with cast member James Austin Johnson portraying President Trump, who drifted off to sleep behind the Resolute Desk before being startled by the arrival of Ferrell’s chained-up Epstein apparition.
+Check out the gallery and clip ... Tyson’s 16-year-old daughter looked stunning in white while arriving at the ceremony on the Isle of Man Saturday -- with umbrellas up as rain poured down around her.
 
-Ferrell’s version of the disgraced financier jokingly announced he had returned to visit his "best friend," while Johnson’s Trump reacted with excitement before complaining about sinking approval numbers.
+But gloomy skies clearly weren’t killing the vibe ... because Venezuela was all smiles heading into the ceremony -- and so was everybody else.
 
-The sketch leaned heavily into edgy humor, with Trump asking Epstein what heaven was like. Ferrell quickly fired back, “It’s really, really hot.”
+The dress was next-level extra ... with a crew of people needed to smooth out the massive 50-foot train before she walked into the venue.
 
-Johnson’s Trump then rambled about upcoming plans, including attending The World Cup, hosting bizarre “Patriot Games” for high school students, and staging a UFC fight on the White House lawn “like white trash on Worldstar.”
+The Isle of Man legally allows 16-year-olds to marry with parental permission -- which Venezuela had from Tyson and his wife Paris Fury before tying the knot with 18-year-old Noah.
 
-One of the sketch’s darkest jokes came when the comedian's portrayal of Trump asked the fictionalized Epstein for a high-five, only for him to respond, "You know what, this time, I’m going to leave you hanging" ... a grim reference to Epstein’s death in jail.
+The wedding looked straight outta a movie with Venezuela photodumping the whole event on IG, too. Eagle-eyed fans will notice the youngster already changed her Insta handle with her new name.
 
-The bit escalated with Epstein sharing surreal “visions” of the administration’s future, including former Homeland Security Secretary Kristi Noem selling products on the Home Shopping Network and Secretary of War Pete Hegseth smoking marijuana during a podcast appearance with FBI Director Kash Patel.
-
-Ferrell’s Epstein eventually turned serious for one final jab, warning Trump that no matter what distractions unfold politically, the public would never stop linking the two together.
-
-The sketch wrapped with Ferrell and Johnson breaking into a parody duet of Grover Washington Jr. and Bill Withers’ "Just the Two of Us," capping off one of the show’s most provocative season openers in recent memory.
+Congrats to the happy couple!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/will-ferrell-jeffrey-epstein-snl-cold-open/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/tyson-fury-daughter-venezuela-new-wedding-pictures-and-video/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Dianna Russini Keeps It Carefree During NYC Dinner, Amid Mike Vrabel Scandal
-<img src='https://imagez.tmz.com/image/ee/16by9/2026/05/17/eed8e3ab682d470293e0b0e9e7fc5a94_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Elsie Hewitt Gets Real About Single Motherhood Reality After Pete Davidson Split
+<img src='https://imagez.tmz.com/image/ec/16by9/2026/05/17/ec2676091b2440f2b8a33abb17f30dd7_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Dianna Russini appeared unbothered by the recent controversy involving New England Patriots head coach Mike Vrabel, spending Saturday evening out in New York City with her husband before attending a Bruce Springsteen concert, according to reports.
+Elsie Hewitt’s keeping it brutally real about single motherhood -- and glam clearly ain’t top of the priority list right now!
 
-Per photos published by the Daily Mail, Russini and her husband -- Shake Shack executive Kevin Goldschmidt -- spent the evening dining with a large circle of friends at Bourbon and Branch Bar in Midtown before making their way to Madison Square Garden.
+The newly-single model hopped on social media from her couch to clap back at comments about her appearance during a recent walk with baby daughter Scottie Rose ... basically saying she couldn’t care less.
 
-One eyewitness source told the outlet, "They were having a great time." The source continued ... "They were having a blast with a big group of friends. Lots of food and drinks ordered to their table and they were very carefree given everything that has gone on."
+Elsie admitted she’s exhausted from working and trying to make money -- and made sure to point out she’s doing it solo these days.
 
-A witness source told the DM that both Russini and Goldschmidt appeared to be in "good spirits" throughout the evening, with their group energetically sharing drinks and plates before the concert began.
+Still, she kept the sarcasm flowing ... joking that next time she’ll try to look a little nicer while out pushing the stroller.
 
-According to the witness, there were no visible signs the couple was struggling despite being tied to a controversy that continues to create buzz around the NFL and the couple reportedly sat opposite each other during the meal ... and didn’t appear concerned about being recognized.
+The update comes after news broke earlier this month that Elsie and Pete Davidson had split -- just five months after welcoming Scottie Rose, and a year and a half after going public with their relationship in early 2025.
 
-As we've previously reported ... Russini and Vrabel have been spending time together socially since at least 2020 -- including a 2021&nbsp;boat outing&nbsp;in Tennessee while Russini was pregnant with her first child.&nbsp;
-
-TMZ Sports&nbsp;also obtained photos of the pair&nbsp;hugging&nbsp;during a Super Bowl party in 2022 and later at a&nbsp;casino&nbsp;in 2024.
-
-The reporter was spotted on Mother's Day for the first time since she resigned from The Athletic on April 14 ... and in pics obtained by&nbsp;Page Six, she is carrying their son as she leans in for a smooch outside their home -- Kevin is also wearing a wedding band.
-
-Russini and Goldschmidt tied the knot in 2020 and share two children together.
-
-Bottom line ... whatever headlines may be swirling around Russini and her love life, it appeared she and her husband were more focused on "Dancing in the Dark" than dwelling on the drama.
+As TMZ reported ... sources told us the exes had been struggling privately for weeks while juggling new parenthood and Pete’s packed schedule. We’re told the focus now is strictly on coparenting.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/dianna-russini-on-date-with-husband/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/elsie-hewitt-spills-on-being-single-mom/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ronda Rousey Destroys Gina Carano in MMA Comeback Fight
-<img src='https://imagez.tmz.com/image/95/16by9/2026/05/17/95227fee95d04ca485cc43f5fc0f307f_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Jeff Wittek & David Dobrik Dismiss Lawsuit Over Scary Stunt, Sources Say
+<img src='https://imagez.tmz.com/image/a5/16by9/2026/05/14/a56e11892ed34dbea499c3fcefb9a6fb_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Ronda Rousey made quick work of Gina Carano in their highly anticipated mixed martial arts fight, forcing her tap out in just 17 seconds.
+Jeff Wittek and David Dobrik can put their legal drama behind them ... because they've settled their lawsuit, TMZ has learned.
 
-Rousey returned to the Octagon at L.A.'s Inuit Dome Saturday night after a nearly 10-year hiatus and came storming out of the gate in the first round, tackling Carano to the canvas.&nbsp;
+Remember ... Jeff sued the social media star for a stunt gone wrong, saying he almost died when David swung him too fast as he was attached to an excavator.
 
-The MMA star then put Carano in her signature armbar, and that was it, folks. Carano immediately tapped out. After the match, Rousey said she's headed back into retirement to be with her family, ending her 13-2 MMA career on a high note.
+The former Vlog Squad member was suing for $10 Million in damages ... but sources tell TMZ the entire thing is settled and Jeff dropped the lawsuit. The exact terms were not revealed.
 
-As you know, Rousey was a pioneer in the world of women's MMA, winning several titles as part of the Ultimate Fighting Championship before being inducted into the UFC Hall of Fame. She retired from the UFC in 2016 after twice going down in defeat and then became a familiar face in WWE wrestling.&nbsp;&nbsp;
+On Thursday, Jeff went on Instagram to share a sweet montage of his life, showing how he's moved on after the accident.
 
-Carano also had a successful MMA career with 7 wins and 2 loses over 6 years. She retired from MMA in 2009 and turned to acting in major films such as "Deadpool" and "Haywire" before getting canceled over controversial social media posts.&nbsp;
+And in the caption, he explained he didn't know when he filed the lawsuit that David had actually helped him out with his medical bills, saying a now ex-team member "miscommunicated."
 
-After last night's loss, Carano kept the door cracked open on her MMA career, but noted she's now 44 and didn't get anything out of her fight with Ronda.
+He wrote ... "I learned that David's company had in fact offered and provided insurance coverage for my initial medical bills totaling approximately $110,000, along with an additional $41,000 in medical expenses that David paid out of pocket without pushback."
 
-Better luck next time, Gina ... if there even is a next time!
+Jeff said he and David have "clear communication" now, adding ... "I want to apologize for the confusion this situation created publicly. More than anything, I'm grateful to finally leave this chapter in the past."
+
+Back in 2020, the YouTuber and his crew -- Jeff included -- were in Utah Lake in Provo, Utah to film a video where David was operating an excavator and dragging people across the water on wakeboards.
+
+At one point, Jeff grabbed onto the rope with just his hands and David whipped him around above the water ... until Jeff slammed into the side of the machinery.
+
+In his lawsuit, the Vlog Squad member said he shattered his skull in 9 places and almost lost an eye.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/ronda-rousey-crushes-gina-carano/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/jeff-wittek-david-dobrik-lawsuit-settled/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -679,6 +633,28 @@ All prices &amp; availability subject to change.&nbsp;Not official merchandise.
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
+### 📰 The Iran War Is Crippling One of the World’s Wealthiest Nations
+<div align='justify'>
+
+Iranian attacks and the stoppage of seaborne transit have paralyzed Qatar’s vital gas exports, stalling the economic pivots intended to anchor the country’s growth.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months
+<div align='justify'>
+
+Israel spent over a year preparing a covert site in Iraq for its operations against Iran, regional officials say. Iraqi officials later confirmed the existence of a second base.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 For Trump, Soaring Prices Test Voters’ Finances and Patience
 <div align='justify'>
 
@@ -697,40 +673,18 @@ The president has never pretended to be an ordinary American, but a recent “tr
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/us/politics/to-critics-trump-remarks-reveal-a-billionaire-out-of-touch.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 U.S. Debt Is Now Bigger Than the Economy. That’s Not the Real Problem.
+### 📰 Trump Administration Pushes Narrative of Christian Nation at Prayer Rally in D.C.
 <div align='justify'>
 
-Washington quickly brushed off a startling milestone in a mounting problem.
+The nine-hour prayer event features speakers from President Trump’s cabinet and a program that connects the nation’s founding with Christianity.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Trump Tightens Grasp on G.O.P. as Cassidy Loss Shows Cost of Defiance
-<div align='justify'>
-
-The defeat showed the president’s dominance in his party, even as a broader range of views about Mr. Trump could be a major Republican liability in the midterms.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/us/politics/trump-flexes-hold-on-gop-even-as-it-braces-for-midterm-backlash.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Cassidy Loses Senate Primary in Louisiana, as Trump Vanquishes G.O.P. Foe
-<div align='justify'>
-
-Senator Bill Cassidy, a two-term Republican who voted to convict President Trump in his 2021 impeachment trial,  took a veiled swipe at Mr. Trump, saying power should not focus on “one individual.”
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
