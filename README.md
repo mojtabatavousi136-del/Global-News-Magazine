@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/17 - 23:42`
+**📅 Update (Tehran Time):** `2026/05/18 - 20:09`
 
 ---
 
@@ -19,276 +19,340 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 DRC struggling to contain ebola outbreak as cases spread
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779048492.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Kentucky primaries 2026: Poll times, key races and what to watch
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2020-06-23T000000Z_1679159104_RC2ZEH9A5L3P_RTRMADP_3_USA-ELECTION-KENTUCKY-1779111415.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The Democratic Republic of Congo has faced repeated Ebola outbreaks.
+Donald Trump’s effort to unseat Republican Congressman Thomas Massie has transformed Kentucky’s 4th District primary into one of the most closely watched and expensive races of the US midterm season.
+
+Massie, a conservative known for repeatedly breaking with his own party, provoked Trump’s anger after opposing US strikes on Iran and backing efforts to release files linked to Jeffrey Epstein. Now, the seven-term congressman is facing a heavily funded challenge from Ed Gallrein, a former Navy SEAL endorsed by the president.
+
+With more than $20m spent on the race ahead of Tuesday’s vote, the Kentucky primary is shaping up as a major test of Trump’s grip over the Republican Party, and whether Republican voters will side with the president or a legislator who has built his reputation on defying party leadership.
+
+Kentucky is also holding primaries for the open US Senate seat being vacated by longtime Republican Senator Mitch McConnell, who has served seven terms.
+
+On the Republican side, the crowded field includes US Representative Andy Barr, who has Trump’s endorsement, and former Kentucky Attorney General Daniel Cameron.
+
+Democrats are also competing in the Senate race, congressional contests, state legislature elections and local races across Kentucky.
+
+Kentucky voters will head to the polls on Tuesday, May 19, for the primary election.
+
+Polling stations will open at 6am (10:00 GMT) local time and close at 6pm (22:00 GMT) local time. Voters who are still in line when polls close will still be allowed to cast their ballots.
+
+Most of Kentucky is in the Eastern Time Zone, so polls there will close at 6pm ET (22:00 GMT). In the western part of the state, which follows Central Time, polls will close at 6pm local time, equivalent to 7pm ET (23:00 GMT).
+
+In Louisville, voters will cast ballots in several high-profile local contests, including races for:
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/18/kentucky-primaries-2026-poll-times-key-races-and-what-to-watch?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Will the latest Ebola outbreak in DR Congo and Uganda spread further?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a0a15b2e6-1779045810.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Pakistan’s mediation faces limits as Iran-US tensions deepen
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-17T154752Z_30963080_RC22BLA917WQ_RTRMADP_3_IRAN-CRISIS-PAKISTAN-1779101178.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-But the World Health Organization is warning that the Ebola outbreak in the Democratic Republic of the Congo and neighbouring Uganda could be much larger than what has been detected so far.
+Islamabad, Pakistan – Pakistan is scrambling to keep channels of diplomacy open between the United States and Iran, amid escalating rhetoric from both sides, and growing signals from Washington that it is prepared to restart attacks that have been on pause since an April 8 ceasefire in the US-Israel war on Iran.
 
-The global health body is advising countries to activate national disaster mechanisms and introduce cross-border and internal screening.
+Pakistan’s Interior Minister Mohsin Naqvi arrived in Tehran on Saturday for a two-day visit, meeting President Masoud Pezeshkian, Interior Minister Eskandar Momeni and Parliament Speaker Mohammad Bagher Ghalibaf as Islamabad scrambled to prevent ceasefire negotiations from collapsing altogether. Ghalibaf has also been Iran’s chief negotiator in peace talks with the US to end the war, which began on February 28.
 
-Ariel Kestens – Head of the Kinshasa delegation, International Federation of Red Cross and Red Crescent Societies
+Yet on Sunday, as Naqvi continued talks with Iranian officials, US President Donald Trump issued a warning on Truth Social: “For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE!”
 
-Dr Margaret Harris – Lecturer at the United Nations Institute for Training and Research
+Over the weekend, Trump also met his top national security team, including Vice President JD Vance, Secretary of State Marco Rubio, CIA Director John Ratcliffe, Defence Secretary Pete Hegseth and special envoy Steve Witkoff.
 
-Dr Ahmed Ogwell Ouma – Former deputy director-general of the Africa Centres for Disease Control and Prevention
+Tehran’s version of events, however, has sharply differed from Washington’s public posture.
+
+At his weekly press conference on Monday, Iranian Foreign Ministry spokesman Esmaeil Baghaei said that despite Trump publicly calling Iran’s response “totally unacceptable” last week, Washington had sent “a set of revised points and considerations” through Pakistani mediators.
+
+Iran had reviewed them and responded through the same channel. “The process is continuing through Pakistan,” Baghaei said. Later, Iran’s state-run Tasnim news agency said that Iran’s submission to Pakistan — to be transmitted to the US — included a 14-point proposal.
+
+Yet tensions have continued to mount. Over the weekend, drones struck an electrical generator outside the perimeter of the Barakah Nuclear Energy Plant in the United Arab Emirates. Saudi Arabia separately said it intercepted three drones launched from Iraqi airspace.
+
+Pakistan’s Foreign Ministry on Monday condemned the Barakah strike as “a grave violation of international law” and urged all parties to “exercise maximum restraint”.
+
+The developments underscored how far diplomacy has deteriorated since the ceasefire came into effect 40 days ago.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/17/will-the-latest-ebola-outbreak-in-dr-congo-and-uganda-spread-further?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/18/pakistans-mediation-faces-limits-as-iran-us-tensions-deepen?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Mexican officials announce 10 dead in early-morning shooting in Tehuitzingo
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a0a00cc12b8-1779040460.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 LIVE: Arsenal vs Burnley – Premier League
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-02T183258Z_871254864_UP1EM521FIXVR_RTRMADP_3_SOCCER-ENGLAND-ARS-FUL-1779110121.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The government in the Mexican state of Puebla has confirmed the deaths of 10 people in an early-morning shooting in the city of Tehuitzingo.
-
-On Sunday, the state government identified the victims as six men, three women and a minor, though no names were offered.
-
-It added that the victims “were allegedly attacked by armed individuals” at a residence. No arrests have been announced as of mid-morning, and the motive for the attack remains unclear.
-
-Separately, the state Attorney General’s Office announced it had opened an investigation into the shooting, which comes as Mexico prepares to co-host the FIFA World Cup in less than a month.
-
-“According to initial reports, municipal police officers went to the property after receiving a request for assistance from a citizen who observed people apparently without vital signs,” the statement said.
-
-“Upon arriving at the residence, authorities located several people with gunshot wounds. A woman died en route while being transported for medical attention.”
-
-Tehuitzingo, a city of around 11,300 inhabitants, sits roughly 208 kilometres or 130 miles south of the country’s capital, Mexico City.
-
-Local media reports indicate the shooting happened around 1:55am local time (6:55 GMT), when neighbours heard gunfire.
-
-Officials have pledged a multi-pronged response to the attack, with the participation of the National Guard, the state Attorney General’s Office and state and local police, as well as “intelligence, analysis and inter-institutional coordination efforts”.
-
-Mexico’s ability to combat violent crime has been under the microscope in recent months, as it faces pressure from the United States and heightened scrutiny ahead of the World Cup.
+Follow our live build-up, with full team news coverage, ahead of our text commentary stream.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/mexican-officials-announce-10-dead-in-early-morning-shooting-in-tehuitzingo?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/liveblog/2026/5/18/live-arsenal-vs-burnley-premier-league?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel kills three Palestinians in strike on an aid kitchen in Gaza
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779045264.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Could the Iran war trigger the next debt shock?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/web-1779118546.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Israel bombed a kitchen that provided meals to the displaced in Gaza, killing three and injuring others.
+Borrowing costs in major economies have hit their highest levels in nearly two decades.
+Investors have been shunning government debt and demanding higher returns.
+They worry that the Iran war could keep oil prices and inflation high.
+The International Monetary Fund warns that global debt could approach World War Two levels.
+At the centre of it all is the US, which largely sets borrowing costs worldwide.
+That means higher mortgage repayments and car loans, more expensive credit, as well as rising business costs passed on to consumers.
+For developing nations borrowing in dollars, it puts even more pressure on stretched budgets.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Peruvian authorities confirm Fujimori and Sanchez advance to runoff
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a09ee0314e0-1779035651.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Former US negotiator with Iran: Trump falling into Vietnam trap
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779118271.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Peruvian election authorities have confirmed that right-wing candidate Keiko Fujimori will face off against the left-wing Congress member Roberto Sanchez in the country’s presidential runoff, following a chaotic first round of voting.
+When United States President Donald Trump measures success by counting how many Iranian leaders the US and Israel have killed or how many Iranian boats or missile launchers have been destroyed, he’s looking at the “wrong metric”, argues a former US special envoy to Iran, Rob Malley.
 
-Peru’s National Jury of Elections (JNE) confirmed the results of the first round of voting on Sunday, with Fujimori taking first place with 17 percent of the vote. She was followed by Sanchez with 12 percent.
+Malley told host Steve Clemons that the only way out of this war is “a settlement that respects our core interests, but also theirs”.
 
-The electoral body also acknowledged problems with the first round of voting, which was marred by count delays and logistical issues. It pledged to make fixes before the runoff next month.
-
-“We cannot deny that there were many difficulties and flaws in the logistical deployment by the organising entity, ONPE,” JNE President Roberto Burneo said during a press conference.
-
-“We have incorporated all the lessons learned from the first round and are strengthening oversight,” he added.
-
-The elections body stated that a committee of national and international experts will be convened to ensure a smoother process during the second round of voting.
-
-Shortcomings in the first round on April 12 led to voting in some places being extended to the next day.
-
-The election-day hiccups underscored widespread discontent and mistrust with the country’s political system and sparked allegations of fraud from several candidates.
-
-Election observers have acknowledged frustrations but cautioned that there is no evidence of fraud.
-
-Far-right candidate Rafael Lopez Aliaga, who came in third place with 11.9 percent of the vote, has called for the first round of voting to be annulled. In a social media post on Sunday, he said he would not accept the results.
+To calculate the odds of a deal, Malley said, psychologists may be more useful than experts because “it really depends on the mindset of President Trump.”
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/the-bottom-line/2026/5/18/former-us-negotiator-with-iran-trump-falling-into-vietnam-trap?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 WHO declares Ebola outbreak in DR Congo an international emergency
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/957b/live/de6aaf10-51da-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The World Health Organization (WHO) has declared an Ebola outbreak in the Democratic Republic of Congo a public health emergency of international concern.
+At least 100 deaths have been reported in an Ebola outbreak in the Democratic Republic of Congo, with more than 390 cases suspected, the head of the Africa Centres for Disease Control and Prevention has told the BBC.
 
-The agency said the outbreak in DR Congo's eastern Ituri province, which has seen around 246 suspected cases and 80 deaths reported, does not meet the criteria of a pandemic emergency.
+The World Health Organization (WHO) has declared the outbreak an international emergency.
 
-But it warned it could potentially be "a much larger outbreak" than what is currently being detected and reported, with significant risk of local and regional spread.
+The current strain of Ebola is caused by the Bundibugyo virus, for which there are no approved drugs or vaccines.
 
-The current strain of Ebola is caused by the Bundibugyo virus, the health agency said, for which there are no approved drugs or vaccines.
+There are also two confirmed cases and one death in Uganda, according to the US Centers for Disease Control and Prevention (CDC).
 
-Early symptoms include fever, muscle pain, fatigue, headache and sore throat, and are followed by vomiting, diarrhoea, a rash and bleeding.
+At least six Americans have been exposed to the Ebola virus during the outbreak in the DR Congo, sources have told CBS News, the BBC's US partner.
 
-The WHO said there are now eight laboratory-confirmed cases of the virus, with other suspected cases and deaths across three health zones including Bunia the capital of Ituri province, and the gold-mining towns of Mongwalu and Rwampara.
+One American is believed to have symptoms, with three others said to have faced a high-risk contact or exposure. It is unclear whether any have been infected.
 
-One case of the virus has been confirmed in the capital Kinshasa, believed to be in a patient returning from Ituri.
+The CDC said it was supporting the "safe withdrawal of a small number of Americans who are directly affected", but did not confirm how many.
 
-The WHO said that the virus has spread beyond DR Congo, with two confirmed cases reported in neighbouring Uganda. Ugandan officials said a 59-year-old man who died on Thursday had tested positive.
+The US government is reportedly looking to arrange transport for the small group of Americans in DR Congo to a safe quarantine location, a source told health news site STAT.
 
-In a statement, the Ugandan government said the patient who died was a Congolese citizen whose body has already been returned to DR Congo.
+Quoting a source, the site adds that the group could be taken to a US military base in Germany, though this has not been confirmed.
 
-A laboratory has also confirmed an Ebola case in the eastern city of Goma, currently controlled by the M23 rebels, the AFP news agency reported on Sunday.
+The CDC declined to answer direct questions about the US citizens reportedly affected during a press conference on Sunday.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 How worrying is the Ebola outbreak in DR Congo?
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/0fab/live/4cc2b0d0-51ee-11f1-86f6-35d8fdccc492.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Death toll from Israeli strikes on Lebanon passes 3,000, officials say
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/3d38/live/7bd65990-52a6-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The outbreak of Ebola in the Democratic Republic of Congo is concerning.
+Lebanon's health ministry says the number of people killed in the country by Israeli strikes during the conflict between Israel and Hezbollah, which escalated at the beginning of March, has surpassed 3,000.
 
-It has been spreading for weeks undetected in a part of the world where civil war makes getting on top of the virus difficult, and the species of Ebola involved is rare, so there are fewer tools to stop a virus that kills around a third of people infected.
+It put the death toll at 3,020 on Monday, a grim milestone in the fighting that shows no sign of abating despite a fragile ceasefire.
 
-This is a critical moment in an outbreak where there is uncertainty about how far it has spread, but there are already almost 250 suspected cases and 80 deaths.
+Lebanon was drawn into the war on 2 March, when the Iran-backed armed Shia Islamist group Hezbollah fired rockets at Israel after an Israeli strike killed Iran's supreme leader.
 
-Most Ebola outbreaks tend to be small, but specialists are haunted by the 2014-16 outbreak. Then, 28,600 people in West Africa were infected in the largest ever outbreak of the disease.
+The toll has continued to climb even after Lebanon and Israel agreed on Friday to extend their truce by 45 days, with the two sides set to resume negotiations at the beginning of June.
 
-The declaration of a public health emergency of international concern by the World Health Organization (WHO) does not mean we are in the early stages of a Covid-style pandemic.
+The health ministry says more than 400 of the deaths have occurred since the ceasefire came into effect on 17 April - a period marked by repeated violations on both sides.
 
-The risk Ebola poses to the whole world remains tiny. Even in the 2014-16 outbreak, there were only three cases in the UK and all were healthcare workers who had volunteered to help.
+The truce deal, brokered by the United States, allows Israel to carry out strikes it says are aimed at countering Hezbollah's military activity.
 
-"But it does reflect that the situation is complex enough to require international coordination," says Dr Amanda Rojek, from the Pandemic Sciences Institute at the University of Oxford.
+Lebanon has condemned the attacks, saying they undermine its efforts to re-establish the state's exclusive control over armed groups' weapons.
 
-After all, there is still a significant threat to neighbouring countries like Uganda, South Sudan and Rwanda, considered high risk because of close trade and travel links.
+Since the ceasefire extension was announced on Friday, Israeli strikes on towns and villages across southern Lebanon and the Bekaa Valley have continued, killing dozens of people.
 
-Two people have already been confirmed to have the virus in Uganda, of whom one has died.
+On Saturday, there was a sweeping series of strikes across more than two dozen villages, only nine of which were preceded by evacuation warnings.
 
-Ebola is a severe and deadly disease, although it is thankfully rare. Ebola viruses naturally infect animals – mainly fruit bats – but people can become infected if they come into close contact.
+Later that day, Hezbollah said its fighters had targeted the Yaara barracks in northern Israel "with a swarm of attack drones". This followed claims by Hezbollah of several operations against Israeli troops in southern Lebanon.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Large-scale Ukrainian drone attack kills three in Moscow region, says Russia
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/06bb/live/77399570-51e1-11f1-8d79-4731acfb89e0.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Judge rules gun and writings are admissible in Luigi Mangione's New York murder trial
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1400/live/133da890-52cc-11f1-b4b8-8bc40cabb834.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-At least three people were killed and several injured overnight in a large-scale Ukrainian drone attack on the Moscow region, Russian officials have said.
+A New York judge will allow a gun and writings found in Luigi Mangione's backpack after his 2024 arrest to be presented at his state murder trial over the killing of UnitedHealthcare CEO Brian Thompson, but has ruled that other items are inadmissible.
 
-A woman died in Khimki, north of Moscow, and a person was trapped under rubble, regional governor Andrei Vorobiev said. A man and a woman were killed in the village of Pogorelki.
+Judge Gregory Carro ruled on Monday that certain evidence "must be suppressed, including the magazine, cellphone, passport, wallet and computer chip" found with Mangione at a Pennsylvania McDonald's.
 
-A male Indian citizen was killed and three others injured, India's Moscow embassy said, but it was not clear whether these casualties were included in Vorobiev's tally. Another person died in Belgorod region bordering Ukraine.
+Carro said that evidence was recovered as part of an "improper and warrantless search" of the then-26-year-old.
 
-Ukrainian President Volodymyr Zelensky said the strikes were an "entirely justified" response to deadly Russian attacks on Ukrainian cities.
+However, prosecutors will be allowed to present items found during a search at a police station, including include a gun and a notebook.
 
-Russian state news agency Tass described the strikes as the biggest attack on Moscow for more than a year.
+Carro also ruled that some of Mangione's questioning by the officers who initially encountered him at the Pennsylvania fast food restaurant must be excluded from trial. Those include questions about Mangione lying about his name, and asking if he had a fake identification card.
 
-Earlier this week, a massive Russian drone and missile attack killed 24 people in Kyiv.
+Prosecutors will be able to admit evidence from later questioning, when Mangione was in custody, Carro ruled.
 
-In Ukraine, eight people were injured in overnight Russian drone attacks and shelling in the central Dnipropetrovsk region, officials said.
+Mangione is accused of shooting and killing Thompson on a Manhattan street in December 2024. He faces state charges including second degree murder, several firearms charges, and stalking. He has pleaded not guilty.
 
-Russian President Vladimir Putin launched a full-scale invasion of Ukraine in 2022, and Moscow currently controls about 20% of Ukrainian territory.
+Mangione is also charged in a separate federal case, in which he has also pleaded not guilty.
 
-In a post on Telegram early on Sunday, Vorobiev wrote that "since three o'clock in the morning, air defence forces have been repelling a large-scale UAV [drone] attack on the capital region".
+He was arrested in Altoona, Pennsylvania several days after Thompson's shooting in New York following a nation-wide manhunt.
 
-He said four people - three men and a woman - were injured in the region, and a number of houses damaged.
+The evidence at stake stemmed from that encounter and the events that followed.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 UAE reports strike near Abu Dhabi nuclear power plant
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/9d73/live/7bd39ee0-5200-11f1-8cef-69c0db7c54a0.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Two men arrested over stunt at enclosure of famed monkey Punch
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a55c/live/2dd10fb0-52b5-11f1-8340-4151f348d713.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The United Arab Emirates said a drone strike had triggered a fire near its nuclear power station on Sunday, calling the incident a "dangerous escalation".
+Two US nationals have been arrested after one jumped into the enclosure of an internet-famous monkey at a Japanese zoo while the other filmed the stunt, police have said.
 
-Officials are investigating the source of the strike. The country's defence ministry said three drones had entered the UAE from the "western border direction".
+One of the men, who claimed to be a 24-year-old college student, is accused of scaling a fence to gain access to Punch's enclosure on Sunday morning. The other man claimed to be a 27-year-old singer.
 
-While two were intercepted, the third drone struck an electrical generator "outside the inner perimeter" of the Barakah Nuclear Power Plant in Abu Dhabi, sparking a fire.
+Both have denied the allegations. Police have said no monkeys were injured during the incident.
 
-No injuries were reported and there was no impact on radiological safety levels, local authorities said.
+Clips of the now nine-month-old macaque attracted millions of views online earlier this year after it was spotted hugging an stuffed toy orangutan given to him by keepers at Ichikawa City Zoo after he was rejected by his mother.
 
-The UAE's foreign ministry called the strike an "unacceptable act of aggression" and said it had the right to respond to any hostilities.
+Footage purportedly of Sunday's incident filmed by other zoogoers and shared on social media shows a person wearing a costume and carrying a stuffed toy jumping over a fence and into the monkey enclosure. The costume was said to be promoting a cryptocurrency.
 
-It added that "the targeting of peaceful nuclear energy facilities is a flagrant violation of international law, the UN charter, and the principles of humanitarian law".
+The two men held by police over the incident have been arrested on suspicion of forcible obstruction of business, according to local media.
 
-The country's defence ministry meanwhile said it would "firmly confront any attempts to undermine the country's security".
+Ichikawa City Zoo said in a statement on Monday that it had filed a damage report with the police and was putting countermeasures in place to prevent future incidents.
 
-Officials have not said from where the drone was launched. The UAE has previously accused Iran of being behind attacks on its energy and economic infrastructure since war broke out in the region in February.
+These included expanding the enclosure's viewing restriction area and installing intrusion prevention nets, it said.
 
-The Abu Dhabi Media Office said the fire "broke out in an electric generator" and confirmed precautionary measures had been taken at the plant, which is operating as normal.
+The zoo added that it was considering a full ban on filming around the monkey enclosure and was putting requests to film from YouTubers temporarily on hold.
 
-The UN's nuclear watchdog said it was monitoring the situation closely and that its director general Rafael Grossi expressed "grave concern" about the incident.
+The men did not get close to the animals and were quickly apprehended by zoo workers, an Ichikawa Police official said, according to news agency AFP.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Man drives car into pedestrians in Italy, injuring eight
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/be55/live/7d9e5030-5165-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Former Google CEO Eric Schmidt booed by graduates at mention of AI
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/5450/live/4a05dbe0-52cc-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-A man drove his car into pedestrians in the northern Italian city of Modena on Saturday, injuring eight people, four seriously, officials said.
+Former Google CEO Eric Schmidt was booed by students as he spoke about the rise of artificial intelligence during his speech at University of Arizona's graduation ceremony, underscoring growing anxiety over AI's impact on jobs.
 
-After the car came to a halt against a shop window, the driver emerged holding a knife and injured a passer-by who gave chase, before the suspect was overpowered.
+"I know what many of you are feeling about that. I can hear you," Schmidt told graduates as jeers rang out at the venue during remarks comparing today's AI boom to the rise of computers four decades ago.
 
-The suspect, 31, has been identified by officials as an Italian national of Moroccan origin.
+The reaction reflects a broader unease on campuses, where speakers who mention AI are increasingly being met with hostility from students.
 
-Italy's Prime Minister Giorgia Meloni, who cancelled a planned trip to Cyprus and described the incident as "extremely serious", visited the injured in hospital with President Sergio Mattarella on Sunday.
+A recent poll suggests many students view AI as both a threat to their future and an obstacle to their intellectual development.
 
-She also met Luca Signorelli, the passer-by who intervened, and thanked him for his actions.
+Speaking to graduates about to enter the workforce, Schmidt conceded that their fears about AI were "rational" but urged the crowd to adapt to the sprawling technology as "AI will shape the world".
 
-"What makes an ordinary person heroic is the moment when the heart chooses to do good, even when that involves a risk," she wrote on X, and shared an image of them embracing.
+"The future is not yet finished. It is now your turn to shape it," he said.
 
-The incident occurred around 16:30 (14:30 GMT), when the speeding car hit the pedestrians in Via Emilia next to the iconic cathedral of Modena, south-east of Milan.
+Gloria Caulfield, a real estate executive, saw a similar reception earlier this month at the University of Central Florida.
 
-The vehicle then veered left before coming to a halt against a shop window.
+"The rise of artificial intelligence is the next industrial revolution," she said as the crowd booed.
 
-Signorelli had told Italian media he was trying to help the woman when he noticed the driver trying to run away.
+At the mention of AI at Middle Tennessee State University commencement, Scott Borchetta, CEO of Big Machine Records, was also met with jeers.
 
-He said he gave chase and the attacker turned on him with a knife in hand. He received a blow to the head and one on his chest before being able to restrain the suspect, with the help of other passers-by.
+The tension comes amid mounting concern among young Americans about the growing role of AI in the workplace.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Belgian ex-diplomat dies before standing trial over 1961 murder of Congolese leader
+<img src='https://i.guim.co.uk/img/media/bc9abb066d440a6f65c499b2fc78f979a1939ad2/0_126_2198_1758/master/2198.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cec19ba314e2e22ac744b27c010a0d1' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Étienne Davignon, 93, was last living person targeted in investigation into assassination of DRC’s first PM, Patrice Lumumba
+
+A 93-year-old Belgian former diplomat who became the first person to be charged in the murder of the Congolese leader Patrice Lumumba has died before he could stand trial.
+
+The death of Étienne Davignon, an aristocrat who served as a European commissioner during a decades-long career as one of Belgium’s leading diplomats and industrialists, was confirmed by the Jacques Delors Institute thinktank, where he had served on the board.
+
+In March, Davignon was ordered to stand trial for war crimes for alleged involvement in the extra-judicial killing of Lumumba 65 years ago, a final attempt to shed light on one of the 20th century’s most consequential political assassinations.
+
+Lumumba, who was elected the first prime minister of the country now called the Democratic Republic of the Congo upon its independence from Belgium in 1960, was ousted from power months later and killed by Belgian-backed secessionist rebels on 16 January 1961.
+
+The murder was a dark chapter in Belgium’s colonial history and a watershed for the era’s liberation struggles in African countries.
+
+Prosecutors said Davignon, a junior diplomat at the time, had participated in the unlawful detention or transfer of Lumumba and deprived him of his right to an impartial trial.
+
+Davignon was also accused of involvement in the murder of two of Lumumba’s political allies, Maurice Mpolo and Joseph Okito. He had denied any wrongdoing and at the time of his death was awaiting the outcome of an appeal against the Belgian court’s decision to order him to stand trial.
+
+The court’s decision had been welcomed by the Lumumba family, who said: “For our family, this is not the end of a long fight, it is the beginning of a reckoning that history has long demanded.”
+
+Davignon was the last person still alive to be targeted by the Belgian investigation. The court ruled that cases against other suspects would not remain open because of their deaths.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/18/belgium-diplomat-dies-etienne-davignon-congo-leader-patrice-lumumba)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Infectious diseases such as hantavirus and Ebola becoming more frequent and damaging, say experts
+<img src='https://i.guim.co.uk/img/media/f48a9ffe4e7999fd038c9240bf52a0403d1b8cf4/314_0_2994_2395/master/2994.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e69cc047d595504bcc8553da19291671' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Pandemic report warns of growing global threat as health teams in Africa move to contain Ebola outbreak
+
+The world is becoming less resilient to outbreaks of infectious diseases, experts have warned, as health authorities in the Democratic Republic of the Congo and Uganda scramble to contain an outbreak of Ebola.
+
+The Global Preparedness Monitoring Board (GPMB) said in a report published on Monday that “as infectious disease outbreaks become more frequent they are also becoming more damaging”, warning that pandemic risk is outpacing investments in preparedness and “the world is not yet meaningfully safer”.
+
+Disease outbreaks are becoming more likely due to the climate crisis and armed conflict, while collective action is being undermined by geopolitical fragmentation and commercial self-interest, the report said.
+
+The GPMB is a group of experts established in 2018 by the World Bank and the World Health Organization (WHO) after the first large scale Ebola outbreak in west Africa and just before Covid-19. Its latest findings come amid global attention on the hantavirus outbreak on a cruise ship and a day after the declaration of an international public health emergency after at least 87 Ebola deaths in the DRC.
+
+The two outbreaks “are just the latest crises in our troubled world”, WHO chief Tedros Adhanom Ghebreyesus told the opening of the UN agency’s World Health Assembly in Geneva.
+
+WHO’s representative in the DRC, Anne Ancia, told Reuters that in responding to the Ebola outbreak it had emptied its stocks of protective equipment in the capital, Kinshasa, and was preparing a cargo plane to bring additional supplies from a depot in Kenya. The International Rescue Committee and Médecins Sans Frontières aid groups said they had teams responding to the outbreak.
+
+The WHO will host an urgent scientific consultation on Friday, bringing together top experts to collate what is known about the virus and where research and development of vaccines, tests and medicines should be focused.
+
+In Geneva, Prof Matthew Kavanagh, director of the Georgetown University Center for Global Health Policy & Politics, said aid cuts may have played a role in leaving the world “playing catch-up against a very dangerous pathogen”.
+
+He said: “Because early tests looked for the wrong strain of Ebola, we got false negatives and lost weeks of response time. By the time the alarm was raised, the virus had already moved along major transport routes and crossed borders.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/18/infectious-diseases-hantavirus-ebola-more-frequent-damaging-pandemic-outbreak)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Trump says Islamic State ‘second in command’ killed by US and Nigerian forces
 <img src='https://i.guim.co.uk/img/media/3aa3dd424ebbe972ed5755fd40ab0a1ee9e65104/123_0_3500_2800/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5284bfcc16891c2b96c9b76f25058d26' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -382,315 +446,272 @@ Witnesses said the government forces’ airstrikes on Kidal had destroyed only a
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Judge orders Trump administration to return Colombian woman deported to DRC back to the US
-<img src='https://i.guim.co.uk/img/media/6f7e676b5f197186e19b1d695edbd36ac520c9c0/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4a4b91dd503a9763ff0f06352d531fdc' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’
-
-A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Congo, after she was deported to the African country that had refused to accept her.
-
-The deportation of Adriana María Quiroz Zapata “was likely illegal”, the US district judge Richard Leon ruled on Wednesday.
-
-Quiroz Zapata, 55, who has diabetes and a thyroid condition, “has been sent to a country that refused to accept her because they cannot provide sufficient medical care”, the ruling said. “As a result, she faces a daily risk of medical complications, up to and including death.”
-
-Black spots began to grow on Quiroz Zapata’s back and foot while she was in detention, her skin started to peel and her nails blackened, according to a declaration that Quiroz Zapata submitted in court, and which was provided to the Associated Press by her lawyer.
-
-“She’s not doing well and does worry that she’s going to die,” her lawyer, Lauren O’Neal, said.
-
-Quiroz Zapata entered the US from Mexico in August 2024 and was taken into Immigration and Customs Enforcement (ICE) custody. Since being deported, she has lived in a hotel in Kinshasa, the Democratic Republic of Congo’s capital. The hotel gates are locked, O’Neal said. Quiroz Zapata and other deportees are rarely allowed out, and only with supervision, she said.
-
-Quiroz Zapata was among thousands of immigrants living legally in the US, waiting for rulings on asylum claims, when they were suddenly issued deportation decrees that ordered them expelled to countries where most had no connections.
-
-More than 15,000 third-country deportation orders were issued in the White House push for ever more immigrant expulsions, advocacy groups say, though only a fraction of the orders have been carried out.
-
-Few details are known about the agreements to accept these deportees, though the US has signed them with a range of countries, including Ecuador, Honduras, Uganda, Cameroon and the Democratic Republic of Congo. Advocacy groups estimate only a couple of hundred third-country deportations, at most, have been carried out.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’
-<img src='https://i.guim.co.uk/img/media/8b16c976f04e2ef07186becf8de728c6c5757d81/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db17e87dbbb2d5d82db3f7189e97f40d' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Human rights experts make rare public appeal as US deportees describe being held in ‘prison-like’ conditions
-
-Human rights experts at the United Nations issued a rare public appeal to Equatorial Guinea, urging the central African country to halt its plans to return US deportees to their home countries, where they face political violence, torture and death.
-
-The statement, co-signed by a representative of the African Commission on Human and People’s Rights, adds diplomatic pressure on Equatorial Guinea, one of the world’s most repressive regimes, to comply with international human rights standards and avoid refoulement, or the expulsion of people to countries where they face persecution.
-
-“States must ensure that no one is returned, directly or indirectly, to a situation where their life, freedom or physical or mental integrity would be in danger,” the experts said in a statement on Wednesday.
-
-The Trump administration made deals with dozens of countries to receive US deportees, as part of the president’s goal of “mass deportation”. The US gave Equatorial Guinea $7.5m to take in third-country nationals, who had been granted protections against expulsion to homelands where they faced persecution.
-
-The UN’s public plea came after several deportees sent by the US to Equatorial Guinea said security officials presented nine of the US deportees with salvo-conductos – temporary travel documents – and told them they would be deported imminently to their home countries.
-
-“Equatorial Guinea should never be treated as a safe country for migrants or asylum seekers. This is a highly repressive authoritarian state,” said Tutu Alicante, director of the human rights group Equatorial Guinea Justice. “Vulnerable migrants are being transferred into a country where they have no legal status, no family networks, and no meaningful protection mechanisms.”
-
-Esther, who landed in Malabo, Equatorial Guinea, weeks ago, said the conditions at the hotel where she has been detained are not unlike a prison. She and other deportees had been held without access to soap, toothbrushes or clean clothes.
-
-“I have cried. I have struggled. I have done everything,” she said in a phone call with the Guardian from the hotel room where she has been confined. “I have fought and fought. Now I don’t have anything left in me.”
-
-Esther is from a different African country. The Guardian is using a pseudonym for her, and not naming her home country in order to protect her safety. She said she fled in 2024, after she was arrested and tortured at the behest of government officials – first making her way to South America, and then migrating north through Mexico before arriving at the US southern border. She spent 14 months at a US immigration detention center before a judge heard her case, and granted her a “withholding of removal” – a special immigration status guaranteeing she wouldn’t be sent back to her home country where she faced violence.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/14/un-equatorial-guinea-us-deportees)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Philadelphia Eagles Star A.J. Brown Marries Kelsey Riley in Laguna Beach
-<img src='https://imagez.tmz.com/image/9a/16by9/2026/05/17/9a9f0c930ace4cdfb7d41ac21e2ed3ad_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Alex Murdaugh Sues Court Clerk From Trial After Murder Convictions Tossed
+<img src='https://imagez.tmz.com/image/b3/16by9/2026/05/18/b3b073da81b14f12bc73114a01a2548f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Philadelphia Eagles star A.J. Brown officially tied the knot this weekend, and TMZ Sports obtained photos from the luxury California ceremony.
+Alex Murdaugh isn't wasting any time after getting his murder convictions thrown out ... because he's now suing Becky Hill over claims she rigged the trial against him so she could cash in on the case with a book deal.
 
-Sources tell us the A.J. married with fiancée Kelsey Riley on May 16 at Montage Laguna Beach, with guests arriving in the late afternoon for the 5 PM ceremony overlooking the ocean.
+According to a new federal lawsuit, obtained by TMZ, Murdaugh says Hill secretly worked jurors throughout his explosive 2023 double-murder trial ... allegedly warning them not to be "fooled," "confused," or "convinced" by his defense team and pushing them toward a guilty verdict.
 
-The upscale event featured plenty of elegant touches ... including a violinist performing outside the reception area while greeting guests as they arrived for the celebration.
+The filing comes just days after the South Carolina Supreme Court tossed Murdaugh's convictions ... ruling Hill's comments to the jury jury tampering poisoned the trial process and denied him a fair trial.
 
-Brown’s son also had a standout moment during the festivities. We’re told he walked into the event to applause from attendees, and just before making his entrance, someone handed him a couple pieces of Skittles to hold in his hand.
+As we reported, the court called Hill's conduct "breathtaking," "disgraceful," and "unprecedented" ... after evidence surfaced showing she allegedly made anti-Murdaugh comments to jurors during deliberations.
 
-Sources say the dress code leaned heavily into earthy tones, with guests specifically asked to wear brown for the occasion -- one familiar NFL face standing alongside Brown as a groomsman was fellow Eagles champion Darius Slay.
+Now Murdaugh's taking things a step further ... claiming Hill repeatedly pulled the jury's leader aside for private conversations during the trial -- including inside a single-occupancy bathroom -- while also allegedly encouraging jurors to closely study his body language when he testified.
 
-As for the food, we're told attendees were treated to mini lobster rolls and mini tacos while the celebration carried on into the night.
+The suit also claims Hill pushed jurors to wrap things up quickly ... allegedly telling them deliberations "shouldn’t take us long" and hinting they'd all become famous after the verdict.
 
-Security was reportedly tight throughout the evening, with multiple walkways blocked off and guards stationed around the property to keep the wedding private.
+And according to the complaint, Hill had a financial motive behind all of it ... because she allegedly believed a guilty verdict would help sell more copies of her book -- titled "Behind the Doors of Justice" -- about the trial and get her a lake house.
 
-Brown proposed to Kelsey in true superstar fashion last May at the Four Seasons in Philadelphia. Brown pulled off an over-the-top engagement complete with a private performance by John Legend, while the Eagles star popped the question in the company of his teammates.
+The lawsuit even drags up Hill's later criminal case ... noting she resigned from office in 2024 and eventually pleaded guilty to perjury, obstruction of justice and misconduct in office after prosecutors accused her of sharing sealed evidence from the trial with media.
 
-And despite the formal ceremony starting in the early evening, the party definitely didn’t end early, 'cause our sources say the celebration kept rolling well past 9 PM, as guests continued partying at the luxury beachfront resort.
+Murdaugh -- who still insists he never killed his wife Maggie or son Paul -- says Hill's actions cost him at least $600,000 in legal fees and destroyed his right to a fair trial.
+
+Even with the murder convictions overturned, Murdaugh's not walking free ... he's still locked up serving a 40-year financial-crime sentence tied to the millions he admitted stealing from clients.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/aj-brown-wedding-pictures/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/alex-murdaugh-sues-former-trial-court-clerk-after-convictions-tossed/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Tyson Fury's Teen Daughter Venezuela's Wedding, See More Pics & Video
-<img src='https://imagez.tmz.com/image/30/16by9/2026/05/17/30347b0d76824bbca1ce60a4ea1821a9_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'The Valley' Star Brittany Cartwright Fighting to Resolve Nearly $500K Tax Bill
+<img src='https://imagez.tmz.com/image/7c/16by9/2026/05/18/7c816b4b3bdc4e3ea5d4cc90f909e7df_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Tyson Fury’s daughter Venezuela Fury had one seriously lavish wedding weekend with her hubby Noah Price -- and TMZ’s got a gorgeous peek inside the big day.
+Brittany Cartwright is working to clear up a tax issue after California tax authorities claimed she owes nearly half a million dollars in unpaid taxes ... TMZ has learned.
 
-Check out the gallery and clip ... Tyson’s 16-year-old daughter looked stunning in white while arriving at the ceremony on the Isle of Man Saturday -- with umbrellas up as rain poured down around her.
+According to docs, seen by TMZ, "The Valley" star appears on the California Franchise Tax Board's semiannual "Top 500 Delinquencies" list, which tracks the state's largest outstanding personal income tax debts over $100K. According to the listing, Brittany allegedly owes $463,632.12.
 
-But gloomy skies clearly weren’t killing the vibe ... because Venezuela was all smiles heading into the ceremony -- and so was everybody else.
+But Brittany says the debt is tied to an old issue with her previous tax filings.
 
-The dress was next-level extra ... with a crew of people needed to smooth out the massive 50-foot train before she walked into the venue.
+TMZ obtained a letter from Brittany's CPA, Christopher Fank, who says he has handled Brittany's taxes for the past five years and can confirm she has paid all taxes owed during that time.
 
-The Isle of Man legally allows 16-year-olds to marry with parental permission -- which Venezuela had from Tyson and his wife Paris Fury before tying the knot with 18-year-old Noah.
+According to the letter, Brittany's 2019 taxes mistakenly reported "phantom income and tax" under Brittany's name.
 
-The wedding looked straight outta a movie with Venezuela photodumping the whole event on IG, too. Eagle-eyed fans will notice the youngster already changed her Insta handle with her new name.
-
-Congrats to the happy couple!
+The CPA says he is now working directly with the California Franchise Tax Board to correct the issue and claims the agency has agreed to place a hold on the account while Brittany submits proof she does not owe the disputed amount.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/tyson-fury-daughter-venezuela-new-wedding-pictures-and-video/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/brittany-cartwright-denies-tax-claim/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Elsie Hewitt Gets Real About Single Motherhood Reality After Pete Davidson Split
-<img src='https://imagez.tmz.com/image/ec/16by9/2026/05/17/ec2676091b2440f2b8a33abb17f30dd7_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'Star Wars' and 'Powerpuff Girls' Star Tom Kane Dead at 64
+<img src='https://imagez.tmz.com/image/23/16by9/2026/05/18/2318718e8f0b4a0fbb9a68d70d7060f6_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Elsie Hewitt’s keeping it brutally real about single motherhood -- and glam clearly ain’t top of the priority list right now!
+Tom Kane, the iconic voice actor best known for his work on "Star Wars" and "Powerpuff Girls," has died.
 
-The newly-single model hopped on social media from her couch to clap back at comments about her appearance during a recent walk with baby daughter Scottie Rose ... basically saying she couldn’t care less.
+Zach McGinnis, his rep, tells TMZ ... Tom died Monday ... at a hospital in Kansas City, surrounded by family. His cause of death was complications from his 2020 stroke.&nbsp;
 
-Elsie admitted she’s exhausted from working and trying to make money -- and made sure to point out she’s doing it solo these days.
+Zach tells TMZ ... "Though his voice may now be silent, the characters, stories, and love he gave to the world will live on forever."
 
-Still, she kept the sarcasm flowing ... joking that next time she’ll try to look a little nicer while out pushing the stroller.
+Tom was the voice of Yoda in "Star Wars: The Clone Wars" feature film and TV series ... and he voiced Professor Utonium and HIM in "The Powerpuff Girls," among many more voice performances over the years. He also voiced characters in popular video games, such as the "Call of Duty" franchise.
 
-The update comes after news broke earlier this month that Elsie and Pete Davidson had split -- just five months after welcoming Scottie Rose, and a year and a half after going public with their relationship in early 2025.
+Zach added ... "But beyond the incredible career was an extraordinary man. Tom was a devoted husband and father who, alongside his wife, built a loving family of nine children — three biological and six welcomed through adoption and fostering."
 
-As TMZ reported ... sources told us the exes had been struggling privately for weeks while juggling new parenthood and Pete’s packed schedule. We’re told the focus now is strictly on coparenting.
+His last Instagram post was with the 'Powerpuff Girls' themselves ... showing him smiling as he was reunited with his girls.
+
+Tom was 64.
+
+RIP
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/elsie-hewitt-spills-on-being-single-mom/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/tom-kane-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Jeff Wittek & David Dobrik Dismiss Lawsuit Over Scary Stunt, Sources Say
-<img src='https://imagez.tmz.com/image/a5/16by9/2026/05/14/a56e11892ed34dbea499c3fcefb9a6fb_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Kendall Jenner and Jacob Elordi Spotted on Intimate Beach Date in Hawaii
+<img src='https://imagez.tmz.com/image/94/16by9/2026/05/18/94ed1c7d48c5438cbadae287e896bec4_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Jeff Wittek and David Dobrik can put their legal drama behind them ... because they've settled their lawsuit, TMZ has learned.
+Kendall Jenner and Jacob Elordi enjoyed what looked like a very private beach hang in Hawaii last weekend, according to a photo obtained by TMZ.
 
-Remember ... Jeff sued the social media star for a stunt gone wrong, saying he almost died when David swung him too fast as he was attached to an excavator.
+In the snap, Kendall is seen lounging in a bikini while holding what appears to be a bottle of Avaline rosé ... as she sits beside Jacob Elordi on the sand. Jacob kept things casual in blue shorts and a green baseball cap, with the two appearing completely focused on each other.
 
-The former Vlog Squad member was suing for $10 Million in damages ... but sources tell TMZ the entire thing is settled and Jeff dropped the lawsuit. The exact terms were not revealed.
+The setup looked far more intimate than your typical celebrity beach scene. A surfboard-style table sat in front of them while they relax oceanside, and there didn’t appear to be anyone else around as the pair enjoyed the quiet tropical setting together.
 
-On Thursday, Jeff went on Instagram to share a sweet montage of his life, showing how he's moved on after the accident.
+The sighting is only going to pour more fuel on the ongoing dating rumors surrounding the two stars, as reports first linked Jenner and Elordi started circulating around Coachella earlier this year -- after fans began speculating they were spending increasing amounts of time together behind the scenes.
 
-And in the caption, he explained he didn't know when he filed the lawsuit that David had actually helped him out with his medical bills, saying a now ex-team member "miscommunicated."
+Both Kendall and Jacob are famously guarded when it comes to their personal lives, which makes this secluded Hawaii moment stand out even more. PEOPLE&nbsp;magazine, citing a source, reports that the supermodel and the actor have been "hanging out and getting to know each other the last couple months.”&nbsp;
 
-He wrote ... "I learned that David's company had in fact offered and provided insurance coverage for my initial medical bills totaling approximately $110,000, along with an additional $41,000 in medical expenses that David paid out of pocket without pushback."
-
-Jeff said he and David have "clear communication" now, adding ... "I want to apologize for the confusion this situation created publicly. More than anything, I'm grateful to finally leave this chapter in the past."
-
-Back in 2020, the YouTuber and his crew -- Jeff included -- were in Utah Lake in Provo, Utah to film a video where David was operating an excavator and dragging people across the water on wakeboards.
-
-At one point, Jeff grabbed onto the rope with just his hands and David whipped him around above the water ... until Jeff slammed into the side of the machinery.
-
-In his lawsuit, the Vlog Squad member said he shattered his skull in 9 places and almost lost an eye.
+Whether it’s just a casual getaway or something more serious brewing, the cozy oceanside setup -- complete with rosé and no one else in sight -- certainly looked like more than just a random beach day.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/jeff-wittek-david-dobrik-lawsuit-settled/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/kendall-jenner-jacob-elordi-beach-picture-hawaii/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Recreate High School Musical 2 Pool Scene: Shop Iconic Must-Haves
-<img src='https://imagez.tmz.com/image/ae/16by9/2026/05/12/ae4b7fb45e784bf3890f8954e34b2cd6_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Shop Elle Woods' Most Iconic Looks from 'Legally Blonde'
+<img src='https://imagez.tmz.com/image/44/16by9/2026/05/13/447b48776fd945a792bd549f42f7128e_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
-Summer's almost here, which means goodbye clouds of gray and hello skies of blue! Now that the weather's warmer ... it's the perfect time for some pool party planning!
+Whoever said orange is the new pink was seriously disturbed, because if you're looking to turn some heads like Elle Woods ... nothing beats a pop of pink!
 
-And what better inspo could you need than Sharpay Evans' fabulous poolside day from "High School Musical 2"?!
+The leading lady of "Legally Blonde" is a fashion icon, so we're here to help you recreate some of her best looks from the movie.
 
-Whether you want to shop her style or are intrigued by her divalicious demands ... we've got you covered. Check out our picks to recreate Disney's most iconic pool party!
+*Spoiler* There's a TON of pink on this list ... but this is Elle Woods we're talking about! Check out our favorite pieces to shop Elle's style!
 
 Want more great finds? Head to TMZ Deals.&nbsp;
 
-SweatyRocks White Tankini
+SOLY HUX Halter Dress
 
-You'll be the spitting image of Sharpay in this SweatyRocks White Tankini.
+The SOLY HUX Halter Dress is super similar to the first dress we ever seen Elle wear, when she's surrounded by her sorority sisters at Delta Nu.
 
-The top has a flared, flattering fit and is adorned with a metal seashell.
+The halter silhouette and open back just scream early 2000s ... to the point that "Perfect Day" by Hoku should start playing every time you put it on.
 
-It's so cute, no one will even notice if you happen to have a high-maintenance moment.
+Amy Babe Pink Sequin Bikini
 
-PURPLE LEAF Outdoor Chaise Lounge
+Remember the sparkly pink bikini from Elle's video essay for her Harvard application?
 
-With the PURPLE LEAF Outdoor Chaise Lounge, you actually can spend endless days in your chaise ... and who doesn't want that?!
+The Amy Babe Pink Sequin Bikini may not be a perfect match, but it comes pretty close!
 
-You and your bestie -- an equally-musical-obsessed brother, perhaps? -- can both soak up the sun, because this set comes with 2 chairs and a table.
+Whether you're hitting the beach or the pool, why not serve a little flashy flair ... Elle Woods style!
 
-Hibluco Women's Pink Cover Up
+YUAKOU Shaggy Faux Fur Coat
 
-If you really want to steal Sharpay's look, the tankini alone won't cut it. You'll need the Hibluco Women's Pink Cover Up to really sell the homage to East High's resident prima donna.
+Elle also wore a pink sparkly bikini top to lay out for a study sesh on Harvard's quad ... this time pairing it with a furry jacket like the YUAKOU Shaggy Faux Fur Coat.
 
-It's soft and breathable, so you won't overheat while you're laying out.
+It's fun, fluffy and sure to get a few compliments.
 
-BAY LAUREL Turkish Beach Towel
+EASTER BARTHE Cashmere Blend Beanie
 
-If you're on the hunt for towels imported from Turkey -- like Sharpay is -- you can't go wrong with this BAY LAUREL Turkish Beach Towel. It's actually made in Turkey ... so you know you're getting an authentic, high-quality towel to dry off with.
+In one of her rare, laid-back looks, Elle opts for a purple beanie similar to the EASTER BARTHE Cashmere Blend Beanie.
 
-Allegra K Lace-Up Platform Wedges
+This hat is both cute and cozy for when temperatures dip. Plus, the cuffless design is super flattering.
 
-Sure, you could wear flip flops to the pool. Or you could ask yourself ... "What would Sharpay do?" In the movie, she's rocking a little lift in shoes super similar to the Allegra K Lace-Up Platform Wedges. They come in fun metallic colors that shine as bright as the aspiring star of the spring musical.
+WDIRARA Leopard Print Halter Top
 
-ZHUYNXIR Lime Slice Pool Float
+The leopard-print top Elle wore in the movie didn't score her an invite to her classmates' study group at Harvard ... which feels crazy because it's so adorable!
 
-And when you're ready to go for a float, the ZHUYNXIR Lime Slice Pool Float looks an awful lot like the one Sharpay's using in her big, musical montage. It's over 5 feet in diameter ... so you'll have plenty of room to stretch out and relax on the water.
+If you're after something similar, check out the WDIRARA Leopard Print Halter Top for a top that's flirty and fun, just like Elle's!
 
-SA106 Oversized Sunglasses
+EXCHIC Pink Pencil Skirt
 
-Sharpay's go-to pool party shades are a pair of pink, oversized sunnies ... and you can score some, too. The SA106 Oversized Sunglasses are pretty close to the ones from the movie, boasting a square silhouette and thick frames. The lenses block both UVA &amp; UVB rays, so they're both fashionable and functional.
+And in her attempt to win over the study group with muffins, Elle pairs that leopard-print halter with a pink pencil skirt ... similar to the EXCHIC Pink Pencil Skirt.
 
-New English Teas British Tea Tins
+A pink-on-pink fit would certainly get you some attention, especially during a dull study sesh.
 
-Looking for iced tea imported from England? Well, look no further than these New English Teas British Tea Tins. The British brand is based in Coventry, England ... and this set comes with 3 tins of iconic English tea. All you have to do is brew and add ice!
+Reyox Pink Newsboy Hat
 
-Deidreamers Sterling Silver Star Necklace
+Elle rocked a pink newsboy hat during her Harvard orientation, and now you can sport a similar style!
 
-Sharpay loves to remind herself -- and everyone around her -- that she's a star. So if you're trying to steal her style down to the details, check out the Deidreamers Sterling Silver Star Necklace. Sharpay's may have a few more rhinestones ... but this necklace will certainly get the same message across.
+The Reyox Pink Newsboy Hat is soft and comfy, so you can make a statement on or off the quad.
 
-Used Prada Carey Tote Bag
+We1Fit Womens Fuax Leather Skirt
 
-One of the things on Sharpay's lengthy list of pool party necessities is, of course, her pink Prada tote. And while we can't confirm this used Prada Carey Tote Bag is secondhand Sharpay ... it is pink, Prada and a tote!
+Elle made quite the entrance when she pulled up to Harvard in a leather-looking 2-piece set.
+
+And you'll turn heads, too, in the We1Fit Womens Fuax Leather Skirt.
+
+It's high-waisted with a subtle slit hem for a flattering fit ... so you'll look good and feel good!
+
+MUXXN Pink Vintage Dress
+
+If you're looking to recreate Elle's memorable courtroom dress -- you know, the one she's wearing during Brooke's trial -- we found a tasteful take on the iconic outfit. This MUXXN Pink Vintage Dress is great if you need something business casual ... but also works for a dressy dinner. You'll definitely be channeling your inner Elle with this dress!
 
 For more curated product lists check out TMZ Deals.
 
-Sign up for Amazon Prime to get the best deals!
+Sign up for Amazon Prime&nbsp;to get the best deals!
 
 All prices &amp; availability subject to change.&nbsp;Not official merchandise.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/high-school-musical-2-fabulous-pool-day-buy-on-amazon/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/legally-blonde-steal-elle-woods-style/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 The Iran War Is Crippling One of the World’s Wealthiest Nations
+### 📰 Brookings Institution Report: Over 100,000 Family Separations in Trump Crackdown
 <div align='justify'>
 
-Iranian attacks and the stoppage of seaborne transit have paralyzed Qatar’s vital gas exports, stalling the economic pivots intended to anchor the country’s growth.
+The Brookings Institution suggests that federal statistics are an undercount because immigrant parents are not being asked about or not disclosing their American children.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/us/brookings-institution-report-family-separations.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months
+### 📰 How a Funding Pause Derailed an Artificial Heart for Babies
 <div align='justify'>
 
-Israel spent over a year preparing a covert site in Iraq for its operations against Iran, regional officials say. Iraqi officials later confirmed the existence of a second base.
+James Antaki’s efforts to develop a baby’s heart were close to success when his federal funding was cut off. The grants were eventually restored; rebuilding what was lost wasn’t so easy.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/well/federal-cuts-artificial-baby-heart-cornell.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 For Trump, Soaring Prices Test Voters’ Finances and Patience
+### 📰 Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects
 <div align='justify'>
 
-Just months before another election that may hinge on the economy, the war in Iran has sent gas and other goods soaring.
+With the midterms nearing, President Trump’s approval rating has hit a second-term low as voters question his handling of the economy, according to the latest New York Times/Siena poll.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 To Critics, Trump Remarks Reveal a Billionaire Out of Touch
+### 📰 A Crack in the Polling Floor Puts Trump in New Territory
 <div align='justify'>
 
-The president has never pretended to be an ordinary American, but a recent “truth bomb” has opened him to criticism that he doesn’t grasp the economic strain of his war with Iran.
+A 37 percent approval rating in a new Times/Siena poll suggests the G.O.P. is facing a big midterm problem despite recent redistricting gains.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/upshot/trump-poll-times-siena-analyis.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump Administration Pushes Narrative of Christian Nation at Prayer Rally in D.C.
+### 📰 L.I.R.R. Riders Stranded by Strike Have Few Commute Alternatives. Here’s What To Know.
 <div align='justify'>
 
-The nine-hour prayer event features speakers from President Trump’s cabinet and a program that connects the nation’s founding with Christianity.
+New York transit officials say the alternate travel options they’ve arranged for the Long Island Rail Road strike could not accommodate all commuters.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/nyregion/lirr-strike-update-shuttle-bus.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 Beacon of Light
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/55255325881-69941927eb-o.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+The heart of galaxy M77 shines brightly in this May 7, 2026, image from NASA’s James Webb Space Telescope. The intense glow is due to gas being pulled by the strong gravity of the central black hole into a tight and rapid orbit around it. The motion of the gas causes it to heat up, releasing tremendous amounts of radiation.
+
+The bright lines radiating out of the center are diffraction spikes. The spikes are not a physical feature of the galaxy, but an optical effect caused by the telescope itself.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/beacon-of-light/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 NASA Science, Cargo Launch on 34th SpaceX Resupply Mission to Station
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/crs-34-mission-dragon-liftoff-image-2.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -792,27 +813,6 @@ NASA Earth Observatory images by Michala Garrison, using data from Li, T., et a
 </div>
 
  [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA Draws on Industry for Mars Telecommunications Network
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/mars.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network.
-
-Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration.
-
-This RFP builds on a draft released April 2, as well as insights gathered during the accompanying industry day at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, where commercial partners provided feedback on agency objectives for the Mars Telecommunications Network.
-
-The request seeks responses that address both current and future operational missions. It also seeks a science payload accommodation that will be selected by NASA’s Science Mission Directorate. Industry is asked to respond within 30 calendar days of the posting, and the network should be ready to operate at Mars no later than 2030.
-
-The Mars Telecommunications Network is part of NASA’s evolving space architecture, extending continuous network services beyond Earth to the Moon and Mars. The Mars Telecommunications Network is part of NASA’s SCaN (Space Communications and Navigation) Program’s Moon to Mars strategy, and is enabled by the direction and funding provided by Congress in the Working Families Tax Cut Act.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
