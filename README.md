@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/18 - 20:09`
+**📅 Update (Tehran Time):** `2026/05/19 - 01:20`
 
 ---
 
@@ -19,136 +19,159 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Kentucky primaries 2026: Poll times, key races and what to watch
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2020-06-23T000000Z_1679159104_RC2ZEH9A5L3P_RTRMADP_3_USA-ELECTION-KENTUCKY-1779111415.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Venezuelan protesters clash with police at rally for political prisoners
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779138930.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Donald Trump’s effort to unseat Republican Congressman Thomas Massie has transformed Kentucky’s 4th District primary into one of the most closely watched and expensive races of the US midterm season.
-
-Massie, a conservative known for repeatedly breaking with his own party, provoked Trump’s anger after opposing US strikes on Iran and backing efforts to release files linked to Jeffrey Epstein. Now, the seven-term congressman is facing a heavily funded challenge from Ed Gallrein, a former Navy SEAL endorsed by the president.
-
-With more than $20m spent on the race ahead of Tuesday’s vote, the Kentucky primary is shaping up as a major test of Trump’s grip over the Republican Party, and whether Republican voters will side with the president or a legislator who has built his reputation on defying party leadership.
-
-Kentucky is also holding primaries for the open US Senate seat being vacated by longtime Republican Senator Mitch McConnell, who has served seven terms.
-
-On the Republican side, the crowded field includes US Representative Andy Barr, who has Trump’s endorsement, and former Kentucky Attorney General Daniel Cameron.
-
-Democrats are also competing in the Senate race, congressional contests, state legislature elections and local races across Kentucky.
-
-Kentucky voters will head to the polls on Tuesday, May 19, for the primary election.
-
-Polling stations will open at 6am (10:00 GMT) local time and close at 6pm (22:00 GMT) local time. Voters who are still in line when polls close will still be allowed to cast their ballots.
-
-Most of Kentucky is in the Eastern Time Zone, so polls there will close at 6pm ET (22:00 GMT). In the western part of the state, which follows Central Time, polls will close at 6pm local time, equivalent to 7pm ET (23:00 GMT).
-
-In Louisville, voters will cast ballots in several high-profile local contests, including races for:
+Protesters in Venezuela have clashed with police at a rally for political prisoners.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/18/kentucky-primaries-2026-poll-times-key-races-and-what-to-watch?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/18/venezuelan-protesters-clash-with-police-at-rally-for-political-prisoners?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Pakistan’s mediation faces limits as Iran-US tensions deepen
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-17T154752Z_30963080_RC22BLA917WQ_RTRMADP_3_IRAN-CRISIS-PAKISTAN-1779101178.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Clashes as Morales-allied protesters march on Bolivian capital
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0b737d45f0-1779135357.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Islamabad, Pakistan – Pakistan is scrambling to keep channels of diplomacy open between the United States and Iran, amid escalating rhetoric from both sides, and growing signals from Washington that it is prepared to restart attacks that have been on pause since an April 8 ceasefire in the US-Israel war on Iran.
+Bolivian security forces have clashed with followers of ex-President Evo Morales as they marched into the capital as part of a nationwide protest movement fuelled by the nation’s worst economic crisis in a generation.
 
-Pakistan’s Interior Minister Mohsin Naqvi arrived in Tehran on Saturday for a two-day visit, meeting President Masoud Pezeshkian, Interior Minister Eskandar Momeni and Parliament Speaker Mohammad Bagher Ghalibaf as Islamabad scrambled to prevent ceasefire negotiations from collapsing altogether. Ghalibaf has also been Iran’s chief negotiator in peace talks with the US to end the war, which began on February 28.
+After a six-day march through the Andes, thousands of Morales’s supporters, some brandishing dynamite sticks and slingshots, converged on the capital, La Paz, on Monday, where they were met by riot police.
 
-Yet on Sunday, as Naqvi continued talks with Iranian officials, US President Donald Trump issued a warning on Truth Social: “For Iran, the Clock is Ticking, and they better get moving, FAST, or there won’t be anything left of them. TIME IS OF THE ESSENCE!”
+Dynamite blasts rumbled downtown. Security forces fired back with canisters of tear gas that wafted over demonstrators who called for the president’s resignation just six months into his tenure. “Homeland or death, we will win!” they chanted.
 
-Over the weekend, Trump also met his top national security team, including Vice President JD Vance, Secretary of State Marco Rubio, CIA Director John Ratcliffe, Defence Secretary Pete Hegseth and special envoy Steve Witkoff.
+Rallies and roadblocks that started over two weeks ago have become the biggest challenge so far to President Rodrigo Paz, Bolivia’s first conservative leader after nearly two decades of socialist governance, and have provoked shortages across the country.
 
-Tehran’s version of events, however, has sharply differed from Washington’s public posture.
+Paz came to office last year as a wave of conservative leaders allied with the administration of President Donald Trump in the United States swept Latin America. Inheriting the nation’s most severe economic crisis in 40 years, Paz has struggled to replenish Bolivia’s scarce fuel, restrain its enormous budget deficit and resolve its shortage of US dollars, while also placating the powerful Morales-linked groups that could disrupt his presidency.
 
-At his weekly press conference on Monday, Iranian Foreign Ministry spokesman Esmaeil Baghaei said that despite Trump publicly calling Iran’s response “totally unacceptable” last week, Washington had sent “a set of revised points and considerations” through Pakistani mediators.
+In recent days, his government has reached deals with striking miners and teachers, who agreed to end their protests. However, many groups continue to protest.
 
-Iran had reviewed them and responded through the same channel. “The process is continuing through Pakistan,” Baghaei said. Later, Iran’s state-run Tasnim news agency said that Iran’s submission to Pakistan — to be transmitted to the US — included a 14-point proposal.
+Road blockades have long been the main weapon of social movements allied with Morales that claim to represent Bolivia’s rural Indigenous majority. Over the past 16 days, these blockades have stranded thousands of trucks on key highways, triggering shortages of food, fuel and medical supplies in La Paz and other cities.
 
-Yet tensions have continued to mount. Over the weekend, drones struck an electrical generator outside the perimeter of the Barakah Nuclear Energy Plant in the United Arab Emirates. Saudi Arabia separately said it intercepted three drones launched from Iraqi airspace.
+The government deployed police and military officers across the country to try to break the blockades over the weekend, leading to an unspecified number of injuries and at least 90 arrests as of Monday, according to the public prosecutor.
 
-Pakistan’s Foreign Ministry on Monday condemned the Barakah strike as “a grave violation of international law” and urged all parties to “exercise maximum restraint”.
+“They can march if it’s peaceful, but we will take action if they commit crimes,” Deputy Interior Minister Hernán Paredes said.
 
-The developments underscored how far diplomacy has deteriorated since the ceasefire came into effect 40 days ago.
+Paz accuses Morales of orchestrating the unrest to undermine his administration, and the president has seen support roll in from neighbouring states.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/18/pakistans-mediation-faces-limits-as-iran-us-tensions-deepen?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/18/clashes-as-morales-allied-protesters-march-on-bolivian-capital?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 LIVE: Arsenal vs Burnley – Premier League
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-02T183258Z_871254864_UP1EM521FIXVR_RTRMADP_3_SOCCER-ENGLAND-ARS-FUL-1779110121.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Protest in Greece after Israeli forces storm Gaza aid flotilla
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779138742.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Follow our live build-up, with full team news coverage, ahead of our text commentary stream.
+Demonstrators gathered outside Greece’s foreign ministry in Athens.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/liveblog/2026/5/18/live-arsenal-vs-burnley-premier-league?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/18/protest-in-greece-after-israeli-forces-storm-gaza-aid-flotilla?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Could the Iran war trigger the next debt shock?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/web-1779118546.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Trump pauses possible Iran strike after Gulf intervention
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779138679.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Borrowing costs in major economies have hit their highest levels in nearly two decades.
-Investors have been shunning government debt and demanding higher returns.
-They worry that the Iran war could keep oil prices and inflation high.
-The International Monetary Fund warns that global debt could approach World War Two levels.
-At the centre of it all is the US, which largely sets borrowing costs worldwide.
-That means higher mortgage repayments and car loans, more expensive credit, as well as rising business costs passed on to consumers.
-For developing nations borrowing in dollars, it puts even more pressure on stretched budgets.
+US President Donald Trump has announced that he is delaying a planned attack on Iran ‘which was scheduled for tomorrow’, after appeals from Qatar, Saudi Arabia and the UAE to allow for more talks. Al Jazeera’s Alan Fisher breaks down what Trump said.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Former US negotiator with Iran: Trump falling into Vietnam trap
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779118271.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Arsenal have one hand on Premier League title after beating Burnley
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-18T210746Z_1432590590_UP1EM5I1MOXI6_RTRMADP_3_SOCCER-ENGLAND-ARS-BUR-1779138625.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-When United States President Donald Trump measures success by counting how many Iranian leaders the US and Israel have killed or how many Iranian boats or missile launchers have been destroyed, he’s looking at the “wrong metric”, argues a former US special envoy to Iran, Rob Malley.
+Arsenal are on the brink of ending a 22-year wait to win the Premier League after beating Burnley 1-0 to open up a five-point lead at the top.
 
-Malley told host Steve Clemons that the only way out of this war is “a settlement that respects our core interests, but also theirs”.
+Kai Havertz headed in the only goal on Monday but was also lucky to avoid a second-half red card that could swung the title race back in Manchester City’s favour.
 
-To calculate the odds of a deal, Malley said, psychologists may be more useful than experts because “it really depends on the mindset of President Trump.”
+The Gunners could be crowned champions as early as Tuesday should City fail to win at Bournemouth.
+
+Even if City do end the Cherries’ 16-game unbeaten run and beat Aston Villa, Arsenal will secure the title with victory at Crystal Palace on Sunday.
+
+However, the narrow margin of victory against a Burnley side that have long since been relegated does offer City hope.
+
+An Arsenal draw at Selhurst Park would allow City to snatch the title on goal difference if Pep Guardiola’s team win their final two matches.
+
+To add extra intrigue to the final days of the season, reports on Monday suggest Guardiola will leave City after a decorared decade in charge after Villa visit the Etihad on Sunday.
+
+Roared on by an expectant capacity crowd in their final home game of the season, Arsenal were tipped to put the Clarets to the sword with ease.
+
+Burnley have taken just two points from their last 10 matches but made Mikel Arteta’s men work for the three points on another nervy night at the Emirates.
+
+Leandro Trossard struck the post from the edge of the area before Bukayo Saka saw a penalty appeal waived away as he attempted to turn in Havertz’s low cross.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/the-bottom-line/2026/5/18/former-us-negotiator-with-iran-trump-falling-into-vietnam-trap?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/18/arsenal-have-one-hand-on-premier-league-title-after-beating-burnley?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 At least 100 deaths reported in Ebola outbreak in DR Congo as six Americans exposed
+### 📰 Trump says he called off new Iran attack at request of Gulf states
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e7f0/live/35981a80-52f2-11f1-93ce-6b7334a653b8.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+US President Donald Trump has said he is holding off a military attack on Iran planned for Tuesday at the request of Gulf states as "serious negotiations are now taking place".
+
+In a post on Truth Social, he said he had been asked to do so by the leaders of Qatar, Saudi Arabia and the United Arab Emirates.
+
+Trump said he had been informed that a deal would be made that is "very acceptable" to the US, adding that there would be "NO NUCLEAR WEAPONS FOR IRAN!"
+
+But he warned that the US military would be prepared to "go forward with a full, large scale assault of Iran, on a moment's notice" if there was no acceptable deal reached.
+
+Israeli and US forces began massive air strikes on Iran on 28 February, while Tehran retaliated by firing drones and missiles at Israel and US targets in countries across the Gulf.
+
+A ceasefire agreed in April meant to facilitate talks has largely been observed despite occasional exchanges of fire.
+
+Iran has also continued to control the Strait of Hormuz, effectively closing the vital waterway through which around 20% of the world's oil and liquefied natural gas travels.
+
+The move, which Iran has said is in retaliation for US and Israeli attacks, has sent oil prices soaring globally.
+
+The US, for its part, has been enforcing a blockade of Iranian ports to exert pressure on Tehran to agree to its terms.
+
+Trump's latest announcement on Iran comes amid a drop in his approval rating and as polls show the war is increasingly unpopular at home.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 At least 100 dead in Ebola outbreak in DR Congo, official says
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/4eaa/live/fff74570-52cb-11f1-b4b8-8bc40cabb834.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
 At least 100 deaths have been reported in an Ebola outbreak in the Democratic Republic of Congo, with more than 390 cases suspected, the head of the Africa Centres for Disease Control and Prevention has told the BBC.
 
-The World Health Organization (WHO) has declared the outbreak an international emergency.
+Jean Kaseya warned that with no approved drugs or vaccines people should follow public health measures, including at funerals of Ebola victims.
 
-The current strain of Ebola is caused by the Bundibugyo virus, for which there are no approved drugs or vaccines.
+There are also two confirmed cases and one death in Uganda, says the US Centers for Disease Control and Prevention (CDC).
 
-There are also two confirmed cases and one death in Uganda, according to the US Centers for Disease Control and Prevention (CDC).
+The World Health Organization (WHO) has declared the outbreak of the current  strain of Ebola, which is caused by the Bundibugyo virus, an international emergency.
 
-At least six Americans have been exposed to the Ebola virus during the outbreak in the DR Congo, sources have told CBS News, the BBC's US partner.
+An American doctor in the DR Congo is among those with a confirmed case, the medical missionary group they were working with and the CDC has said.
 
-One American is believed to have symptoms, with three others said to have faced a high-risk contact or exposure. It is unclear whether any have been infected.
+The individual, who has not been named, will now be taken to Germany for treatment, they told CBS News, the BBC's US partner.
+
+CBS News also quoted sources as saying that at least six Americans have been exposed to the Ebola virus during the outbreak in the DR Congo.
 
 The CDC said it was supporting the "safe withdrawal of a small number of Americans who are directly affected", but did not confirm how many.
 
@@ -156,11 +179,71 @@ The US government is reportedly looking to arrange transport for the small group
 
 Quoting a source, the site adds that the group could be taken to a US military base in Germany, though this has not been confirmed.
 
-The CDC declined to answer direct questions about the US citizens reportedly affected during a press conference on Sunday.
-
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 What is Ebola and why is stopping this outbreak so difficult?
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f6ab/live/75859d70-529d-11f1-b14c-031b0f963228.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+An Ebola outbreak in the Democratic Republic of Congo has been declared a public health emergency of international concern, by the World Health Organization (WHO).
+
+Dealing with this outbreak is difficult as it involves a rare strain for which there is no vaccine and the cases have been found in an area affected by conflict.
+
+Ebola viruses normally infect animals, typically fruit bats, but outbreaks among humans can sometimes start when people eat or handle infected animals.
+
+It takes two to 21 days for symptoms to appear. They come on suddenly and start like the flu, with fever, headache and tiredness.
+
+As the disease progresses, vomiting and diarrhoea develop and it can lead to organ failure. Some, but not all, patients develop internal and external bleeding.
+
+The virus spreads from one person to another by contact with infected bodily fluids such as blood or vomit.
+
+This outbreak is caused by the Bundibugyo species of Ebola, which had not been seen for over a decade.
+
+Bundibugyo has only caused two previous outbreaks, when it killed about a third of those infected.
+
+Initial blood tests for Ebola were negative as they test for more common species.
+
+There is no approved vaccine for Bundibugyo, but experimental ones are in development. It is possible that a vaccine for another species of Ebola (called Zaire) may offer some protection.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Selling children to survive: Afghan fathers forced to make impossible choices
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/76e2/live/d082b8f0-52cc-11f1-b4b8-8bc40cabb834.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+As dawn breaks, hundreds of men gather at a dusty square in Chaghcharan, the capital of Ghor province in Afghanistan.
+
+They line the roadside hoping someone will come along offering any work. It will determine whether their families eat that day.
+
+Juma Khan, 45, has found just three days of work in the past six weeks that paid between 150 to 200 Afghani ($2.35-$3.13; £1.76-£2.34) per day.
+
+"My children went to bed hungry three nights in a row. My wife was crying, so were my children. So I begged a neighbour for some money to buy flour," he says.
+
+In Afghanistan today, a staggering three in four people cannot meet their basic needs, according to the UN. Unemployment is rife, healthcare struggling and the aid that once provided the basics for millions has dwindled to a fraction of what it once was.
+
+The country is now facing record levels of hunger, with 4.7 million - more than a tenth of Afghanistan's population - estimated to be one step away from famine.
+
+"I got a call saying my children hadn't eaten for two days," says Rabani, his voice choking up.
+
+"I felt like I should kill myself. But then I thought how will that help my family? So here I am looking for work."
+
+"We are starving. My older children died, so I need to work to feed my family. But I'm old, so no one wants to give me work," he says.
+
+When a local bakery near the square opens up, the owner distributes stale bread among the crowd. Within seconds, the loaves have been pulled apart, half a dozen men clutching onto precious pieces.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -195,102 +278,40 @@ Later that day, Hezbollah said its fighters had targeted the Yaara barracks in n
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Judge rules gun and writings are admissible in Luigi Mangione's New York murder trial
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1400/live/133da890-52cc-11f1-b4b8-8bc40cabb834.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A New York judge will allow a gun and writings found in Luigi Mangione's backpack after his 2024 arrest to be presented at his state murder trial over the killing of UnitedHealthcare CEO Brian Thompson, but has ruled that other items are inadmissible.
-
-Judge Gregory Carro ruled on Monday that certain evidence "must be suppressed, including the magazine, cellphone, passport, wallet and computer chip" found with Mangione at a Pennsylvania McDonald's.
-
-Carro said that evidence was recovered as part of an "improper and warrantless search" of the then-26-year-old.
-
-However, prosecutors will be allowed to present items found during a search at a police station, including include a gun and a notebook.
-
-Carro also ruled that some of Mangione's questioning by the officers who initially encountered him at the Pennsylvania fast food restaurant must be excluded from trial. Those include questions about Mangione lying about his name, and asking if he had a fake identification card.
-
-Prosecutors will be able to admit evidence from later questioning, when Mangione was in custody, Carro ruled.
-
-Mangione is accused of shooting and killing Thompson on a Manhattan street in December 2024. He faces state charges including second degree murder, several firearms charges, and stalking. He has pleaded not guilty.
-
-Mangione is also charged in a separate federal case, in which he has also pleaded not guilty.
-
-He was arrested in Altoona, Pennsylvania several days after Thompson's shooting in New York following a nation-wide manhunt.
-
-The evidence at stake stemmed from that encounter and the events that followed.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Two men arrested over stunt at enclosure of famed monkey Punch
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a55c/live/2dd10fb0-52b5-11f1-8340-4151f348d713.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Two US nationals have been arrested after one jumped into the enclosure of an internet-famous monkey at a Japanese zoo while the other filmed the stunt, police have said.
-
-One of the men, who claimed to be a 24-year-old college student, is accused of scaling a fence to gain access to Punch's enclosure on Sunday morning. The other man claimed to be a 27-year-old singer.
-
-Both have denied the allegations. Police have said no monkeys were injured during the incident.
-
-Clips of the now nine-month-old macaque attracted millions of views online earlier this year after it was spotted hugging an stuffed toy orangutan given to him by keepers at Ichikawa City Zoo after he was rejected by his mother.
-
-Footage purportedly of Sunday's incident filmed by other zoogoers and shared on social media shows a person wearing a costume and carrying a stuffed toy jumping over a fence and into the monkey enclosure. The costume was said to be promoting a cryptocurrency.
-
-The two men held by police over the incident have been arrested on suspicion of forcible obstruction of business, according to local media.
-
-Ichikawa City Zoo said in a statement on Monday that it had filed a damage report with the police and was putting countermeasures in place to prevent future incidents.
-
-These included expanding the enclosure's viewing restriction area and installing intrusion prevention nets, it said.
-
-The zoo added that it was considering a full ban on filming around the monkey enclosure and was putting requests to film from YouTubers temporarily on hold.
-
-The men did not get close to the animals and were quickly apprehended by zoo workers, an Ichikawa Police official said, according to news agency AFP.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Former Google CEO Eric Schmidt booed by graduates at mention of AI
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/5450/live/4a05dbe0-52cc-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Former Google CEO Eric Schmidt was booed by students as he spoke about the rise of artificial intelligence during his speech at University of Arizona's graduation ceremony, underscoring growing anxiety over AI's impact on jobs.
-
-"I know what many of you are feeling about that. I can hear you," Schmidt told graduates as jeers rang out at the venue during remarks comparing today's AI boom to the rise of computers four decades ago.
-
-The reaction reflects a broader unease on campuses, where speakers who mention AI are increasingly being met with hostility from students.
-
-A recent poll suggests many students view AI as both a threat to their future and an obstacle to their intellectual development.
-
-Speaking to graduates about to enter the workforce, Schmidt conceded that their fears about AI were "rational" but urged the crowd to adapt to the sprawling technology as "AI will shape the world".
-
-"The future is not yet finished. It is now your turn to shape it," he said.
-
-Gloria Caulfield, a real estate executive, saw a similar reception earlier this month at the University of Central Florida.
-
-"The rise of artificial intelligence is the next industrial revolution," she said as the crowd booed.
-
-At the mention of AI at Middle Tennessee State University commencement, Scott Borchetta, CEO of Big Machine Records, was also met with jeers.
-
-The tension comes amid mounting concern among young Americans about the growing role of AI in the workplace.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 ‘It’s heartbreaking’: panic in eastern DRC over return of Ebola
+<img src='https://i.guim.co.uk/img/media/3b5db70e6c2cac94257b35b6d58e807c6ab16ce3/418_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e61b2e972f30e1e46ec53f7da1ca2ea' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Residents of Ituri province fear spread of disease and economic impact of outbreak six years after the last
+
+“On public transport, in bars and at mass gatherings, everyone is talking about Ebola,” said Gloire Mumbesa, a resident of Mongbwalu, a mining town in the Democratic Republic of the Congo. He said cases of the disease had been reported locally and panic was engulfing the area because of the lack of a vaccine for the Bundibudyo strain. “The fear is that this disease may spread to many other areas.”
+
+Residents of Ituri province in eastern DRC, where the World Health Organization announced an outbreak of Ebola last week, are living in growing fear of the possible continued spread of the disease and its deadly impacts, nearly six years after the last outbreak in the region ended.
+
+“We’re stunned by the resurgence of Ebola in our region,” said Dieudonné Lossadekana, a resident of Bunia city, where the first suspected case was reported. “We’ve already recorded several dozen deaths. For us, it’s heartbreaking.”
+
+The economic impacts of the outbreak are a serious worry, and residents are concerned that authorities may impose restrictions that would hinder them from earning a living in a region plagued by armed conflict and where people are already struggling financially.
+
+“We live in a region where poverty is rife and people live from hand to mouth,” said Claude Kasuna in Irumu territory. “When a health emergency like this one strikes, it hits us hard economically.”
+
+The WHO director general, Tedros Adhanom Ghebreyesus, declared the outbreak a “public health emergency of international concern” after more than 300 suspected cases and 88 deaths were reported in the DRC and two deaths in neighbouring Uganda.
+
+The majority of the deaths and suspected cases have been reported in Ituri province, a business centre and migratory hub that borders Uganda and South Sudan. The gold-rich province is the centre of a long-running conflict between militias allied to the Hema and the Lendu, who are fighting over land and the mineral. The fighting has killed more than 50,000 people since 1999.
+
+A health worker who was the first suspected case reported fever, haemorrhaging, vomiting and other symptoms on 24 April and died at a medical centre in Bunia, according to WHO.
+
+Jean Pierre Badombo, a former mayor of Mongbwalu, which is at the centre of the outbreak, told Reuters that people started falling ill in mid-April after a large open-casket funeral procession arrived from Bunia. “After that, we experienced a cascade of deaths,” he said.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/18/ituri-eastern-drc-ebola-outbreak-panic-fear)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Belgian ex-diplomat dies before standing trial over 1961 murder of Congolese leader
 <img src='https://i.guim.co.uk/img/media/bc9abb066d440a6f65c499b2fc78f979a1939ad2/0_126_2198_1758/master/2198.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cec19ba314e2e22ac744b27c010a0d1' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -415,141 +436,116 @@ Africa CDC said it was convening an urgent meeting on Friday with authorities fr
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Mali’s forces target rebel alliance in junta’s fight to keep power
-<img src='https://i.guim.co.uk/img/media/e6d26af1123d872554af9a427c5d33abf01bc499/650_22_3090_2473/master/3090.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46f9527d36a676fc922f988649bb5fe9' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Army supported by Russian mercenaries launches airstrikes after offensive by coalition of Islamist extremists and Tuareg separatists
-
-Mali’s armed forces, supported by Russian mercenaries, have launched airstrikes targeting a rebel alliance of Islamist extremists and Tuareg separatists as the ruling junta struggles to maintain its hold on power in the unstable west African country.
-
-Earlier this week warplanes targeted the key northern town of Kidal, which was lost when the rebels launched a surprise offensive across much of Mali in late April.
-
-Elsewhere, Russian-piloted and supplied military helicopters protected convoys or airlifted supplies to remote outposts where Mali’s army has mounted as yet ineffective efforts to reimpose government authority.
-
-The rebel offensive targeted strategic towns, government forces and their Russian auxiliaries with ambushes, car bombs, drones and raids, inflicting significant casualties. Mali’s defence minister, Sadio Camara, died in a suicide attack on his residence in the garrison town of Kati, 9 miles (15km) north-west of the capital, Bamako, and the head of military intelligence was killed.
-
-Other attacks hit Mali’s international airport, while rebels seized control of Kidal after soldiers fled and a force of Russian mercenaries surrendered. The defeat reversed a key symbolic victory won by the junta in Mali three years ago.
-
-Nina Wilén, the Africa director at the Egmont Institute, an international relations thinktank in Brussels, said the ruling military junta had shown some resilience after being badly shaken by the wave of rebel attacks.
-
-“They are fighting back,” she said. “There has not been a mutiny or counter-coup. That doesn’t mean it won’t happen but … they are still fighting and that is something to note.”
-
-But government forces have so far failed to retake much of the territory lost last month, despite the support of between 2,000 and 2,500 Russian mercenaries first dispatched to Mali, a former French colony, by the Kremlin in 2021.
-
-Witnesses said the government forces’ airstrikes on Kidal had destroyed only a house near an old market and left a crater inside the extensive courtyard of the governor’s office.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/15/mali-airstrikes-rebel-alliance-separatists)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Alex Murdaugh Sues Court Clerk From Trial After Murder Convictions Tossed
-<img src='https://imagez.tmz.com/image/b3/16by9/2026/05/18/b3b073da81b14f12bc73114a01a2548f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 O.J. Simpson Detective Mark Fuhrman Dead at 74
+<img src='https://imagez.tmz.com/image/15/16by9/2026/05/18/15836e29a72946c482111f398c3026d2_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Alex Murdaugh isn't wasting any time after getting his murder convictions thrown out ... because he's now suing Becky Hill over claims she rigged the trial against him so she could cash in on the case with a book deal.
+Former LAPD detective Mark Fuhrman, who discovered the bloody glove in the O.J. Simpson murder case and later torpedoed the prosecution with his use of the n-word, is dead ... TMZ has learned.
 
-According to a new federal lawsuit, obtained by TMZ, Murdaugh says Hill secretly worked jurors throughout his explosive 2023 double-murder trial ... allegedly warning them not to be "fooled," "confused," or "convinced" by his defense team and pushing them toward a guilty verdict.
+Sources tell TMZ ... Mark died from an aggressive form of throat cancer, which he was diagnosed with last year. Mark had been hospitalized for about a week before he died. He had done some cancer treatment ... but made the final decision to stop. There won't be a funeral.
 
-The filing comes just days after the South Carolina Supreme Court tossed Murdaugh's convictions ... ruling Hill's comments to the jury jury tampering poisoned the trial process and denied him a fair trial.
+Mark had been living in Idaho and the Kootenai County Coroner Office tells us Mark died May 12.
 
-As we reported, the court called Hill's conduct "breathtaking," "disgraceful," and "unprecedented" ... after evidence surfaced showing she allegedly made anti-Murdaugh comments to jurors during deliberations.
+He retired from LAPD way back in August 1995 and started writing true crime books. He became a TV and radio personality and even worked as an expert for Fox News.
 
-Now Murdaugh's taking things a step further ... claiming Hill repeatedly pulled the jury's leader aside for private conversations during the trial -- including inside a single-occupancy bathroom -- while also allegedly encouraging jurors to closely study his body language when he testified.
+A year after retiring, Mark pleaded no contest in 1996 to a felony count of perjury for lying about using a racial slur when he testified during O.J.'s trial.
 
-The suit also claims Hill pushed jurors to wrap things up quickly ... allegedly telling them deliberations "shouldn’t take us long" and hinting they'd all become famous after the verdict.
+O.J.'s defense team infamously played a tape in court, in which Mark used the n-word. The audio contradicted his earlier testimony, specifically him denying using the slur.
 
-And according to the complaint, Hill had a financial motive behind all of it ... because she allegedly believed a guilty verdict would help sell more copies of her book -- titled "Behind the Doors of Justice" -- about the trial and get her a lake house.
+With Mark as the cop who found the bloody glove, O.J.'s legal team called out Mark's credibility by resurfacing old tapes of the detective using racist language ... ultimately suggesting he might have planted the evidence.
 
-The lawsuit even drags up Hill's later criminal case ... noting she resigned from office in 2024 and eventually pleaded guilty to perjury, obstruction of justice and misconduct in office after prosecutors accused her of sharing sealed evidence from the trial with media.
+O.J.'s defense strategy worked and he was acquitted ... and Mark's eventual felony perjury conviction made him the only person ever convicted of any crime in the murders of Nicole Brown Simpson and Ron Goldman.
 
-Murdaugh -- who still insists he never killed his wife Maggie or son Paul -- says Hill's actions cost him at least $600,000 in legal fees and destroyed his right to a fair trial.
+Mark was barred from returning to police work in California in May 2024 ... and the reason was because of his felony conviction as part of the O.J. case.
 
-Even with the murder convictions overturned, Murdaugh's not walking free ... he's still locked up serving a 40-year financial-crime sentence tied to the millions he admitted stealing from clients.
-
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/alex-murdaugh-sues-former-trial-court-clerk-after-convictions-tossed/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 'The Valley' Star Brittany Cartwright Fighting to Resolve Nearly $500K Tax Bill
-<img src='https://imagez.tmz.com/image/7c/16by9/2026/05/18/7c816b4b3bdc4e3ea5d4cc90f909e7df_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-Brittany Cartwright is working to clear up a tax issue after California tax authorities claimed she owes nearly half a million dollars in unpaid taxes ... TMZ has learned.
-
-According to docs, seen by TMZ, "The Valley" star appears on the California Franchise Tax Board's semiannual "Top 500 Delinquencies" list, which tracks the state's largest outstanding personal income tax debts over $100K. According to the listing, Brittany allegedly owes $463,632.12.
-
-But Brittany says the debt is tied to an old issue with her previous tax filings.
-
-TMZ obtained a letter from Brittany's CPA, Christopher Fank, who says he has handled Brittany's taxes for the past five years and can confirm she has paid all taxes owed during that time.
-
-According to the letter, Brittany's 2019 taxes mistakenly reported "phantom income and tax" under Brittany's name.
-
-The CPA says he is now working directly with the California Franchise Tax Board to correct the issue and claims the agency has agreed to place a hold on the account while Brittany submits proof she does not owe the disputed amount.
-
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/brittany-cartwright-denies-tax-claim/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 'Star Wars' and 'Powerpuff Girls' Star Tom Kane Dead at 64
-<img src='https://imagez.tmz.com/image/23/16by9/2026/05/18/2318718e8f0b4a0fbb9a68d70d7060f6_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-Tom Kane, the iconic voice actor best known for his work on "Star Wars" and "Powerpuff Girls," has died.
-
-Zach McGinnis, his rep, tells TMZ ... Tom died Monday ... at a hospital in Kansas City, surrounded by family. His cause of death was complications from his 2020 stroke.&nbsp;
-
-Zach tells TMZ ... "Though his voice may now be silent, the characters, stories, and love he gave to the world will live on forever."
-
-Tom was the voice of Yoda in "Star Wars: The Clone Wars" feature film and TV series ... and he voiced Professor Utonium and HIM in "The Powerpuff Girls," among many more voice performances over the years. He also voiced characters in popular video games, such as the "Call of Duty" franchise.
-
-Zach added ... "But beyond the incredible career was an extraordinary man. Tom was a devoted husband and father who, alongside his wife, built a loving family of nine children — three biological and six welcomed through adoption and fostering."
-
-His last Instagram post was with the 'Powerpuff Girls' themselves ... showing him smiling as he was reunited with his girls.
-
-Tom was 64.
+He was 74.
 
 RIP
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/tom-kane-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/mark-fuhrman-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Kendall Jenner and Jacob Elordi Spotted on Intimate Beach Date in Hawaii
-<img src='https://imagez.tmz.com/image/94/16by9/2026/05/18/94ed1c7d48c5438cbadae287e896bec4_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 LAPD Veteran Tom Lange Mourns Mark Fuhrman, Reflects on Their Differences
+<img src='https://imagez.tmz.com/image/8e/16by9/2026/05/18/8e0d77ea5d324f059620a69a52902f42_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Kendall Jenner and Jacob Elordi enjoyed what looked like a very private beach hang in Hawaii last weekend, according to a photo obtained by TMZ.
+Former LAPD detective Tom Lange is reacting to the death of Mark Fuhrman with respect and reflection ... despite the two famously butting heads over the years in the wake of the O.J. Simpson murder case.
 
-In the snap, Kendall is seen lounging in a bikini while holding what appears to be a bottle of Avaline rosé ... as she sits beside Jacob Elordi on the sand. Jacob kept things casual in blue shorts and a green baseball cap, with the two appearing completely focused on each other.
+Lange tells TMZ he was "shocked" and "very sorry" to hear about Fuhrman's passing ... calling the news "terrible." He also gave Fuhrman credit for the role he played during one of the most infamous murder investigations in American history.
 
-The setup looked far more intimate than your typical celebrity beach scene. A surfboard-style table sat in front of them while they relax oceanside, and there didn’t appear to be anyone else around as the pair enjoyed the quiet tropical setting together.
+"Mark was a cop, he was there, he did his job ... got to give him credit for that," Lange told us.
 
-The sighting is only going to pour more fuel on the ongoing dating rumors surrounding the two stars, as reports first linked Jenner and Elordi started circulating around Coachella earlier this year -- after fans began speculating they were spending increasing amounts of time together behind the scenes.
+Lange acknowledged the two men didn’t always see eye-to-eye ... but made it clear he’s not dwelling on old disputes now.
 
-Both Kendall and Jacob are famously guarded when it comes to their personal lives, which makes this secluded Hawaii moment stand out even more. PEOPLE&nbsp;magazine, citing a source, reports that the supermodel and the actor have been "hanging out and getting to know each other the last couple months.”&nbsp;
+"We’ve had our disagreements in the past, but everyone has disagreements," he said.
 
-Whether it’s just a casual getaway or something more serious brewing, the cozy oceanside setup -- complete with rosé and no one else in sight -- certainly looked like more than just a random beach day.
+We broke the story ... Fuhrman died last week at age 74 from an aggressive form of throat cancer. Fuhrman became one of the most controversial figures in the Simpson murder trial after defense attorneys accused him of racism and evidence tampering -- allegations that helped shape the outcome of the case.
+
+Lange worked alongside Fuhrman during the investigation and was a prominent public voice defending the integrity of the police work in the case.
+
+He retired from the LAPD in 1996 after nearly three decades on the force and more than 250 homicide investigations under his belt. Since then, he's stayed in the public eye as a private investigator, TV consultant and outspoken advocate against domestic violence.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/17/kendall-jenner-jacob-elordi-beach-picture-hawaii/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/tom-lange-mourns-mark-fuhrman/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Philadelphia Eagles QB Jalen Hurts Didn't Attend AJ Brown's Wedding
+<img src='https://imagez.tmz.com/image/7a/16by9/2026/05/18/7afd4cf6a1344234a5127dd8e6095dac_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+Philadelphia Eagles star quarterback Jalen Hurts was NOT at the wedding of his longtime friend and current NFL teammate A.J. Brown, TMZ has learned.
+
+Sources close to the situation tell TMZ that despite knowing each other for years and playing on the same team ... we're told Jalen didn't make the lavish beachside ceremony. However, it's unclear if he was invited.
+
+Jalen's absence is interesting on a number of levels. He's known A.J. since high school and is the godfather to A.J.'s daughter, Jersee. Jalen tried to recruit A.J. to Alabama to play together in college, and pushed hard for the Eagles to acquire him a trade. But after 4 years together in Philly, there are rumors of a rift.
+
+As we first reported ... A.J. married Kelsey Riley over the weekend at the Montage Laguna Beach.
+
+Jalen wasn't the only Eagles teammate who wasn't there ... it looks like no current Eagles were ... though we did spot former Eagles player Darius Slay.
+
+A.J. has been involved in trade rumors all NFL offseason ... so a lack of current teammates at the wedding speaks volumes too.
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/jalen-hurts-absent-at-aj-brown-wedding/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Linda Perry Defends Nicki Minaj's Support of Donald Trump as 'Lapse of Judgment'
+<img src='https://imagez.tmz.com/image/b1/16by9/2026/05/18/b19bf9711c304bd5b37334b35e7e6cbd_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+You won't catch Linda Perry sharpening her pitchfork over Nicki Minaj's support of Donald Trump ... she's just chalking it up to a "lapse of judgment."
+
+In an interview with Billboard's "Pop Shop Podcast" last week ... the 4 Non Blondes singer said she thinks NM must be in a bit of a pickle if she's going full MAGA.
+
+Linda told Billboard ... "In Nicki’s case, it seems that she wanted something from the office and was trying to maybe help herself, a friend, a boyfriend — whatever — and was promised something and felt that it was worth the risk to take."
+
+She explained that if someone she really loved -- like her best friend, family, or ex-wife Sara Gilbert -- was in trouble or desperately needed something, she'd probably make a "bad judgment" call, too ... even if that means "begging and groveling to somebody to get it to happen."
+
+LP added ... "Sometimes when we’re thinking about loved ones or trying to get out of a situation, we’re not thinking clearly."
+
+Remember, "What's Up?" by 4 Non Blondes went viral last year in a TikTok mashup with Nicki's "Beez in the Trap."
+
+And while Linda has sympathy for whatever situation she believes the rapper's found herself in ... Nicki's still all-in on Trump.
+
+In fact, she told Time in a recent interview that she's not the only one, saying ... "Many celebrities feel the way I do, but they don't say it. Sometimes, you just need one brave person to get the brunt of the impact. I think I am the catalyst for that change."
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/18/linda-perry-backs-nicki-minaj-donald-trump-support/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -639,25 +635,14 @@ All prices &amp; availability subject to change.&nbsp;Not official merchandise.
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Brookings Institution Report: Over 100,000 Family Separations in Trump Crackdown
+### 📰 Abortion Pill Lawsuit Leaves Trump in a Political Bind Ahead of the Midterms
 <div align='justify'>
 
-The Brookings Institution suggests that federal statistics are an undercount because immigrant parents are not being asked about or not disclosing their American children.
+Louisiana wants the Food and Drug Administration to curtail access to the medication. Doing so could cost Republicans at the polls.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/us/brookings-institution-report-family-separations.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 How a Funding Pause Derailed an Artificial Heart for Babies
-<div align='justify'>
-
-James Antaki’s efforts to develop a baby’s heart were close to success when his federal funding was cut off. The grants were eventually restored; rebuilding what was lost wasn’t so easy.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/well/federal-cuts-artificial-baby-heart-cornell.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -672,31 +657,129 @@ With the midterms nearing, President Trump’s approval rating has hit a second-
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 A Crack in the Polling Floor Puts Trump in New Territory
+### 📰 Trump Says He Authorized New Strikes on Iran, but Has Decided to Hold Off
 <div align='justify'>
 
-A 37 percent approval rating in a new Times/Siena poll suggests the G.O.P. is facing a big midterm problem despite recent redistricting gains.
+President Trump has repeatedly threatened new military action against Iran, only to pull back from resuming major fighting in a deeply unpopular, expensive conflict.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/upshot/trump-poll-times-siena-analyis.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 L.I.R.R. Riders Stranded by Strike Have Few Commute Alternatives. Here’s What To Know.
+### 📰 Tonys 2026 Predictions: Who Will Win? And Who Should?
 <div align='justify'>
 
-New York transit officials say the alternate travel options they’ve arranged for the Long Island Rail Road strike could not accommodate all commuters.
+Our chief theater critic looks at this year’s nominees and makes some predictions (and recommendations).
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/nyregion/lirr-strike-update-shuttle-bus.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/17/theater/tonys-2026-predictions.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman
+<div align='justify'>
+
+A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 Johnson Photographers Honored for Award-Winning Portraits
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/slide1.jpeg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards.
+
+“Congratulations to all three on this impressive achievement and for capturing such breathtaking imagery,” said Johnson Director Vanessa Wyche. “Their work represents the collaboration, precision, and creativity that drive human space exploration forward.”
+
+David DeHoyos, Josh Valcarcel, and Bill Stafford were recognized during the award ceremony held April 20, 2026, in Las Vegas.
+
+From engineering tests to astronaut training to mission control operations, these photographers document the people and work central to NASA’s human spaceflight mission.
+
+A Houston native, born in 1963, David DeHoyos’ life has been deeply shaped by the city’s dual legacy of arts and aerospace.
+
+DeHoyos graduated from Houston’s High School for the Performing and Visual Arts in 1981 with a specialization in photography. After spending a decade refining his technical craft in photo labs, he joined Johnson’s photography department in 1991.
+
+“This opportunity represented the fulfillment of a lifelong ambition,” said DeHoyos. “Growing up during the fervor of the Apollo era, I always dreamed of contributing to NASA’s mission. I am so honored and blessed to be amongst a team of wonderful people and, more importantly, friends.”
+
+Josh Valcarcel has worked as a professional photographer and videographer for over 20 years and has been a scientific photographer at Johnson since 2017. He previously served as a staff photographer and photo editor at WIRED magazine and as a mass communication specialist in the U.S. Navy, capturing stories from flight deck operations to remote island nations across the Pacific.
+
+“As a NASA photographer, I’ve had the privilege of witnessing impossible dreams become reality every day,” said Valcarcel. “That experience has shown me that with the right vision, culture, and trust, what once seemed impossible can become part of everyday life.”
+
+A Texas native and 1999 graduate of East Texas A&M University, Bill Stafford has served as a photographer and videographer for NASA since graduation, documenting over two decades of the nation’s space exploration milestones.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars
+<img src='https://science.nasa.gov/wp-content/uploads/2026/05/zwan-wolf-mars-v4.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothpaste coming out of a tube along magnetic structures called flux tubes. This so-called Zwan-Wolf effect aids in the deflection of solar wind around Earth and has been observed and studied there for decades. Now, a new study published in Nature Communications provides the first comprehensive observations of the same effect in Mars’ atmosphere.
+
+“When investigating the data, I all of a sudden noticed some very interesting wiggles,” said Christopher Fowler, a research assistant professor at West Virginia University in Morgantown and lead author of the study. “I would never have guessed it would be this effect, since it’s never been seen in a planetary atmosphere before.”
+
+The Zwan-Wolf effect was first discovered in 1976, and until now has only been observed in planetary magnetospheres, not their atmospheres. Unlike Earth, Mars is not protected by a global magnetic field, affecting how it interacts with the solar wind and space weather. In this new study, the Zwan-Wolf effect was observed in the ionosphere — deep within the Martian atmosphere below 200 km — which contains significant numbers of electrically charged particles. The data showed that these charged particles were being squeezed and distributed around Mars’ atmosphere.
+
+Although Mars has an induced magnetosphere, a magnetic field generated by the solar wind interacting with the Martian ionosphere, it can greatly change in size and shape with large solar wind and space weather events. That is what Fowler and his team saw in the MAVEN data when a large solar storm hit Mars. Based on their findings, the Zwan-Wolf effect may be occurring constantly in the Martian ionosphere but at levels undetectable by MAVEN’s instrumentation. The impact of the space weather event appears to have amplified the effect, allowing the scientists to observe it in the data.
+
+In the beginning, Fowler and his team came across some interesting-looking fluctuations in measurements of the magnetic field as the spacecraft flew through the atmosphere. To explain this, they dug into observations made by several instruments on MAVEN, including measurements of the charged particle environment in the ionosphere. Their sleuthing uncovered even more weird and interesting features in the data. After ruling out several other possibilities, the team was able to identify the culprit as the Zwan-Wolf effect, which explained all the features they were seeing.
+
+“No one expected that this effect could even occur in the atmosphere,” said Fowler. “That’s what makes this even more exciting. It introduces interesting physics that we haven’t yet explored and a new way the Sun and space weather can change the dynamics in the Martian atmosphere.”
+
+Understanding the Zwan-Wolf effect at Mars will further our understanding of how space weather affects the planet and provides new insight into how this effect might occur at similar unmagnetized bodies, such as Venus and Saturn’s moon Titan. Observations like this also highlight the importance of knowing how large space weather events can lead to changes in the environment at and around the Red Planet and potentially affect assets on or near Mars.
+
+“Knowing how space weather interacts with Mars is essential,” said Shannon Curry, the principal investigator of MAVEN and research scientist at the Laboratory for Atmospheric Space Physics at the University of Colorado Boulder. “The MAVEN team continues making new discoveries with our datasets and finding these links between our host star and the Red Planet.”
+
+The MAVEN spacecraft launched in November 2013 and entered Mars’ orbit in September 2014. The mission’s goal is to explore the planet’s upper atmosphere, ionosphere, and interactions with the Sun and solar wind to explore the loss of the Martian atmosphere to space. Understanding atmospheric loss gives scientists insight into the history of the Red Planet’s atmosphere and climate, liquid water, and planetary habitability. The MAVEN spacecraft, in orbit around Mars, experienced a loss of signal with ground stations on Earth on Dec. 6, 2025. In Feb. 2026, NASA launched an anomaly review board to assess the probable current state of the spacecraft and the likelihood of its recovery.
+
+The MAVEN mission is part of NASA’s Mars Exploration Program portfolio. The mission’s principal investigator is based at the Laboratory for Atmospheric and Space Physics at the University of Colorado Boulder, which is also responsible for managing science operations and public outreach and communications. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the MAVEN mission. Lockheed Martin Space built the spacecraft and is responsible for mission operations. NASA’s Jet Propulsion Laboratory in Southern California provides navigation and Deep Space Network support.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 NASA Selects Next Class of Space Health Postdoctoral Fellows
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/sls.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+The NASA-funded Translational Research Institute for Space Health (TRISH) has selected two early‑career scientists for its next class of postdoctoral fellows. The new fellows will begin their projects in May, focusing on space food systems and astronaut eye health.
+
+The TRISH Postdoctoral Fellowship Program supports independent research that advances biomedical, behavioral, and technological approaches relevant to human space exploration. The selected projects should aim to reduce spaceflight-related health risks and improve human health on Earth.
+
+Dr. Baiyang Liu     Institution: Columbia University in New York City     Project: Developing a Diazotrophic and Nutritionally Optimized Spirulina Strain for Extended      Space Missions     Mentor: Dr. Harris Wang
+
+Dr. Dylan Pham          Institution: Texas A&M University in College Station     Project: Impact of Simulated Microgravity and Aging on Ocular Artery and Neural Retina      Function     Mentor: Dr. Travis Hein
+
+“Our postdoctoral fellows bring new ideas, technical expertise, and energy to some of the most complex challenges in human spaceflight,” said Dr. Dorit Donoviel, executive director of TRISH and associate professor at Baylor College of Medicine in Houston. “By investing in the next generation, we are building the capability required to achieve a sustained presence on the Moon and extend human exploration deeper into space.”
+
+A virtual institute, TRISH is empowered by NASA’s Human Research Program to help solve challenges of human deep space exploration. It pursues and funds research to deliver scientific and technological solutions that advance space health and help humans thrive wherever they explore, in space or on Earth.
+
+NASA’s Human Research Program pursues methods and technologies to support safe, productive human space travel. Through science conducted in laboratories, ground-based analogs, commercial missions, the International Space Station and Artemis missions, the program scrutinizes how spaceflight affects human bodies and behaviors. Such research drives the program’s quest to innovate ways that keep astronauts healthy and mission ready as human space exploration expands to the Moon, Mars, and beyond.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-selects-next-class-of-space-health-postdoctoral-fellows/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Beacon of Light
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/55255325881-69941927eb-o.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -740,79 +823,6 @@ Sandra Jones / Joseph ZakrzewskiJohnson Space Center, Houston281-483-5111sandra.
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-34th-spacex-resupply-mission-to-station/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Curiosity Shakes Loose a Pesky Rock
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/pia26724.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-After NASA’s Curiosity Mars rover drilled a sample from this rock on April 25, 2026, it withdrew its robotic arm and pulled the entire rock off the surface with it. Engineers spent several days repositioning the arm and vibrating the drill to try and get the rock loose. When it finally detached on May 1, the rock broke into pieces.
-
-This close-up image of the rock was produced by Curiosity’s Mast Camera, or Mastcam, on May 6. Nicknamed “Atacama,” the rock is estimated to be 1.5 feet in diameter at its base and 6 inches thick. It would weigh roughly 28.6 pounds on Earth (and about a third of that on Mars). The circular hole produced by Curiosity’s drill is visible in the rock.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/curiosity-shakes-loose-a-pesky-rock/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Hubble Sights Galaxy in Transition
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/hubble/galaxies/lenticular/Hubble_NGC1266_2_4F_flat_FINAL_crop2.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer regions and dots the inky-black background.
-
-NGC 1266 is a lenticular galaxy located some 100 million light-years away in the constellation Eridanus (the Celestial River). Astronomers classify lenticulars as transitional galaxies that represent an evolutionary bridge between spirals and ellipticals. Lenticulars are “lens-shaped” and have a bright central bulge and flattened disk like spirals, but they have no spiral arms and little to no star formation like ellipticals.
-
-As interesting as this galaxy’s structure and lenticular classification are, those traits aren’t its most intriguing features. NGC 1266 is a rare post-starburst galaxy that is in transition between a galaxy that experienced a major burst of star formation and a quieter elliptical galaxy. Post-starburst galaxies have a young population of stars but few star-forming regions. Roughly one percent of the local galaxy population is a post-starburst galaxy.
-
-Astronomers think that NGC 1266 had a minor merger with another galaxy some 500 million years ago. The merger spurred the formation of new stars and increased the mass of the galaxy's central bulge while funneling gas into its supermassive black hole. The additional matter made the black hole much more active, creating an active galactic nucleus or AGN. The black hole’s increased activity would have generated powerful winds and jets of gas along its axis of rotation. Over time, the burst of new stars and the black hole’s powerful jets would deplete the galaxy’s reservoir of star-forming gas, while the turbulence generated in these processes suppressed new stars from forming in the gas that remained.
-
-Observations by Hubble and other observatories reveal a strong outflow of gas from the galaxy and that the space between its stars is shocked or highly disturbed. Researchers found that any remaining stellar nurseries are in the core of the galaxy, and that very little to no star formation happens beyond that core. These observations suggest the supermassive black hole in the galaxy’s heart may be suppressing star birth by stripping or ejecting star-forming gas from the galaxy. The shockwaves from this process would create turbulence that disturbs the gas and dust between stars enough to stop any remaining matter from gravitationally condensing into infant stars.
-
-Post-starburst galaxies like NGC 1266 are ideal subjects for astronomers to study the complex physical processes that suppress star formation. They help us better understand the evolution of galaxies and how supermassive black holes interact with their hosts.
-
-Claire AndreoliNASA's Goddard Space Flight Center, Greenbelt, MDclaire.andreoli@nasa.gov
-
-Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Picturing Earth in a New Light
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/picturing-earth-in-a-new-light/nightlights_20142022_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-A recent analysis revealed where artificial light at night has intensified, as well as where it has diminished.
-
-Maps can show more than just where things are—they can also show how things change. New maps of artificial light reveal a planet that has been reshaping its nights through patterns of brightening and dimming.
-
-The maps are based on a recent analysis of NASA’s Black Marble data, which found that instead of a gradual increase in artificial light at night over the course of nearly a decade, the patterns are much more nuanced. The analysis portrays a world flickering with industrial booms and busts, construction, and blackouts, as well as more gradual shifts, such as policy-driven retrofits.
-
-NASA’s Black Marble product uses observations from the VIIRS (Visible Infrared Imaging Radiometer Suite) sensors on the Suomi-NPP, NOAA-20, and NOAA-21 satellites to produce records of nighttime lights at daily, monthly, and yearly time scales. The VIIRS day-night band detects nighttime light in a range of wavelengths from green to near-infrared and uses filtering techniques to observe signals such as city lights, reflected moonlight, and auroras.
-
-The map above shows changes in brightness across most of the inhabited world (between 60 degrees south and 70 degrees north). Yellow and gold areas are where there has been more brightening during the study period, from 2014 to 2022, and purple areas are where there has been more dimming.
-
-The visualization below shows the same data for the Eastern Hemisphere. Note that this version includes some artistic touches, such as simulated sunlight and shadows, while the nighttime lights data overlaid on the globe remain grounded in the scientific analysis. The image was featured on the cover of Nature, where the study was published in April 2026.
-
-Overall, the researchers found that global radiance increased by 34 percent during the study period, but that surge masks large areas of dimming. Such “bidirectional changes” often happen side by side. In the U.S., for example, West Coast cities grew brighter as their populations increased, while much of the East Coast showed dimming, which the team attributed to the increased use of energy-efficient LEDs and broader economic restructuring.
-
-The authors concluded that internationally, nighttime light surged in China and northern India along with urban development, while LEDs and energy conservation measures coincided with reduced light pollution in Paris and throughout France (a 33 percent dimming), the UK (22 percent dimming), and the Netherlands (21 percent dimming). European nights dimmed sharply in 2022 during a regional energy crisis that followed the outbreak of the Russia-Ukraine conflict.
-
-Large versions of the maps on this page can be downloaded below. Animations showing annual changes in nighttime lights throughout the study period are available from NASA’s Scientific Visualization Studio.
-
-NASA Earth Observatory images by Michala Garrison, using data from Li, T., et al. (2026). Story by Sally Younger adapted for Earth Observatory by Kathryn Hansen.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/picturing-earth-in-a-new-light/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
