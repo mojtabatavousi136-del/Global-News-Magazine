@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/19 - 17:47`
+**📅 Update (Tehran Time):** `2026/05/19 - 23:51`
 
 ---
 
@@ -19,158 +19,171 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 US extends sanctions waiver on Russian oil: Why it matters
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260331__A6BU48P__v1__HighRes__CubaRussiaUsOil-1775054442.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Mansour Kaziha, Nader Awad identified as victims in San Diego Mosque attack
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0cb29d-1779217053.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The United States has announced another 30-day extension of a sanctions waiver for countries buying Russian oil and petroleum products currently already loaded on tankers at sea, as global energy markets have been roiled by the US-Israel war on Iran.
+Authorities confirmed the identities of two other men killed in an attack on the Islamic Center of San Diego, in the latest apparent hate incident in the United States.
 
-In a post on X on Monday, Treasury Secretary Scott Bessent announced that the US would issue the extension “to provide the most vulnerable nations with the ability to temporarily access Russian oil currently stranded at sea”. It will last until June 17.
+Mosque officials on Tuesday said Mansour Kaziha and Nader Awad had been killed when two gunmen attacked the religious site the day before.
 
-“This extension will provide additional flexibility, and we will work with these nations to provide specific licenses as needed. This general license will help stabilize the physical crude market and ensure oil reaches the most energy-vulnerable countries,” he wrote.
+That came after friends and family identified Amin Abdullah, a security guard credited with thwarting the attackers, as the third man killed. The alleged gunmen were later found dead of apparent self-inflicted gunshot wounds. Police have been investigating the attack as a hate crime.
 
-“It will also help reroute existing supply to countries most in need by reducing China’s ability to stockpile discounted oil,” he added.
+The chairman of the Mosque’s board of directors, Ahmed Shabaik, said all three men had played a role in responding to the gunmen.
 
-The US issued its first 30-day sanctions waiver for Russian oil and petroleum products in March in a bid to stabilise global energy markets after crude oil prices surged above $100 per barrel in the wake of US-Israeli strikes on Iran. In April, Bessent told The Associated Press news agency that Washington had no plans to renew the waiver.
+Mansour Kaziha, a longtime employee of the mosque, called police before he was killed, Shabaik said. Nader Awad, a member of the mosque who lived across the street, rushed to the facility when he heard gunshots.
 
-But energy markets have failed to stabilise amid ongoing negotiations for a peace proposal between the US and Iran, as well as the closure of the Strait of Hormuz, a vital waterway through which about 20 percent of global oil and gas is shipped during peacetime, and the US naval blockade of Iranian ports. The closure of the strait, which is the only sea route from the Gulf to the open ocean, has “walled in” 20 million barrels of Gulf oil per day, George Voloshin, an independent energy analyst based in Paris, told Al Jazeera in March.
+Kaziha “has been with the mosque since its construction in the 1980s”, Shabaik said. “He does everything in the mosque, all the everyday demands. He also ran the gift shop inside the mosque and was behind all the cooking during Ramadan for iftar and made the suhoor meals.”
 
-Furthermore, European sanctions on Russian oil – imposed since the start of the 2022 invasion of Ukraine – remain in place.
+“He was a cornerstone, a pillar of this masjid,” he said, adding that Kaziha, who was originally from Syria, was married with five adult children.
 
-Will the US waiver extension help stabilise the energy market? What does this mean for Russia? Here’s what we know:
+Awad was also a husband and father, he said, adding that “when he heard the shots, he ran into the masjid to help, he also diverted some people who were coming to the masjid at the time.”
 
-According to analytics firm Kpler, there is currently about 113 million barrels of oil or liquid volume (Mbbl) of Russian crude and condensate loaded on ships and at sea. Russian crude oil in transit is approximately 106Mbbls.
+Speaking at a news conference on Tuesday, Imam Taha Hassane said Awad’s wife is a teacher at the Islamic school and he was a devout member of the community.
 
-Johannes Rauball, a senior crude analyst at Kpler, told Al Jazeera that floating storage of Russian crude – oil held on stationary tankers awaiting buyers or further shipping instructions – has declined significantly since the start of the year from a high of about 19Mbbls in late January to 7Mbbls now.
+“He is every single day at the Islamic Center, joining the prayers every single day,” he said.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/19/us-extends-sanctions-waiver-on-russian-oil-why-it-matters?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/19/mansour-kaziha-nader-awad-identified-as-victims-in-san-diego-mosque-attack?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ronaldo to lead Portugal at sixth World Cup as Martinez names squad
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26131781003576-1779196260.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Moment Neymar brought to tears after surprise World Cup call-up
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Neymar-1779219828.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Cristiano Ronaldo will embark on a sixth World Cup at the age of 41 after Portugal coach Roberto Martinez named him in a 27-man squad for the tournament, with a symbolic “plus one” in memory of the late Diogo Jota.
-
-Speaking at Cidade do Futebol before a packed auditorium on Tuesday, Martinez confirmed that fourth-choice goalkeeper Ricardo Velho, of Genclerbirligi Ankara, will travel with the squad, but can only be added to the official 26-man list in the event of an injury to one of the three registered keepers.
-
-Portugal, the reigning Nations League champions, open their Group K campaign at the tournament in the United States, Mexico and Canada against the Democratic Republic of the Congo on 17 in Houston.
-
-They then face Uzbekistan at the same venue on June 23 and conclude the group stage against Colombia in Miami on June 27. The tournament runs from June 11 to July 19.
-
-Martinez said his selection comprised “27 players plus one”, a reference to Liverpool forward Jota, who died in a car accident in July last year, aged 28.
-
-“He is our strength, our joy,” Martinez said. “Losing Diogo was an unforgettable and very difficult moment, but the very next day, it was up to all of us to fight for Diogo’s dream and for the example he always set in our national team. Diogo Jota’s spirit, strength and example are the +1 and will always be the +1.”
-
-The coach defended his decision to name four goalkeepers and five fullbacks, while leaving out players including Mateus Fernandes, Ricardo Horta and Pedro Goncalves.
-
-“The complexity of the tournament is very important – the demands of the weather, the time zone, everything we already experienced in March,” Martinez said. “There are positions where we need to have more than two players per position. And we need five fullbacks.”
-
-He highlighted the versatility of Diogo Dalot, Joao Cancelo and Matheus Nunes, and pointed to attacking options such as Joao Felix, Bruno Fernandes, Bernardo Silva and Francisco Trincao operating between the lines, with Rafael Leao, Pedro Neto and Francisco Conceicao providing width.
-
-Martinez added that Velho understood his role as a training goalkeeper, noting that FIFA rules only permit replacement in the event of injury during the tournament.
+Brazil’s all-time top scorer Neymar jr was brought to tears after hearing his name included in Brazil’s World Cup squad.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/19/ronaldo-to-lead-portugal-at-sixth-world-cup-as-martinez-names-squad?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/19/moment-neymar-brought-to-tears-after-surprise-world-cup-call-up?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Who was Amin Abdullah, the ‘hero’ guard killed in San Diego shooting?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/PXL_20251205_190422057-1-1779196868.jpg?resize=1200%2C630' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israeli forces fire ‘rubber bullets’ at activists on Gaza aid flotilla
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779216846.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A security guard at the Islamic Center in San Diego, California, has been hailed as a “hero” after he was killed while trying to prevent suspected shooters from entering the mosque complex in an attack police are investigating as a hate crime.
-
-At least three people were killed after two teenage attackers opened fire at the San Diego mosque on Monday. Authorities have yet to publicly identify the victims, but community leaders have named the guard as Amin Abdullah.
-
-United States officials said the guard “played a pivotal role” in preventing the attack from being “much worse”. “It’s fair to say his actions were heroic,” San Diego Police Chief Scott Wahl said at a news conference. “Undoubtedly, he saved lives today.”
-
-At the time of the shooting, children were attending a private school located inside the complex, according to ABC News.
-
-So here’s what we know about the guard and the attack on the mosque complex.
-
-A family friend identified the guard as a well-known face at the mosque, who had been working there for more than a decade, The Associated Press news agency reported.
-
-“He wanted to defend the innocent, so he decided to become a security guard,” said Sheikh Uthman Ibn Farooq, who had spoken with Abdullah’s son. The family could not immediately be reached for comment.
-
-After Abdullah was identified by reports as one of the men killed in the attack, tributes started to pour in online. A Facebook profile associated with him has 1,800 followers and lists Abdullah as married.
-
-His latest post was from May 13, featuring a video of a hawk perched upon the minaret of a mosque, captioned: “Hawk on the minaret again, Allahu Akbar.”
-
-On May 5, he posted: “What is success? To many people success is financial stability, good reputation, beauty, etc. As for ME! Wallahi, thumma Wallahi. It is returning back to Allah OUR creator with the same pure soul he loaned me at birth.”
+Israeli naval forces are accused of firing ‘rubber bullets’ at activists on board the Gaza-bound Global Sumud Flotilla.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/19/who-was-amin-abdullah-the-hero-guard-killed-in-san-diego-shooting?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/19/israeli-forces-fire-rubber-bullets-at-activists-on-gaza-aid-flotilla?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Suspected car bomb explodes in Syrian capital Damascus
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779195366.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 High prices in Iran’s stunted housing market leave tenants with few options
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/GettyImages-2256259082-1779205772.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Plumes of smoke from a suspected car bomb explosion outside an armament management centre in Damascus.
+Tehran, Iran – When Mohammad, a 29-year-old resident of western Tehran, renewed his tenancy contract earlier this week, the price increase did not come as a surprise.
+
+His landlord had raised the rent for the 20-year-old apartment to 230 million rials ($130), up from 130 million rials ($73), while keeping the fast-depreciating deposit at 5 billion rials ($2,800 at the current exchange rate).
+
+Monthly minimum wage in Iran is currently about $90, which can go to $120 after accounting for government-issued subsidies, electronic coupons and marriage or housing-related allowances.
+
+Most tenants are believed to be surviving under the poverty line, which is about 700 million rials ($400) in monthly income per average family.
+
+“I think the landlord was happy to extend for another year because of the market conditions, and I wanted to stay because the price increase could be worse,” Mohammad, who works as a driver for a ride-hailing app, told Al Jazeera.
+
+Moreover, he said, his neighbourhood was not directly targeted in the air attacks that the United States and Israel launched in late February, before strikes were suspended more than a month ago under a tenuous ceasefire.
+
+He added that more affordable alternatives to the 60-square-metre (645-square-foot) apartment would be smaller and older, or located in southern Tehran, which would mean having to commute an extra hour daily to go to work.
+
+Incomes and expenses hardly match for many Iranians who do not own homes, forcing them to pay large amounts to keep a modest roof over their heads or make compromises.
+
+According to the Statistical Center of Iran, rents rose 31 percent year-on-year in Farvardian, the first month in the Persian calendar, which ended on April 20.
+
+No official data has been released for Tehran, but reports in local media and realtor associations indicate that prices in the capital are now 30 to 40 percent higher on average compared to last year. Areas less affected by the war are growing more expensive faster.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/19/suspected-car-bomb-explodes-in-syrian-capital-damascus?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 China-Russia relations are as strong as ever thanks to Trump
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-19T104543Z_781453515_RC2CIGAMQOJX_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-CHINA-1779190784_c4d007-1779193655.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Trump’s Board of Peace urges fix to ‘gap’ in funding
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a0c585f-1779193951.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Days before Donald Trump was elected for his second term as US president in 2024, he pledged to “un-unite” Russia and China as he accused his predecessor, Joe Biden, of bringing them closer together. But his recent actions actually fall in line with the counterproductive policies of his predecessors that have encouraged the Russo-Chinese alliance.
+A body set up by United States President Donald Trump to oversee the administration and reconstruction of the Gaza Strip has said that it is short of the funds needed to move forward with those efforts.
 
-It is no wonder that Chinese President Xi Jinping invited his Russian counterpart Vladimir Putin just days after hosting Trump. It seems the two leaders will have a situation room meeting – catching up and coordinating in view of the results of the Xi-Trump summit.
+Trump’s so-called “Board of Peace” has warned of a significant gap between the funds disbursed and the $17bn pledged to the organisation, according to media reports on Tuesday.
 
-The Iran war has given a powerful impetus to strengthening Russo-Chinese ties. The closure of the Strait of Hormuz has made China critically reliant on Russian oil and gas supplies and thus helped Moscow fill up its coffers and get additional funds for its ongoing war on Ukraine.
+“Funds committed but not yet disbursed represent the difference between a framework that exists on paper and one that delivers on the ground for the people of Gaza,” a May 15 report to the United Nations Security Council (UNSC) cited by news outlets says.
 
-In the first four months of this year, bilateral trade has jumped by nearly 20 percent. Cooperation in the energy sector is expected to expand, with Putin mentioning before his trip that there will be “a substantial step forward” in the oil and gas sphere.
+The funding shortfalls underscore concerns about the Board of Peace, already viewed sceptically by critics as a means of sidestepping traditional international organisations and aid groups that Israel does not want involved in shaping the future of the devastated Palestinian territory.
 
-Already last year, in September – three months after the Israeli assault on Iran – Chinese companies signed a memorandum with Russia’s energy giant Gazprom to expand the import of Russian gas through two pipelines from 48 to 56 billion cubic metres. The long-delayed Power of Siberia 2 gas pipeline is once again on the table. Continuing exports of Chinese parts and technology have also helped Russia’s military industry keep up with demand from the front line in Ukraine.
+The news service Reuters reported in April that the board had received only a small portion of the $17bn in pledged funds, a report the body rejected at the time, stating there were “no funding constraints”.
 
-Beijing and Moscow may have a strong economic relationship, but what really unites them at the moment is their shared analysis of the US-led West and the danger it poses to the rest of the world. The perception of the US as a rogue and fundamentally irrational actor is naturally pulling them together.
+The cost of reconstructing Gaza, large swathes of which have been completely levelled during Israel’s genocidal war and subsequent efforts to demolish Palestinian homes and buildings, has been estimated at $70bn.
 
-But it wasn’t always this way. Several decades ago, the US had a very different posture and was actually successful in exploiting the differences between the USSR and China. Prompted by the Vietnam War catastrophe in the early 1970s, President Richard Nixon sought a detente with the USSR and courted China, gently nudging it towards reforms which changed the country beyond recognition.
+The board estimated in its report that 85 percent of Gaza’s buildings and infrastructure have been destroyed and that 70 million tonnes of rubble need to be cleared.
 
-Both strategies proved a huge success for US diplomacy in the long run, resulting in peaceful transitions in both the USSR and China towards political regimes that served US interests much better.
+The May 15 report before the UNSC said that funding gaps must be closed “with urgency”, without offering details of how big the gap was.
 
-The Russian-Chinese alliance has never been a given. The Russian Empire took part in the scramble for China along with other Western colonial powers in the 19th century. Soviet leader Joseph Stalin helped the Chinese communists come to power in 1949, but soon after his death, the two communist giants became bitter rivals, accusing each other of revisionism.
+The Board of Peace was approved by the UN as part of a peace plan between Israel and the Palestinian armed group Hamas. But many countries have declined to participate in the body. Countries such as the United States, Saudi Arabia, the United Arab Emirates and Qatar have pledged funds to the board, along with Morocco, Uzbekistan and Kuwait.
 
-Until the very last years of the USSR, Moscow saw Beijing more as a foe than a friend. The arrival of the unipolar, US-dominated world pushed them closer together, even while some mistrust persisted.
+Israel has continued to restrict humanitarian access to Gaza and to carry out frequent strikes that have killed more than 800 Palestinians there since the so-called ceasefire went into effect in October.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/19/china-russia-relations-are-as-strong-as-ever-thanks-to-trump?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/19/trumps-board-of-peace-urges-fix-to-gap-in-funding?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
+### 📰 'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c8bb/live/9d165df0-5394-11f1-82e5-bb1c743931bd.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Fear has gripped Ebola-hit areas in eastern Democratic Republic of Congo as the suspected number of deaths continues to rise, as officials say they are struggling to catch up to an outbreak that may have previously been spreading undetected.
+
+"Ebola has tortured us," says a taxi rider in his late twenties in the gold-mining town of Rwampara.
+
+"I am scared because people are dying very fast... We are really afraid."
+
+Following a visit to Ituri province, the epicentre of the outbreak, over the weekend, Congolese Health Minister Dr Samuel Roger Kamba acknowledged health teams are playing catch-up with the virus, which may have been circulating earlier than first detected on 24 April.
+
+The presumed patient zero is a nurse who died in the provincial capital Bunia, but was buried in Mongwalu, also a gold-mining town. Most of the suspected cases and deaths have been reported there and in neighbouring Rwampara.
+
+Rwampara resident Fred Kiza told the BBC that "there is fear", which he calls "normal when there's a disease like this."
+
+As of Tuesday, there were 514 suspected cases, with 136 people believed to have died from the virus, officials said. One person has also died in neighbouring Uganda.
+
+Cases have also been identified in Butembo city and rebel-controlled Goma in North Kivu province, as well as in South Kivu province.
+
+Health officials say that several deaths occurred in the community without being reported to the authorities, meaning they could not be investigated at the time.
+
+According to the health ministry, formal community alerts were only registered from 8 May.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Ebola outbreak may be spreading faster than first thought, WHO doctor warns
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/ff64/live/547a9890-536c-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-People living close to the epicentre of an Ebola outbreak which has killed 131 people have told BBC News of their fear, as a World Health Organization (WHO) representative warned cases may be spreading faster than originally thought.
+People living close to the epicentre of a deadly Ebola outbreak have told the BBC of their fear, as the World Health Organization (WHO) warned cases may be spreading faster than originally thought.
 
-One man in the Democratic Republic of Congo's Ituri province, the epicentre of the outbreak, said infected people were dying "very fast", and added: "Ebola has tortured us."
+One man in the Democratic Republic of Congo's northeastern Ituri province said infected people were dying "very fast", adding: "Ebola has tortured us."
 
-Officials said more than 513 cases were suspected in DR Congo as of Tuesday, while one person has died in neighbouring Uganda.
+The virus is believed to have killed 136 people in the DR Congo, officials say, with more than 514 cases now suspected in the country. One person has died in neighbouring Uganda.
 
-The WHO's Dr Anne Ancia told the BBC that the more the agency investigates the outbreak, the clearer it becomes cases have spread to other areas.
+The WHO's Dr Anne Ancia told the BBC that the more the UN agency investigates the outbreak, the clearer it becomes cases have spread to other areas.
 
 Modelling by the London-based MRC Centre for Global Infectious Disease Analysis released on Monday suggested there had been "substantial" under-detection, and that it could not rule out there had already been more than 1,000 cases.
 
@@ -182,7 +195,7 @@ He said locals are taking precautions such as washing hands with clean water, bu
 
 Another Ituri local, Alfred Giza, said people in the community are aware of the threat and waiting to receive face masks to protect themselves, but that he would not know what to do if a family member or friend contracted the disease.
 
-The Red Cross warned that Ebola can escalate quickly if cases are not identified early, communities lack information and health systems are overwhelmed, adding that "we are seeing all those conditions" in the current outbreak.
+The Red Cross warned that Ebola can escalate quickly if cases are not identified early, communities lack information and health systems are overwhelmed, adding "we are seeing all those conditions" in the current outbreak.
 
 </div>
 
@@ -190,7 +203,38 @@ The Red Cross warned that Ebola can escalate quickly if cases are not identified
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Father-of-8 killed in San Diego mosque shooting hailed as a hero
+### 📰 Key people smuggler arrested after BBC uncovered identity
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/eb77/live/7cc0fc40-5399-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+A high-level people smuggler identified in a BBC investigation has been arrested in Iraqi Kurdistan.
+
+A network run by Kardo Jaf, who operates under the alias Kardo Ranya, is believed to have transported thousands of illegal migrants in small boats across the English Channel into the UK in recent years.
+
+He was arrested on suspicion of human trafficking offences by officers of the Kurdistan Regional Security Agency and remains in custody as investigations continue.
+
+The 28-year-old Iraqi Kurd had operated for several years under a number of aliases. By keeping his real name a closely guarded secret, Jaf made it more difficult for law enforcement agencies to issue an international arrest warrant.
+
+His real name was uncovered last week by the BBC's Sue Mitchell and Rob Lawrie, whose pursuit of the smuggler is told in the Radio 4 podcast Intrigue: To Catch A King.
+
+Confronted by the BBC with the allegations, Jaf denied being a smuggler and said he had only ever advised people on how to leave Iraq. He also said he did not believe he had committed any offence.
+
+Jaf is suspected of being a key player in an Iraqi Kurdish network that has controlled the majority of illegal cross-Channel journeys in recent years.
+
+He has mainly been known - both to migrants and fellow smugglers - by the pseudonym Kardo Ranya. The surname was taken from the town in Iraqi Kurdistan he and the other leaders of the network were from.
+
+"This is a powerful network that all comes back to Ranya," the Kurdish MP Dr Muthana Nader told the BBC. He added that he believed 70% of illegal migration to the UK was being controlled from the town.
+
+As documented in the podcast, Jaf promoted his services on social media, offering a people-smuggling service that covered the distance stretching from Afghanistan to the UK.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Father-of-eight killed in San Diego mosque shooting hailed as hero
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/3863/live/d93d1ca0-5386-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
@@ -211,9 +255,9 @@ Nizam, the Cair spokeswoman, told the BBC: "Amin was loved by everybody, he stoo
 
 A friend of the family told the Associated Press that Abdullah was well-known at the mosque and had worked there for more than a decade.
 
-"He wanted to defend the innocent so he decided to become a security guard," Shaykh Uthman Ibn Farooq, told the news agency.
+"He wanted to defend the innocent so he decided to become a security guard," Shaykh Uthman Ibn Farooq told the news agency.
 
-Sam Hamideh knew Abdullah through the mosque and told the BBC's US partner CBS that the security guard would be remembered for his kindness.
+Sam Hamideh knew Abdullah through the mosque and told the BBC's US news partner CBS that the security guard would be remembered for his kindness.
 
 </div>
 
@@ -252,71 +296,71 @@ The calls for an investigation into Marcinko have raised important questions abo
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Son of Mango boss arrested over father's fatal fall from cliff
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a392/live/93374260-5374-11f1-b319-63ed6ac90e5f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-The son of Mango founder Isak Andic has been arrested in connection with his father's death.
-
-Jonathan Andic, 43, was detained by Catalan police on Tuesday as part of a renewed investigation into the death of the fashion tycoon, which was initially treated as an accident but was later reopened.
-
-Isak, 71, died in December 2024 after falling from a ravine while walking in the Montserrat mountains near Barcelona with his son. There have been conflicting media reports about whether they were alone or if other family members were present.
-
-A family spokesperson told Reuters that Jonathan was being questioned and that the family was confident of his innocence.
-
-He joined Mango in 2005 and later oversaw the company's Mango Man line. He became vice-chairman of the board after his father's death.
-
-Investigators in Catalonia initially closed the case in early 2025 after finding no evidence of criminal wrongdoing but reopened it later that year, claiming there were inconsistencies in Jonathan's testimony, the La Vanguardia newspaper reported.
-
-Jonathan was taken from his home shortly after 11:00 local time (09:00 GMT) where he was questioned by police again. He was expected to be taken to a court to testify before a judge later on Tuesday, the paper added.
-
-Born in Turkey, Isak founded Mango with the help of his brother, Nahman, in Barcelona in 1984 and the chain now operates almost 3,000 outlets in 120 countries.
-
-At the time of his death, Forbes estimated the businessman's net worth to be $4.5bn (£3.6bn).
-
-Mango CEO Toni Ruiz previously said Isak's death would "leave a huge void" and added: "All of us are, in some way, his legacy and the testimony of his achievements".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c0m2pg1z4x8o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Selling children to survive: Afghan fathers forced to make impossible choices
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/76e2/live/d082b8f0-52cc-11f1-b4b8-8bc40cabb834.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-As dawn breaks, hundreds of men gather at a dusty square in Chaghcharan, the capital of Ghor province in Afghanistan.
-
-They line the roadside with weary faces, hoping someone will come along offering any work. It will determine whether their families eat that day.
-
-Juma Khan, 45, has found just three days of work in the past six weeks that paid between 150 to 200 Afghani ($2.35-$3.13; £1.76-£2.34) per day.
-
-"My children went to bed hungry three nights in a row. My wife was crying, so were my children. So I begged a neighbour for some money to buy flour," he says.
-
-In Afghanistan today, a staggering three in four people cannot meet their basic needs, according to the United Nations. Unemployment is rife, healthcare struggling and the aid that once provided the basics for millions has dwindled to a fraction of what it once was.
-
-The country is now facing record levels of hunger, with 4.7 million - more than a tenth of Afghanistan's population - estimated to be one step away from famine.
-
-"I got a call saying my children hadn't eaten for two days," says Rabani, his voice choking up.
-
-"I felt like I should kill myself. But then I thought how will that help my family? So here I am looking for work."
-
-"We are starving. My older children died, so I need to work to feed my family. But I'm old, so no one wants to give me work," he says.
-
-When a local bakery near the square opens up, the owner distributes stale bread among the crowd. Within seconds, the loaves have been pulled apart, half a dozen men clutching onto precious pieces.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c0q25dwj807o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts
+<img src='https://i.guim.co.uk/img/media/a3f21d907e4f5a93f50312335bdac29f159ea6b2/454_0_6882_5504/master/6882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9537dd264466a80ff3f2cc0cdfb19f1a' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+US secretary of state says WHO was ‘a little late’ in identifying deadly Ebola outbreak in the DRC and Uganda
+
+The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identifying the deadly Ebola outbreak in the the Democratic Republic of the Congo and Uganda.
+
+On Tuesday, Rubio told reporters: “The lead is obviously going to be CDC [Centers for Disease Control] and the World Health Organization, which was a little late to identify this thing unfortunately.”
+
+His comments follow Donald Trump’s decision to withdraw the US from the WHO, a move which experts described as “sowing the seeds of the next pandemic”. Trump made the move in one of his first acts on returning to office last year. The US’s departure also led to the loss of nearly a quarter of the WHO’s workforce – about 2,000 jobs – from a total staff of about 9,400.
+
+Rubio said that the US, which has committed about $13m in assistance after sweeping aid cuts last year, was hoping to open about 50 clinics to treat Ebola in the DRC.
+
+“It’s a little tough to get to because it’s in a rural area … and [a] hard-to-get-to place in a war-torn country, unfortunately,” Rubio said. “We’re going to lean into that pretty heavy.”
+
+The WHO said earlier on Tuesday that it was concerned about the “scale and speed” of the Ebola outbreak that has killed an estimated 131 people in the DRC.
+
+Gigi Gronvall, an immunologist and professor at the Johns Hopkins Bloomberg School of Public Health, rejected Rubio’s criticism of the WHO.
+
+“Blaming the WHO is misplaced, because they are operating with limited resources in a difficult setting with many security challenges. But it’s also cold comfort for all the people who have gotten Ebola and died. And this should concern Americans as well. It’s highly worrisome given that public health resources in the US have been slashed and even a couple of cases in the US would be challenging with our current workforce,” Gronvall said.
+
+She added: “It is a strategic mistake – and a national security vulnerability – that we are worse off now to handle infectious disease threats than at the start of Covid-19. Hantavirus [and] Ebola are terrible, serious diseases but they are not as transmissible as some other infectious disease threats we could face. Instead of dismantling everything, we need to invest in the vaccines, diagnostic testing, and public health and hospital responses we would need to protect Americans.”
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC
+<img src='https://i.guim.co.uk/img/media/b64caeb89836e5395c6168367a7028aee7960092/513_0_3467_2773/master/3467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91911bf297e2fdf2adff753b887a8482' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+WHO chief said he was ‘deeply concerned’ after at least 500 suspected Ebola cases and 130 deaths reported in outbreak of Bundibugyo strain
+
+Global health leaders are considering whether vaccines or medicines still in development could be used to fight Ebola in the Democratic Republic of the Congo, as the World Health Organization’s chief said he was deeply concerned by the outbreak’s speed and scale.
+
+Dr Tedros Adhanom Ghebreyesus said there had been at least 500 suspected cases of Ebola and 130 suspected deaths in DRC since the new outbreak began – up from about 200 cases and 65 deaths when it was announced on Friday.
+
+Dr Mesfin Teklu Tessema, senior director of health at the International Rescue Committee, which works in the DRC’s Ituri Province, where most cases have been reported, told the Guardian he expected current known cases were “the tip of the iceberg”.
+
+Spread across the porous border to South Sudan, he said, was probably “a matter of when”. He warned that a weak public health infrastructure there meant “we are actually flying blind”.
+
+The IRC provides humanitarian relief in the region, including support to health clinics. Tessema said there was a severe lack of basic protective equipment, such as gloves, masks and goggles, for healthcare workers seeing patients in the area.
+
+He added: “Ebola is a very deadly disease – this strain has a mortality rate between 30% and 50%. That is with availability of care. When care is not available, when people are arriving late, that risk of mortality could be higher than that.”
+
+There are a number of strains of the virus that can cause Ebola. The Bundibugyo strain, which has been identified as responsible for the current outbreak, has no approved vaccine or treatment.
+
+Scientists from the DRC and Uganda published the genome of the virus online on Monday night. Experts who examined the genetic data said it suggests the outbreak was recently sparked by a “spillover event”, meaning a human became infected through contact with an infected animal, and has since spread from human to human.
+
+“That is useful because it suggests this outbreak can potentially be traced and interrupted as it has been in the past. Repeated independent spillovers from an animal source would complicate the efforts to stop the outbreak,” said David Matthews, Professor of Virology, University of Bristol.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?
 <img src='https://i.guim.co.uk/img/media/4951899b40f161a933703119be1c10a7571c8105/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=485a6d9a2bc6e75ae9440b2ca5d969e3' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -345,37 +389,6 @@ While a new vaccination programme was available during that outbreak, there is n
 </div>
 
  [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 WHO official warns Ebola outbreak unlikely to be over in two months as cases and deaths rise in DRC
-<img src='https://i.guim.co.uk/img/media/b64caeb89836e5395c6168367a7028aee7960092/513_0_3467_2773/master/3467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91911bf297e2fdf2adff753b887a8482' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-At least 130 people thought to have been killed, says Tedros Adhanom Ghebreyesus before emergency meeting
-
-The director general of the World Health Organization has said he is deeply concerned about the scale and the speed of the Ebola outbreak in the Democratic Republic of the Congo.
-
-Dr Tedros Adhanom Ghebreyesus said there had been at least 500 suspected cases of Ebola and 130 suspected deaths in DRC since the new outbreak began. Thirty cases had been confirmed in DRC’s north-eastern province of Ituri, and one death and one case had been confirmed in Kampala, Uganda, he added. A US citizen has also tested positive and been transferred to Germany.
-
-“These numbers will change as field operations are scaling up, including strengthening surveillance, contact tracing and laboratory testing,” Tedros told members of the World Health assembly, who are meeting this week in Geneva.
-
-Tedros declared the outbreak a public health emergency of international concern in the early hours of Sunday morning. On Tuesday he said: “This is the first time a director general has declared a PHEIC before convening an emergency committee. I did not do this lightly … I’m deeply concerned about the scale and speed of the epidemic.”
-
-A WHO official on the ground in Bunia in Ituri warned that the outbreak could be lengthy. “I don’t think that in two months we will be done with this outbreak,” Anne Ancia, WHO’s DRC representative, told reporters in Geneva, pointing to a recent Ebola outbreak that “took two years”.
-
-The organisation will convene its emergency committee on Tuesday to advise what recommendations it should make on how to control the outbreak. The US officially left the WHO in January in a move Donald Trump said was motivated by the organisation’s poor management of the Covid-19 pandemic.
-
-Tedros said reports of cases in urban areas, where the virus typically finds it easier to spread, were also cause for concern. Cases among health workers indicated potential spread in clinics and hospitals, he said, and there was “significant population movement in the area”, for work and also due to conflict.
-
-The province of Ituri, where most cases have been reported, was “highly insecure”, Ghebreyesus said. “Conflict has intensified since late 2025, and the fighting has escalated significantly over the past two months resulting in civilian deaths. Over 100,000 people have been newly displaced. And in Ebola outbreaks, you know what displacement means.”
-
-An outbreak of the Zaire strain from 2018-2020 in Ituri and North Kivu provinces was the second deadliest on record, killing nearly 2,300 people. The international response then was complicated by widespread armed violence in eastern DRC that continues today.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -441,143 +454,104 @@ Willietta Hughes, legal manager for AdvocAid, a civil society organisation worki
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 ‘Huge milestone’ as Libyan militia commander accused of torture appears at ICC
-<img src='https://i.guim.co.uk/img/media/a5f3ce2be2d4d44dbc19c79ce98d8171a1b445b9/260_323_3075_2461/master/3075.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d00ba94c31e50d8f3f711fda90788ab7' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Prosecution is seen as landmark step towards justice over abuses of refugees trying to reach Europe from Africa
-
-A former militia commander accused of overseeing murder, rape, enslavement and torture in Libyan detention centres has appeared at the international criminal court for a hearing that campaigners say is a landmark step towards “justice, truth, reparation and deterrence” of abuses of refugees trying to reach Europe from Africa.
-
-The prosecution of Khaled Mohamed Ali El Hishri on charges of war crimes and crimes against humanity is the first to reach a courtroom resulting from the ICC’s investigation into crimes in Libya after the fall of Muammar Gaddafi in 2011.
-
-Legal experts said the hearing on Tuesday, when judges will decide if there is sufficient evidence against Hishri for a trial, would be a “huge milestone”.
-
-“It is a really important development,” said Allison West, a senior legal adviser at the European Center for Constitutional and Human Rights. “The is the first case in the [ICC’s] Libya investigation that has been ongoing for more than 15 years. It’s the first time we have got someone into custody.”
-
-For survivors of abuse in Libya, the court hearing is a moment that survivors and victims “never thought would happen”, said David Yambio, who was held in Mitiga prison between 2019 and 2020 and accuses Hishri of beating him.
-
-“Now [Hishri] is in front of the court, it sends a strong message to perpetrators wherever they are that they will be brought to account and justice will be delivered, even if it takes a long time,” Yambio said.
-
-Hishri was arrested in Germany last year when, it is thought, he sought medical treatment for a family member. A senior officer in the Special Deterrence Force, a powerful armed group that ran detention sites in western Libya, the 47-year-old is accused of imposing a brutal regime at the Mitiga prison in Tripoli between February 2014 and at least mid-2020.
-
-Such sites became infamous after Gaddafi’s fall as they filled with refugees detained in Libya or intercepted by the Libyan coastguard, which has been supported by the EU and member states since 2017, as they tried to reach Europe.
-
-Amnesty International and other human rights groups have described “harrowing violations” that were “the horrifying consequences of Europe’s ongoing cooperation with Libya on migration and border control”. Human Rights Watch (HRW) said thousands of detainees were held in Mitiga in overcrowded, unhygienic cells and were systematically subjected to violent assaults.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/19/libya-militia-commander-refugees-international-criminal-court)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Hayden Panettiere Says Oscar Winner Showed Her His Testicles at a Party
-<img src='https://imagez.tmz.com/image/c0/16by9/2026/05/19/c08f970087cc4d59a9e71e0b8980a8b3_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Eminem's Ex-Wife Kim Scott Blew More Than 2x Legal Limit, Police Say
+<img src='https://imagez.tmz.com/image/a7/16by9/2026/05/19/a789ea840a7947978cb8fb90518beef1_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Hayden Panettiere says an Oscar-winning actor and director showed her his testicles, without consent, when she was just a teenager.
+Kim Scott was allegedly staggering, slurring her words and blowing nearly three times the legal limit during her latest DUI arrest ... TMZ has learned.
 
-The actress has opened up about a ton of stomach-churning stories in her new memoir "This Is Me: A Reckoning" about the abuse she suffered while coming of age in Hollywood ... and she's now relaying a tale about a party she attended when she was 19.
+According to the police report, obtained by TMZ, officers say Eminem's ex-wife appeared unsteady on her feet, had slurred speech and smelled strongly of alcohol after allegedly crashing into a parked car in Chesterfield Township, Michigan last week.
 
-Panettiere says she was leaving a gathering -- having grown uncomfortable while chatting with a group of men near the end of the night -- when a "well-respected" Oscar winner approached her as she was putting on a coat and complained about the gum stuck to his pants.
+Police say Kim admitted she'd been drinking earlier in the night before agreeing to a preliminary breath test and according to the report, she blew a .204 BAC ... more than 2.5 times Michigan's legal limit of .08.
 
-HP writes she looked down ... but, instead of gum, she found herself staring at the star's sack -- a sight at which she instantly recoiled.
+After being taken into custody for operating while intoxicated, cops say Kim later submitted to additional chemical breath tests at the station where the first sample allegedly registered .176 and the second came back at .181 minutes later ... both still more than double the legal limit.
 
-Panettiere calls the moment a "head-scratcher" ... adding, "It hadn’t hurt me and I was sure it was a drunken joke, but I’d never seen a grown man do something like that. I was shocked.”
+As we first reported ... Kim was arrested Wednesday night after allegedly striking a parked vehicle near Detroit ... just days after pleading no contest in a separate DUI-related case from February.
 
-She says she didn't tell any of her friends at the time because "the moment had passed" and she just felt some people had grown up without learning proper manners.
-
-'This Is Me' is full of harrowing stories ... from Hayden being essentially pushed into bed with a naked man on a yacht when she was 18 to her recollections of nearly dying during childbirth.
-
-As we mentioned, the book's available now ... so get yourself a copy to read all these and much, much more.
+Kim's sentencing in that earlier case is still set for June.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/19/hayden-panettiere-reveals-man-exposed-himself-to-her/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/19/eminems-ex-kim-scott-dui-breathalyzer-blow/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Lil Poppa Tragic Death Detailed in Coroner's Report
-<img src='https://imagez.tmz.com/image/03/16by9/2026/05/19/032c5c52e3474a5c814adc692d7fc300_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Mackenzie Shirilla’s Dad Says Netflix Took Marijuana Comments Out of Context
+<img src='https://imagez.tmz.com/image/40/16by9/2026/05/19/40cc78228c1c4c64afd980f9b7efd276_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Lil Poppa -- a popular rapper based out of Jacksonville, Florida -- died in February ... and now his official cause of death has been released.
+Steve Shirilla is pushing back on the firestorm surrounding Netflix's documentary about his daughter ... insisting his comments about marijuana were twisted and people have misunderstood what he was trying to say.
 
-According to documents from the Fulton County coroner, obtained by TMZ ... the rapper -- real name&nbsp;Janarious Mykel Wheeler -- died from a single self-inflicted gunshot wound to the left side of his head. He was in the passenger's seat. A toxicology report is pending.
+Check it out ... Steve joined us on “TMZ Live” after being placed on paid leave from his Ohio Catholic school teaching job following backlash over "The Crash" ... centered around his daughter, Mackenzie Shirilla, who was convicted of murder in the 2022 crash that killed her boyfriend Dominic Russo and friend Davion Flanagan.
 
-Hapeville Chief of Police Bruce Hedley previously told TMZ ... Lil Poppa was in a single-car accident on Interstate 85 south of Hapeville, Georgia ... shortly after his manager came to meet him ... and that is when he shot himself.
+A major point of controversy has been Steve's remarks in the doc about Mackenzie smoking marijuana as a teenager ... but he says that interpretation is off base ... telling us the filmmakers condensed days of interviews into a few short sound bites and left out important context.
 
-Lil Poppa was signed to&nbsp;Yo Gotti’s Collective Music Group (CMG) and has released several hit tracks over the last few years, including "Love &amp; War," "Mind Over Matter," and "HAPPY TEARS."
+The doc shows him addressing Mackenzie's marijuana usage ... in which he says, “I don't have a problem with her smoking dope. If you're going to smoke a drug, that's the one I believe you should take.”
 
-Poppa's 16-song album "Almost Normal Again" came out in August ... and, he released a new single titled "Out of Town Bae" earlier this year.
+But he tells us he had no idea Mackenzie was allegedly smoking while driving before the deadly crash ... saying if he'd known, he would've "had huge issues with it."
 
-He was 25.
+Steve says the diocese told him they'd been "inundated" with complaints from concerned parents after the film dropped ... and that's what led to the leave.
 
-If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat&nbsp;988lifeline.org.
+Beyond the controversy surrounding the doc, Steve continues to defend his daughter's innocence ... arguing prosecutors never proved intent or premeditation, which he claims is necessary to justify a murder conviction ... saying, "There is zero evidence of intent and prior calculation in this case."
+
+Mackenzie was convicted in 2023 after prosecutors said she intentionally drove nearly 100 mph into a building ... and she’s now serving life with parole eligibility after 15 years.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/19/lil-poppa-cause-of-death-revealed/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/19/mackenzie-shirilla-dad-discusses-weed-comments-in-the-crash-documentary/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Taylor Swift and Travis Kelce Potential Prenup All About Location, Location, Location
-<img src='https://imagez.tmz.com/image/25/16by9/2026/05/18/2568bb14112a414fa0dbbd8b4f25d864_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Rep. Ilhan Omar Under Investigation by DOJ, Vice President J.D. Vance Says
+<img src='https://imagez.tmz.com/image/9c/16by9/2026/05/19/9c9ee0880597449da0cb56f1aa0b4e3a_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Taylor Swift and Travis Kelce will almost certainly have inked a prenup before their summer wedding ... and if they do, it's all about location, location, location.
+Minnesota Rep. Ilhan Omar is under investigation by the Department of Justice ... so says Vice President J.D. Vance.
 
-Taylor and Travis check all the boxes for a couple that needs a prenup ... there is so much money on the line, plus they are both active money earners. Taylor is worth an estimated $2 billion and Travis comes in at $90 million.
+The Veep addressed the media in the White House's James S. Brady Press Briefing Room ... and he was asked about previously saying Rep. Omar "definitely committed immigration fraud against the United States of America."
 
-Picking a state where the prenup is drafted will be just as important as picking out a wedding venue. The laws governing prenups vary from state to state, and these prenups typically say the law of the state where it's written will apply, regardless of where they end up living.
+Vance says the DOJ's reviewing the situation ... and, while he doesn't want to "prejudge" an investigation, he feels there's "something fishy" going on -- especially when it comes to her marital status. Vance and others in the administration have advanced a conspiracy theory that Omar married her own brother.
 
-Taylor and Travis have options ... ties to at least 6 states by our count ... though our sources say it won't be drafted in California. That leaves Rhode Island, Missouri, Kansas, Tennessee and New York.
+The Justice Department will determine if Omar ultimately committed a crime and if there's enough evidence to prosecute, Vance says ... and, if there is, they'll go after her.
 
-Taylor's got a fancy estate in Rhode Island. Travis just bought a home in Kansas, and he plays NFL football in Missouri. Taylor's also got a pad in New York and she's got some deep roots in Tennessee.
+Omar's no friend of the Trump administration ... frequently sparring with the prez over immigration policy as well as more personal attacks -- like just last year when he called at her to "get the hell out" of the country.
 
-What Taylor and Travis are likely looking for is a state that strongly enforces prenups, protects separate property, gives courts less leeway to rewrite agreements, protects business and IP appreciation and doesn't dole out long-term spousal support.
+For her part, Omar's called Trump a "criminal" and "liar" ... and she's decried the USA's recent campaign against Iran. However, she did give Trump some props after he got marijuana reclassified from a Schedule I drug to a much lower designation of Schedule III.
 
-Rhode Island might be the best overall fit when you consider Taylor's billionaire status ... and New York might be the worst overall because the state is known for judges who closely scrutinize prenups and sometimes invalidate them.
-
-Kansas is probably the runner-up -- it's a prenup-friendly state with relatively predictable courts, less aggressive judges than New York and a decent respect for separate property ... plus Travis's career and celebrity is heavily tied to Kansas City, which straddles Kansas and Missouri.
-
-Tennessee would appear to be in the middle of the pack ... it's a good pick for wealthy couples, especially entertainers, and Taylor's got deep roots in Nashville and throughout the state ... and then we'd say Missouri is slightly more favorable than NY.
-
-Taylor and Travis have good lawyers, so they can probably make any state work, or they could go the Ben and J Lo route and go without a prenup ... ask David Geffen how that worked out.
+Omar has not yet responded to Vance's comments ... but expect fireworks when she eventually does.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/19/taylor-swift-travis-kelce-prenup-predictions/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/19/jd-vance-reports-ilhan-omar-being-investigated-by-doj/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Mango Fashion Mogul Isak Andic's Son Arrested For Allegedly Killing Him
-<img src='https://imagez.tmz.com/image/91/16by9/2026/05/19/91d0fdc01c364b55a0071ffa9e62439c_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Senator Ted Cruz in Heated Argument Over Compensating Violent Jan. 6 Rioters
+<img src='https://imagez.tmz.com/image/9c/16by9/2026/05/19/9c339e2598fe4437b5a87975500409d7_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Jonathan Andic -- the son of fashion mogul Isak Andic -- has been arrested for allegedly murdering Isak ... according to several prominent outlets in Spain.
+Senator Ted Cruz and Charlie got in a heated exchange ... over President Trump's $1.776 billion slush fund that might compensate January 6th insurrectionists at taxpayer expense.
 
-Here's the deal ... Isak died in late 2024 after falling off a cliff in the Montserrat mountains near Barcelona. He was hiking with Jonathan and several other family members at the time -- though the newspaper El País reported he was only with Jonathan at the time of the fall.
+Charlie was blunt ... as a taxpayer he didn't want to pay people who committed violence at the Capitol. The Senator from Texas shot back with a question ... Was Charlie concerned about President Biden weaponizing the Justice Department against peaceful protesters as well as President Trump himself?
 
-Jonathan became the subject of a homicide investigation last year ... and, on Tuesday, he was taken into custody in Barcelona -- with photographers capturing authorities taking him away.
+Charlie pushed back, saying this wasn't about Biden in the past ... it was about Trump in the present -- giving money to January 6th rioters who were convicted of violence.
 
-Jonathan has protested his innocence since his father died ... claiming the incident was just a tragic accident.
+Cruz does say, people who committed violence on Jan 6th should rightly have been prosecuted and "face consequences," but he never says one way or the other whether they should receive compensation.
 
-Isak co-founded Mango -- a fast-fashion retailer -- in 1984 ... and the brand quickly took off, amassing a global consumer base. Jonathan and his sisters took over the brand after Isak died.
+Rep. Randy Fine was asked an even more direct question by Jacob -- should a Jan 6th rioter who was convicted of injuring a police officer be entitled to compensation from the slush fund? Fine didn't rule it out, saying it would depend on whether they were treated fairly.
 
-He was worth about $4 billion at the time of his death, according to an estimate from Forbes.
+Watch the clips and judge for yourself.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/19/mango-founder-son-arrested-for-fathers-death/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/19/ted-cruz-argues-over-payments-to-january-6-rioters/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -671,64 +645,169 @@ All prices &amp; availability subject to change.&nbsp;
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Justices Hint at Strains as Supreme Court Comes Under Scrutiny
+### 📰 I.R.S. Must Drop Audits of Trump and Family
 <div align='justify'>
 
-Traveling across the country, justices defend the role of the court even as strained relations among its members emerge in writing and remarks.
+As part of the Justice Department’s compensation fund deal, officials vowed not to pursue any matters, including those involving President Trump’s tax returns, that are pending.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump’s New $1.8 Billion Pot of Money, and a Deadly Mosque Attack in California
+### 📰 The IRS Thought it Could Fight Trump’s Lawsuit, but it Struck a Deal Anyway
 <div align='justify'>
 
-Plus, a North Korean soccer team hits the road.
+Officials wrote a memo outlining ways to challenge President Trump’s suit against the Internal Revenue Service. The administration is instead creating a compensation fund.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/podcasts/the-headlines/trump-irs-mosque-attack-california.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/admin/irs-trump-lawsuit-deal.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 G.O.P. Supporters Back Trump, but a Third Seek a New Direction for the Party
+### 📰 Iran War Exposes Shortcomings in U.S. Military Industrial Base
+<img src='https://wsrv.nl/?url=https://static01.nyt.com/images/2026/05/16/multimedia/16dc-military-industrial-bwgt/16dc-military-industrial-bwgt-facebookJumbo.jpg&w=800' width='100%' style='border-radius:15px;' alt='NY Times Image'>
+
 <div align='justify'>
 
-While President Trump remains overwhelmingly popular within the Republican coalition, a New York Times/Siena poll found, a sizable share wants the party’s next nominee to take a different approach.
+When he was defense secretary, Robert M. Gates railed against weapons that did too much and cost too much throughout his time in two presidential administrations.
+
+He denounced weapons that offered a “99 percent solution” but took years to build, and called for a new generation of arms that were “75 percent solutions” but could be produced more cheaply in months.
+
+Almost two decades later, little has changed. Patriot interceptor missiles can take up to 36 months and $4 million to build. So far in the Iran war, the U.S. military has fired more than 1,200 of them. Some were used to shoot down $35,000 Shahed drones, which Iran can churn out at a rate of at least 200 a month.
+
+The war, and the quick pace with which the United States has burned through weapons, has brought Mr. Gates’s old critique to the current day and exposed deep shortcomings in America’s military industrial base and weapon procurement systems.
+
+“Ukraine is going to produce seven million drones this year,” Mr. Gates said in an interview. “Come on. Why can’t we do that?”
+
+The Pentagon and Congress have tried, and mostly failed, to address the problem for years. Now Defense Secretary Pete Hegseth is taking it on. The main difference is that while many defense secretaries, including Mr. Gates, argued for doing more with less money, Mr. Hegseth is pushing for a $1.5 trillion budget, the largest military funding proposal in modern U.S. history.
+
+Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/us/politics/poll-trump-republicans.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/us/politics/pentagon-weapons-drones-iran-war-hegseth.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump’s Push to Defeat Thomas Massie Is the Most Expensive House Primary in Recent Years
+### 📰 As a Weakened Putin Follows Trump to Beijing, Iran War Offers an Opening
 <div align='justify'>
 
-The Republican primary in Representative Thomas Massie’s district has drawn vast spending, but it is just one of several contests on Tuesday that will test the power of big money.
+With the upheaval in the Persian Gulf disrupting oil and gas supplies, Russia is looking to deepen its energy ties to China.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/us/politics/trump-massie-kentucky-primary-spending.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/world/europe/putin-china-state-visit.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Top Treasury Lawyer Resigns After Creation of ‘Anti-Weaponization Fund’
+### 📰 Trump Says He Postponed a ‘Very Major Attack’ on Iran, Leaving Mideast on Edge
+<img src='https://wsrv.nl/?url=https://static01.nyt.com/images/2026/05/19/multimedia/19int-iran-trump-02-lqfw/19int-iran-trump-02-lqfw-facebookJumbo.jpg&w=800' width='100%' style='border-radius:15px;' alt='NY Times Image'>
+
 <div align='justify'>
 
-Brian Morrissey, the department’s general counsel, stepped down hours after the Trump administration announced the $1.8 billion fund.
+The Middle East remained in tense limbo on Tuesday, a day after President Trump said he had postponed a major U.S. attack on Iran to give more time for diplomacy.
+
+Iran did not immediately respond directly to Mr. Trump’s remarks. An Iranian Army spokesman, Brig. Gen. Mohammad Akraminia, warned on Tuesday that any renewed attack would prompt Iran to open “new fronts" using “new tools and methods,” according to IRNA, Iran’s state news agency.
+
+For his part, Mr. Trump was vague when asked on Tuesday how long Iran had to return to the negotiating table. “Two or three days. Maybe Friday, Saturday, Sunday. Maybe early next week. A limited period of time," he told reporters.
+
+“I hope we don’t have to do the war, but we may have to give them another big hit,” he added. “I’m not sure yet. You'll know very soon.”
+
+As the monthlong cease-fire has come under increasing strain, Pakistan, a mediator in the conflict, has sought to keep indirect talks alive between Tehran and Washington. Iranian state media reported that Pakistan’s interior minister, Mohsin Naqvi, had met Iran’s foreign minister, Abbas Araghchi, in Tehran on Monday evening, and discussed efforts to end the war.
+
+The Pakistani government has not commented on the two-day trip, which reportedly started on Sunday. Mr. Naqvi is close to Pakistan’s army chief, Asim Munir, who has been leading the country’s mediation efforts and speaking directly with Mr. Trump and Iranian officials, according to two people with knowledge of the negotiations, who spoke on condition of anonymity because of the sensitivity of the talks.
+
+Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/18/business/anti-weaponization-fund-brian-morrissey-treasury.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 NASA’s Psyche Mission Aces Mars Flyby, Targets Metal-Rich Asteroid
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/1-pia26771-mars-crescent-pydenxfs.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbital plane without using any onboard propellant, sending it on its way toward the metal-rich asteroid Psyche.
+
+The spacecraft is now headed directly toward the asteroid, located in the main asteroid belt between Mars and Jupiter. After the Mars flyby, the flight team analyzed radio signals between the spacecraft and NASA’s Deep Space Network (DSN), the agency’s global system for communicating with interplanetary spacecraft, to confirm that Psyche was on the correct trajectory.
+
+“Although we were confident in our calculations and flight plan, monitoring the DSN’s Doppler signal in real time during the flyby was still exciting,” said Don Han, Psyche’s navigation lead at NASA’s Jet Propulsion Laboratory in Southern California. “We’ve confirmed that Mars gave the spacecraft a 1,000 mile‑per‑hour boost and shifted its orbital plane by about 1 degree relative to the Sun. We are now on course for arrival at the asteroid Psyche in summer 2029.”
+
+In the days running up to and during close approach, all of Psyche’s instruments were powered up for calibration efforts, including its imagers, magnetometers, and gamma-ray and neutron spectrometer. The planetary encounter provided the mission a valuable practice run for when it reaches the asteroid Psyche; as a bonus, it captured Mars images from a rare perspective.
+
+Because Psyche approached Mars from a high phase angle, the planet appeared as a thin crescent in the days running up to the close approach, lit by sunlight reflecting off its surface. In observations from the spacecraft’s multispectral imager, the crescent appeared brighter and extended farther around the planet’s disk than anticipated because of the strong scattering of sunlight through the planet’s dusty atmosphere. As Psyche passed from Mars’ nighttime skies to daytime, it took a rapid series of pictures of the surface around the time of closest approach.
+
+“We’ve captured thousands of images of the approach to Mars and of the planet’s surface and atmosphere at close approach. This dataset provides unique and important opportunities for us to calibrate and characterize the performance of the cameras, as well as test the early versions of our image processing tools being developed for use at the asteroid Psyche,” said Jim Bell, the Psyche imager instrument lead at Arizona State University (ASU) in Tempe. “As the spacecraft continues its journey after the flyby, we’ll continue calibration imaging of Mars for the rest of the month as it recedes into the distance.”
+
+Bell also leads the Mastcam-Z imaging investigation on NASA’s Perseverance Mars rover mission team, which was among several missions that provided complementary surface and atmospheric imaging as well as navigation data during the flyby to help with calibration efforts. Other missions involved include NASA’s Mars Reconnaissance Orbiter, 2001 Mars Odyssey orbiter, and Curiosity rover, along with ESA’s (European Space Agency’s) Mars Express and ExoMars Trace Gas Orbiter.
+
+In addition to the imager, early calibration measurements made by Psyche’s magnetometers may have detected Mars’ bow shock as the spacecraft passed the planet. The gamma-ray and neutron spectrometer team was also quickly gathering data to calibrate the instrument by comparing their measurements with the large pool of existing Mars data.
+
+With Mars in the rearview mirror, the spacecraft will soon resume using its solar-electric propulsion system to make a beeline to the main asteroid belt. When it arrives in August 2029, it will insert itself into orbit around the asteroid Psyche, which is thought to be the partial core of a planetesimal, a building block of an early planet. Through a series of circular orbits that go lower and then higher in altitude around Psyche, which is about 173 miles (280 kilometers) across at its widest point, the spacecraft will map the asteroid and gather science data.
+
+If the asteroid proves to be the metallic core of an ancient planetesimal, it could offer a one-of-a-kind window into the interior of rocky planets like Earth.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Moon-Venus Conjunction
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605180004orig.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+The Moon and Venus, center, are seen in conjunction above the Washington Monument, Monday, May 18, 2026, as viewed from the Mary W. Jackson NASA Headquarters Building in Washington.
+
+The Moon and Venus look close together because they line up from our point of view on Earth. In reality, they are separated by millions of miles in space.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/moon-venus-conjunction/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Johnson’s Cindy Evans Prepares Artemis Teams for Lunar Science
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/dscn0407-evans.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+NASA’s Artemis II crew had many technical and operational responsibilities during their historic mission to the Moon, but they also served an important role as scientific ambassadors to Earth’s nearest neighbor.
+
+On their 10-day journey, the crew flew by the far side of the Moon, analyzing and photographing geologic features such as impact craters and ancient lava flows. Their observations will help pave the way for science activities on future Artemis missions to the Moon’s surface and contribute to lunar and planetary science. The crew relied on the extensive geology training they received on Earth to describe nuances in shapes, textures, and colors — the type of information that reveals the geologic history of an area.
+
+Cindy Evans, Artemis exploration scientist and geology training lead, was one of the crew’s instructors. Based at NASA’s Johnson Space Center in Houston in the Astromaterials Research and Exploration Science (ARES) Division, Evans is part of the Artemis Internal Science Team and spearheads geology training for crew members, mission managers, engineers, and flight controllers. That effort centers around a core curriculum of geology, lunar, and planetary classroom science as well as a progression of geology-focused field classes.
+
+“As the scientists ‘on the ground,’ Artemis crew members require geology and field skills so that they can execute the mission science requirements from lunar orbit and on the surface of the Moon,” Evans explained. “Whether they’re looking out the spacecraft’s windows or walking the surface, Artemis astronauts are working on behalf of all scientists to collect clues to the ancient geologic processes that shaped the Moon and our solar system. They need to have the muscle memory and confidence in their geology knowledge to conduct the geology observations, sampling, and other scientific tasks.”
+
+A former oceanographer who studied the rocks comprising oceanic crust, Evans imagined that she would explore the Moon as a NASA astronaut one day. That dream led her to Johnson, even if it did not result in her donning a flight suit.
+
+In her 37 years with the agency, Evans contributed to the Space Shuttle Program, Shuttle-Mir Program, and the International Space Station before transitioning to NASA’s Artemis campaign. Some of her notable achievements include establishing the Crew Earth Observations effort for Shuttle-Mir, which equipped crews to photograph the Earth as it changed below them. As part of the imagery team investigating the Columbia accident, she helped to develop and integrate the space shuttle’s Return to Flight imagery inspection process. “I have been both honored and incredibly fortunate to have participated in a wide variety of human spaceflight programs,” Evans said. “And I am very proud of the work my team is doing right now.”
+
+Evans also had two opportunities to travel to Antarctica to participate in deep-field geology sessions. “Few things in this world are as wonderful as camping on blue ice just a couple hundred miles from Earth’s South Pole and collecting rocks from space,” she said.
+
+Collaborating with professionals across a variety of fields has been an integral part of Evans’ work since the start of her career.  “In graduate school I was trained as an oceanographer – an interdisciplinary field where geology meets biology, chemistry, and physical oceanography,” she said. “As a planetary scientist at Johnson, I am challenged to work in a world of engineers, and embrace the complex teamwork between hardware engineers, operations engineers, management – many of whom are engineers – and scientists. It has been an incredible opportunity.”
+
+Those interdisciplinary experiences taught Evans to embrace flexibility. “Human spaceflight is a dynamic endeavor,” she said. “I have enjoyed many different roles, and each and every position taught me new things and stretched my perspective.”
+
+Another important lesson? “As a former lab rat, I have learned that it’s all about the people. A common thread throughout my career at NASA is the professional fulfillment brought by relationships with and the talents of colleagues and teammates,” she said.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/johnsons-cindy-evans-prepares-artemis-teams-for-lunar-science/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 NASA’s New Shock Detectives Project Invites Volunteers to Help Study Solar Wind
 <img src='https://assets.science.nasa.gov/content/dam/science/cds/citizen-science/highlights/2026/earth_magnetosphere_solar_wind.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -782,97 +861,6 @@ Reed-covered mounds exposed by declining water levels reveal an unexpected netwo
 </div>
 
  [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/farming-in-ancient-lake-agassiz/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Curiosity Blog, Sols 4893-4899: Drilling at Campo Marte and a Visit From the Psyche Spacecraft
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/msl/2026/curiosity-rover-updates/may/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_04895_opgs_edr_fcam_FRB_832043910EDR_F1220462FHAZ00337M_.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center
-
-After freeing the rover's arm from the “Atacama” block, we are ready to drill again! The new drill target will represent the same geologic stratum as Atacama, which is the layered sulfate unit above the boxwork structures. We've named the new block “Campo Marte” after a natural red sandstone feature in Bolivia, following the theme of choosing target names in this Martian quadrangle from locations near the Uyuni region in South America. The name can be literally translated from Spanish as "Field of Mars" or "Mars Field," appropriate for a target on Mars. In preparation for drilling, we measured the composition of Campo Marte with the ChemCam LIBS and the APXS as well as obtaining close-up imaging with MAHLI. Additional LIBS rasters provided geochemical data on nearby blocks, including a couple of vein and nodule-like features. As we've seen in several rover stops in this unit, the “Paso Malo” block and several others are covered in a prominent polygonal texture.
-
-We've also imaged the Campo Marte block from several angles and determined that it's substantially thicker than the Atacama block, so we're hoping that its greater mass will keep it on the ground after drilling so that we can withdraw the drill bit normally this time. The team did get some interesting data on the volume and density of the Atacama block from our little adventure but we don't feel the need to repeat that particular experiment.
-
-In the meantime, we had a chance to support another solar system exploration mission as the Psyche spacecraft flew close by Mars in order to pick up a gravitational boost on its way to the main asteroid belt.
-
-The Psyche spacecraft's eventual destination is the asteroid 16 Psyche, one of the largest members of an unusual spectral category of asteroids that hasn't yet been visited by a spacecraft. Although 16 Psyche is expected to be quite different from Mars as a science target (for example, it is too small to maintain a Mars-like atmosphere) this flyby was still a valuable opportunity to exercise the spacecraft's instruments and data analysis pipelines, and validate their calibration. Because of this the Curiosity team planned an extra set of atmospheric observations timed to coordinate with the Psyche flyby: a zenith movie with Navcam to document clouds and a Mastcam solar observation to measure atmospheric opacity. The Mastcam was also supported by a fresh set of calibration data. Together with other coordinated observations from the Mars orbiters and Perseverance rover, these are intended to contribute to the Psyche instrument validation effort.
-
-Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
-
-Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
-
-Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
-
-The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/blog/curiosity-blog-sols-4893-4899-drilling-at-campo-marte-and-a-visit-from-the-psyche-spacecraft/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Johnson Photographers Honored for Award-Winning Portraits
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/slide1.jpeg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-Three photographers at NASA’s Johnson Space Center who inspire the world through visual storytelling earned top honors in the portrait category at the 2025 NASA Imagery Experts Program Annual Awards.
-
-“Congratulations to all three on this impressive achievement and for capturing such breathtaking imagery,” said Johnson Director Vanessa Wyche. “Their work represents the collaboration, precision, and creativity that drive human space exploration forward.”
-
-David DeHoyos, Josh Valcarcel, and Bill Stafford were recognized during the award ceremony held April 20, 2026, in Las Vegas.
-
-From engineering tests to astronaut training to mission control operations, these photographers document the people and work central to NASA’s human spaceflight mission.
-
-A Houston native, born in 1963, David DeHoyos’ life has been deeply shaped by the city’s dual legacy of arts and aerospace.
-
-DeHoyos graduated from Houston’s High School for the Performing and Visual Arts in 1981 with a specialization in photography. After spending a decade refining his technical craft in photo labs, he joined Johnson’s photography department in 1991.
-
-“This opportunity represented the fulfillment of a lifelong ambition,” said DeHoyos. “Growing up during the fervor of the Apollo era, I always dreamed of contributing to NASA’s mission. I am so honored and blessed to be amongst a team of wonderful people and, more importantly, friends.”
-
-Josh Valcarcel has worked as a professional photographer and videographer for over 20 years and has been a scientific photographer at Johnson since 2017. He previously served as a staff photographer and photo editor at WIRED magazine and as a mass communication specialist in the U.S. Navy, capturing stories from flight deck operations to remote island nations across the Pacific.
-
-“As a NASA photographer, I’ve had the privilege of witnessing impossible dreams become reality every day,” said Valcarcel. “That experience has shown me that with the right vision, culture, and trust, what once seemed impossible can become part of everyday life.”
-
-A Texas native and 1999 graduate of East Texas A&M University, Bill Stafford has served as a photographer and videographer for NASA since graduation, documenting over two decades of the nation’s space exploration milestones.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/johnson-photographers-honored-for-award-winning-portraits/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA’s MAVEN Makes 1st Discovery of Atmospheric Effect at Mars
-<img src='https://science.nasa.gov/wp-content/uploads/2026/05/zwan-wolf-mars-v4.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-In December 2023, scientists looking at Mars data stumbled across something completely unexpected — observations of an atmospheric effect never before seen in the Red Planet’s atmosphere. Using instruments aboard NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission, scientists identified a phenomenon known to occur in Earth’s magnetosphere, where charged particles are squeezed like toothpaste coming out of a tube along magnetic structures called flux tubes. This so-called Zwan-Wolf effect aids in the deflection of solar wind around Earth and has been observed and studied there for decades. Now, a new study published in Nature Communications provides the first comprehensive observations of the same effect in Mars’ atmosphere.
-
-“When investigating the data, I all of a sudden noticed some very interesting wiggles,” said Christopher Fowler, a research assistant professor at West Virginia University in Morgantown and lead author of the study. “I would never have guessed it would be this effect, since it’s never been seen in a planetary atmosphere before.”
-
-The Zwan-Wolf effect was first discovered in 1976, and until now has only been observed in planetary magnetospheres, not their atmospheres. Unlike Earth, Mars is not protected by a global magnetic field, affecting how it interacts with the solar wind and space weather. In this new study, the Zwan-Wolf effect was observed in the ionosphere — deep within the Martian atmosphere below 200 km — which contains significant numbers of electrically charged particles. The data showed that these charged particles were being squeezed and distributed around Mars’ atmosphere.
-
-Although Mars has an induced magnetosphere, a magnetic field generated by the solar wind interacting with the Martian ionosphere, it can greatly change in size and shape with large solar wind and space weather events. That is what Fowler and his team saw in the MAVEN data when a large solar storm hit Mars. Based on their findings, the Zwan-Wolf effect may be occurring constantly in the Martian ionosphere but at levels undetectable by MAVEN’s instrumentation. The impact of the space weather event appears to have amplified the effect, allowing the scientists to observe it in the data.
-
-In the beginning, Fowler and his team came across some interesting-looking fluctuations in measurements of the magnetic field as the spacecraft flew through the atmosphere. To explain this, they dug into observations made by several instruments on MAVEN, including measurements of the charged particle environment in the ionosphere. Their sleuthing uncovered even more weird and interesting features in the data. After ruling out several other possibilities, the team was able to identify the culprit as the Zwan-Wolf effect, which explained all the features they were seeing.
-
-“No one expected that this effect could even occur in the atmosphere,” said Fowler. “That’s what makes this even more exciting. It introduces interesting physics that we haven’t yet explored and a new way the Sun and space weather can change the dynamics in the Martian atmosphere.”
-
-Understanding the Zwan-Wolf effect at Mars will further our understanding of how space weather affects the planet and provides new insight into how this effect might occur at similar unmagnetized bodies, such as Venus and Saturn’s moon Titan. Observations like this also highlight the importance of knowing how large space weather events can lead to changes in the environment at and around the Red Planet and potentially affect assets on or near Mars.
-
-“Knowing how space weather interacts with Mars is essential,” said Shannon Curry, the principal investigator of MAVEN and research scientist at the Laboratory for Atmospheric Space Physics at the University of Colorado Boulder. “The MAVEN team continues making new discoveries with our datasets and finding these links between our host star and the Red Planet.”
-
-The MAVEN spacecraft launched in November 2013 and entered Mars’ orbit in September 2014. The mission’s goal is to explore the planet’s upper atmosphere, ionosphere, and interactions with the Sun and solar wind to explore the loss of the Martian atmosphere to space. Understanding atmospheric loss gives scientists insight into the history of the Red Planet’s atmosphere and climate, liquid water, and planetary habitability. The MAVEN spacecraft, in orbit around Mars, experienced a loss of signal with ground stations on Earth on Dec. 6, 2025. In Feb. 2026, NASA launched an anomaly review board to assess the probable current state of the spacecraft and the likelihood of its recovery.
-
-The MAVEN mission is part of NASA’s Mars Exploration Program portfolio. The mission’s principal investigator is based at the Laboratory for Atmospheric and Space Physics at the University of Colorado Boulder, which is also responsible for managing science operations and public outreach and communications. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the MAVEN mission. Lockheed Martin Space built the spacecraft and is responsible for mission operations. NASA’s Jet Propulsion Laboratory in Southern California provides navigation and Deep Space Network support.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/maven/nasas-maven-makes-1st-discovery-of-atmospheric-effect-at-mars/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
