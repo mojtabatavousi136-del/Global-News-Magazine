@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/20 - 17:49`
+**📅 Update (Tehran Time):** `2026/05/21 - 00:49`
 
 ---
 
@@ -19,196 +19,239 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Massie defeated: The Israel lobby’s pyrrhic victory in Kentucky
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0dbe35c5ee-1779285557.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Why has the US indicted Cuba’s Raul Castro now?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779310667.jpg?resize=1619%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-US Representative Thomas Massie lost his Republican primary on Tuesday after one of the most expensive and politically charged congressional campaigns in modern United States history. For the Israel lobby and its allies, the result marked a decisive victory. US President Donald Trump deployed his political weight against Massie, endorsing his chosen challenger, Ed Gallrein, and turning a local race into a national confrontation. At the same time, pro-Israel organisations and billionaire donors, including Miriam Adelson, poured extraordinary sums into Kentucky to defeat a congressman whose offence was questioning military aid to Israel and challenging the expanding influence of pro-Israel lobbying power in Washington.
-
-Yet beneath the celebration lies a deeper and more troubling reality. The Kentucky race exposed a widening backlash among Americans increasingly uneasy with the scale of political influence exercised by organisations and donors aligned with a foreign state. What unfolded no longer resembled a conventional congressional primary. To many voters, the contest appeared less about Kentucky, less about conservative priorities, and less even about US national interests than about enforcing ideological conformity to Israel’s political preferences and punishing dissent within the Republican Party.
-
-For decades, support for Israel functioned in Washington as an almost untouchable consensus. Republicans and Democrats competed to demonstrate loyalty to the Israeli state while organisations such as the American Israel Public Affairs Committee (AIPAC) built a vast influence apparatus through campaign finance, donor networks, think tanks, media access and coordinated pressure. Criticism of Israeli policy risked donor retaliation, media isolation and accusations of anti-Semitism. Fear, more than persuasion, maintained discipline.
-
-The Gaza war disrupted that framework. Millions of Americans were exposed daily to images of flattened neighbourhoods, destroyed hospitals, starving civilians and mass casualties circulating on social media. Whatever one’s views on Hamas or Israeli security concerns, the scale of destruction reshaped public consciousness, especially among younger Americans who no longer accept narratives framing Israel primarily as a perpetual victim.
-
-Increasingly, they see Palestinians as a population living under occupation, blockade and structural dispossession. That shift is no longer confined to progressive politics; it is spreading into conservative and libertarian spaces on the American right.
-
-Massie became politically dangerous precisely because he reflected that convergence. He is not a progressive anti-Zionist but a libertarian conservative who opposes foreign intervention broadly and rejects foreign aid in principle, including aid to Israel. Even this limited dissent proved intolerable to powerful pro-Israel interests.
-
-Tens of millions of dollars poured into Kentucky in a campaign designed not only to defeat Massie but to make an example of him. Outside groups saturated the district with advertising portraying him as disloyal and extreme. Trump’s intervention intensified the race, with the full machinery of the White House aligned behind Massie’s opponent. In an extraordinary breach of norms, Defense Secretary Pete Hegseth travelled to Kentucky the day before the vote to campaign personally for Gallrein, an unusual move for a sitting cabinet officer, and one taken against the backdrop of the ongoing US military operation in Iran.
-
-But Trump’s hostility towards Massie extended beyond Israel. The congressman had become one of the most persistent Republican voices demanding the release of the Jeffrey Epstein files, pressing federal agencies and the administration for disclosure of records tied to the case. His insistence on transparency reportedly irritated Trump and parts of the Republican establishment, particularly as public suspicion surrounding elite protection networks continued to grow. The primary, therefore, became more than an electoral contest; it became a warning that dissent, whether on Israel, foreign aid, or politically sensitive domestic scandals, would carry consequences.
-
-While Massie ultimately lost by roughly nine percentage points, pre-election polling pointed to a sharp generational split, with surveys showing him drawing the bulk of his support from Republican voters under 40 and trailing badly among those over 60. The pattern underscores a generational divide reshaping conservative attitudes towards Israel, foreign policy and lobbying influence in US politics.
-
-Many voters began asking why such extraordinary sums linked to Israeli interests were dominating a local US election. Across conservative media, podcasts and online forums, frustration deepened over what appeared to be disproportionate foreign-aligned influence inside domestic politics.
+The indictment of former Cuban President Raul Castro over a 1996 plane shootdown revives a decades-old case.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/20/massie-defeated-the-israel-lobbys-pyrrhic-victory-in-kentucky?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/20/why-has-the-us-indicted-cubas-raul-castro-now?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 ‘Multipolar world’: What Xi and Putin announced after Beijing summit
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26140405378850-1779280788.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israeli settlers burn vehicles, install caravans in occupied West Bank
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779310295.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Russian President Vladimir Putin and his Chinese counterpart, Xi Jinping, have signed a joint declaration following their meeting in Beijing, focusing on building a “multipolar world and a new type of international relations”. The two countries also announced that they had signed a large package of deals solidifying bilateral cooperation in the future.
-
-The meeting came just days after United States President Donald Trump completed his own visit to China for a two-day summit with Xi.
-
-Here are what statements from Beijing and Moscow say about five key issues following the Russia-China summit.
-
-On Wednesday, the Chinese Foreign Ministry said: “The two countries will also issue a joint statement on advocating for a multipolar world and a new type of international relations.” Russian presidential aide Yuri Ushakov described this declaration as a 47-page policy document.
-
-A “multipolar world” is understood as one in which economic, military and diplomatic power and influence are placed in the hands of three or more countries, rather than just one or two.
-
-“Xi is calling for a more multipolar world, where the US has less power and influence,” Al Jazeera’s Katrina Yu reported from Beijing as the meeting was under way.
-
-Both Putin and Xi have spoken out against the “unipolar” hegemony that they say the US has over the world.
-
-In 2022, shortly after the beginning of Russia’s war with Ukraine, Putin accused the US of stoking hostilities in Ukraine to maintain its global influence.
-
-“They need conflicts to retain their hegemony,” Putin said during a speech. “The era of the unipolar world order is nearing its end.”
-
-Chinese state media reported that during the latest meeting, Xi said to Putin: “The tide of unilateral hegemony is running rampant.”
+Palestinian residents say Israeli settlers burned vehicles, sprayed racist graffiti, and installed caravans near Palestinian communities, in the latest example of settler violence and settlement expansion in the occupied West Bank.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/20/multipolar-world-what-xi-and-putin-announced-after-beijing-summit?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Will Trump kill the $14bn Taiwan arms deal?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/16x9-1779285020.png?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 As AIPAC becomes ‘toxic’, it is trying to conceal spending in US elections
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-07T100217Z_226406943_RC294LATSO39_RTRMADP_3_USA-ELECTION-AIPAC-DEMOCRATS-1779304179.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-After US President Donald Trump’s summit with Chinese leader Xi Jinping, the fate of Taiwan’s biggest ever arms deal is being questioned. So why does the US give them billions in weapons in the first place? Al Jazeera’s Yasmeen ElTahan explains.
+For many voters in Illinois, nothing appeared overtly suspicious in the 30-second election ad that aired in mid-March.
+
+The video starts with a burst of cheerful music, and a narrator praises congressional candidate Bushra Amiwala as a fighter for “real economic justice” and “the real deal”.
+
+But the video was not part of a genuine effort to get Amiwala elected to the United States House of Representatives. And the candidate quickly disavowed it.
+
+Instead, public records reviewed by Al Jazeera now show the commercial was paid for by a political action committee (PAC) associated with the largest pro-Israel lobby group in the US.
+
+Funding for the ad came from the American Israel Public Affairs Committee (AIPAC), which has been pumping tens of millions of dollars into election campaigns in a push to sink candidates critical of Israel.
+
+With the midterm primary season in full swing, advocates say AIPAC is placing its thumb on the scale in many congressional races. Its tactics, they argue, undermine election transparency.
+
+“Every cycle, AIPAC shows just how broken our democracy is and how corrupt our political finance system is,” said Usamah Andrabi, a spokesperson at Justice Democrats, a progressive group.
+
+“Every cycle, they are at the forefront of exploiting those gaps for their right-wing donors and at the expense of voters.”
+
+In Illinois, the ad aimed to boost Amiwala in order to syphon off votes from more viable progressive candidates — namely, Palestinian American activist Kat Abughazaleh, who ended up losing the race narrowly.
+
+While the Chicago Progressive Partnership — the group whose name appeared on the Amiwala ad — was widely believed to be linked to AIPAC, it did not have to reveal the source of its funding until after the elections, which took place in March.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/money-works/2026/5/20/will-trump-kill-the-14bn-taiwan-arms-deal?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel’s ambassador to Christians gives rose-coloured spiel
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779284776.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 James Murdoch to acquire New York Magazine and Vox Media Podcast Network
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP19268526479358-1779303478.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-George Deek, Israel’s ‘ambassador to Christians’ released a statement on X, to Christians in the region and globally.
+Media scion James Murdoch has agreed to acquire New York Magazine and the Vox Media Podcast Network in a deal that will significantly expand his portfolio and stands to boost his influence over news and entertainment.
+
+“This acquisition reflects both our interest in the forward edge of culture and our deep commitment to ambitious journalism,” Murdoch, the younger son of media mogul Rupert Murdoch, said in a statement on Wednesday announcing the transaction. His company Lupa Systems will buy both properties from Vox Media.
+
+The deal, valued at more than $300m, gives Murdoch control of a storied magazine known for its coverage of culture, politics and fashion, and a podcast division whose reach, among a demographic coveted by advertisers, rivals that of cable television news networks, according to several people with direct knowledge of the acquisition. The politics news site Vox.com is also included.
+
+Murdoch and his wife Kathryn Murdoch were intimately involved in courting key talent from Vox, specifically Kara Swisher and Scott Galloway, stars of the popular Pivot podcast, as well as several other programmes on the company’s podcast network.
+
+“I like James and Kathryn,” Swisher said in a phone interview. “Unlike many other media owners these days, they’re savvy about the business and willing to take smart risks.”
+
+Vox’s podcast division was valued much higher than New York Magazine in the transaction, two of the people said, spotlighting the importance of making sure top programmes were locked in. Pivot, for example, has three years remaining on its contract, which will continue under Murdoch. Swisher met with the investor and his wife Kathryn several times before the deal came together.
+
+“In a company like Vox, if its talent doesn’t like something, it’s not gonna happen,” Galloway said in an interview. He added, “James is the only Murdoch that this deal could have happened with.”
+
+Several years ago, James was locked in a fierce dispute with his father over the editorial direction and future control of the family’s media empire. In 2019, he founded Lupa after stepping down as chief executive of 21st Century Fox. In 2020, he resigned from the board of News Corp, the publishing arm of the family’s media empire, citing “disagreements over certain editorial content”.
+
+Vox’s podcast and publishing assets will operate as a subsidiary of Lupa Systems, which also owns Art Basel, which hosts annual events in Paris, Miami, Hong Kong, and Doha, and Tribeca Enterprises, the media and entertainment company cofounded by Robert De Niro and Jane Rosenthal.
+
+Vox Media CEO Jim Bankoff will join Lupa Systems and will continue to lead the brands under the Vox Media label, he said in a note to the company’s staff, adding the deal is expected to close in four to six weeks.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ambassador-to-christians-gives-rose-coloured-spiel?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/20/james-murdoch-to-acquire-new-york-magazine-and-vox-media-podcast-network?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel’s Ben-Gvir publishes video taunting detained flotilla activists
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/BEN-GVIR-FLOTILLA-ACTIVISTS-HORIZONTAL-THUMB-1779284541.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 What’s the significance of the Russian president’s visit to China?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779303570.jpg?resize=1920%2C1061&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Israel’s Ben-Gvir publishes video taunting detained flotilla activists
+Over the years, China and Russia have described their relationship as a friendship without limits.
+
+Russian President Vladimir Putin’s visit to Beijing this week further emphasises the strength of those ties. He and Chinese President Xi Jinping hailed their partnership as “a force of calm among chaos”.
+
+They also warned against a return to the “law of the jungle” – an apparent reference to US President Donald Trump’s actions and policies, which include the war against Iran and sweeping global tariffs.
+
+Will the two leaders succeed in their push for a multipolar world, one in which the US does not dominate?
+
+Andy Mok – Author of The Innovation Machine: How China Creates and Adopts Technology Through Governance
+
+Pavel Devyatkin – Non-resident fellow at the Quincy Institute for Responsible Statecraft
+
+Allen Carlson – Associate professor in the Department of Government at Cornell University, specialising in Chinese foreign policy
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/20/israels-ben-gvir-publishes-video-taunting-detained-flotilla-activists?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Xi basks in spotlight as he hosts Putin days after Trump
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d09d/live/432fc630-544f-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 US charges Cuba's Raúl Castro with murder over 1996 downing of two planes
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c4d8/live/d01980d0-5482-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Cheering children - check. Military honour guard – check. Cannon fire and marching band - check.
+The US has charged former Cuban leader Raúl Castro with conspiracy to kill US nationals and other crimes over the downing of two planes between Cuba and Florida in 1996.
 
-Vladimir Putin's welcome outside the Great Hall of the People was a near mirror image of the reception for Donald Trump last week.
+The case unveiled on Wednesday – a revival of charges originally from 2003 – accuses Castro and five others in the shooting down of an aircraft belonging to Cuban American group Brothers to the Rescue and killing four people, including three Americans.
 
-Two high-stakes presidential visits, just days apart, is exactly the image Xi Jinping wants to project to the world: talking to everyone, tied to no-one.
+Castro, now 94, was the head of the country's armed forces and faced international condemnation over the crash.
 
-For China, these visits are proof that because of its massive economy and new-found diplomatic clout all roads now lead to Beijing.
+As the US seeks to exert increasing pressure on Cuba's communist rule, President Miguel Díaz-Canel called the charges "a political manoeuvre, devoid of any legal foundation".
 
-"The new era of world affairs is less centered around the West," says Samir Puri from Kings College London.
+Speaking at Freedom Tower in Miami, Acting Attorney General Todd Blanche announced that the US would also charge Castro with destruction of aircraft, and four individual counts of murder over the deaths of Armando Alejandre Jr,  Carlos Alberto Costa, Mario Manuel de la Peña, and Pablo Morales.
 
-"There is a lot of latent power that China has on the world stage, it's not necessarily using it in its most direct form to settle conflicts, instead China's style is to try to utilise its stature in a more gradual sense."
+"The United States, and President Trump, does not, and will not, forget its citizens," Blanche said.
 
-The optics were strikingly similar - Xi confident in the spotlight as he played host. But the politics driving the two visits were very different.
+The justice department's new charges take aim at a key figurehead of Cuba's communist leadership when it is facing intense US pressure to make significant political and economic reforms to its one-party rule there.
 
-Putin, who has been to China more than 20 times, appears to have a close personal relationship with Xi. But the war in Ukraine and Western sanctions have left him leaning heavily on Beijing, which is now Russia's top trading partner and its biggest customer for oil and gas.
+"I think the strategy is to increase the pressure gradually to the point where the Cuban government will give in and surrender at the bargaining table," said Wiliam LeoGrand, a expert on Latin American politics at American University.
 
-It has been an unequal partnership for some time now, and that was reinforced today. Talks ended with 20-plus agreements on trade and tech, but no approval yet for the stalled Russian gas pipeline that Putin has been pushing for years. A lengthy joint statement also yielded no major breakthroughs.
+The US has issued sanctions on the country and imposed a blockade on oil to Cuba that has resulted in blackouts and food shortages.
 
-"Both China and Russia need each other, but Russia clearly needs China more than before at the global stage," says Dr Zheng Runyu, from the Centre for Russian Studies at the East China Normal University in Shanghai.
+Earlier on Wednesday, US Secretary of State Marco Rubio issued a message to the Cuban people timed to the country's independence day.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump exerts iron grip on Republican Party with Massie defeated
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8c32/live/f49a1970-542c-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f31d/live/403b1fd0-5466-11f1-90bc-1d92dab59cbe.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The past few weeks had been billed as a retribution tour for Donald Trump, as he settles old scores with his critics within the Republican party.
+As Vladimir Putin and Xi Jinping walked the red carpet towards the Great Hall of the People, a Chinese military band played the romantic Russian classic Moscow Nights.
 
-Call it what you will, but the evidence is now overwhelming that the Republican party is Trump's party and nothing - not an unpopular war in Iran, not sagging poll numbers among the general public, not rising consumer prices, not concerns about billion-dollar White House ballrooms - has changed that.
+"If only you knew how these Moscow Nights are dear to me," goes the refrain.
 
-Thomas Massie, the independent-minded congressman from Kentucky, was  comfortably defeated on Tuesday in the Republican primary race to decide who goes forward to take on the Democrats in November's midterms. The Trump-backed candidate Ed Gallrein is heading towards a 55% share of the vote.
+It was the language of two leaders who like to show they've built a special relationship. They have had plenty of time to do so: they have met more than 40 times over the years.
 
-Republican rebel Massie, a constant thorn in Trump's side, is just the latest in a political casualty count that is now stretching into double figures. His transgressions were multitude.
+In their public statements they spoke of "strategic co-operation" between their nations, about "partnership", "mutual respect", "friendship" and "trust."
 
-He opposed Trump's tax-and-spending budget package last year because he said it drove  up the federal deficit. He voted to curtail the president's military operations in Venezuela and Iran. And, perhaps most notably, he was the driving force behind efforts in the House of Representatives to force the release of Justice Department files on Jeffrey Epstein, the disgraced financier and sex offender with ties to the rich and powerful.
+Together they railed against the "irresponsible" nuclear policy of the United States and condemned Donald Trump's plan for a Golden Dome missile defence shield.
 
-All this put Massie front and centre on Trump's enemies list – and led to a $20m effort to oust him from the congressional perch he had occupied for more than a decade.
+On the eve of the visit the Russian government newspaper had published two big photos on its front page: one of a lonely-looking Trump climbing the steps of Air Force One at the end of his China trip last week; and beside it an old image of Putin and Xi walking together.
 
-"Trump once again proved his power in the Republican party," said Trey Grayson, a two-time Republican secretary of state in Kentucky.
+The visual messaging was unmistakable: Russia and China are shoulder-to- shoulder on the world stage.
 
-He added that Massie had his enemies in the state politics – acquired by not playing nice with local business leaders and disregarding the everyday work of legislating in favour of high-publicity efforts. But in the end, he said, it came down to yet another simple display of Trump's iron grip on the Republican party.
+And in the world of geopolitics relationships are rarely based on love and affection. It's often self-interest.
 
-Gallrien, Massie's handpicked Trump opponent, barely campaigned. He declined most debate and public forum invitations. He instead relied on the president's endorsement and millions of dollars of support it generated.
+At the Xi-Putin summit it became clear that there are limits to the love.
 
-That proved to be enough – and it wasn't all that close, as the challenger coasted to what appears to be a double-digit victory.
+Russia is keen to push ahead with plans for a new pipeline, Power of Siberia 2, and had hoped for progress in Beijing. The pipeline would bring additional volumes of Russian gas from Western Siberia to Northern China via Mongolia and, for Moscow, help make up for the loss of European markets.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 More die of suspected Ebola as WHO warns that numbers will rise further
+### 📰 Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c3ee/live/74d107a0-5457-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+There has been international condemnation of Israel's treatment of pro-Palestinian activists who were on board a Gaza-bound aid flotilla intercepted by Israeli naval forces.
+
+The US, the UK, France, Italy and Canada were among the countries which expressed outrage after far-right National Security Minister Itamar Ben-Gvir posted a video showing himself taunting activists kneeling with their hands tied behind their backs.
+
+His actions also drew rare criticism from Israeli Prime Minister Benjamin Netanyahu, who said they were "not in line with Israel's values".
+
+A rights group representing the 430 people from more than 40 countries who took part in the Global Sumud Flotilla demanded their release.
+
+The flotilla, which carried a token amount of aid, set out to highlight the tough conditions for Palestinians in war-torn Gaza. Israel dismissed it as a "PR stunt at the service of Hamas".
+
+More than 50 boats taking part in the Global Sumud Flotilla (GSF) set sail from Turkey last Thursday.
+
+On Monday morning, armed Israeli naval commandos began intercepting the fleet in international waters west of Cyprus, about 250 nautical miles (460km) from the coast of Gaza, which is under an Israeli maritime blockade.
+
+The GSF's organisers said all the boats had been intercepted by Tuesday evening, with one managing to get within 80 nautical miles of the Palestinian territory.
+
+They accused Israel of an "illegal, high-seas aggression" and said Israeli commandos had opened fire at six boats, used water cannon, and intentionally rammed one vessel.
+
+The Israeli foreign ministry said no live ammunition was used and insisted it would "not permit any breach of the lawful naval blockade on Gaza".
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Ebola vaccine could take nine months as death toll rises further, WHO warns
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/959a/live/e216d3b0-5436-11f1-97ae-1b4b9bb4c9eb.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The World Health Organization (WHO) says there have now been 600 suspected cases of Ebola and 139 suspected deaths, with numbers expected to rise further given the time taken to detect the virus.
+The World Health Organization (WHO) says it could take up to nine months before a vaccine against this particular species of Ebola is ready.
 
-Fifty-one cases have now been confirmed in the Democratic Republic of Congo - where the first case was reported - and two in neighbouring Uganda, WHO chief Dr Tedros Adhanom Ghebreyesus said on Wednesday.
+Two possible "candidate vaccines" against the Bundibugyo species are being developed, but neither had gone through clinical trials yet, WHO advisor Dr Vasee Moorthy said on Wednesday.
 
-Speaking to journalists in Geneva, he said the outbreak of the Bundibugyo species of Ebola was likely to have started "a couple of months ago".
+WHO chief Dr Tedros Adhanom Ghebreyesus said there have been 600 suspected cases of Ebola and 139 suspected deaths but numbers are expected to rise given the time taken to detect the virus.
+
+Speaking to journalists in Geneva, he said 51 cases have been confirmed in the Democratic Republic of Congo - where the first case was reported - and two in neighbouring Uganda.
 
 On Sunday, the WHO declared a public health emergency of international concern, but said it was not at pandemic level.
 
-Ghebreyesus said that after meeting on Tuesday, the health organisation's emergency committee agreed the situation was "not a pandemic emergency".
+Tedros said that after meeting on Tuesday, the health organisation's emergency committee agreed the situation was "not a pandemic emergency".
 
 "WHO assesses the risk of the epidemic as high at the national and regional levels and low at the global level," he explained.
 
-The 51 cases confirmed in DR Congo are in its eastern Ituri province - the epicentre of the outbreak - and the North Kivu province. Of the two confirmed in Uganda's capital, Kampala, both had travelled from DR Congo, one of whom has died.
+The 51 cases confirmed in DR Congo are in its eastern Ituri province - the epicentre of the outbreak - as well as North Kivu province. Of the two confirmed in Uganda's capital, Kampala, both had travelled from DR Congo, one of whom has died.
 
 "We know the scale of the epidemic in DRC is much larger," the WHO chief said, adding that healthcare workers were among those who had died, which was a particular concern.
 
 Local health workers say some facilities are being overwhelmed. Although personal protective equipment has started to arrive, they say they are still working without adequate protection.
-
-A WHO official said investigations were under way to find out how long the virus had been spreading for, but that their priority was to curb transmission.
 
 </div>
 
@@ -216,77 +259,46 @@ A WHO official said investigations were under way to find out how long the virus
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Lithuania's leaders take shelter during drone air alert
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/014a/live/46a3c900-5428-11f1-9a06-e9b999966857.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/45b2/live/50cba0d0-545d-11f1-a996-23a66636b2cc.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Lithuania's president and prime minister were forced to take shelter on Tuesday, when a drone alert caused the capital Vilnius to come to a standstill.
+When Jonathan Andic, son of the late founder of one of Europe's biggest clothing empires, posted €1m (£865,000) in bail shortly after being arrested in connection with his father's death, it was the latest twist in a saga that has gripped and mystified Spain.
 
-President Gitanas Nauseda and Prime Minister Inga Ruginiene were taken to emergency shelters following the air alert, which ordered the city's population to take cover.
+Isak Andic, who created the Mango clothes brand, died at the age of 71 on 14 December 2024 after falling around 500ft (150m) from a cliff in the mountainous Montserrat natural park north of Barcelona. The two men were hiking there together.
 
-Flights were suspended and road and rail travel briefly ground to a halt. The alert has since been lifted. It is not yet clear who was behind the incursion.
+Initially, police had treated it as a tragic accident that had befallen one of Spain's wealthiest individuals.
 
-It came a day after Estonia said Nato shot down a drone over its territory, which it suspected was a Ukrainian projectile knocked off course by Russian electronic interference.
+But this week his son was arrested when a judge in Martorell near Barcelona decided there was "enough evidence to consider the death of [Isak Andic] non-accidental, with the active and premeditated participation of [Jonathan Andic] in the death of his father".
 
-It was the latest in a series of recent drone incursions over Nato members Estonia, Latvia and Lithuania.
+Jonathan Andic, the Mango founder's eldest child, had called emergency services who recovered the body. He told police that he been walking ahead of his father when he heard the sound of rocks sliding and turned to see that Isak Andic had fallen.
 
-An alert from Lithuania's defence ministry on Wednesday said: "Immediately take shelter in a safe place, take care of your close ones, await new recommendations."
+But within weeks investigators questioned him a second time, on this occasion for three hours. Several months later, in October 2025, he was formally put under investigation after the case had been reopened.
 
-Lithuania's national crisis management centre earlier said it had issued an alert in response to a drone in neighbouring Belarus that was seen flying towards Lithuania.
+Soon after, the executors of Isak Andic's will published a statement insisting on Jonathan's innocence, saying "we have been witnesses of how the pain of private grief has been aggravated by a public debate that causes greater suffering".
 
-Lithuania's military later said Nato jets had been deployed to shoot down the drone but could not locate it.
+As the investigation continued, police questioned Jonathan's two sisters and uncle.
 
-An evacuation order was also issued at the Seimas, Lithuania's parliament, according to local media, with politicians and staff led down to a basement shelter.
+Jonathan Andic's arrest this week appeared to be based on several allegations regarding the circumstances of his father's death and the fateful hike.
 
-On Tuesday, Estonian officials said a Nato fighter jet had shot down a suspected Ukrainian drone. No damage was reported.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c9d3vpqqqpeo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Man who murdered teen TikTok star in Pakistan gets death sentence
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/4498/live/34c1cbf0-53e8-11f1-9e75-c5633c817d00.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A court in Pakistan has sentenced a man to death over the murder of a teen social media influencer that sparked uproar across the country.
-
-Umar Hayat broke into the home of 17-year-old TikTok star Sana Yousaf in June last year after she rejected his repeated advances, and shot her dead.
-
-Hayat, now 23, admitted his crime in July, saying he had developed a one-sided obsession with Yousaf after some interactions online.
-
-Yousaf's father Syed Yousaf Hassan said the verdict handed down by the Islamabad court was "a lesson for all such criminals in society", local media reported.
-
-The court also ordered Hayat to pay 2.5 million rupees ($9,000; £6,700) as compensation to Yousaf's family.
-
-During investigations, Hayat said he had travelled to Islamabad days before the killing to wish Yousaf well on her birthday. Despite Yousaf's refusal to meet him, he managed to make his way to her home – where the two had an argument which escalated into the killing, according to Pakistani media.
-
-Yousaf had more than a million followers on TikTok and half a million more on Instagram before her death. She was well-loved by fans for her light-hearted content, including that of her trying out fashion trends, lip-syncing to songs, and just hanging out with friends.
-
-Activists said Yousaf's murder was part of a larger pattern of violence against women in Pakistan.
-
-Police raided locations across the capital, where Yousaf lived with her family, and the province of Punjab, scanning footage from 113 CCTV cameras in all.
-
-While many have shared their outrage over Yousaf's death, there has also been backlash towards her work as an influencer.
+Investigators believe that the kind of slip Jonathan describes his father as suffering would have been unlikely in the spot where the fall happened. The two men were near some caves in the area of Collbató, following a picturesque, relatively undemanding route that is common for families and schoolchildren.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
-### 📰 US doctor who contracted Ebola in the DRC flown to Germany for treatment
-<img src='https://i.guim.co.uk/img/media/7df773de2827d89d8fef9c68653aad83c6e6fc73/481_0_4788_3833/master/4788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31b9034e68ed4812295d8a95d143b4ca' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+### 📰 US doctor who contracted Ebola in DRC flown to Germany for treatment
+<img src='https://i.guim.co.uk/img/media/4ba9fcb900a40b0bdac04002b2c7993a9b8d2b28/1281_379_4190_3352/master/4190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0cdce1f8cb923ba80405c6dd0602fd1a' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 
-Dr Peter Stafford’s wife and four children are also being monitored for symptoms amid Ebola outbreak in the DRC
+Dr Peter Stafford’s wife and four children are also being monitored for symptoms amid Ebola outbreak in Congo
 
 An American doctor who contracted Ebola in the Democratic Republic of the Congo has been flown to Germany for treatment, along with his wife and four children, as the World Health Organization warned of the “scale and speed” of the outbreak.
 
@@ -298,7 +310,7 @@ The infected surgeon was barely able to stand on his own when he departed for Ge
 
 Dr Scott Myhre, area director for Serge told NBC News that Stafford “looked really tired and really sick” as he left. “There were people in full – we call it PPE – the personal protective equipment, and they’re completely covered, and he’s hanging on them barely strong enough to walk.”
 
-Stafford worked at Nyankunde hospital in the DRC’s Ituri province, where the Africa centers for disease control first confirmed the Ebola outbreak. He had operated on a 33-year-old patient with severe abdominal pain.
+Stafford worked at Nyankunde hospital in the DRC’s Ituri province, where the Africa Centers for Disease Control first confirmed the Ebola outbreak. He had operated on a 33-year-old patient with severe abdominal pain.
 
 Doctors at first believed the patient had a gallbladder infection but, according to Myhre, Stafford “did an abdominal procedure and found that the gallbladder was normal and closed him up, but this patient subsequently died the next day”.
 
@@ -439,140 +451,225 @@ It also cited a South African raid of a US refugee processing centre in December
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Barney Frank, Trailblazing Gay Politician, Dead at 86
-<img src='https://imagez.tmz.com/image/8e/16by9/2026/05/20/8e7a1abfeaa54ab190aaaeaf2452ed44_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Rep. Ilhan Omar Rips DOJ Investigation For Alleged Immigration Fraud
+<img src='https://imagez.tmz.com/image/97/16by9/2026/05/20/97edb96eaaec42b4959bf1c0f6f106f0_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Barney Frank, the trailblazing congressman who advocated for LGBTQ+ rights in Congress after he came out as gay while in office, has died, according to NBC News Boston.
+Rep. Ilhan Omar is going nuclear over Vice President J.D. Vance's declaration she's under investigation for alleged immigration fraud, telling TMZ DC ... the probe is nothing more than a racist, creepy, and weird conspiracy theory.
 
-The career politician of 32 years from Massachusetts died in hospice care at home in Maine, where he lived with his husband, Jim Ready. He retired in 2013.
+Jacob got the Congresswoman from Minnesota leaving her office on Capitol Hill, and asked her about the Veep breathing new life into claims she married her own brother to get U.S. citizenship.
 
-"He was, above all else, a wonderful brother. I was lucky to be his sister," Frank's sister Doris Breay told NBC10 Boston.
+Omar says Republicans have been out to get her since President Trump's first administration, but she denies any wrongdoing.
 
-In addition to being the first sitting congressman to come out as gay -- which he did in 1987 -- he was also the first congressman to have a same-sex marriage when he married Jim in 2012.
+What's more, she says it should be obvious the prez and the Dept. of Justice have nothing on her ... because she's still on her J-O-B in DC.
 
-In addition to being a strong supporter of gay rights, Frank was also known for being the co-sponsor of 2010's Dodd-Frank Wall Street Reform and Consumer Protection Act -- to protect consumers after the 2008 financial crisis and subsequent bailouts.
+Ilhan says it's disgusting and disturbing that so many people still believe the conspiracy theory, but, at this point, she says it's par for the course. If she's actually worried about a DOJ probe, her smile and body language definitely don't show it ... watch the video.
 
-Frank was 86.
-
-RIP
+While she's down to cooperate with an investigation -- Rep. Omar says she has nothing to hide -- she's certain there's just one simple reason she's still on Trump's hitlist.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/barney-frank-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/ilhan-omar-blasts-jd-vance-doj-investigation/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Congressman Randy Fine Getting Hateful Antisemitic Death Threat Voicemails
-<img src='https://imagez.tmz.com/image/c5/16by9/2026/05/19/c596b70510fb418c99e8e278449ce1d1_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Gov. Gavin Newsom Frustrated Over Stalled L.A. Fire Rebuild Effort
+<img src='https://imagez.tmz.com/image/6f/16by9/2026/05/20/6f9685ce4ef24687b70bd34ba2b19ff2_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Rep. Randy Fine is among the Jewish members of Congress on both sides of the aisle being threatened with death by antisemites ... and we've learned one voicemail he received Tuesday is being investigated by Capitol Police.
+California Governor Gavin Newsom is frustrated and surprised over how wildfire rebuilding efforts have played out in Los Angeles ... especially after a recovery proposal pushed by Harvey stalled at the City level.
 
-TMZ DC obtained a voicemail from someone who dialed up Randy's Washington, D.C. office ... a diatribe on Jews complete with threats of extreme physical violence.
+Jacob asked Newsom Wednesday in D.C. about his post-fire conversations with Harvey regarding local architect Dan Brunn's ambitious desire to rebuild Altadena and the Palisades ... a proposal Newsom eagerly supported after the devastating 2025 wildfires.
 
-In the message, the GOP Congressman from Florida is threatened with being beaten to death and having his "beanie" -- a reference to his yarmulke -- shoved up his anus.
+Newsom tells us he personally followed up with Brunn on the proposal -- and had his team do the same. BTW, Brunn and 100 other architects were doing it for free.
 
-Darren Dershem, a spokesperson for the Congressman, tells TMZ the threat has been reported to Capitol Police, and cops informed their office police are investigating.
+Jacob told Newsom the plan stalled once it reached city leadership under Mayor Karen Bass. Newsom emphasized city red tape is out of his hands.
 
-We reached out to Cap Police who tell us …. “For safety reasons, we cannot discuss potential security measures for the Members of Congress, or any potential investigations.”
+Newsom said he doesn’t know all the details of what went down at City Hall ... but we called Brunn during "TMZ Live," and he said the City Zoning Dept. put the kibosh on the plan.
 
-Rep. Fine’s office tells us this voicemail is a just drop in the bucket … they're getting antisemitic threats on the regular.
-
-A more public verbal attack on Fine went down earlier this year when Dan Bilzerian -- who's campaigning for Fine's congressional seat -- called him a "fat Jew," and came on TMZ Live to defend the antisemitic remark.
-
-As we reported ... Rep. Jared Moskowitz -- another Florida Congressman and Democrat — is fielding similar threats.
-
-So much for toning down the rhetoric.
+Newsom said he'd have his team look into it. BTW ... Jacob asked Newsom if he was team Bass or Team Spencer ... he says he's not getting involved.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/randy-fine-receives-antisemitic-death-threat/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/gavin-newsom-upset-over-la-fire-rebuilding-efforts-dying/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 JPMorgan Chase Exec Accused of Sexually Harassing Banker Files Defamation Suit
-<img src='https://imagez.tmz.com/image/64/16by9/2026/05/04/6498a612628341639a7440e053138547_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Jessica Simpson Defends Kids In Coach During Awkward Flight With Ex Nick Lachey
+<img src='https://imagez.tmz.com/image/63/16by9/2026/05/20/632203fa74e947e59cb46835eba2b37e_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-The JPMorgan Chase executive accused of sexually harassing her ex-subordinate and racially discriminating against him has now filed her own lawsuit for defamation.
+Jessica Simpson is finally explaining why her kids were riding economy while she was chilling up front in first class during that awkward flight with ex Nick Lachey ... and according to her, blame Grandma!
 
-Lorna Hajdini filed the suit Tuesday against the banker, claiming he fabricated statements in a JP Morgan Chase internal complaint that she sexually harassed, sexually assaulted and racially discriminated against him over several months in 2024.
+We caught up with Jessica at the airport and she was cracking up over the whole thing -- insisting the seating setup wasn’t her doing because her mom booked the Hawaii trip as a treat for the family.
 
-As a result, Hajdini says she was exposed to&nbsp;public contempt, hatred and ridicule, as well as economic, reputational, and emotional harm. She also says the banker, identified only as John Doe, made the false claims in bad faith and with malice, constituting libel and slander.&nbsp;
+Clearly, Mama Simpson's first-class money only stretched so far ... but hey, a trip was still a nice gesture at the end of the day!
 
-Specifically, Hajdini points to the banker's false claims that she committed serious crimes, such as drugging and sexually assaulting him. She is asking for punitive damages, attorney fees and other damages.
+TBH, economy may have been the safer option for the kids considering Jessica unexpectedly shared the first class cabin with ex Nick -- we even told you, it was so awks that Jess swapped seats to avoid sitting near him.
 
-In his bombshell lawsuit, the banker claimed Hajdini&nbsp;twice told him she likes to get "wet" and threatened to destroy his career if he didn't "f—k" her. He also claimed Hajdini questioned whether someone of his South Asian descent would ever be allowed to lead deals. And there's much much more.
-
-We reached out to the banker's attorney's for comment on the defamtion suit. So far no word back.
+Nick later claimed everything was totally fine -- but c’mon ... nobody’s trying to spend hours trapped in sky jail with their ex!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/jp-morgan-lorna-hajdini-defamation/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/jessica-simpson-discuss-reason-for-her-kids-flying-coach/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Car Explodes in Lower Manhattan, Billowing Smoke Fills Sky, on Video
-<img src='https://imagez.tmz.com/image/96/16by9/2026/05/20/9639378d19f14945a9ea7bdcb3d6f99d_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Matthew Perry’s Mom Slams Late Actor’s Assistant in Court For Behavior at Funeral
+<img src='https://imagez.tmz.com/image/14/16by9/2026/05/20/1404dcc982c54357a8462b0f590efd2d_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Things got fiery fast in Lower Manhattan Tuesday evening ... when a vehicle burst into flames and exploded just steps away from NYC's iconic Charging Bull statue.
+Matthew Perry’s mom, Suzanne Morrison, wrote an emotional letter slamming her late son’s assistant, Kenneth Iwamasa, ahead of his sentencing, TMZ has learned.
 
-Take a look ... wild video from the Wall Street district shows thick black smoke pouring into the sky as the car -- which appeared to be affiliated with the MTA -- sat engulfed in flames near Broadway and Stone Street.
+TMZ obtained the letter written by Suzanne ahead of Kenneth’s sentencing in his criminal case. Kenneth is accused of helping secure Ketamine for the "Friends" star and even shooting him up at times. Matthew died on Oct. 28, 2023. Kenneth injected the star with Ketamine on the day in question.
 
-Onlookers gathered around the chaotic scene -- many pulling out their phones to record as the fire intensified before FDNY crews arrived.
+Matthew’s mom wrote, “My name is Suzanne. I am also Momma-Mooma, the name my son Matthew gave me.”
 
-The fire department told ABC News firefighters responded around 5:42 PM and battled the blaze for more than an hour before finally getting it under control shortly before 7 PM.
+“The name I loved to hear for all those years,” she said. “He was Matso, my Manew.”
 
-The explosion sent smoke billowing through the financial district ... turning heads near one of New York City's busiest tourist hotspots.
+“He was, in spite of all we went through, my heart and soul. And then one night he was just a body, lying all but naked on the cold, damp grass of his backyard,” Suzanne said.
 
-So far, no injuries have been reported, and there's been no word about what sparked the fire.
+“Helicopters circled overhead, eager for a glimpse of my dead little boy, a picture they could show the whole world while I stood out on the street in the cold and begged for a blanket to cover him. Impossible, of course.”
+
+Suzanne said the next day she went to see Matthew in a mortuary, “and he had been bathed and dressed” and “looked almost beautiful and somehow relieved.”
+
+The late actor’s mom noted, “Matthew fought for half his life – more than half – against addiction. Fought and failed and came back to fight again.”
+
+Suzanne said she was relieved when Kenneth started working for Matthew. “He had known Kenny, and so had we, for 25 years,” the letter read.
+
+She said, “Mathew trusted Kenny. We trusted Kenny. Kenny’s most important job – by far – was to be my son’s companion and guardian in his fight against addiction.”
+
+“His number one responsibility – ensure that Matthew remained what he wanted to be: drug free. Kenny knew, should he feel unduly pressured, that with one phone call to any number of the people in Matthew’s orbit, reinforcements would be on the way, and his job would be safe.”
+
+Suzanne said that instead of protecting Matthew, “he aided and abetted” his drug addiction.
+
+She claimed Kenneth “arranged for one source of supply, then another. Shot the drugs into Matthew’s body, though he was not in the least qualified.” And he did it again and again.
+
+“And when he had killed my son, he kept a sharp eye on me. He sent me songs, he drew a little map to help me find my way around the cemetery,” she said.
+
+Suzanne said Kenneth insisted on speaking at Matthew’s funeral, where she claimed he clung to her. “We trusted a man without a conscience, and my son paid the price,” she said.
+
+The letter ended, “Nothing takes this pain away, nor will it, I am sure, for as long as a live.”
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/car-explodes-lower-manhattan/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/matthew-perrys-mom-said-his-assistant-acted-strangely-after-his-death/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 R&B Icon Bobby Womack's Brother Gets Into Car Wreck, Wife Dies
-<img src='https://imagez.tmz.com/image/4a/16by9/2026/05/20/4aaf4163861b4c5ab17e665286cb2d52_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Shop The Best Mandalorian and Grogu Accessories on Amazon
+<img src='https://imagez.tmz.com/image/b6/16by9/2026/05/14/b602b5f6267f4933a402d0004ebb3dc0_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-The brother of Rock and Roll Hall of Famer Bobby Womack got into a car wreck in Arkansas that ended with his wife being killed, TMZ has learned.
+TMZ may collect a share of sales or other compensation from links on this page.
 
-Friendly Womack Jr. was driving with his wife, Elaine, in Little Rock last Friday when the accident occurred, according to Friendly's grandson, Martice. Martice tells us Friendly is just fine ... but Elaine unfortunately passed away.
+The countdown to "The Mandalorian and Grogu" is officially on … and with their next chapter about to hit the big screen, it's absolutely a valid excuse to buy more "Baby Yoda" merch.
 
-The Pulsaski Sheriff's Office tells TMZ ... deputies responded to a three-vehicle accident at an intersection in Little Rock last Friday night.
+We've channeled our inner bounty hunter and rounded up our fave Stars Wars gear worth grabbing ahead of opening night. From Din Djarin inspired watches to Grogu backpacks, these are the things you need before heading to a galaxy far, far away.&nbsp;
 
-According to police, Elaine was found dead inside one of the vehicles while everyone else involved suffered minor injuries or no injuries at all. Cops are investigating the cause of the crash.
+Want more great finds? Head to TMZ Deals.
 
-As for Friendly's brother, Bobby Womack was a legendary R&amp;B singer, songwriter and guitarist who was inducted into the Rock and Roll Hall of Fame in 2009.
+Accustoms Grogu Kids Smart Watch
 
-Bobby's most iconic songs include "Across 110th&nbsp;Street," "If You Think You're Lonely Now," and "Woman's Gotta Have it." Bobby died in 2014 after battling a bunch of illnesses. He was 70.
+There’s honestly nothing cuter than Grogu … except maybe your baby wearing this Accustoms Grogu Kids Smart Watch.
+
+This pint-sized watch made for little ones features Grogu front and center. And while your kids may not have the Force, this watch has plenty of cool features, like games, a selfie-cam, voice recorder, alarm, stopwatch, and calculator.&nbsp;
+
+Citizen Din Djarin Stainless Steel Watch
+
+As a part of the brand's Star Wars collection, this Citizen Din Djarin Stainless Steel Watch allows you to carry the strength and honor of the Mandalorian with you at all times.
+
+It features an upper sub-dial with the Mudhorn symbol and a lower displaying his helmet artwork … as well as small Grogu ears on the leftmost sub-dial.
+
+Plus, the case back features a Mudhorn and the sacred reminder, "This is the Way."
+
+The Mandalorian Grogu Pouch Hooded Backpack
+
+Have backpack, will travel … to other galaxies!
+
+Keep Baby Yoda with you at all times with this The Mandalorian Grogu Pouch Hooded Backpack.
+
+With Grogu tucked away in the bag's pocket as well as Din Djarin's helmet design, it's the perfect accessory for fans of "The Mandalorian."
+
+It’s equipped with plenty of storage, including an interior laptop sleeve, and even has a hidden hood for unexpected weather so you’re covered at all times.
+
+Loungefly The Mandalorian "The Child" Mini Backpack
+
+Much to learn, you still have.
+
+This Loungefly The Mandalorian “The Child” Mini Backpack is a must have for little Jedis heading off to school.
+
+Designed to look like Grogu in his bassinet, this backpack is a fun choice for little Star Wars fans … or adults who are traveling light.
+
+Whether the kids are taking this to school or you’re bringing it along to Disneyland, you can’t go wrong with this adorable backpack.&nbsp;
+
+Disney Babies The Mandalorian Grogu Plush
+
+Swaddle up Baby Yoda with this super cute Disney Babies The Mandalorian Grogu Plush.
+
+Star Wars fans young and old will love this super soft plush, dressed in his signature Jedi robe.
+
+He also comes with a reversible velour swaddle blanket to keep him nice and cozy which features a fun Grogu print.&nbsp;
+
+Star Wars Darksabre Mini Desk Lamp
+
+Embrace the legacy of Mandalore with this Star Wars Darksabre Mini Desk Lamp.
+
+Din Djarin’s legendary lightsaber is here to light the way for all those late nights spent working at your desk and for those moments you need a little extra reassurance from a galaxy far, far away.
+
+For your convenience, it runs on electricity, black kyber crystal not needed.&nbsp;
+
+Star Wars The Mandalorian T-Shirt
+
+Share your fandom loud and proud.
+
+This Star Wars The Mandalorian T-Shirt features the movie poster for the highly anticipated "The Mandalorian and Grogu," hitting theaters later this month.
+
+With Din Djarin and Grogu at the forefront, they’re about to set off on new adventures and lend their hand to the New Republic.
+
+Star Wars Grogu Tamagotchi
+
+Take care of your very own Baby Yoda. This Star Wars Grogu Tamagotchi brings the beloved character to the palm of your hand … and it's up to you to raise him. How you do will transform him into one of 12 different appearances, including secret styles. Each device is also equipped with three different mini games, one of which alternates depending on how you interact with Grogu.&nbsp;
+
+For more curated product lists check out TMZ Deals.
+
+Sign up for Amazon Prime&nbsp;to get the best deals!
+
+All prices &amp; availability subject to change. Not official merchandise unless explicitly stated.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/bobby-womack-brothers-wife-dies-in-car-accident/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/mandalorian-and-grogu-gift-ideas/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 I.R.S. to Drop Audits of Trump and Family
+### 📰 Trump’s $1.8 Billion Fund Tests Constitutional Limits
 <div align='justify'>
 
-As part of the Justice Department’s deal, officials vowed not to pursue any matters, including those involving President Trump’s tax returns, that are pending.
+The deal the president reached with his own subordinates relies on a mechanism created by Congress that legal experts had warned was subject to manipulation.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Jan. 6 Police Officers Sue to Block Trump’s Payout Fund
+<div align='justify'>
+
+The two officers accused the administration of creating a “slush fund” to reward rioters and groups that committed violence on behalf of President Trump.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -587,146 +684,145 @@ The possibility that people who ransacked the Capitol could get money from the g
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 With Trump’s Deal, a Possible $100 Million I.R.S. Penalty Melts Away
+### 📰 Cuba Says the Trump Administration Is Not Negotiating in Good Faith
 <div align='justify'>
 
-The tax service argued that the Trump Organization tried to claim the same losses twice. The president said the audit was a “disgrace.”
+Cuba’s ambassador to the United Nations said in an interview that Havana wanted to talk but the Trump administration was creating pretexts for military action.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/us/politics/trump-settlement-irs.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 New Immunity for President Trump, and an Audacious Plan for Regime Change in Iran
+### 📰 Rubio, in Video, Urges Cubans to Align With Trump Administration
 <div align='justify'>
 
-Plus, Tesla’s big bet on big rigs.
+In a rare direct address, Secretary of State Marco Rubio blamed the former leader Raúl Castro for the country’s longstanding electricity and resource shortages.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/podcasts/the-headlines/-trump-irs-audit-regime-change-iran.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Early War Goal Was to Install Hard-Line Former President as Iran’s Leader
-<div align='justify'>
-
-An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
-### 📰 NASA’s Fermi Glimpses Power Source of Supercharged Supernovae
-<img src='https://science.nasa.gov/wp-content/uploads/2026/05/sn-animation-frame.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA Announces Winners in University Aeronautics Competition
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/gateways-2026-sdsu-wingman.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-An international team studying data from NASA’s Fermi Gamma-ray Space Telescope concludes the mission detected a rare, unusually luminous supernova. The researchers say it likely received its power-up from a supermagnetized neutron star born in the stellar collapse that triggered the explosion.
+The South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance.
 
-The Fermi mission is part of NASA’s fleet of observatories monitoring the changing cosmos to help humanity better understand how the universe works.
+This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could  advance commercial aircraft maintenance and repair operations by 2035. The competition, sponsored by NASA’s University Innovation project within the agency’s Aeronautics Research Mission Directorate, supported the agency’s objectives of fostering innovative research and strengthening the future aviation workforce.
 
-“For nearly 20 years, astronomers have searched Fermi data for gamma-ray signals from thousands of supernovae, and while a few intriguing hints have been reported, none were definitive until now,” study lead Fabio Acero at the French National Centre for Scientific Research (CNRS) and the University of Paris-Saclay.
+“This year’s finalists proposed novel ideas to equip companies and their workers with innovative technologies to help keep our nation’s planes airworthy. This is especially critical in a time where flight safety is more commonly in the spotlight and where workforce shortages lead to challenges and opportunities in aviation,” said Steven Holz, associate project manager for NASA’s University Innovation Project and judging panel chair for Gateways to Blue Skies. “Our panel of industry and subject matter experts were excited about the possibilities these concepts could bring, as well as shared insights needed for these teams to push forward for real-world implementation.”
 
-A paper describing the findings published Wednesday in the journal Astronomy & Astrophysics.
+The winning project, WINGMAN, proposed augmented reality safety glasses equipped with voice-controlled manuals, automatic documentation, and photo recognition that could assist aircraft mechanics during routine daily servicing and minor repairs. The glasses would function as the mechanic’s “wingman,” enabling hands-free access to the information and reporting mechanisms required for line inspections.
 
-Core-collapse supernovae occur when the energy-producing center of a star many times our Sun’s mass runs out of fuel, collapses under its own weight, and explodes. During the collapse, a city-sized neutron star or an even smaller black hole may form. A blast wave blows away the rest of the star, which rapidly expands as a hot, dense cloud of ionized gas.
+The WINGMAN team presented their research along with eight finalists at the 2026 Gateways to Blue Skies Forum held May 18 and 19 at NASA’s Langley Research Center in Hampton, Virginia. The forum was judged by subject matter experts from NASA, the Federal Aviation Administration, and industry, including representatives from Southwest Airlines and American Airlines. Students at the forum had the opportunity to network with NASA and industry experts, tour the center, and gain insight into potential careers. The event was livestreamed, and the presentations were recorded.
 
-In the last couple of decades, nearly 400 exceptional core-collapse supernovae have been identified. Each of these events, dubbed superluminous supernovae, produced 10 or more times the amount of visible light normally seen.
+The winning team members will have the opportunity to intern at one of NASA’s four aeronautics research centers during the 2026-27 academic year, including NASA Langley, NASA’s Glenn Research Center in Cleveland, NASA’s Ames Research Center in California’s Silicon Valley, and NASA’s Armstrong Flight Research Center in Edwards, California.
 
-In 2024, a study led by Li Shang at Anhui University in Hefei, China, noted that Fermi’s Large Area Telescope may have seen gamma rays — the most energetic form of light — from a superluminous supernova that occurred years earlier.
+“It was super exciting to participate in Gateways to Blue Skies, especially with the really interesting concepts this year,” said Owen Diede, WINGMAN team lead. “We couldn’t have done it without the feedback and support from our faculty advisor, Dr. Todd Letcher, as well as our design review committee, Dr. Ruyi Lian and Dr. Cody Christensen. This was a fantastic opportunity to learn and grow, and we are incredibly thankful for the experience.”
 
-Dubbed SN 2017egm, this supercharged outburst occurred in galaxy NGC 3191, located about 440 million light-years away in the constellation Ursa Major. Even at this distance, the explosion remains one of the closest of its type to us on Earth.
+The commercial aviation industry is a crucial component of the U.S. economy, yet it faces significant challenges due to a shortage of qualified maintenance workers and increasing demands to keep aircraft running for longer. NASA is dedicated to working with commercial, academic, and government partners to advance the capabilities and performance of U.S. aviation.
 
-“We searched for gamma rays from the six nearest superluminous supernovae seen during the first 16 years of Fermi’s mission,” said Guillem Martí-Devesa, a researcher previously at the University of Trieste in Italy and now a fellow at the Institute of Space Sciences in Barcelona, Spain. “Only SN 2017egm shows evidence for gamma rays, confirming earlier hints that some supernovae can be as luminous in gamma rays as they are in visible light. This opens up a new window for studying these fascinating events.”
+The Gateways to Blue Skies Challenge is part of the Transformative Aeronautics Concepts Program in NASA’s Aeronautics Research Mission Directorate. The NASA Tournament Lab, part of the Prizes, Challenges, and Crowdsourcing Program in the Space Technology Mission Directorate, manages the challenge through the National Institute of Aerospace on behalf of NASA.
 
-Theorists have debated the possible energy sources that give these explosions their extra punch. High on the list has been the formation of a magnetar, a type of neutron star with the strongest magnetic fields known — up to 1,000 times the intensity of typical neutron stars. That’s 10 trillion times stronger than a refrigerator magnet.
+For more information about NASA’s Aeronautics Research Mission Directorate, visit:
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/fermi/nasas-fermi-glimpses-power-source-of-supercharged-supernovae/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Fire Chars Santa Rosa Island
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/fire-chars-santa-rosa-island/channelislandsfire_oli2_20260516_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 La NASA informará sobre su estrategia y misiones para la Base Lunar
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/moon-base-advisory-may-20-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-The blaze spread across the southern side of the second-largest island in California’s Channel Islands National Park.
+La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los avances hacia una presencia sostenida en la superficie lunar. La sesión informativa para los medios tendrá lugar en la sede central de la agencia en Washington.
 
-Channel Islands National Park, a chain of five ecologically rich islands off the coast of mainland California, is known for its diversity of plant and animal species, earning it the nickname “North America’s Galapagos.” For part of May 2026, Santa Rosa Island—the park’s second-largest island—was closed to the public as firefighters worked to contain a wildland fire burning through grassland, coastal sage scrub, and areas of island chaparral.
+Líderes de la agencia hablarán sobre los avances del programa, incluyendo a los nuevos socios de la industria y los planes de la misión. Una vez finalizada la conferencia de prensa, habrá expertos en la materia disponibles para dar entrevistas individuales.
 
-The fire was first spotted from aircraft on May 15, 2026, and confirmed by the National Park Service that morning. The Landsat 9 satellite captured these images the next day, when the burned area had grown to 5,690 acres (2,300 hectares). By May 19, it had burned around 16,600 acres (6,700 hectares), including much of the southeastern quadrant of the island. Its perimeter remained uncontained.
+Siga la rueda de prensa en vivo a través de la aplicación NASA+ y el canal de YouTube de la agencia. Descubra cómo ver el contenido de la NASA en diversas plataformas en línea, incluidas las redes sociales (información ofrecida en inglés).
 
-The left image is false color, composed of wavelengths that cut through the smoke to reveal the burned area (dark brown). The infrared signature of the actively burning fire front is orange. The second image, on the right, shows the same area in natural color, as human eyes would see it, with smoke pouring over the Pacific Ocean.
+Los representantes de los medios que no puedan asistir en persona podrán hacer preguntas por teléfono. Para participar en persona o por teléfono, debe confirmar su asistencia a la oficina de prensa de la sede a más tardar a las 11 a.m. del 26 de mayo, enviando un correo a: hq-media@mail.nasa.gov. La política de acreditación de medios de la NASA está disponible en línea (en inglés). La NASA impulsa el desarrollo de la Base Lunar, una iniciativa de exploración e infraestructura lunar a largo plazo diseñada para permitir una presencia humana sostenida y una mayor actividad científica y comercial en el Polo Sur lunar.
 
-Officials and news accounts said the fire was human-caused, though investigators were still working to determine the circumstances surrounding the event. According to news reports, the fire burned near a stand of Torrey pines, a rare type of pine that in the United States grows naturally only on Santa Rosa Island and near San Diego.
+Como parte de una edad de oro de innovación y exploración, la NASA enviará astronautas en misiones cada vez más difíciles para explorar más de la Luna con fines de descubrimiento científico y beneficios económicos, y para continuar sentando las bases para las primeras misiones tripuladas a Marte.
 
-NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. Story by Kathryn Hansen.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-The National fire has burned tens of thousands of acres within the Florida preserve, fueled by vegetation dried by prolonged…
-
-Beaver Island is one in a string of verdant and scenic jewels in a northern Lake Michigan archipelago.
-
-Dry, warm, and windy conditions across the U.S. Great Plains led to extreme fire activity in March 2026.
+Bethany Stevens / James Gannon / María José ViñasSede central, Washington +1-202-358-1600bethany.c.stevens@nasa.gov / james.h.gannon@nasa.gov / maria-jose.vinasgarcia@nasa.gov
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA’s Psyche Mission Images Mars’ Huygens Crater
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26775/PIA26775.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA TechLeap Prize: Robotically Manipulated Payload Challenge
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/nasa-techleap-rmpc-logo-secondary-padding-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color view of the large double-ring crater Huygens (upper right; about 290 miles, or 470 kilometers, in diameter) and the surrounding heavily cratered southern highlands near 15 degrees south latitude. The various colors in this dramatic scene are likely due to differences in the compositional properties of dust, sand, and bedrock in this ancient terrain. The image scale is around 2,200 feet (670 meters) per pixel.
+The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for in-space servicing, assembly, and manufacturing. NASA Flight Opportunities invites applicants to propose a payload that can be manipulated by a robotic arm in low Earth orbit. Up to three winners will each receive up to $500,000 to develop a flight-ready payload. In addition, NASA intends to provide an opportunity for the winning teams to demonstrate their payload in orbit (at no additional cost). These TechLeap payloads will fly aboard an orbital spacecraft that will rendezvous with the Fly Foundational Robots (FFR) platform. The FFR mission is expected to launch in late 2027, and the TechLeap payloads are slated to launch in early 2028.
 
-The image was acquired with Imager A on May 15, 2026, at about 1:18 p.m. PDT, shortly after closest approach with the planet. The images have been processed into an enhanced-color view (to bring out color details beyond what the human eye can see) using red, green, and blue data from imager filters.
+Across three phases, applicants will move from ideation to payload build over 12 months. The timeline for this challenge is intentionally rapid, with the goal of increasing the pace of space.
+
+Award: Up to three winners may receive up to $500,000 in prizes across three phases
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-psyche-mission-images-mars-huygens-crater/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA’s Psyche Mission Spies Mars’ Wind-Blown Craters During Close Approach
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26774/PIA26774.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 Psyche Spacecraft Completes Mars Flyby
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/e2b-pia26775-surface-color-m4kzus7e.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-This view of the Martian surface, captured by NASA’s Psyche spacecraft on May 15, 2026, shows streaks that have formed due to wind blowing over impact craters in the Syrtis Major region. The image scale is nearly 1,200 feet (360 meters) per pixel. The wind streaks extend to about 30 miles (50 kilometers) long, and the large craters near center-bottom of the scene average around 30 miles in diameter.
+NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. During the flyby, it took this image and others. This representative color image, captured by Psyche’s multispectral imager instrument, features the double-ring crater Huygens and the surrounding heavily cratered southern highlands.
 
-The images have been processed into a natural-color view (approximating what the human eye would see) using red, green, and blue data from imager filters.
+This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbital plane without using any onboard propellant, sending it on its way toward the metal-rich asteroid Psyche. When it arrives in August 2029, it will insert itself into orbit, then map the asteroid and gather science data. If the asteroid proves to be the metallic core of an ancient planetesimal, it could offer a one-of-a-kind window into the interior of rocky planets like Earth.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/nasas-psyche-mission-spies-mars-wind-blown-craters-during-close-approach/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Psyche’s High-Resolution View of Mars’ South Pole
-<img src='https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26773/PIA26773.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA-developed AI Could Help Track Harmful Algae
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/pace-gulf.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-This is the highest-resolution view of the water ice-rich south polar cap of Mars captured by NASA’s Psyche mission after it made its close approach with the planet for a gravity assist. The image scale is around 0.7 miles per pixel (1.14 kilometers per pixel). The cap itself extends across more than 430 miles (700 kilometers). The image was acquired with Imager A on May 15, 2026, at about 1:53 p.m. PDT.
+NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California.
 
-With Mars in the rearview mirror, the spacecraft will soon resume use of its solar-electric propulsion system to make a beeline to the main asteroid belt, between the orbits of Mars and Jupiter. When it arrives in August 2029, it will insert itself into orbit around the asteroid Psyche, which is thought to be the partial core of a planetesimal, a building block of an early planet.
+Severe blooms can pose health risks and cost coastal economies in the United States tens of millions of dollars every year. Areas in Florida such as Tampa Bay and Sarasota have wrestled with the problem for decades. A species called Karenia brevis can thrive in Gulf of America waters, spawning harmful algal blooms that kill wildlife, foul beaches, and sicken swimmers. On the West Coast, blooms of Pseudo-nitzschia have poisoned hundreds of dolphins, California sea lions, and other marine animals in recent years. Toxins from algaecan even enter the air and cause respiratory illness in humans.
+
+To manage the risk, health agencies regularly test waters and issue warnings or beach closures when necessary. The National Oceanic and Atmospheric Administration (NOAA) works with states and other local partners to issue harmful algal bloom forecasts, like weather forecasts, during bloom seasons.
+
+On-site testing requires hours in a boat to manually collect water samples that must be sent to a lab for analysis, taking a day or more and requiring multiple tests. It’s even more challenging to know where to test before a bloom starts spreading.
+
+NASA’s Earth-orbiting satellites already track harmful algal blooms with their unique global view. By bringing together diverse datasets, the new AI tool could serve as a force multiplier to help communities determine where to focus their efforts.
+
+“At the very least, a tool like this can help us know where and when to collect water samples as an algal bloom is starting,” said one of the paper’s coauthors, Michelle Gierach, a scientist at NASA’s Jet Propulsion Laboratory in Southern California. “It can also drive collaboration between specialists, fostering new ways to conduct the science and deliver decision-support products.”
+
+Today, satellites can detect a variety of clues that signal an algal bloom. A hyperspectral sensor aboard NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, for example, can identify algal communities by their size, shape, and pigment. Other instruments like TROPOMI (Tropospheric Monitoring Instrument) pick up on the faint red glow emitted by species such as K. brevis as they photosynthesize.
+
+The study team, consisting of Gierach, Kelly Luis of NASA JPL, and research data scientist Nick LaHaye of Spatial Informatics Group, brought together findings from five space missions or instruments, including PACE and TROPOMI.
+
+The challenge for them was the quantity of raw data involved. How would AI distinguish between deep water and a coastline? Could it recognize a bloom across different data streams? Would it ever be able to handle inputs from both satellites and sensors in the water?
+
+The team developed a self-supervised machine learning system, designed to learn patterns from multiple kinds of satellite data and compare them with field observations. This approach enables AI to recognize relationships between different data sources without needing any labeling in advance.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/photojournal/psyches-high-resolution-view-of-mars-south-pole/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
