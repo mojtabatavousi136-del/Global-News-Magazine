@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/21 - 00:49`
+**📅 Update (Tehran Time):** `2026/05/21 - 19:54`
 
 ---
 
@@ -19,280 +19,352 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Why has the US indicted Cuba’s Raul Castro now?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779310667.jpg?resize=1619%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Afghan women’s refugee team returns to world cricket post Taliban exclusion
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25104087321253-1779376943.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The indictment of former Cuban President Raul Castro over a 1996 plane shootdown revives a decades-old case.
+Afghanistan’s displaced female cricketers will tour England next month, a landmark moment on a five-year journey to rebuild their careers and remain part of the game following their exclusion from sport after the Taliban’s return to power.
+
+The Afghanistan Refugee team will contain players who had been contracted to the Afghanistan Cricket Board and left the country after being “systematically excluded from sport and public life” by the Taliban, the England and Wales Cricket Board said on Thursday in announcing the tour.
+
+It will begin on June 22 and include Twenty20 matches as well as opportunities to train and also attend the Women’s T20 World Cup final at Lord’s on July 5.
+
+The ECB said the tour “carries significant cultural and sporting importance”.
+
+“This tour represents not only an opportunity for them to compete as a team,” the English governing body said, “but a moment for cricket in this country to stand for inclusion and the protection of women’s participation in sport.”
+
+Most of the Afghan players resettled in Australia, where they continued playing in domestic competitions but without access to international cricket, despite International Cricket Council (ICC) regulations requiring all test-playing members to support men’s and women’s national teams.
+
+Their reintegration to cricket has been supported by a consultancy firm – “It’s Game On” – cofounded by former Australia international Mel Jones.
+
+“These players have shown extraordinary courage and commitment to the game, despite everything that has been taken from them,” Jones said in the ECB statement.
+
+“They deserve more opportunities like this; they deserve to be recognized as part of the global cricket community.”
+
+Jones called for more plans for “sustained and meaningful action beyond this year”.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/20/why-has-the-us-indicted-cubas-raul-castro-now?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/21/afghan-womens-refugee-team-returns-to-world-cricket-post-taliban-exclusion?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israeli settlers burn vehicles, install caravans in occupied West Bank
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779310295.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Russia rehearses ‘use of nuclear forces’ in drills with Belarus
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779377536.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Palestinian residents say Israeli settlers burned vehicles, sprayed racist graffiti, and installed caravans near Palestinian communities, in the latest example of settler violence and settlement expansion in the occupied West Bank.
+Russia delivered nuclear warheads to sites in Belarus as part of a three-day military exercise involving both countries.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/20/israeli-settlers-burn-vehicles-install-caravans-in-occupied-west-bank?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/21/russia-rehearses-use-of-nuclear-forces-in-drills-with-belarus?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 As AIPAC becomes ‘toxic’, it is trying to conceal spending in US elections
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-07T100217Z_226406943_RC294LATSO39_RTRMADP_3_USA-ELECTION-AIPAC-DEMOCRATS-1779304179.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Ecuador’s Disappeared
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779376054.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-For many voters in Illinois, nothing appeared overtly suspicious in the 30-second election ad that aired in mid-March.
+Ecuador is in the grip of a violent drug war with record killings and the military deployed on the streets. As the government crackdown intensifies, a troubling pattern has emerged. At least 50 people detained by security forces have disappeared since 2024.
 
-The video starts with a burst of cheerful music, and a narrator praises congressional candidate Bushra Amiwala as a fighter for “real economic justice” and “the real deal”.
+One of them is Jonathan Villon, a father of three taken by soldiers in broad daylight in December 2024. His family has video of him in the back of a military truck on the day he was taken, and he has not been seen since. Fault Lines obtained investigative files to trace what may have happened to him.
 
-But the video was not part of a genuine effort to get Amiwala elected to the United States House of Representatives. And the candidate quickly disavowed it.
-
-Instead, public records reviewed by Al Jazeera now show the commercial was paid for by a political action committee (PAC) associated with the largest pro-Israel lobby group in the US.
-
-Funding for the ad came from the American Israel Public Affairs Committee (AIPAC), which has been pumping tens of millions of dollars into election campaigns in a push to sink candidates critical of Israel.
-
-With the midterm primary season in full swing, advocates say AIPAC is placing its thumb on the scale in many congressional races. Its tactics, they argue, undermine election transparency.
-
-“Every cycle, AIPAC shows just how broken our democracy is and how corrupt our political finance system is,” said Usamah Andrabi, a spokesperson at Justice Democrats, a progressive group.
-
-“Every cycle, they are at the forefront of exploiting those gaps for their right-wing donors and at the expense of voters.”
-
-In Illinois, the ad aimed to boost Amiwala in order to syphon off votes from more viable progressive candidates — namely, Palestinian American activist Kat Abughazaleh, who ended up losing the race narrowly.
-
-While the Chicago Progressive Partnership — the group whose name appeared on the Amiwala ad — was widely believed to be linked to AIPAC, it did not have to reveal the source of its funding until after the elections, which took place in March.
+The film also follows the case of the “Malvinas 4”, four boys detained by air force officers and later found dead. Their case sparked outrage and led to rare convictions, but many other families are still waiting for answers.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/20/as-aipac-becomes-toxic-it-is-trying-to-conceal-spending-in-us-elections?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 James Murdoch to acquire New York Magazine and Vox Media Podcast Network
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP19268526479358-1779303478.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Arteta ‘built a fire’ instead of watching Arsenal’s Premier League crowning
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-21T112025Z_644801403_UP1EM5L0VHZE7_RTRMADP_3_SOCCER-CHAMPIONS-PSG-ARS-PREVIEW-1779373871.jpg?resize=1690%2C1080' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Media scion James Murdoch has agreed to acquire New York Magazine and the Vox Media Podcast Network in a deal that will significantly expand his portfolio and stands to boost his influence over news and entertainment.
+Anxious Arsenal fans around the world ‌were glued to their screens when Manchester City’s draw at Bournemouth crowned the North London club as Premier ⁠League champions – but Mikel ⁠Arteta, who led Arsenal to their first league title in 22 years, was not watching.
 
-“This acquisition reflects both our interest in the forward edge of culture and our deep commitment to ambitious journalism,” Murdoch, the younger son of media mogul Rupert Murdoch, said in a statement on Wednesday announcing the transaction. His company Lupa Systems will buy both properties from Vox Media.
+The manager had planned to be at Arsenal’s training centre in London Colney to watch the game with ⁠his players, but could not find the energy to make the trip, and chose to stay at home.
 
-The deal, valued at more than $300m, gives Murdoch control of a storied magazine known for its coverage of culture, politics and fashion, and a podcast division whose reach, among a demographic coveted by advertisers, rivals that of cable television news networks, according to several people with direct knowledge of the acquisition. The politics news site Vox.com is also included.
+“I went outside to the garden, I started to build some fire. I started to do some barbecue, I didn’t watch any ⁠of it,” Arteta told reporters on Thursday.
 
-Murdoch and his wife Kathryn Murdoch were intimately involved in courting key talent from Vox, specifically Kara Swisher and Scott Galloway, stars of the popular Pivot podcast, as well as several other programmes on the company’s podcast network.
+After finishing second three times in a row, Arteta heard the news of their long-awaited triumph from his eldest son, Gabriel, who plays for Arsenal’s Under-18 side.
 
-“I like James and Kathryn,” Swisher said in a phone interview. “Unlike many other media owners these days, they’re savvy about the business and willing to take smart risks.”
+“My eldest son opened the garden door, he started to run towards me. He started to cry, gave me a hug and said, we are champions, daddy,” Arteta said.
 
-Vox’s podcast division was valued much higher than New York Magazine in the transaction, two of the people said, spotlighting the importance of making sure top programmes were locked in. Pivot, for example, has three years remaining on its contract, which will continue under Murdoch. Swisher met with the investor and his wife Kathryn several times before the deal came together.
+“Then ‌my other two boys and my wife came over, and it was beautiful, just to see the joy on them as well.”
 
-“In a company like Vox, if its talent doesn’t like something, it’s not gonna happen,” Galloway said in an interview. He added, “James is the only Murdoch that this deal could have happened with.”
+Videos shared by Arsenal on social media showed players dancing and chanting at their training centre after their league title was confirmed with a game to spare.
 
-Several years ago, James was locked in a fierce dispute with his father over the editorial direction and future control of the family’s media empire. In 2019, he founded Lupa after stepping down as chief executive of 21st Century Fox. In 2020, he resigned from the board of News Corp, the publishing arm of the family’s media empire, citing “disagreements over certain editorial content”.
+“It was their moment. And they have to be themselves in that moment. And if I’m there, I think it wasn’t going to be the same,” Arteta said.
 
-Vox’s podcast and publishing assets will operate as a subsidiary of Lupa Systems, which also owns Art Basel, which hosts annual events in Paris, Miami, Hong Kong, and Doha, and Tribeca Enterprises, the media and entertainment company cofounded by Robert De Niro and Jane Rosenthal.
+Arsenal captain Martin Odegaard called Arteta soon after, asking where the manager was.
 
-Vox Media CEO Jim Bankoff will join Lupa Systems and will continue to lead the brands under the Vox Media label, he said in a note to the company’s staff, adding the deal is expected to close in four to six weeks.
+“I said, guys, enjoy for a while and ⁠see you in a few hours somewhere in London,” Arteta recalled with a smile.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/20/james-murdoch-to-acquire-new-york-magazine-and-vox-media-podcast-network?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/21/arteta-built-a-fire-over-watching-arsenal-crowned-premier-league-winners?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 What’s the significance of the Russian president’s visit to China?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779303570.jpg?resize=1920%2C1061&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 US-Iran diplomacy picks up: What’s the latest?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a0efe1991-1779367449.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Over the years, China and Russia have described their relationship as a friendship without limits.
+Pakistani Interior Minister Mohsin Naqvi arrived in the Iranian capital Tehran on Wednesday to meet with his Iranian counterpart Eskandar Momeni, Iranian state broadcaster IRIB reported.
 
-Russian President Vladimir Putin’s visit to Beijing this week further emphasises the strength of those ties. He and Chinese President Xi Jinping hailed their partnership as “a force of calm among chaos”.
+The United States and Iran have continued to exchange proposals for peace since a temporary ceasefire between them was agreed last month amid Pakistan’s mediation attempts to arrange talks. But hostilities have not come to a complete halt and both sides are believed to still be far apart on a number of key issues.
 
-They also warned against a return to the “law of the jungle” – an apparent reference to US President Donald Trump’s actions and policies, which include the war against Iran and sweeping global tariffs.
+On Monday, Saudi Arabia said it had intercepted three drones, the day after a drone attack at the Barakah Nuclear Energy Plant in the United Arab Emirates. That raised more concerns about the potential for renewed military escalation in the Gulf as peace negotiations drag on.
 
-Will the two leaders succeed in their push for a multipolar world, one in which the US does not dominate?
+While the details of discussions between Naqvi and Momeni have not been made public, Naqvi’s visit to Iran was the second in less than a week, potentially signalling new diplomatic efforts to resolve the US‑Israeli war on Iran.
 
-Andy Mok – Author of The Innovation Machine: How China Creates and Adopts Technology Through Governance
+The Iranian IRNA news agency said Naqvi is scheduled to hold more meetings with senior Iranian officials.
 
-Pavel Devyatkin – Non-resident fellow at the Quincy Institute for Responsible Statecraft
+However, on Wednesday, Donald Trump told reporters that peace negotiations with Iran are “borderline” between talks and renewed strikes.
 
-Allen Carlson – Associate professor in the Department of Government at Cornell University, specialising in Chinese foreign policy
+“If we don’t get the right answers, it goes very quickly. We’re all ready to go,” Trump said.
+
+The visit to Tehran by Pakistan’s military chief was reportedly aimed at bringing the Iranian and US positions closer together, Iran’s ISNA news agency reported.
+
+“The Iranian text is being discussed in Tehran regarding the overarching framework, some details and confidence-building measures as guarantees,” ISNA reported, adding that “the submitted text has narrowed the gaps to some extent, but further reductions require an end to the temptation for war from Washington”.
+
+Munir’s visit is “aimed at narrowing these gaps and reaching the moment for the official announcement of the memorandum of understanding”.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/20/whats-the-significance-of-the-russian-presidents-visit-to-china?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 US charges Cuba's Raúl Castro with murder over 1996 downing of two planes
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c4d8/live/d01980d0-5482-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Iran steps up claim to control Strait of Hormuz
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8d05/live/16dba5c0-550f-11f1-89a3-d1f559421220.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The US has charged former Cuban leader Raúl Castro with conspiracy to kill US nationals and other crimes over the downing of two planes between Cuba and Florida in 1996.
+Iran has said it is significantly expanding the area around the Strait of Hormuz over which it claims military control in an effort to assert its sovereignty of the key trade route.
 
-The case unveiled on Wednesday – a revival of charges originally from 2003 – accuses Castro and five others in the shooting down of an aircraft belonging to Cuban American group Brothers to the Rescue and killing four people, including three Americans.
+A map published by Iran's newly-created "Persian Gulf Strait Authority" claims "Iranian armed forces oversight" across more than 22,000 sq km (8,800 sq miles).
 
-Castro, now 94, was the head of the country's armed forces and faced international condemnation over the crash.
+It extends into the territorial waters of Oman and the UAE. The UAE described Iran's claims of control as "nothing but fragments of dreams".
 
-As the US seeks to exert increasing pressure on Cuba's communist rule, President Miguel Díaz-Canel called the charges "a political manoeuvre, devoid of any legal foundation".
+Iran's new authority added that all transit through the strait "requires coordination with and authorization from the Persian Gulf Strait Authority".
 
-Speaking at Freedom Tower in Miami, Acting Attorney General Todd Blanche announced that the US would also charge Castro with destruction of aircraft, and four individual counts of murder over the deaths of Armando Alejandre Jr,  Carlos Alberto Costa, Mario Manuel de la Peña, and Pablo Morales.
+The US and Gulf allies have repeatedly rejected Iranian attempts to assert control over the strait. The US has told ships not to comply with Iran's rules.
 
-"The United States, and President Trump, does not, and will not, forget its citizens," Blanche said.
+The diplomatic adviser to the UAE president, Anwar Gargash, said Iran is "trying to consecrate a new reality born from a clear military defeat, but attempts to control the Strait of Hormuz or encroach on the UAE's maritime sovereignty are nothing but fragments of dreams".
 
-The justice department's new charges take aim at a key figurehead of Cuba's communist leadership when it is facing intense US pressure to make significant political and economic reforms to its one-party rule there.
+Under the United Nations Convention on the Law of the Sea ships are guaranteed safe passage through another country's waters - but Iran has not ratified this convention.
 
-"I think the strategy is to increase the pressure gradually to the point where the Cuban government will give in and surrender at the bargaining table," said Wiliam LeoGrand, a expert on Latin American politics at American University.
+Media linked to Iran's Islamic Revolutionary Guard Corps (IRGC) this week published footage showing what it claimed was a "punishment" strike on a tanker in the strait.
 
-The US has issued sanctions on the country and imposed a blockade on oil to Cuba that has resulted in blackouts and food shortages.
+BBC Verify analysis shows key characteristics of the vessel in the footage match with Barakah, a Liberian-flagged tanker which reported being struck by unknown projectiles in early May, according to the ship's operators.
 
-Earlier on Wednesday, US Secretary of State Marco Rubio issued a message to the Cuban people timed to the country's independence day.
+Iran's push for greater control over the area around the Strait of Hormuz comes as US forces boarded an Iran-bound oil ‌tanker on Wednesday. The US military's Central Command (Centcom) said it was ⁠suspected of violating the American blockade of Iranian ports.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f31d/live/403b1fd0-5466-11f1-90bc-1d92dab59cbe.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 China says US should stop 'threats' against Cuba after ex-leader charged
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/eecb/live/c8f720c0-5511-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-As Vladimir Putin and Xi Jinping walked the red carpet towards the Great Hall of the People, a Chinese military band played the romantic Russian classic Moscow Nights.
+China has called on the US to stop using "coercion" and "threats" against its ally Cuba, after Washington indicted former leader Raúl Castro on murder charges.
 
-"If only you knew how these Moscow Nights are dear to me," goes the refrain.
+An American court has accused the 94-year-old former president of conspiracy to kill US nationals over the 1996 downing of two planes, an incident which killed four people and fuelled diplomatic tensions between Washington and the Caribbean island.
 
-It was the language of two leaders who like to show they've built a special relationship. They have had plenty of time to do so: they have met more than 40 times over the years.
+US President Donald Trump has repeatedly sought to exert pressure on Cuba and has openly discussed toppling its communist regime.
 
-In their public statements they spoke of "strategic co-operation" between their nations, about "partnership", "mutual respect", "friendship" and "trust."
+On Thursday, Chinese foreign ministry spokesman Guo Jiakun said the US should "stop threatening force at every turn", and that Beijing "firmly supports Cuba".
 
-Together they railed against the "irresponsible" nuclear policy of the United States and condemned Donald Trump's plan for a Golden Dome missile defence shield.
+On Wednesday, Castro was charged alongside five others of involvement in the shooting down of two planes travelling between Cuba and Florida three decades ago, and was indicted with offences which carry penalties of life in prison or death.
 
-On the eve of the visit the Russian government newspaper had published two big photos on its front page: one of a lonely-looking Trump climbing the steps of Air Force One at the end of his China trip last week; and beside it an old image of Putin and Xi walking together.
+The aircraft, which were operated by the Cuban-American dissident group Brothers to the Rescue, were carrying three US citizens when they were downed, all of whom were killed.
 
-The visual messaging was unmistakable: Russia and China are shoulder-to- shoulder on the world stage.
+At the time, Castro - who stepped down as president in 2018 - was head of the country's armed forces.
 
-And in the world of geopolitics relationships are rarely based on love and affection. It's often self-interest.
+The incident caused outcry among Cuban exiles living in the US and has long been a source of contention between Washington and Havana.
 
-At the Xi-Putin summit it became clear that there are limits to the love.
+Cuba's president Miguel Díaz-Canel has described the charges as "a political manoeuvre, devoid of any legal foundation".
 
-Russia is keen to push ahead with plans for a new pipeline, Power of Siberia 2, and had hoped for progress in Beijing. The pipeline would bring additional volumes of Russian gas from Western Siberia to Northern China via Mongolia and, for Moscow, help make up for the loss of European markets.
+The foreign minister of China, a long-standing supporter of Cuba, said Beijing opposed "any attempt by external forces to exert pressure on Cuba under any pretext".
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c3ee/live/74d107a0-5457-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Air France and Airbus found guilty of manslaughter over 2009 plane crash
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-There has been international condemnation of Israel's treatment of pro-Palestinian activists who were on board a Gaza-bound aid flotilla intercepted by Israeli naval forces.
+Air France and Airbus have been found guilty of manslaughter over a 2009 plane crash which killed 228 people.
 
-The US, the UK, France, Italy and Canada were among the countries which expressed outrage after far-right National Security Minister Itamar Ben-Gvir posted a video showing himself taunting activists kneeling with their hands tied behind their backs.
+The Paris Appeals Court found the airline and aircraft manufacturer "solely and entirely responsible" for the incident, in which flight AF447 from Rio de Janeiro to Paris crashed into the Atlantic Ocean.
 
-His actions also drew rare criticism from Israeli Prime Minister Benjamin Netanyahu, who said they were "not in line with Israel's values".
+The passenger jet stalled during a storm and plunged into the water, killing all on board.
 
-A rights group representing the 430 people from more than 40 countries who took part in the Global Sumud Flotilla demanded their release.
+A court had previously cleared the companies in April 2023, but they were found guilty on Thursday after an eight-week trial. Both have repeatedly denied the charges and say they will appeal.
 
-The flotilla, which carried a token amount of aid, set out to highlight the tough conditions for Palestinians in war-torn Gaza. Israel dismissed it as a "PR stunt at the service of Hamas".
+All 12 crew members and 216 passengers on board the flight were killed when the plane crashed into the sea from a height of 38,000ft (11,580m), making it the deadliest incident in French aviation history.
 
-More than 50 boats taking part in the Global Sumud Flotilla (GSF) set sail from Turkey last Thursday.
+The wreckage was located after a long search of 10,000 sq km (3,860 sq miles) of sea floor. But the flight recorder was not found until 2011, after months of deep-sea searches.
 
-On Monday morning, armed Israeli naval commandos began intercepting the fleet in international waters west of Cyprus, about 250 nautical miles (460km) from the coast of Gaza, which is under an Israeli maritime blockade.
+Relatives of some of the passengers, who were mainly French, Brazilian and German nationals, gathered to hear the verdict on Thursday.
 
-The GSF's organisers said all the boats had been intercepted by Tuesday evening, with one managing to get within 80 nautical miles of the Palestinian territory.
+The companies have been asked to pay the maximum fine - €225,000 ($261,720; £194,500) each - but some victims' families have criticised the amount as a token penalty.
 
-They accused Israel of an "illegal, high-seas aggression" and said Israeli commandos had opened fire at six boats, used water cannon, and intentionally rammed one vessel.
+Daniele Lamy, president of the AF447 victims' association, who lost her ​son in the accident, praised the court's verdict, adding that the justice system was "at last, taking into account the pain of the families faced with a collective tragedy of unbearable brutality".
 
-The Israeli foreign ministry said no live ammunition was used and insisted it would "not permit any breach of the lawful naval blockade on Gaza".
+The ruling may be seen as causing damage to the companies' reputations.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ebola vaccine could take nine months as death toll rises further, WHO warns
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/959a/live/e216d3b0-5436-11f1-97ae-1b4b9bb4c9eb.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Charges dismissed against official at school where 6-year-old shot teacher
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/b706/live/825b8f00-5527-11f1-87e7-8195a3fea8aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The World Health Organization (WHO) says it could take up to nine months before a vaccine against this particular species of Ebola is ready.
+A judge in the US state of Virginia has dismissed charges against a former assistant principal at a school where a six-year-old shot his teacher during class.
 
-Two possible "candidate vaccines" against the Bundibugyo species are being developed, but neither had gone through clinical trials yet, WHO advisor Dr Vasee Moorthy said on Wednesday.
+Ebony Parker faced felony child abuse charges for allegedly ignoring warnings that the first grade student at her elementary school had a gun.
 
-WHO chief Dr Tedros Adhanom Ghebreyesus said there have been 600 suspected cases of Ebola and 139 suspected deaths but numbers are expected to rise given the time taken to detect the virus.
+Her defence team argued the state had not made its case against Parker, and Circuit Court Judge Rebecca Robinson agreed, striking down all eight counts including disregard for life.
 
-Speaking to journalists in Geneva, he said 51 cases have been confirmed in the Democratic Republic of Congo - where the first case was reported - and two in neighbouring Uganda.
+Dressed in a checked blazer in court, Parker sobbed and put her head on the defendant's table as the judge dismissed the charges against her.
 
-On Sunday, the WHO declared a public health emergency of international concern, but said it was not at pandemic level.
+In January 2023, the child fired a single shot at teacher Abigail Zwerner, who had to have surgery after a single bullet went through her hand and struck her in the chest.
 
-Tedros said that after meeting on Tuesday, the health organisation's emergency committee agreed the situation was "not a pandemic emergency".
+Zwerner was awarded $10m (£7.5m) in a lawsuit she filed against Parker after the shooting.
 
-"WHO assesses the risk of the epidemic as high at the national and regional levels and low at the global level," he explained.
+The lawsuit claimed that the then assistant principal ignored at least three warnings that the child had a gun in school on the day of the January 2023 incident, which took place in the city of Newport News.
 
-The 51 cases confirmed in DR Congo are in its eastern Ituri province - the epicentre of the outbreak - as well as North Kivu province. Of the two confirmed in Uganda's capital, Kampala, both had travelled from DR Congo, one of whom has died.
+In one instance outlined in the lawsuit, Zwerner's lawyers said that she told Parker that the child was in a "violent mood" and had made threats against another child.
 
-"We know the scale of the epidemic in DRC is much larger," the WHO chief said, adding that healthcare workers were among those who had died, which was a particular concern.
+Parker allegedly "had no response" and refused to "even look up" when concerns about the child were brought to her.
 
-Local health workers say some facilities are being overwhelmed. Although personal protective equipment has started to arrive, they say they are still working without adequate protection.
+Additionally, Parker is accused of ignoring warnings from other staff that the young boy may have brought a gun to school, as well as of rebuffing a request to search his bag.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cy82y34y101o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/45b2/live/50cba0d0-545d-11f1-a996-23a66636b2cc.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Gaza flotilla activists deported from Israel as backlash over treatment grows
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/71dc/live/48351120-5509-11f1-9922-c1ca78961024.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-When Jonathan Andic, son of the late founder of one of Europe's biggest clothing empires, posted €1m (£865,000) in bail shortly after being arrested in connection with his father's death, it was the latest twist in a saga that has gripped and mystified Spain.
+Hundreds of pro-Palestinian activists who were detained in Israel after their flotilla bringing symbolic aid to Gaza was intercepted have been deported, Israel has confirmed.
 
-Isak Andic, who created the Mango clothes brand, died at the age of 71 on 14 December 2024 after falling around 500ft (150m) from a cliff in the mountainous Montserrat natural park north of Barcelona. The two men were hiking there together.
+It follows international backlash in response to a video posted by far-right National Security Minister Itamar Ben Gvir showing himself taunting activists kneeling with their hands tied behind their backs.
 
-Initially, police had treated it as a tragic accident that had befallen one of Spain's wealthiest individuals.
+On Thursday, the UK confirmed it had summoned Israel's top diplomat in Britain, charge d'affaires Daniela Grudsky Ekstein, over the incident.
 
-But this week his son was arrested when a judge in Martorell near Barcelona decided there was "enough evidence to consider the death of [Isak Andic] non-accidental, with the active and premeditated participation of [Jonathan Andic] in the death of his father".
+In a statement, the UK Foreign Office said the move reflected the UK's "strong condemnation of [Ben Gvir's] conduct in taunting those involved in the Global Sumud Flotilla".
 
-Jonathan Andic, the Mango founder's eldest child, had called emergency services who recovered the body. He told police that he been walking ahead of his father when he heard the sound of rocks sliding and turned to see that Isak Andic had fallen.
+"We are also deeply concerned by the detention conditions depicted and have demanded an explanation from the Israeli authorities. We made clear their obligations to protect the rights of all those involved," the statement said.
 
-But within weeks investigators questioned him a second time, on this occasion for three hours. Several months later, in October 2025, he was formally put under investigation after the case had been reopened.
+Similarly, Poland has also summoned Israel's Chargé d'Affaires in Warsaw.
 
-Soon after, the executors of Isak Andic's will published a statement insisting on Jonathan's innocence, saying "we have been witnesses of how the pain of private grief has been aggravated by a public debate that causes greater suffering".
+Writing on social media, Poland's Foreign Affairs Minister Radosław Sikorski said it wished to express "outrage" at the treatment of its citizens, and "demand for an apology for the utterly inappropriate behavior of a member of the Israeli government".
 
-As the investigation continued, police questioned Jonathan's two sisters and uncle.
+A foreign ministry spokesman later said two Polish citizens who were part of the flotilla would be returning, and that a request had been made to ban Ben Gvir from Poland.
 
-Jonathan Andic's arrest this week appeared to be based on several allegations regarding the circumstances of his father's death and the fateful hike.
+On Thursday, Italy's Foreign Affairs Minister Antonio Tajani said he had asked the EU to consider placing sanctions on Ben Gvir.
 
-Investigators believe that the kind of slip Jonathan describes his father as suffering would have been unlikely in the spot where the fall happened. The two men were near some caves in the area of Collbató, following a picturesque, relatively undemanding route that is common for families and schoolchildren.
+He said this was for the "unacceptable acts" of "seizing the activists in international waters and subjecting them to harassment and humiliation, in violation of the most basic human rights".
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Macron under pressure over reparatory justice for France’s role in slave trade
+<img src='https://i.guim.co.uk/img/media/f5a018dddfa5b64924684c60f21477896bf3bf75/829_536_3497_2797/master/3497.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b59e39276bcadaa660bd0734bea1af2d' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Demands grow for launch of formal discussion process on how country should address legacies of enslavement
+
+Emmanuel Macron is under pressure to open discussions on reparatory justice for France’s role in hundreds of years of enslavement of African people as he makes a key speech on the legacy of slavery.
+
+On Thursday the French president will celebrate the 25th anniversary of France becoming the first country in the world to recognise the slave trade and slavery as crimes against humanity in a 2001 law brought by Christiane Taubira, a former MP from French Guiana.
+
+Macron’s office said “the memorial work around the question of slavery and the slave trade is a permanent project of recognition for the president”.
+
+As he enters his final months as president, however, demands are growing on Macron to launch a formal discussion process on how to address the legacies of enslavement in French society. France is facing a political row over racism in politics, the media and society, and the far right is polling high in the run-up to the 2027 presidential election.
+
+The sense of urgency comes amid anger in France that its representatives – alongside those of the UK and other European nations – abstained in March’s UN vote to describe the transatlantic chattel slave trade as the “gravest crime against humanity” and call for reparations as “a concrete step towards remedying historical wrongs”.
+
+Victorin Lurel, a Guadeloupe senator, wrote in an open letter to Macron that France had committed a “moral, historic, diplomatic and political mistake” in abstaining and had “tarnished” its image internationally.
+
+From the 16th to the 19th centuries, France was the third largest trafficker of enslaved people across the Atlantic and Indian oceans among the European nations, after Portugal and Britain. France was responsible for kidnapping and enslaving about 13% of the estimated 13 to 17 million men, women and children forced from Africa across the Atlantic.
+
+Among those calling for a process of dialogue in France is Dieudonné Boutrin, who heads the International Federation of Descendants of the History of Slavery and is a descendant of enslaved Africans who were trafficked from Benin to the French Caribbean island of Martinique. Boutrin works alongside Pierre Guillon de Princé, a descendant of 18th-century slave-ship owners in Nantes, who last month made a formal apology for his ancestors’ role in transporting about 4,500 enslaved Africans to the Caribbean, at least 200 of whom died at sea.
+
+Boutrin and Guillon de Princé wrote to Macron this month asking him to initiate discussions on reparatory justice. They said this would “restore trust between our communities, acknowledge the reality of history, foster a spirit of brotherhood, and heal the psychological wounds suffered by communities of colour who have been made to feel inferior. Slavery is a wound whose scars are still visible through racism, the spread of which we have so far been unable to halt.”
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 US is ‘simply choosing not to stop’ Ebola outbreak after massive public health cuts, experts say
+<img src='https://i.guim.co.uk/img/media/b4cdab4701f7e559f275f6aac7c110c35f0b5463/16_540_2969_2375/master/2969.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f485caccbbe44f695f9b1878e93f392f' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Hundreds of cases reported in the DRC after USAID has been dismantled and key scientific research canceled
+
+A previously undetected outbreak of Ebola is coursing through parts of central Africa, and the US appears to be doing little to help stop it, after massive cuts to global and domestic public health efforts.
+
+There is no cure and no vaccine for the rare Bundibugyo variant of Ebola, which has caused two outbreaks in recent decades. Health leaders and scientists are now racing to understand where the virus is spreading and attempting to stop it – but the US is notably absent in these efforts.
+
+In the past year, the US Agency for International Development (USAID) has been dismantled, thousands of staff at US health agencies were laid off, communications stalled and key scientific research canceled.
+
+There are 482 suspected cases and about 116 deaths reported since April in the Democratic Republic of the Congo (DRC), with two cases and one death in Uganda and potential spread to neighboring South Sudan. The outbreak “might have been going on for a few months”, said Kristian Andersen, a professor of immunology and microbiology at Scripps Research.
+
+The outbreak was immediately declared a public health emergency of international concern (PHEIC) by Tedros Adhanom Ghebreyesus, the director general of the World Health Organization (WHO), before even convening the committee that usually makes that determination. Officials say it may last for months.
+
+“The DRC is one of the most vulnerable health systems in the world, and was the second-biggest recipient of USAID funding,” said Matthew Kavanagh, director of the Center for Global Health Policy and Politics at Georgetown University. The US withdrawal of funding with “zero notice” has been “disruptive to the country’s basic activities”, he said.
+
+US foreign assistance to the DRC dropped from $1.4bn in 2024 to $431m in 2025 and only $21m so far this year. Assistance to Uganda dropped from $674m to $377m in 2025 and a negative $1.2m so far in 2026.
+
+“It was pennies compared to what you get in return,” Andersen said of global health investments. It is far cheaper and easier to prevent and contain outbreaks than it is to respond to them, he said. With the US cutting off the first option, the second scenario will become increasingly common.
+
+The US also announced it would leave the WHO and end $130m in funding, which resulted in 2,371 lost jobs at the organization, Kavanagh said, calling the cuts a “self-inflicted wound that the administration has really brought on us”. This outbreak and response was “deeply foreseeable when you gut public health surveillance and you gut public health capacity”, Kavanagh added.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/21/ebola-outbreak-public-health)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 US doctor who contracted Ebola in DRC flown to Germany for treatment
 <img src='https://i.guim.co.uk/img/media/4ba9fcb900a40b0bdac04002b2c7993a9b8d2b28/1281_379_4190_3352/master/4190.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0cdce1f8cb923ba80405c6dd0602fd1a' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -386,343 +458,385 @@ Scientists from the DRC and Uganda published the genome of the virus online on M
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 As WHO sounds alarm over Ebola in DRC, what can be learned from previous outbreaks?
-<img src='https://i.guim.co.uk/img/media/4951899b40f161a933703119be1c10a7571c8105/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=485a6d9a2bc6e75ae9440b2ca5d969e3' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Conflict, mistrust and delayed detection could complicate response to emergency caused by Bundibugyo variant
-
-To be around the centre of an Ebola outbreak is to become used to the smell of chlorine. At hospitals and government buildings, surfaces are sprayed with it and hands washed in a 0.05% solution that can kill the virus in 60 seconds.
-
-Infrared handheld thermometers take temperatures at airports and border crossings. Any indication of a fever prevents passage. Contact-tracing teams crisscross the countryside.
-
-From 2018 to 2020, Butembo, in the Democratic Republic of the Congo’s northern Kivu province, was the setting for the largest Ebola outbreak the country had seen. The complexities of the crisis were not confined to the ravages of the virus itself – they were intensified by social, political and economic pressures of an area in the midst of a conflict.
-
-As global health officials wrestle with a serious new Ebola outbreak in the DRC, which has shocked the World Health Organization with its speed and scale, the question is what lessons have been learned from previous outbreaks?
-
-Ebola, unlike Covid, is not a particularly efficient virus. As it is not airborne it requires physical contact with bodily fluids, including blood and vomit, to spread. That makes it particularly risky for healthcare workers, who need full-body personal protective equipment (PPE) and stringent disinfection processes.
-
-Social practices including physical contact with the dead and dying in poor rural communities accelerated the spread in eastern Kivu and Ituri province.
-
-A second critical factor that hampered the response six years ago was the history of political tension between the country’s government in Kinshasa and the Nande ethnic group in eastern Kivu amid an insurgency. The outbreak was exploited by cynical actors during elections, who either suggested Ebola did not exist or had been brought in by outsiders.
-
-That, in turn, led to armed attacks, some lethal, on health workers and Ebola clinics, including one in Butembo while the Guardian was visiting.
-
-While a new vaccination programme was available during that outbreak, there is no vaccine for the current strain of the Ituri outbreak, which is caused by the Bundibugyo variant of Ebola. It is the least well known of the three forms of the disease and has caused only two outbreaks before – in 2007 and 2012 – which killed about 30% of those infected.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/19/why-the-lessons-of-the-drcs-last-ebola-outbreak-are-being-tested-again)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans
-<img src='https://i.guim.co.uk/img/media/c867ab86734f09127f9dfacce0914e6077435e3d/557_0_4671_3736/master/4671.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79f838663bec1126a4597af7648bb7df' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Trump has repeatedly made false claims that white Afrikaners facing genocide with costs of resettling them at $100m
-
-The US government has said it will increase the number of white South Africans it admits as refugees this year from about 7,500 to 17,500, claiming that “unforeseen developments in South Africa created an emergency refugee situation.”
-
-Since starting his second term in office last year, Donald Trump has repeatedly made false claims that white Afrikaners are racially targeted and face a “white genocide”, which South Africa’s government has furiously rebutted.
-
-His administration also cut aid to South Africa, boycotted the G20 summit in Johannesburg last year and disinvited South Africa from this year’s G20, which will be held at one of Trump’s resorts in Miami.
-
-The US began admitting white South Africans as refugees in May 2025, while suspending the refugee settlement programme for people fleeing war and persecution in countries including Afghanistan, the Democratic Republic of the Congo and Sudan. In the year ending in September 2024, the last full fiscal year before Trump took office, the US admitted more than 100,000 refugees.
-
-On Monday, the US state department sent Congress an emergency notice, stating that it would take up to 17,500 Afrikaners as refugees in the year ending in September. In October, the government had said it would admit just 7,500 refugees in total, mainly white South Africans.
-
-It said the cost of resettling 10,000 more white South Africans would be about $100m (£75m), according to the Associated Press, which saw a copy of the notice.
-
-The state department said the South African government’s rhetoric “across multiple ministries and political parties has sought to undermine the US resettlement program and attacked Afrikaners”.
-
-It also cited a South African raid of a US refugee processing centre in December, which the US government said at the time was “unacceptable”. South Africa’s government defended the action, saying that it had deported seven Kenyans who were working illegally in the country without permits.
-
-“This escalating hostility heightens the risks to Afrikaners in South Africa, who are already subject to far-reaching government-sponsored race-based discrimination,” the state department notice said.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Rep. Ilhan Omar Rips DOJ Investigation For Alleged Immigration Fraud
-<img src='https://imagez.tmz.com/image/97/16by9/2026/05/20/97edb96eaaec42b4959bf1c0f6f106f0_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 NASCAR's Kyle Busch Hospitalized W/ 'Severe Illness'
+<img src='https://imagez.tmz.com/image/ee/16by9/2026/05/21/eef32b867a1c4a06aa3886ed18b347e4_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Rep. Ilhan Omar is going nuclear over Vice President J.D. Vance's declaration she's under investigation for alleged immigration fraud, telling TMZ DC ... the probe is nothing more than a racist, creepy, and weird conspiracy theory.
+Kyle Busch is in the hospital, battling a "severe illness," according to the NASCAR superstar's family.
 
-Jacob got the Congresswoman from Minnesota leaving her office on Capitol Hill, and asked her about the Veep breathing new life into claims she married her own brother to get U.S. citizenship.
+“Kyle has experienced a severe illness resulting in hospitalization. He is currently undergoing treatment and will not compete in any of his scheduled activities this weekend at Charlotte Motor Speedway," the family said Thursday morning.
 
-Omar says Republicans have been out to get her since President Trump's first administration, but she denies any wrongdoing.
+"We ask for understanding and privacy as our family navigates this situation,” the family said Thursday morning.
 
-What's more, she says it should be obvious the prez and the Dept. of Justice have nothing on her ... because she's still on her J-O-B in DC.
+The nature of the sickness is unclear.
 
-Ilhan says it's disgusting and disturbing that so many people still believe the conspiracy theory, but, at this point, she says it's par for the course. If she's actually worried about a DOJ probe, her smile and body language definitely don't show it ... watch the video.
+Richard Childress Racing released a statement on the matter ... saying, "Kyle Busch’s health is our upmost priority and he and his family have the full resources of RCR behind them. Kyle is an integral part of our organization and we wish him a safe and speedy recovery."
 
-While she's down to cooperate with an investigation -- Rep. Omar says she has nothing to hide -- she's certain there's just one simple reason she's still on Trump's hitlist.
+"His No. 8 Chevrolet will be ready and waiting for him. We’re thankful to Austin Hill for stepping in to drive the No. 8 Chevrolet this weekend. Please keep Kyle and the Busch family in your prayers, and help us respect the family’s privacy at this time."
+
+Busch, 41, is one of the best drivers to ever get behind the wheel of a NASCAR stock car, winning 63 Cup Series races (1st among active drivers, 9th overall), 102 Xfinity Series races (a record), and 69 Craftsman Truck Series wins (also a record).
+
+Among all those wins are some of the most important races on the NASCAR calendar, including winning the Brickyard 400 in back-to-back years ('15, '16), The Coca-Cola 600 at Charlotte Motor Speedway (2018), and The Southern 500 at Darlington Raceway (2008).
+
+Busch last raced on May 15 during a Craftsman Truck Series race at Dover Motor Speedway.
+
+Get well, Kyle!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/ilhan-omar-blasts-jd-vance-doj-investigation/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/kyle-busch-hospitalized/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Gov. Gavin Newsom Frustrated Over Stalled L.A. Fire Rebuild Effort
-<img src='https://imagez.tmz.com/image/6f/16by9/2026/05/20/6f9685ce4ef24687b70bd34ba2b19ff2_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Mackenzie Shirilla Says She Can't Have Kids in Phone Call from Behind Bars
+<img src='https://imagez.tmz.com/image/28/16by9/2026/05/21/2854809335454b45a6ef7275dc95db77_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-California Governor Gavin Newsom is frustrated and surprised over how wildfire rebuilding efforts have played out in Los Angeles ... especially after a recovery proposal pushed by Harvey stalled at the City level.
+Mackenzie Shirilla can kiss her dreams of having kids goodbye ... at least that's what she told her mom from behind bars.
 
-Jacob asked Newsom Wednesday in D.C. about his post-fire conversations with Harvey regarding local architect Dan Brunn's ambitious desire to rebuild Altadena and the Palisades ... a proposal Newsom eagerly supported after the devastating 2025 wildfires.
+In undated audio PEOPLE obtained from a phone call -- recorded while she was held at the Cuyahoga County Jail -- with her mom, Natalie, you can hear Mackenzie complain about being locked up ... saying she's going to be too old to have children if she ever gets released.
 
-Newsom tells us he personally followed up with Brunn on the proposal -- and had his team do the same. BTW, Brunn and 100 other architects were doing it for free.
+She told her mom ... "I'm thinking about like how I'm just gonna be like old when I get out of jail and like, I don't know, like I'm not gonna be able to have kids or like a family and s*** like that."
 
-Jacob told Newsom the plan stalled once it reached city leadership under Mayor Karen Bass. Newsom emphasized city red tape is out of his hands.
+Mackenzie's doing time at Ohio Reformatory for Women for killing her then-boyfriend&nbsp;Dominic Russo&nbsp;and his friend,&nbsp;Davion Flanagan in 2022 ... by crashing her car into a building at 100 mph.
 
-Newsom said he doesn’t know all the details of what went down at City Hall ... but we called Brunn during "TMZ Live," and he said the City Zoning Dept. put the kibosh on the plan.
+Prosecutors argued that she did so intentionally ... saying the evidence showed she floored it and drove straight at the building.
 
-Newsom said he'd have his team look into it. BTW ... Jacob asked Newsom if he was team Bass or Team Spencer ... he says he's not getting involved.
+It is unclear if this phone call happened before or after Mackenzie's sentencing ... because you can hear her stress about getting a 40-year sentence, or even the death penalty. She told her mom ... "They're just trying to f*** me."
+
+She mentioned she'd probably have to ask someone else to carry her child for her, since she wouldn't be able to do it herself.
+
+Mackenzie's currently serving two concurrent life sentences -- with parole eligibility in 2037 -- and making headlines again, thanks to Netflix's new documentary, "The Crash."
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/gavin-newsom-upset-over-la-fire-rebuilding-efforts-dying/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/mackenzie-shirilla-jail-phone-call-to-mother/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Jessica Simpson Defends Kids In Coach During Awkward Flight With Ex Nick Lachey
-<img src='https://imagez.tmz.com/image/63/16by9/2026/05/20/632203fa74e947e59cb46835eba2b37e_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 YUNGBLUD Getting Cozy With Girlfriend Jesse Jo Stark Amid MGK Drama
+<img src='https://imagez.tmz.com/image/b2/16by9/2026/05/21/b2b53b3399e24cdfaf2865a61fcd825a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Jessica Simpson is finally explaining why her kids were riding economy while she was chilling up front in first class during that awkward flight with ex Nick Lachey ... and according to her, blame Grandma!
+YUNGBLUD looked happy and unbothered with girlfriend Jesse Jo Stark ahead of his San Diego show ... stepping out together before taking the stage as part of his "YUNGBLUD: Idols World Tour," just days after Machine Gun Kelly stirred up online drama with comments about the singer.
 
-We caught up with Jessica at the airport and she was cracking up over the whole thing -- insisting the seating setup wasn’t her doing because her mom booked the Hawaii trip as a treat for the family.
+The singer spent some downtime with Jesse before the concert Wednesday afternoon at The Rady Shell ... keeping things low-key while gearing up for another stop on his North American run.
 
-Clearly, Mama Simpson's first-class money only stretched so far ... but hey, a trip was still a nice gesture at the end of the day!
+MGK sparked the drama after YUNGBLUD shared a video discussing how "live music has become inaccessible," part of his ongoing push to create more affordable fan experiences through projects like BLUDFEST.
 
-TBH, economy may have been the safer option for the kids considering Jessica unexpectedly shared the first class cabin with ex Nick -- we even told you, it was so awks that Jess swapped seats to avoid sitting near him.
+MGK then posted an alleged since-deleted comment criticizing YUNGBLUD over a previously canceled tour and questioning his messaging around ticket prices and mental health. The comment quickly made the rounds online, sparking reactions from fans of both artists.
 
-Nick later claimed everything was totally fine -- but c’mon ... nobody’s trying to spend hours trapped in sky jail with their ex!
+A rep for YUNGBLUD previously told TMZ ... "Dom has not commented directly as he is so busy focusing on his sold-out North American tour and finishing his next album."
+
+The rep added ... "He genuinely hasn't got time to engage in any of this but we wish MGK the very best."
+
+MGK's fiery comments caught fans off guard because he and YUNGBLUD were once close collaborators during the pop-punk revival era, frequently appearing together and running in the same Travis Barker circle.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/jessica-simpson-discuss-reason-for-her-kids-flying-coach/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/yungblud-spotted-with-gf-amid-mgk-drama/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Matthew Perry’s Mom Slams Late Actor’s Assistant in Court For Behavior at Funeral
-<img src='https://imagez.tmz.com/image/14/16by9/2026/05/20/1404dcc982c54357a8462b0f590efd2d_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Addison Rae's Dad Monty Lopez Files For Divorce From Wife Kaitlyn Lopez
+<img src='https://imagez.tmz.com/image/eb/16by9/2026/05/20/eb891d41c45647ea8ec6334b44ccd33a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Matthew Perry’s mom, Suzanne Morrison, wrote an emotional letter slamming her late son’s assistant, Kenneth Iwamasa, ahead of his sentencing, TMZ has learned.
+Addison Rae's dad, Monty Lopez, is pulling the plug on his latest marriage ... 'cause TMZ has learned he's filed for divorce amid a whirlwind of legal drama with his wife.
 
-TMZ obtained the letter written by Suzanne ahead of Kenneth’s sentencing in his criminal case. Kenneth is accused of helping secure Ketamine for the "Friends" star and even shooting him up at times. Matthew died on Oct. 28, 2023. Kenneth injected the star with Ketamine on the day in question.
+According to court docs, obtained by TMZ, Monty filed for divorce from Kaitlyn Lopez on Monday. The docs say the two got married in Las Vegas on October 25, 2025, before separating less than a month later on November 15.
 
-Matthew’s mom wrote, “My name is Suzanne. I am also Momma-Mooma, the name my son Matthew gave me.”
+As TMZ first reported ... cops responded to Monty's home on April 23. Then, on April 28, Monty was arrested on a felony charge of possession with intent to distribute marijuana.
 
-“The name I loved to hear for all those years,” she said. “He was Matso, my Manew.”
+Just days later, Monty filed for a protective order against Kaitlyn, alleging she had a gun during a recent altercation and claiming there had been multiple physical conflicts throughout their relationship. Kaitlyn denied the gun claim and told us the situation affected her sense of safety, finances, and her ability to function.
 
-“He was, in spite of all we went through, my heart and soul. And then one night he was just a body, lying all but naked on the cold, damp grass of his backyard,” Suzanne said.
+A judge granted Monty a temporary protection order, requiring Kaitlyn to leave the home and stay at least 100 yards away. The two are due back in court next month.
 
-“Helicopters circled overhead, eager for a glimpse of my dead little boy, a picture they could show the whole world while I stood out on the street in the cold and begged for a blanket to cover him. Impossible, of course.”
+Monty's no stranger to public relationship drama. His split from Addison's mom, Sheri Easterling, became tabloid fodder in 2022 amid cheating allegations and social media controversy.
 
-Suzanne said the next day she went to see Matthew in a mortuary, “and he had been bathed and dressed” and “looked almost beautiful and somehow relieved.”
-
-The late actor’s mom noted, “Matthew fought for half his life – more than half – against addiction. Fought and failed and came back to fight again.”
-
-Suzanne said she was relieved when Kenneth started working for Matthew. “He had known Kenny, and so had we, for 25 years,” the letter read.
-
-She said, “Mathew trusted Kenny. We trusted Kenny. Kenny’s most important job – by far – was to be my son’s companion and guardian in his fight against addiction.”
-
-“His number one responsibility – ensure that Matthew remained what he wanted to be: drug free. Kenny knew, should he feel unduly pressured, that with one phone call to any number of the people in Matthew’s orbit, reinforcements would be on the way, and his job would be safe.”
-
-Suzanne said that instead of protecting Matthew, “he aided and abetted” his drug addiction.
-
-She claimed Kenneth “arranged for one source of supply, then another. Shot the drugs into Matthew’s body, though he was not in the least qualified.” And he did it again and again.
-
-“And when he had killed my son, he kept a sharp eye on me. He sent me songs, he drew a little map to help me find my way around the cemetery,” she said.
-
-Suzanne said Kenneth insisted on speaking at Matthew’s funeral, where she claimed he clung to her. “We trusted a man without a conscience, and my son paid the price,” she said.
-
-The letter ended, “Nothing takes this pain away, nor will it, I am sure, for as long as a live.”
+We've reached out to Monty and Kaitlyn ... so far, no word back.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/matthew-perrys-mom-said-his-assistant-acted-strangely-after-his-death/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/monty-lopez-divorcing-addison-raes-step-mom/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Shop The Best Mandalorian and Grogu Accessories on Amazon
-<img src='https://imagez.tmz.com/image/b6/16by9/2026/05/14/b602b5f6267f4933a402d0004ebb3dc0_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Shop Swimsuits Inspired by Love Island
+<img src='https://imagez.tmz.com/image/55/16by9/2026/05/13/55ed0e87eab041adb0e164116de8031a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
-The countdown to "The Mandalorian and Grogu" is officially on … and with their next chapter about to hit the big screen, it's absolutely a valid excuse to buy more "Baby Yoda" merch.
+A hot new bombshell has entered the villa … you! Get ready for summer, because season 8 of "Love Island" is almost here.
 
-We've channeled our inner bounty hunter and rounded up our fave Stars Wars gear worth grabbing ahead of opening night. From Din Djarin inspired watches to Grogu backpacks, these are the things you need before heading to a galaxy far, far away.&nbsp;
+A new group of islanders are about to bring the heat -- and a whole lotta outfit inspo -- just in time for summer.
+
+Before the villa opens, here are some island-inspired bikinis and swimsuits so you can dress like your favorite islanders and sexy singles!
 
 Want more great finds? Head to TMZ Deals.
 
-Accustoms Grogu Kids Smart Watch
+RoseSeek Leopard Floral Bikini
 
-There’s honestly nothing cuter than Grogu … except maybe your baby wearing this Accustoms Grogu Kids Smart Watch.
+A cute, sexy bikini is basically the Love Island uniform.
 
-This pint-sized watch made for little ones features Grogu front and center. And while your kids may not have the Force, this watch has plenty of cool features, like games, a selfie-cam, voice recorder, alarm, stopwatch, and calculator.&nbsp;
+This RoseSeek Bikini Set features a starfish charm and comes in a ton of fab prints.
 
-Citizen Din Djarin Stainless Steel Watch
+Whether you're lounging on the beach or tanning by the pool, this 2-piece will be sure to turn some heads.&nbsp;
 
-As a part of the brand's Star Wars collection, this Citizen Din Djarin Stainless Steel Watch allows you to carry the strength and honor of the Mandalorian with you at all times.
+Blooming Jelly Womens High Waisted 2-Piece
 
-It features an upper sub-dial with the Mudhorn symbol and a lower displaying his helmet artwork … as well as small Grogu ears on the leftmost sub-dial.
+Give major bombshell energy with this Blooming Jelly Womens High Waisted Bikini Set.
 
-Plus, the case back features a Mudhorn and the sacred reminder, "This is the Way."
+This set includes a plunging bikini top featuring mesh panel detailing and gold metal accents.
 
-The Mandalorian Grogu Pouch Hooded Backpack
+Meanwhile, the adjustable, ruched mini skirt gives a flirty cover-up feel without completely hiding the look underneath.&nbsp;
 
-Have backpack, will travel … to other galaxies!
+FWBBG Halter Mini Dress
 
-Keep Baby Yoda with you at all times with this The Mandalorian Grogu Pouch Hooded Backpack.
+This FWBBG Halter Summer Mini Dress is great for lounging by the fire pit or late-night flirting.
 
-With Grogu tucked away in the bag's pocket as well as Din Djarin's helmet design, it's the perfect accessory for fans of "The Mandalorian."
+The open back and stretchy fabric make this perfect for warm summer nights.
 
-It’s equipped with plenty of storage, including an interior laptop sleeve, and even has a hidden hood for unexpected weather so you’re covered at all times.
+This is perfect for when you want to look like an islander but still have a bit more coverage.
 
-Loungefly The Mandalorian "The Child" Mini Backpack
+MIYIEONZ Ruffle Hem Maxi Dress
 
-Much to learn, you still have.
+If you're looking for something more elegant, this MIYIEONZ Ruffle Hem Maxi Dress is perfect for you.
 
-This Loungefly The Mandalorian “The Child” Mini Backpack is a must have for little Jedis heading off to school.
+The high slit and ruffled details make this the ideal dress for sunset dates and slow-motion villa entrances.&nbsp;
 
-Designed to look like Grogu in his bassinet, this backpack is a fun choice for little Star Wars fans … or adults who are traveling light.
+CUPSHE Plunging Neck One-Piece
 
-Whether the kids are taking this to school or you’re bringing it along to Disneyland, you can’t go wrong with this adorable backpack.&nbsp;
+This CUPSHE Plunging Neck One-Piece proves you don't need a bikini to bring the heat in the villa. The plunging neckline and gold ring hardware give the swimsuit a sleek, glam feel … while the contrasting trim adds a sporty edge.
 
-Disney Babies The Mandalorian Grogu Plush
+Adjustable straps and a high-leg fit help create a flattering silhouette that's perfect for poolside lounging and making a statement during every villa scene.
 
-Swaddle up Baby Yoda with this super cute Disney Babies The Mandalorian Grogu Plush.
+Blooming Jelly One-Piece Swim Dress
 
-Star Wars fans young and old will love this super soft plush, dressed in his signature Jedi robe.
+You can be modest while still looking cute, thanks to this Blooming Jelly One-Piece Swim Dress.
 
-He also comes with a reversible velour swaddle blanket to keep him nice and cozy which features a fun Grogu print.&nbsp;
+This swimsuit includes a built-in skirt to provide a little extra coverage, along with adjustable straps for a comfortable fit.
 
-Star Wars Darksabre Mini Desk Lamp
+Michael Kors Jan Sunglasses
 
-Embrace the legacy of Mandalore with this Star Wars Darksabre Mini Desk Lamp.
+Protect your eyes and spy on some eye candy at the same time with these Michael Kors Jan Sunglasses!
 
-Din Djarin’s legendary lightsaber is here to light the way for all those late nights spent working at your desk and for those moments you need a little extra reassurance from a galaxy far, far away.
+These cat-eye sunnies feature 100% UV protection lenses and gold accents that instantly elevate any swim or vacation outfit.
 
-For your convenience, it runs on electricity, black kyber crystal not needed.&nbsp;
+The oversized shape brings instant islander energy while being versatile for beach days and brunches all summer long.
 
-Star Wars The Mandalorian T-Shirt
+ANRABESS Crochet Coverup
 
-Share your fandom loud and proud.
-
-This Star Wars The Mandalorian T-Shirt features the movie poster for the highly anticipated "The Mandalorian and Grogu," hitting theaters later this month.
-
-With Din Djarin and Grogu at the forefront, they’re about to set off on new adventures and lend their hand to the New Republic.
-
-Star Wars Grogu Tamagotchi
-
-Take care of your very own Baby Yoda. This Star Wars Grogu Tamagotchi brings the beloved character to the palm of your hand … and it's up to you to raise him. How you do will transform him into one of 12 different appearances, including secret styles. Each device is also equipped with three different mini games, one of which alternates depending on how you interact with Grogu.&nbsp;
+A cute coverup is the ultimate staple for when you're in between swims and sunbathing sessions. This breezy and lightweight ANRABESS Women Crochet Swim Cover Up gives off effortless vacation energy while still showing off your swimwear underneath.&nbsp;
 
 For more curated product lists check out TMZ Deals.
 
-Sign up for Amazon Prime&nbsp;to get the best deals!
+Sign up for Amazon Prime to get the best deals!
 
-All prices &amp; availability subject to change. Not official merchandise unless explicitly stated.
+All prices subject to change. Not official merchandise.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/20/mandalorian-and-grogu-gift-ideas/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/love-island-swimsuit-finds/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Trump’s $1.8 Billion Fund Tests Constitutional Limits
+### 📰 Trump’s Fund Shows Blanche Choosing Loyalty Over Pushing Back
 <div align='justify'>
 
-The deal the president reached with his own subordinates relies on a mechanism created by Congress that legal experts had warned was subject to manipulation.
+Once seen by some as the most conventional of President Trump’s political appointees, Todd Blanche has taken off the gloves in his new role as acting attorney general.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Jan. 6 Police Officers Sue to Block Trump’s Payout Fund
+### 📰 How the $1.8 Billion Trump Fund May Violate Past Practice and Policy
 <div align='justify'>
 
-The two officers accused the administration of creating a “slush fund” to reward rioters and groups that committed violence on behalf of President Trump.
+The fund that could offer payouts to Trump allies who accuse the government of mistreatment is not only highly unusual but also appears to violate the administration’s own policies.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Prison to Pardons to Payouts: Jan. 6 Rioters Are Elated at Trump’s $1.8 Billion Fund
+### 📰 Trump’s Government Moves to Spare an Unhappy Taxpayer Named Trump
 <div align='justify'>
 
-The possibility that people who ransacked the Capitol could get money from the government they attacked is the latest head-spinning twist in President Trump’s effort to rewrite the history of Jan. 6.
+No president has ever used the federal government to advance his own personal interests and those of his family and allies as expansively and openly as Mr. Trump has.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-presidents-self-dealing.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Cuba Says the Trump Administration Is Not Negotiating in Good Faith
+### 📰 Democrats’ Midterm Strength Masks Fierce Divides and Frustration, Poll Shows
 <div align='justify'>
 
-Cuba’s ambassador to the United Nations said in an interview that Havana wanted to talk but the Trump administration was creating pretexts for military action.
+Democratic voters are in a combative, anti-establishment mood, unhappy with their party and disagreeing about its best path forward, a New York Times/Siena poll found.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Rubio, in Video, Urges Cubans to Align With Trump Administration
+### 📰 ‘We’ve Never Been This Bad.’ Eastern Pennsylvania Weighs Rising Costs.
 <div align='justify'>
 
-In a rare direct address, Secretary of State Marco Rubio blamed the former leader Raúl Castro for the country’s longstanding electricity and resource shortages.
+With two swing districts, the region from Scranton to Allentown could decide control of the House, and voters are expressing profound economic distress.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/rubio-cuba-us-trump.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/pennsylvania-affordability-politics.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 NASA Welcomes 16th Deputy Administrator Matt Anderson
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/deputy-administrator-announcement-may-21.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+Matt Anderson was sworn in Thursday as NASA’s 16th deputy administrator by NASA Administrator Jared Isaacman. The oath was taken during a ceremony held at the Eisenhower Executive Office Building in Washington.
+
+As NASA deputy administrator, Anderson will help lead the agency’s efforts to execute the President’s national space policy, strengthen America’s leadership in space, and advance NASA’s missions in exploration, science, and aeronautics.
+
+“Matt Anderson brings exactly the kind of operational leadership, technical expertise, and mission focus NASA needs right now,” said NASA Administrator Jared Isaacman. “His decades of experience across the Air Force, Space Command, and the aerospace industry give him a valuable perspective as we work to strengthen America’s leadership in space and enter the next era of exploration. I’m excited to have him helping lead NASA as we take on the near-impossible and push the boundaries of what we can achieve.”
+
+“I’m deeply honored to serve as the deputy administrator and support the men and women across NASA who carry out some of the most ambitious and important work in the world,” said NASA Deputy Administrator Matt Anderson. “NASA has been entrusted with a mission of enormous strategic, scientific, and economic significance, and delivering on that mission will require disciplined execution, technical excellence, and a strong culture of accountability. I’m grateful to President Trump for the trust and confidence he has placed in me with this nomination, and I look forward to serving alongside Administrator Isaacman and the extraordinary NASA workforce as we strengthen America’s leadership in space and build toward the next golden era of space exploration.”
+
+“NASA succeeds when we pair clear mission goals with empowered teams and disciplined execution,” said NASA Associate Administrator Amit Kshatriya. “Matt Anderson has spent his career leading in complex operational environments where the stakes are high and mission success depends on trust in the people doing the work. I look forward to working with him as we continue building the capabilities, partnerships, and workforce needed for the challenging missions ahead of us.”
+
+Anderson was nominated by President Donald J. Trump on Jan. 13, and confirmed by the U.S. Senate on May 18.
+
+Bethany Stevens / George AldermanHeadquarters, Washington202-358-1600bethany.c.stevens@nasa.gov / george.a.alderman@nasa.gov
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 NASA Highlights 2025 International Space Station Science Results
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/iss072e279980.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results, which NASA released in May 2026.
+
+In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported NASA’s exploration of the Moon and Mars.
+
+Results include a study that could protect astronaut performance on future long-duration missions and a biomaterials investigation aimed at advancing tissue engineering and regenerative medicine.
+
+NASA evaluated whether a miniature robotic system could perform surgical tasks in microgravity. Researchers used rubber bands to simulate surgical tasks aboard the space station, allowing them to observe communication delays from Earth and test robotic precision in space during remote operations. Results showed that while timing delays increased the duration of procedures, they had minimal impact on robotic accuracy.
+
+This research demonstrates that precise surgical procedures could one day be performed in space, including at a future lunar base or on Mars. Robotic surgery also offers a compact, reliable option for performing medical procedures in remote places on Earth.
+
+The Roscosmos investigation Magnetic 3D Bioprinter used magnetic levitation to form complex tissue structures in microgravity with high precision and minimal materials. Researchers used this technique to position calcium crystals into structures that can serve as synthetic bone grafts to promote new bone growth. Samples formed in microgravity showed superior structural organization and a high capacity for bone tissue regeneration. Astronauts experience bone loss in space and may face a higher risk of bone fractures during long-duration exploration missions.
+
+This research could one day allow astronauts to fabricate medical treatments on demand to address skeletal injuries far from Earth.
+
+NASA examined how prolonged exposure to the vacuum of space affects the performance and durability of materials used in space exploration. Researchers exposed polymers, thermal protection systems, spacesuit components, and radiation-shielding materials to the space environment for six months. The research also tested several biomaterials infused with different types of melanin, a naturally occurring pigment that protects against ultraviolet radiation. The materials infused with fungal melanin showed the greatest resistance to radiation damage.
+
+Biologically derived materials offer a lightweight, sustainable option for radiation shielding during future missions beyond Earth, with potential applications on Earth in medical protection, UV defense, and radiation-resistant structures.
+
+Learn more about the Materials International Space Station Experiment-13-NASA (MISSE-13-NASA) investigation.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/2m2a1740-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+Robotics will play a critical role in NASA’s ambitious plan to establish a long-term presence on the Moon, presenting opportunities for the next generation of engineers, technologists, and innovators to contribute to a bold vision for the future.
+
+That was the agency’s message to students, partners, and industry leaders at the 2026 FIRST Robotics World Championship in Houston, where more than 1,000 student teams convened for exciting competitions and hands-on experiences.
+
+NASA connected directly with the future workforce at the event, engaging more than 51,000 students, parents, and mentors through interactive exhibits and discussions. The agency highlighted its plan to construct a permanent lunar outpost – Moon Base – that will serve as a hub for lunar exploration, scientific research, and technology demonstration, laying the foundation for future missions to Mars and beyond. Phase 1 of NASA’s Moon Base plan centers around a rapid series of robotic and early uncrewed missions to scout, experiment, and prepare for surface operations ahead of crewed Artemis missions. That includes an accelerated cadence of CLPS (Commercial Lunar Payload Services) flights, with up to 30 robotic lunar landings targeted for 2027, to expedite the delivery of science and technology payloads including rovers, hoppers, and drones.
+
+A Moon Base model was a focal point of NASA’s exhibit. Other displays highlighted key innovations such as:
+
+Multiple NASA centers participated in the event, including Johnson Space Center in Houston; Kennedy Space Center in Florida; Langley Research Center in Virginia; Ames Research Center in California; Michoud Assembly Facility in New Orleans; Armstrong Flight Research Center in Edwards, California; Glenn Research Center in Cleveland; Goddard Space Flight Center in Greenbelt, Maryland; White Sands Test Facility in Las Cruces, New Mexico; and Wallops Flight Facility in Wallops Island, Virginia. Each brought unique technologies and expertise to the exhibit floor.
+
+Since 1996, NASA has supported and mentored FIRST Robotics teams across the country. This year, NASA sponsored more than 160 FIRST Robotics Teams – 50 of which also had a NASA mentor. NASA Johnson directly mentored six teams, with two of them making it all the way to the FIRST Championship. Additionally, NASA supported the FIRST Championship with a Mobile Machine Shop where teams could bring broken parts and have NASA machinists help them with repairs. The shop completed over 600 jobs for the teams during the event.
+
+NASA’s presence at the championship not only provides a platform for sharing its ambitious plans but also inspires students to envision themselves as part of the NASA team, working to achieve the near-impossible.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 New Eruption in the Bismarck Sea
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_oli2_20260511_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.
+
+It’s a truism among oceanographers that there is more accurate mapping of the surface of the Moon and Mars than of the deep-ocean floor. That’s especially true for the Bismarck Sea, a relatively deep body of water north of Papua New Guinea. It's an ocean basin with a geologically complex seafloor rife with faults, volcanic features, rifts, scarps, and active subduction and spreading zones at depths that make high-resolution sonar mapping challenging.
+
+When satellites detected signs of an unexpected submarine volcanic eruption in the Central Bismarck Sea on May 8, 2026, volcanologists were confronted with the reality that no high-resolution maps of the area were available, and relatively little is known about the deep-water eruption setting. The new eruption is thought to be occurring along the Titan Ridge, about 16 kilometers (10 miles) southeast of the location of a submarine eruption in 1972. However, there is little clarity or consensus among scientists about precisely which volcanic feature may be erupting, the original depth of the currently active vent, or when it last erupted.
+
+"The good news is that there are huge opportunities to explore and learn using both government and commercial satellite platforms already in orbit," said Jim Garvin, the chief scientist at NASA's Goddard Space Flight Center.
+
+What is known is that seismometers detected a small swarm of earthquakes on May 8, followed soon after by clear signs of a submarine eruption in satellite observations. Beginning on May 9, NASA’s Aqua and Terra satellites captured optical imagery of white, steam-rich volcanic plumes rising into the atmosphere, while the ocean color sensor on NASA's PACE (Plankton, Aerosol, Cloud, Ocean Ecosystem) satellite revealed discolored and disturbed water surrounding the eruption site.
+
+Other satellites observed ash plumes soaring several kilometers into the atmosphere. Higher resolution imagery from the European Space Agency’s Sentinel-2 and the NASA/USGS Landsat 9 (top) satellites, acquired on May 10 and 11, respectively, captured detailed views of activity near the water surface. The right image at the top of the page shows the same scene in false color (bands 7-6-5), with the inset highlighting the infrared signature of the eruption. On May 12, the VIIRS (Visible Infrared Imaging Radiometer Suite) on Suomi NPP detected thermal anomalies spanning roughly seven square kilometers.
+
+"There must be a lot of hot material near the surface to generate so many thermal anomalies," said Simon Carn, a volcanologist at Michigan Tech. "This suggests a fairly shallow eruption vent—much shallower than what's implied by the existing bathymetry, which shows water depths of several hundred meters or more."
+
+Optical satellite imagery shows intense activity in near-surface water, including large plumes of discolored water and widely distributed steam and ash vents. Both medium- and high-resolution sensors—from both government sources and commercial satellite companies—have captured images of expansive pumice rafts (floating volcanic rocks) forming long bands in the surface currents in recent days.
+
+"We're now eagerly waiting to see if a new island is about to be born—something that we've only rarely been able to observe with satellites as it happens," Garvin said. If a new island does emerge, volcanologists will be watching it closely to see how it evolves. It could build a tuff cone with a long-lived vent crater, or it could collapse and erode rapidly. The eruption could also take a much more explosive turn if seawater finds its way into the shallow magma chamber that has risen within the growing underwater structure.
+
+To date, the eruption has been much less explosive than other recent submarine eruptions, such as those at Hunga Tonga-Hunga Ha'apai in 2022 and Fukutoku-Okanobain 2021. It seems unlikely that this event will become highly explosive because it appears to be associated with a volcanic ridge near the junction of a transform fault and a back-arc spreading center, Carn said. "Spreading centers are associated with less explosive activity, while the most explosive eruptions are usually along subduction zones and involve large stratovolcanoes."
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 NASA Announces Winners in University Aeronautics Competition
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/gateways-2026-sdsu-wingman.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-The South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance.
+A South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance.
 
-This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could  advance commercial aircraft maintenance and repair operations by 2035. The competition, sponsored by NASA’s University Innovation project within the agency’s Aeronautics Research Mission Directorate, supported the agency’s objectives of fostering innovative research and strengthening the future aviation workforce.
+This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could advance commercial aircraft maintenance and repair operations by 2035. The competition, sponsored by NASA’s University Innovation project within the agency’s Aeronautics Research Mission Directorate, supported the agency’s objectives of fostering innovative research and strengthening the future aviation workforce.
 
 “This year’s finalists proposed novel ideas to equip companies and their workers with innovative technologies to help keep our nation’s planes airworthy. This is especially critical in a time where flight safety is more commonly in the spotlight and where workforce shortages lead to challenges and opportunities in aviation,” said Steven Holz, associate project manager for NASA’s University Innovation Project and judging panel chair for Gateways to Blue Skies. “Our panel of industry and subject matter experts were excited about the possibilities these concepts could bring, as well as shared insights needed for these teams to push forward for real-world implementation.”
 
 The winning project, WINGMAN, proposed augmented reality safety glasses equipped with voice-controlled manuals, automatic documentation, and photo recognition that could assist aircraft mechanics during routine daily servicing and minor repairs. The glasses would function as the mechanic’s “wingman,” enabling hands-free access to the information and reporting mechanisms required for line inspections.
 
-The WINGMAN team presented their research along with eight finalists at the 2026 Gateways to Blue Skies Forum held May 18 and 19 at NASA’s Langley Research Center in Hampton, Virginia. The forum was judged by subject matter experts from NASA, the Federal Aviation Administration, and industry, including representatives from Southwest Airlines and American Airlines. Students at the forum had the opportunity to network with NASA and industry experts, tour the center, and gain insight into potential careers. The event was livestreamed, and the presentations were recorded.
+The WINGMAN team presented their research along with seven finalists at the 2026 Gateways to Blue Skies Forum held May 18 and 19 at NASA’s Langley Research Center in Hampton, Virginia. The forum was judged by subject matter experts from NASA, the Federal Aviation Administration, and industry, including representatives from Southwest Airlines and American Airlines. Students at the forum had the opportunity to network with NASA and industry experts, tour the center, and gain insight into potential careers. The event was livestreamed, and the presentations were recorded.
 
 The winning team members will have the opportunity to intern at one of NASA’s four aeronautics research centers during the 2026-27 academic year, including NASA Langley, NASA’s Glenn Research Center in Cleveland, NASA’s Ames Research Center in California’s Silicon Valley, and NASA’s Armstrong Flight Research Center in Edwards, California.
 
@@ -737,92 +851,6 @@ For more information about NASA’s Aeronautics Research Mission Directorate, vi
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 La NASA informará sobre su estrategia y misiones para la Base Lunar
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/moon-base-advisory-may-20-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-La NASA ofrecerá una conferencia de prensa el martes 26 de mayo a las 2 p.m. EDT (hora del este) para compartir los planes para la Base Lunar y destacar los avances hacia una presencia sostenida en la superficie lunar. La sesión informativa para los medios tendrá lugar en la sede central de la agencia en Washington.
-
-Líderes de la agencia hablarán sobre los avances del programa, incluyendo a los nuevos socios de la industria y los planes de la misión. Una vez finalizada la conferencia de prensa, habrá expertos en la materia disponibles para dar entrevistas individuales.
-
-Siga la rueda de prensa en vivo a través de la aplicación NASA+ y el canal de YouTube de la agencia. Descubra cómo ver el contenido de la NASA en diversas plataformas en línea, incluidas las redes sociales (información ofrecida en inglés).
-
-Los representantes de los medios que no puedan asistir en persona podrán hacer preguntas por teléfono. Para participar en persona o por teléfono, debe confirmar su asistencia a la oficina de prensa de la sede a más tardar a las 11 a.m. del 26 de mayo, enviando un correo a: hq-media@mail.nasa.gov. La política de acreditación de medios de la NASA está disponible en línea (en inglés). La NASA impulsa el desarrollo de la Base Lunar, una iniciativa de exploración e infraestructura lunar a largo plazo diseñada para permitir una presencia humana sostenida y una mayor actividad científica y comercial en el Polo Sur lunar.
-
-Como parte de una edad de oro de innovación y exploración, la NASA enviará astronautas en misiones cada vez más difíciles para explorar más de la Luna con fines de descubrimiento científico y beneficios económicos, y para continuar sentando las bases para las primeras misiones tripuladas a Marte.
-
-Bethany Stevens / James Gannon / María José ViñasSede central, Washington +1-202-358-1600bethany.c.stevens@nasa.gov / james.h.gannon@nasa.gov / maria-jose.vinasgarcia@nasa.gov
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/la-nasa-informara-sobre-su-estrategia-y-misiones-para-la-base-lunar/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA TechLeap Prize: Robotically Manipulated Payload Challenge
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/nasa-techleap-rmpc-logo-secondary-padding-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for in-space servicing, assembly, and manufacturing. NASA Flight Opportunities invites applicants to propose a payload that can be manipulated by a robotic arm in low Earth orbit. Up to three winners will each receive up to $500,000 to develop a flight-ready payload. In addition, NASA intends to provide an opportunity for the winning teams to demonstrate their payload in orbit (at no additional cost). These TechLeap payloads will fly aboard an orbital spacecraft that will rendezvous with the Fly Foundational Robots (FFR) platform. The FFR mission is expected to launch in late 2027, and the TechLeap payloads are slated to launch in early 2028.
-
-Across three phases, applicants will move from ideation to payload build over 12 months. The timeline for this challenge is intentionally rapid, with the goal of increasing the pace of space.
-
-Award: Up to three winners may receive up to $500,000 in prizes across three phases
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Psyche Spacecraft Completes Mars Flyby
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/e2b-pia26775-surface-color-m4kzus7e.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. During the flyby, it took this image and others. This representative color image, captured by Psyche’s multispectral imager instrument, features the double-ring crater Huygens and the surrounding heavily cratered southern highlands.
-
-This flyby used a gravity assist from Mars to provide a critical boost in speed and to adjust the spacecraft’s orbital plane without using any onboard propellant, sending it on its way toward the metal-rich asteroid Psyche. When it arrives in August 2029, it will insert itself into orbit, then map the asteroid and gather science data. If the asteroid proves to be the metallic core of an ancient planetesimal, it could offer a one-of-a-kind window into the interior of rocky planets like Earth.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA-developed AI Could Help Track Harmful Algae
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/pace-gulf.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California.
-
-Severe blooms can pose health risks and cost coastal economies in the United States tens of millions of dollars every year. Areas in Florida such as Tampa Bay and Sarasota have wrestled with the problem for decades. A species called Karenia brevis can thrive in Gulf of America waters, spawning harmful algal blooms that kill wildlife, foul beaches, and sicken swimmers. On the West Coast, blooms of Pseudo-nitzschia have poisoned hundreds of dolphins, California sea lions, and other marine animals in recent years. Toxins from algaecan even enter the air and cause respiratory illness in humans.
-
-To manage the risk, health agencies regularly test waters and issue warnings or beach closures when necessary. The National Oceanic and Atmospheric Administration (NOAA) works with states and other local partners to issue harmful algal bloom forecasts, like weather forecasts, during bloom seasons.
-
-On-site testing requires hours in a boat to manually collect water samples that must be sent to a lab for analysis, taking a day or more and requiring multiple tests. It’s even more challenging to know where to test before a bloom starts spreading.
-
-NASA’s Earth-orbiting satellites already track harmful algal blooms with their unique global view. By bringing together diverse datasets, the new AI tool could serve as a force multiplier to help communities determine where to focus their efforts.
-
-“At the very least, a tool like this can help us know where and when to collect water samples as an algal bloom is starting,” said one of the paper’s coauthors, Michelle Gierach, a scientist at NASA’s Jet Propulsion Laboratory in Southern California. “It can also drive collaboration between specialists, fostering new ways to conduct the science and deliver decision-support products.”
-
-Today, satellites can detect a variety of clues that signal an algal bloom. A hyperspectral sensor aboard NASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, for example, can identify algal communities by their size, shape, and pigment. Other instruments like TROPOMI (Tropospheric Monitoring Instrument) pick up on the faint red glow emitted by species such as K. brevis as they photosynthesize.
-
-The study team, consisting of Gierach, Kelly Luis of NASA JPL, and research data scientist Nick LaHaye of Spatial Informatics Group, brought together findings from five space missions or instruments, including PACE and TROPOMI.
-
-The challenge for them was the quantity of raw data involved. How would AI distinguish between deep water and a coastline? Could it recognize a bloom across different data streams? Would it ever be able to handle inputs from both satellites and sensors in the water?
-
-The team developed a self-supervised machine learning system, designed to learn patterns from multiple kinds of satellite data and compare them with field observations. This approach enables AI to recognize relationships between different data sources without needing any labeling in advance.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
