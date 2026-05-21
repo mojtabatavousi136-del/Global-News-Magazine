@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/21 - 19:54`
+**📅 Update (Tehran Time):** `2026/05/22 - 01:37`
 
 ---
 
@@ -19,132 +19,172 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Afghan women’s refugee team returns to world cricket post Taliban exclusion
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP25104087321253-1779376943.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a0f6b9b88b94-1779395483.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Afghanistan’s displaced female cricketers will tour England next month, a landmark moment on a five-year journey to rebuild their careers and remain part of the game following their exclusion from sport after the Taliban’s return to power.
+The high representative overseeing the United States-founded Board of Peace for Gaza, Nickolay Mladenov, has warned that the deteriorating status quo in the devastated Palestinian enclave risks becoming “permanent”.
 
-The Afghanistan Refugee team will contain players who had been contracted to the Afghanistan Cricket Board and left the country after being “systematically excluded from sport and public life” by the Taliban, the England and Wales Cricket Board said on Thursday in announcing the tour.
+Speaking on Thursday to the United Nations Security Council (UNSC), Mladenov presented a roadmap detailing obligations for Israel and Hamas to implement a permanent ceasefire. He urged the UNSC to use “every means at its disposal” to press Hamas to disarm, while also saying that Israel must uphold its commitment under a ceasefire agreed in October.
 
-It will begin on June 22 and include Twenty20 matches as well as opportunities to train and also attend the Women’s T20 World Cup final at Lord’s on July 5.
+“Let me say this clearly: the implementation cannot advance through Palestinian obligations alone,” Mladenov said, speaking via video call.
 
-The ECB said the tour “carries significant cultural and sporting importance”.
+“The continued killings and Israeli restrictions affecting humanitarian flows are not abstract issues,” he said.
 
-“This tour represents not only an opportunity for them to compete as a team,” the English governing body said, “but a moment for cricket in this country to stand for inclusion and the protection of women’s participation in sport.”
+The war that Israel launched following the October 7, 2023 attacks on southern Israel by Hamas and other armed Palestinian groups was halted by a ceasefire in October 2025. More than 72,775 Palestinians have been killed in the conflict. But the Israeli military maintains a strict security regime, and many hundreds more have been killed in the past seven months. On Thursday, an Israeli drone attack killed a 26-year-old in Gaza’s al-Mahatta area, east of Deir el-Balah city, according to Wafa news agency.
 
-Most of the Afghan players resettled in Australia, where they continued playing in domestic competitions but without access to international cricket, despite International Cricket Council (ICC) regulations requiring all test-playing members to support men’s and women’s national teams.
+Conflict monitors warn that since the ceasefire in the US-Israel war on Iran was struck last month, Israeli bombardment of Gaza has accelerated. Violent raids by settlers and the military in the occupied West Bank have also been increasing.
 
-Their reintegration to cricket has been supported by a consultancy firm – “It’s Game On” – cofounded by former Australia international Mel Jones.
+Mladenov, a veteran Bulgarian diplomat, warned of the risks of inaction by both parties.
 
-“These players have shown extraordinary courage and commitment to the game, despite everything that has been taken from them,” Jones said in the ECB statement.
+“The risk is that the deteriorating status quo becomes permanent: a divided Gaza, Hamas holding military and administrative control over two million people across less than half the territory.
 
-“They deserve more opportunities like this; they deserve to be recognized as part of the global cricket community.”
+“Those people are likely to remain trapped in the rubble, dependent on aid with no meaningful reconstruction, because reconstruction financing will not follow where weapons have not been laid down,” Mladenov said.
 
-Jones called for more plans for “sustained and meaningful action beyond this year”.
+“And the result? Another generation growing up in tents in fear, with despair as the most rational thing for them to feel.”
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/21/afghan-womens-refugee-team-returns-to-world-cricket-post-taliban-exclusion?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Russia rehearses ‘use of nuclear forces’ in drills with Belarus
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779377536.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/GettyImages-2277551901-1779397791.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Russia delivered nuclear warheads to sites in Belarus as part of a three-day military exercise involving both countries.
+Cristiano Ronaldo scored twice as Al-Nassr clinched the Saudi Pro League title with a 4-1 win over Damac, ending his long wait for domestic silverware.
+
+A trademark free-kick and a close-range finish, both in the final half-hour of Thursday’s game, sealed the win Al-Nassr needed on the last night of the season, with Al Hilal finishing just two points behind.
+
+Ronaldo, 41, who was without a major club trophy since winning Serie A with Juventus in 2020, arrived in the oil-rich desert kingdom to great acclaim in 2023, wept as he watched the final minutes from the bench.
+
+He adds the Saudi championship to his English, Spanish and Italian titles and five Champions League medals.
+
+Al-Nassr took a 2-0 lead but were back to 2-1 before Ronaldo’s free-kick on 63 minutes evaded the goalkeeper and a forest of legs to find the far corner.
+
+He struck again nine minutes from time, receiving a cut-back on the edge of the six-yard box and smashing high into the net.
+
+Next up for the all-time leading men’s international goalscorer, with 143 goals, is a sixth crack at the World Cup after he was named in Portugal’s squad this week.
+
+Ronaldo opened the door to a series of big-money Saudi signings when he joined Al-Nassr in January 2023, following an unhappy second spell at Manchester United.
+
+Neymar and Karim Benzema were among those to follow after Ronaldo signed a two-and-a-half-year deal estimated at $232m, extended for two years in June 2025.
+
+The stated aim was to turn the Pro League into one of the world’s top five football competitions measured by the quality of players, stadium attendances and commercial success. International interest has been muted, however.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/21/russia-rehearses-use-of-nuclear-forces-in-drills-with-belarus?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ecuador’s Disappeared
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779376054.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Ebola treatment hospital burned down in DRC as outbreak spreads
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779396472.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Ecuador is in the grip of a violent drug war with record killings and the military deployed on the streets. As the government crackdown intensifies, a troubling pattern has emerged. At least 50 people detained by security forces have disappeared since 2024.
-
-One of them is Jonathan Villon, a father of three taken by soldiers in broad daylight in December 2024. His family has video of him in the back of a military truck on the day he was taken, and he has not been seen since. Fault Lines obtained investigative files to trace what may have happened to him.
-
-The film also follows the case of the “Malvinas 4”, four boys detained by air force officers and later found dead. Their case sparked outrage and led to rare convictions, but many other families are still waiting for answers.
+Protesters set a hospital on fire in the Democratic of Congo, as authorities struggle to contain an Ebola outbreak.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/fault-lines/2026/5/21/ecuadors-disappeared?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Arteta ‘built a fire’ instead of watching Arsenal’s Premier League crowning
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-21T112025Z_644801403_UP1EM5L0VHZE7_RTRMADP_3_SOCCER-CHAMPIONS-PSG-ARS-PREVIEW-1779373871.jpg?resize=1690%2C1080' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 NYC launches lottery for $50 World Cup football tickets
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779395973.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Anxious Arsenal fans around the world ‌were glued to their screens when Manchester City’s draw at Bournemouth crowned the North London club as Premier ⁠League champions – but Mikel ⁠Arteta, who led Arsenal to their first league title in 22 years, was not watching.
-
-The manager had planned to be at Arsenal’s training centre in London Colney to watch the game with ⁠his players, but could not find the energy to make the trip, and chose to stay at home.
-
-“I went outside to the garden, I started to build some fire. I started to do some barbecue, I didn’t watch any ⁠of it,” Arteta told reporters on Thursday.
-
-After finishing second three times in a row, Arteta heard the news of their long-awaited triumph from his eldest son, Gabriel, who plays for Arsenal’s Under-18 side.
-
-“My eldest son opened the garden door, he started to run towards me. He started to cry, gave me a hug and said, we are champions, daddy,” Arteta said.
-
-“Then ‌my other two boys and my wife came over, and it was beautiful, just to see the joy on them as well.”
-
-Videos shared by Arsenal on social media showed players dancing and chanting at their training centre after their league title was confirmed with a game to spare.
-
-“It was their moment. And they have to be themselves in that moment. And if I’m there, I think it wasn’t going to be the same,” Arteta said.
-
-Arsenal captain Martin Odegaard called Arteta soon after, asking where the manager was.
-
-“I said, guys, enjoy for a while and ⁠see you in a few hours somewhere in London,” Arteta recalled with a smile.
+New York City is launching a lottery for 1,000 discounted World Cup tickets priced at $50. The city’s Mayor, Zohran Mamdani said match prices had soared into the thousands of dollars. The scheme is intended to give working-class New Yorkers access to matches.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/21/arteta-built-a-fire-over-watching-arsenal-crowned-premier-league-winners?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/21/nyc-launches-lottery-for-50-world-cup-football-tickets?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 US-Iran diplomacy picks up: What’s the latest?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a0efe1991-1779367449.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Flotilla activists recount Israeli violence as they arrive in Turkiye
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779395735.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Pakistani Interior Minister Mohsin Naqvi arrived in the Iranian capital Tehran on Wednesday to meet with his Iranian counterpart Eskandar Momeni, Iranian state broadcaster IRIB reported.
-
-The United States and Iran have continued to exchange proposals for peace since a temporary ceasefire between them was agreed last month amid Pakistan’s mediation attempts to arrange talks. But hostilities have not come to a complete halt and both sides are believed to still be far apart on a number of key issues.
-
-On Monday, Saudi Arabia said it had intercepted three drones, the day after a drone attack at the Barakah Nuclear Energy Plant in the United Arab Emirates. That raised more concerns about the potential for renewed military escalation in the Gulf as peace negotiations drag on.
-
-While the details of discussions between Naqvi and Momeni have not been made public, Naqvi’s visit to Iran was the second in less than a week, potentially signalling new diplomatic efforts to resolve the US‑Israeli war on Iran.
-
-The Iranian IRNA news agency said Naqvi is scheduled to hold more meetings with senior Iranian officials.
-
-However, on Wednesday, Donald Trump told reporters that peace negotiations with Iran are “borderline” between talks and renewed strikes.
-
-“If we don’t get the right answers, it goes very quickly. We’re all ready to go,” Trump said.
-
-The visit to Tehran by Pakistan’s military chief was reportedly aimed at bringing the Iranian and US positions closer together, Iran’s ISNA news agency reported.
-
-“The Iranian text is being discussed in Tehran regarding the overarching framework, some details and confidence-building measures as guarantees,” ISNA reported, adding that “the submitted text has narrowed the gaps to some extent, but further reductions require an end to the temptation for war from Washington”.
-
-Munir’s visit is “aimed at narrowing these gaps and reaching the moment for the official announcement of the memorandum of understanding”.
+Activists from the Global Sumud Flotilla arrived in Istanbul on Thursday and described Israeli violence.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/21/us-iran-diplomacy-picks-up-whats-the-latest?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
+### 📰 Rubio says Cuba is threat to US as Havana accuses him of 'lies'
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7399/live/04ee7920-5553-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Cuba poses a "national security threat" to the US and the likelihood of a peaceful agreement is "not high", US Secretary of State Marco Rubio has said.
+
+His comments come just a day after the US charged Cuba's former president Raúl Castro with murder over the 1996 downing of two planes resulting the the killing of US nationals.
+
+Rubio said Washington's preference was "a diplomatic solution" but warned that President Donald Trump had the right and obligation to protect his country against any threat.
+
+Cuba's Foreign Minister Bruno Rodríguez accused Rubio of "lies" and said the island had never posed a threat to the US.
+
+Speaking to reporters on Thursday, Rubio said diplomacy "remains our preference with Cuba", but added: "I'm just being honest with you, you know, the likelihood of that happening, given who we're dealing with right now, is not high."
+
+He also accused Cuba of being "one of the leading sponsors of terrorism in the entire region", which Rodríguez vehemently denied in a post on X.
+
+The Cuban foreign minister criticised Rubio for trying to "instigate a military aggression" and accused the US government of "ruthlessly and systematically" attacking his country.
+
+Cuba is suffering from a fuel crisis exacerbated by an effective US oil blockade, while under pressure from the Trump administration to make a deal.
+
+Its citizens have experienced extended blackouts and food shortages over the last few months.
+
+Rubio said the country had accepted a US offer of $100m (£74.4m) in humanitarian aid.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Angry crowd sets Ebola hospital tents on fire in DR Congo
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7fb5/live/d6df4d30-554c-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+An angry crowd set alight a section of a hospital at the epicentre of the Ebola outbreak in the eastern Democratic Republic of Congo after family and friends of a young man thought to have died from the virus were prevented from taking his body away for burial.
+
+"They started throwing projectiles at the hospital. They even set fire to tents that were being used as isolation wards," local politician Luc Malembe Malembe told the BBC about the scene he witnessed at Rwampara General Hospital.
+
+The body of a dead Ebola victim is highly infectious and the authorities need to ensure safe burial to stop the spread of the virus.
+
+Medical workers at the Rwampara hospital, located near the city of Bunia in Ituri province, where almost all of the cases have been reported, were placed under military protection as the police moved in to restore order.
+
+A healthcare worker was injured by stone-throwing protesters before law enforcement agents intervened, a hospital worker told the AFP news agency.
+
+The man who died was a popular figure in the local community and those upset by his death did not "grasp the reality of the disease," Jean Claude Mukendi, who is co-ordinating the security response to Ebola in Ituri, told the Associated Press.
+
+Witnesses told Reuters the young man was a footballer who had played with several local teams. His mother told the news agency she believed her son had died of typhoid fever, not Ebola.
+
+Malembe said the crowd did not believe the virus, which has so far killed more than 130 in eastern DR Congo, was real.
+
+"People are not properly informed or sensitised about what is happening. For a certain segment of the population, especially in remote areas, Ebola is an invention by outsiders - it does not exist," the politician said.
+
+"They believe it is the NGOs and hospitals creating this to make money, and this is tragic."
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Iran steps up claim to control Strait of Hormuz
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/8d05/live/16dba5c0-550f-11f1-89a3-d1f559421220.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -176,99 +216,6 @@ Iran's push for greater control over the area around the Strait of Hormuz comes 
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 China says US should stop 'threats' against Cuba after ex-leader charged
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/eecb/live/c8f720c0-5511-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-China has called on the US to stop using "coercion" and "threats" against its ally Cuba, after Washington indicted former leader Raúl Castro on murder charges.
-
-An American court has accused the 94-year-old former president of conspiracy to kill US nationals over the 1996 downing of two planes, an incident which killed four people and fuelled diplomatic tensions between Washington and the Caribbean island.
-
-US President Donald Trump has repeatedly sought to exert pressure on Cuba and has openly discussed toppling its communist regime.
-
-On Thursday, Chinese foreign ministry spokesman Guo Jiakun said the US should "stop threatening force at every turn", and that Beijing "firmly supports Cuba".
-
-On Wednesday, Castro was charged alongside five others of involvement in the shooting down of two planes travelling between Cuba and Florida three decades ago, and was indicted with offences which carry penalties of life in prison or death.
-
-The aircraft, which were operated by the Cuban-American dissident group Brothers to the Rescue, were carrying three US citizens when they were downed, all of whom were killed.
-
-At the time, Castro - who stepped down as president in 2018 - was head of the country's armed forces.
-
-The incident caused outcry among Cuban exiles living in the US and has long been a source of contention between Washington and Havana.
-
-Cuba's president Miguel Díaz-Canel has described the charges as "a political manoeuvre, devoid of any legal foundation".
-
-The foreign minister of China, a long-standing supporter of Cuba, said Beijing opposed "any attempt by external forces to exert pressure on Cuba under any pretext".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Air France and Airbus found guilty of manslaughter over 2009 plane crash
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d5b5/live/0f7f6c10-5511-11f1-9e5e-fb37d8c40e64.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Air France and Airbus have been found guilty of manslaughter over a 2009 plane crash which killed 228 people.
-
-The Paris Appeals Court found the airline and aircraft manufacturer "solely and entirely responsible" for the incident, in which flight AF447 from Rio de Janeiro to Paris crashed into the Atlantic Ocean.
-
-The passenger jet stalled during a storm and plunged into the water, killing all on board.
-
-A court had previously cleared the companies in April 2023, but they were found guilty on Thursday after an eight-week trial. Both have repeatedly denied the charges and say they will appeal.
-
-All 12 crew members and 216 passengers on board the flight were killed when the plane crashed into the sea from a height of 38,000ft (11,580m), making it the deadliest incident in French aviation history.
-
-The wreckage was located after a long search of 10,000 sq km (3,860 sq miles) of sea floor. But the flight recorder was not found until 2011, after months of deep-sea searches.
-
-Relatives of some of the passengers, who were mainly French, Brazilian and German nationals, gathered to hear the verdict on Thursday.
-
-The companies have been asked to pay the maximum fine - €225,000 ($261,720; £194,500) each - but some victims' families have criticised the amount as a token penalty.
-
-Daniele Lamy, president of the AF447 victims' association, who lost her ​son in the accident, praised the court's verdict, adding that the justice system was "at last, taking into account the pain of the families faced with a collective tragedy of unbearable brutality".
-
-The ruling may be seen as causing damage to the companies' reputations.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Charges dismissed against official at school where 6-year-old shot teacher
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/b706/live/825b8f00-5527-11f1-87e7-8195a3fea8aa.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A judge in the US state of Virginia has dismissed charges against a former assistant principal at a school where a six-year-old shot his teacher during class.
-
-Ebony Parker faced felony child abuse charges for allegedly ignoring warnings that the first grade student at her elementary school had a gun.
-
-Her defence team argued the state had not made its case against Parker, and Circuit Court Judge Rebecca Robinson agreed, striking down all eight counts including disregard for life.
-
-Dressed in a checked blazer in court, Parker sobbed and put her head on the defendant's table as the judge dismissed the charges against her.
-
-In January 2023, the child fired a single shot at teacher Abigail Zwerner, who had to have surgery after a single bullet went through her hand and struck her in the chest.
-
-Zwerner was awarded $10m (£7.5m) in a lawsuit she filed against Parker after the shooting.
-
-The lawsuit claimed that the then assistant principal ignored at least three warnings that the child had a gun in school on the day of the January 2023 incident, which took place in the city of Newport News.
-
-In one instance outlined in the lawsuit, Zwerner's lawyers said that she told Parker that the child was in a "violent mood" and had made threats against another child.
-
-Parker allegedly "had no response" and refused to "even look up" when concerns about the child were brought to her.
-
-Additionally, Parker is accused of ignoring warnings from other staff that the young boy may have brought a gun to school, as well as of rebuffing a request to search his bag.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cy82y34y101o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ### 📰 Gaza flotilla activists deported from Israel as backlash over treatment grows
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/71dc/live/48351120-5509-11f1-9922-c1ca78961024.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -286,7 +233,7 @@ In a statement, the UK Foreign Office said the move reflected the UK's "strong c
 
 Similarly, Poland has also summoned Israel's Chargé d'Affaires in Warsaw.
 
-Writing on social media, Poland's Foreign Affairs Minister Radosław Sikorski said it wished to express "outrage" at the treatment of its citizens, and "demand for an apology for the utterly inappropriate behavior of a member of the Israeli government".
+Writing on social media, Poland's Foreign Affairs Minister Radosław Sikorski said it wished to express "outrage" at the treatment of its citizens, and "demand an apology for the utterly inappropriate behavior of a member of the Israeli government".
 
 A foreign ministry spokesman later said two Polish citizens who were part of the flotilla would be returning, and that a request had been made to ban Ben Gvir from Poland.
 
@@ -300,33 +247,93 @@ He said this was for the "unacceptable acts" of "seizing the activists in intern
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 Pair arrested after boys abandoned by road in Portugal
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c569/live/088e2860-5543-11f1-bf6a-71733cf77f82.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+A man and a woman reported by local media to be the mother and stepfather of two young French boys found alone and in tears by the side of a road in southern Portugal have been arrested.
+
+The children - both under five - were found by a driver near the town of Alcacer do Sal on Tuesday, police said.
+
+They were carrying backpacks with food and water but no identity documents.
+
+The boys' father had reported them missing from their home in Colmar in eastern France on 11 May and France had issued a pan-European request for help.
+
+Police in Portugal and France have opened inquiries and said they had not reached any conclusions at this stage.
+
+Local media reports said the couple were arrested after their car was spotted outside a café in the city of Fatima, about 180km (112 miles) north of Alcacer do Sal.
+
+Portugal's National Republican Guard said its officers arrested a 41-year-old woman and man aged 55. They have not formally identified the arrested pair.
+
+They said the couple were being investigated for the crimes of domestic violence, exposure to danger, and abandonment.
+
+The driver who found the boys said he fed them before alerting the police.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
-### 📰 Macron under pressure over reparatory justice for France’s role in slave trade
+### 📰 Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’
+<img src='https://i.guim.co.uk/img/media/49583dee91b5a91b99d9699dfd099e58da815fbb/0_0_4193_3355/master/4193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5a8afb490a9699274eccfaba202501c' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health
+
+A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response to the Ebola outbreak could make the situation worse, critics have said.
+
+The outbreak was declared a public health emergency of international concern on Sunday and continues to spread, with a new case reported in the DRC’s South Kivu province, an area under the control of armed rebel groups.
+
+The American travel ban, which applies to non-US passport holders who have been in any of the three countries in the past 21 days, has caused disruption to the DRC men’s football team’s World Cup preparations. It also caused a flight to Detroit to be diverted to Canada on Wednesday because a traveller from the DRC was onboard.
+
+Africa Centres for Disease Control and Prevention (Africa CDC) said that while it “fully recognises the sovereign responsibility of every government to protect the health and security of its people … generalised travel restrictions and border closures are not the solution to outbreaks”.
+
+The body said: “Such measures can create fear, damage economies, discourage transparency, complicate humanitarian and health operations, and divert movement toward informal and unmonitored routes – potentially increasing public health risks rather than reducing them.”
+
+There is no vaccine or treatment available to fight the Bundibugyo strain of Ebola responsible for the outbreak.
+
+Africa CDC said this highlighted “a deeper structural injustice in global health innovation: the Bundibugyo Ebola virus was identified nearly two decades ago, yet no licensed vaccines or therapeutics specific to this strain exist today.”
+
+It said: “Africa CDC believes that if this disease had predominantly threatened wealthier regions of the world, medical countermeasures would likely already be available.”
+
+Dr Githinji Gitahi, the group CEO at Amref Health Africa, backed Africa CDC’s stance. He said: “Travel bans don’t stop viruses, they stop solidarity. The fastest way to protect everyone is to invest in outbreak control at the source, not isolate the affected. Africa needs partnership, not punishment.”
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Macron says France must address issue of reparations for its role in slave trade
 <img src='https://i.guim.co.uk/img/media/f5a018dddfa5b64924684c60f21477896bf3bf75/829_536_3497_2797/master/3497.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b59e39276bcadaa660bd0734bea1af2d' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 
-Demands grow for launch of formal discussion process on how country should address legacies of enslavement
+French president’s use of term comes as demand grows for formal discussion on addressing legacies of enslavement
 
-Emmanuel Macron is under pressure to open discussions on reparatory justice for France’s role in hundreds of years of enslavement of African people as he makes a key speech on the legacy of slavery.
+Emmanuel Macron has said reparations for France’s role in hundreds of years of enslavement of African people is an issue that should be addressed, but he stopped short of making clear proposals.
 
-On Thursday the French president will celebrate the 25th anniversary of France becoming the first country in the world to recognise the slave trade and slavery as crimes against humanity in a 2001 law brought by Christiane Taubira, a former MP from French Guiana.
+“How to repair … is a question that must not be refused,” the French president said in a speech on the legacies of slavery at the Élysée Palace. “It’s also a question on which we must not make false promises.”
 
-Macron’s office said “the memorial work around the question of slavery and the slave trade is a permanent project of recognition for the president”.
+Macron’s use of the term reparations broke a historic taboo at the head of the French state, where leaders have previously avoided the word. But he did not define the exact form of any potential reparations or reparatory justice, nationally or internationally, and did not discuss financial repair.
 
-As he enters his final months as president, however, demands are growing on Macron to launch a formal discussion process on how to address the legacies of enslavement in French society. France is facing a political row over racism in politics, the media and society, and the far right is polling high in the run-up to the 2027 presidential election.
+He said: “We must have the honesty to say that we can never fully repair this crime, because it is impossible. You will never one day be able to put a number on it, or find words that would bring this history to a close.”
 
-The sense of urgency comes amid anger in France that its representatives – alongside those of the UK and other European nations – abstained in March’s UN vote to describe the transatlantic chattel slave trade as the “gravest crime against humanity” and call for reparations as “a concrete step towards remedying historical wrongs”.
+Macron said France and Ghana would jointly launch an international scientific research project that would make “solid recommendations to political decision-makers” on the issue of addressing legacies of enslavement, saying “we must engage with honesty in dialogue and work to continue this path”.
 
-Victorin Lurel, a Guadeloupe senator, wrote in an open letter to Macron that France had committed a “moral, historic, diplomatic and political mistake” in abstaining and had “tarnished” its image internationally.
+Macron said French identity could not be “built on denial” and “we have to restore the truth to our history and give it its full place”.
 
-From the 16th to the 19th centuries, France was the third largest trafficker of enslaved people across the Atlantic and Indian oceans among the European nations, after Portugal and Britain. France was responsible for kidnapping and enslaving about 13% of the estimated 13 to 17 million men, women and children forced from Africa across the Atlantic.
+Although Macron stressed that education, academic research, memorials and recognition of the history of enslavement were essential for repair, he stopped short of setting out a clear framework for national dialogue in France to address modern racism and structural inequalities which are seen as legacies of enslavement.
 
-Among those calling for a process of dialogue in France is Dieudonné Boutrin, who heads the International Federation of Descendants of the History of Slavery and is a descendant of enslaved Africans who were trafficked from Benin to the French Caribbean island of Martinique. Boutrin works alongside Pierre Guillon de Princé, a descendant of 18th-century slave-ship owners in Nantes, who last month made a formal apology for his ancestors’ role in transporting about 4,500 enslaved Africans to the Caribbean, at least 200 of whom died at sea.
+Macron said he backed a proposal by parliamentarians this month to symbolically repeal France’s 17th and 18th century “Code Noir”, which set out the violent rules of enslavement, and which was never formally scrapped, despite abolition.
 
-Boutrin and Guillon de Princé wrote to Macron this month asking him to initiate discussions on reparatory justice. They said this would “restore trust between our communities, acknowledge the reality of history, foster a spirit of brotherhood, and heal the psychological wounds suffered by communities of colour who have been made to feel inferior. Slavery is a wound whose scars are still visible through racism, the spread of which we have so far been unable to halt.”
+Macron said it should be remembered that the Élysée Palace – home and workplace to modern French presidents – was built in the 18th century with money from a French family whose fortune came from enslavement.
 
 </div>
 
@@ -427,145 +434,168 @@ She added: “It is a strategic mistake – and a national security vulnerabilit
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 WHO considers use of experimental vaccines as Ebola cases and deaths rise in DRC
-<img src='https://i.guim.co.uk/img/media/b64caeb89836e5395c6168367a7028aee7960092/513_0_3467_2773/master/3467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=91911bf297e2fdf2adff753b887a8482' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-WHO chief said he was ‘deeply concerned’ after at least 500 suspected Ebola cases and 130 deaths reported in outbreak of Bundibugyo strain
-
-Global health leaders are considering whether vaccines or medicines still in development could be used to fight Ebola in the Democratic Republic of the Congo, as the World Health Organization’s chief said he was deeply concerned by the outbreak’s speed and scale.
-
-Dr Tedros Adhanom Ghebreyesus said there had been at least 500 suspected cases of Ebola and 130 suspected deaths in DRC since the new outbreak began – up from about 200 cases and 65 deaths when it was announced on Friday.
-
-Dr Mesfin Teklu Tessema, senior director of health at the International Rescue Committee, which works in the DRC’s Ituri Province, where most cases have been reported, told the Guardian he expected current known cases were “the tip of the iceberg”.
-
-Spread across the porous border to South Sudan, he said, was probably “a matter of when”. He warned that a weak public health infrastructure there meant “we are actually flying blind”.
-
-The IRC provides humanitarian relief in the region, including support to health clinics. Tessema said there was a severe lack of basic protective equipment, such as gloves, masks and goggles, for healthcare workers seeing patients in the area.
-
-He added: “Ebola is a very deadly disease – this strain has a mortality rate between 30% and 50%. That is with availability of care. When care is not available, when people are arriving late, that risk of mortality could be higher than that.”
-
-There are a number of strains of the virus that can cause Ebola. The Bundibugyo strain, which has been identified as responsible for the current outbreak, has no approved vaccine or treatment.
-
-Scientists from the DRC and Uganda published the genome of the virus online on Monday night. Experts who examined the genetic data said it suggests the outbreak was recently sparked by a “spillover event”, meaning a human became infected through contact with an infected animal, and has since spread from human to human.
-
-“That is useful because it suggests this outbreak can potentially be traced and interrupted as it has been in the past. Repeated independent spillovers from an animal source would complicate the efforts to stop the outbreak,” said David Matthews, Professor of Virology, University of Bristol.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/19/ebola-outbreak-drc-who-tedros-adhanom-ghebreyesus-deeply-concerned)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 NASCAR's Kyle Busch Hospitalized W/ 'Severe Illness'
-<img src='https://imagez.tmz.com/image/ee/16by9/2026/05/21/eef32b867a1c4a06aa3886ed18b347e4_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 NASCAR Legend Kyle Busch Dead At 41
+<img src='https://imagez.tmz.com/image/1b/16by9/2026/05/21/1b2755b3786b4eb2a5b6786bbd9bbbfb_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Kyle Busch is in the hospital, battling a "severe illness," according to the NASCAR superstar's family.
+NASCAR legend Kyle Busch has tragically died at the age of 41.
 
-“Kyle has experienced a severe illness resulting in hospitalization. He is currently undergoing treatment and will not compete in any of his scheduled activities this weekend at Charlotte Motor Speedway," the family said Thursday morning.
+Busch's racing team, Richard Childress Racing, along with NASCAR, announced the shocking news.
 
-"We ask for understanding and privacy as our family navigates this situation,” the family said Thursday morning.
+"On behalf of the Busch family, everyone at Richard Childress Racing and all of NASCAR, we are devastated to announce the sudden and tragic passing of Kyle Busch."
 
-The nature of the sickness is unclear.
+"Our&nbsp;entire NASCAR family&nbsp;is heartbroken by the loss of Kyle Busch. A future Hall of Famer, Kyle was a rare talent, one who comes along once in a generation.&nbsp;He was fierce, he was passionate, he was immensely skilled and he cared deeply about the sport and fans. Throughout a career that spanned more than two decades, Kyle set records in national series wins, won championships at NASCAR’s highest level and fostered the next generation of drivers as an owner in the Truck Series."
 
-Richard Childress Racing released a statement on the matter ... saying, "Kyle Busch’s health is our upmost priority and he and his family have the full resources of RCR behind them. Kyle is an integral part of our organization and we wish him a safe and speedy recovery."
+"His sharp wit and competitive spirit sparked a deep emotional connection with&nbsp;race fans of every age, creating the proud and loyal ‘Rowdy Nation.’ Our thoughts are with Samantha, Brexton and Lennix, Kyle and Samantha's parents, Kurt and all of Kyle’s family, Richard and Judy Childress, everyone at Richard Childress Racing, his teammates, friends and fans. NASCAR lost a giant of the sport today, far too soon."
 
-"His No. 8 Chevrolet will be ready and waiting for him. We’re thankful to Austin Hill for stepping in to drive the No. 8 Chevrolet this weekend. Please keep Kyle and the Busch family in your prayers, and help us respect the family’s privacy at this time."
+"During this incredibly difficult time, we ask everyone to respect the family’s privacy and continue to keep them in your thoughts and prayers. Further updates will be shared as appropriate."
 
-Busch, 41, is one of the best drivers to ever get behind the wheel of a NASCAR stock car, winning 63 Cup Series races (1st among active drivers, 9th overall), 102 Xfinity Series races (a record), and 69 Craftsman Truck Series wins (also a record).
+Earlier in the day, RCR revealed Kyle was in the hospital with a "severe illness" which came on the heels of his last race on May 10 at Watkins Glen in upstate New York. During the race, Busch radioed his crew for medical aid.
 
-Among all those wins are some of the most important races on the NASCAR calendar, including winning the Brickyard 400 in back-to-back years ('15, '16), The Coca-Cola 600 at Charlotte Motor Speedway (2018), and The Southern 500 at Darlington Raceway (2008).
+On TV, they noted Kyle had been battling some sort of sinus code. However, he actually finished the race, coming in eighth place.
 
-Busch last raced on May 15 during a Craftsman Truck Series race at Dover Motor Speedway.
+Busch was one of the best drivers to ever get behind the wheel of a NASCAR stock car, winning 63 Cup Series races (1st among active drivers, 9th overall), 102 Xfinity Series races (a record), and 69 Craftsman Truck Series wins (also a record).
 
-Get well, Kyle!
+KB is the most winningest driver ever across all the NASCAR series.
+
+Busch was known by a couple of nicknames among race fans ... "Rowdy" and "Wild Thing," for his aggressive style on the track.
+
+Kyle's brother, Kurt, also raced in the Cup Series back in the day.
+
+Kyle is survived by his wife Samantha, and his two children, an 11-year-old son and 4-year-old daughter.
+
+Story developing ...
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/kyle-busch-hospitalized/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/nascar-kyle-busch-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Mackenzie Shirilla Says She Can't Have Kids in Phone Call from Behind Bars
-<img src='https://imagez.tmz.com/image/28/16by9/2026/05/21/2854809335454b45a6ef7275dc95db77_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Britney Spears Invites Cops Over For Lasagna, Pool Time Amid DUI Arrest, on Video
+<img src='https://imagez.tmz.com/image/22/16by9/2026/05/21/22b83a460880438e874f3142ac2d783f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Mackenzie Shirilla can kiss her dreams of having kids goodbye ... at least that's what she told her mom from behind bars.
+Britney Spears had a complete meltdown when she was arrested for DUI ... and the superstar even made cops a very bizarre offer.
 
-In undated audio PEOPLE obtained from a phone call -- recorded while she was held at the Cuyahoga County Jail -- with her mom, Natalie, you can hear Mackenzie complain about being locked up ... saying she's going to be too old to have children if she ever gets released.
+In CHP footage, obtained by TMZ ... Brit has some serious mood swings, going from combative and defiant ... to a full-on crying spiral.
 
-She told her mom ... "I'm thinking about like how I'm just gonna be like old when I get out of jail and like, I don't know, like I'm not gonna be able to have kids or like a family and s*** like that."
+At first, she tells the cops she won't get out of her car ... because she feels “invaded” and "harassed" by them -- and that "I haven't done anything wrong."
 
-Mackenzie's doing time at Ohio Reformatory for Women for killing her then-boyfriend&nbsp;Dominic Russo&nbsp;and his friend,&nbsp;Davion Flanagan in 2022 ... by crashing her car into a building at 100 mph.
+It takes a wild turn when Brit tells officers she doesn't want to get out because there's too much traffic. The cops play it cool ... and tell her they can drive her up the road where it's less busy. And that's when Brit tells them ... she lives nearby, and they can just come over for some "lasagna" and to take a dip in her pool.
 
-Prosecutors argued that she did so intentionally ... saying the evidence showed she floored it and drove straight at the building.
+There is a beat before one of the cops again asks her to get out of the car.
 
-It is unclear if this phone call happened before or after Mackenzie's sentencing ... because you can hear her stress about getting a 40-year sentence, or even the death penalty. She told her mom ... "They're just trying to f*** me."
+The video highlights what we reported was in arrest documents ... Brit's mood went from one extreme to another. It actually gets pretty sad ... once Brit seems to realize she's in deep trouble, she begs officers, while sobbing, not to leave her alone, but for someone to sit with her in a cruiser.
 
-She mentioned she'd probably have to ask someone else to carry her child for her, since she wouldn't be able to do it herself.
+As we previously told you ... Britney&nbsp;reached a plea deal&nbsp;with prosecutors earlier this month, which resulted in them dropping the DUI charge. The&nbsp;charge&nbsp;was reduced to a "Wet Reckless" -- reckless driving involving alcohol.
 
-Mackenzie's currently serving two concurrent life sentences -- with parole eligibility in 2037 -- and making headlines again, thanks to Netflix's new documentary, "The Crash."
+As part of the deal ... Spears was put on probation for 12 months and cannot possess drugs without a valid prescription.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/mackenzie-shirilla-jail-phone-call-to-mother/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/britney-spears-invites-cops-over-for-lasagna-during-dui-arrest/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 YUNGBLUD Getting Cozy With Girlfriend Jesse Jo Stark Amid MGK Drama
-<img src='https://imagez.tmz.com/image/b2/16by9/2026/05/21/b2b53b3399e24cdfaf2865a61fcd825a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'No Jumper' Cohost's Alleged Murder Victim Died From Blunt Force Trauma
+<img src='https://imagez.tmz.com/image/6c/16by9/2026/05/21/6c9eabcb834e44d4b05f4af60fa82037_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-YUNGBLUD looked happy and unbothered with girlfriend Jesse Jo Stark ahead of his San Diego show ... stepping out together before taking the stage as part of his "YUNGBLUD: Idols World Tour," just days after Machine Gun Kelly stirred up online drama with comments about the singer.
+Carl Welch -- the person who prosecutors claim "No Jumper" podcast cohost Ant Jefe murdered -- died of blunt force trauma in a parking lot ... TMZ has learned.
 
-The singer spent some downtime with Jesse before the concert Wednesday afternoon at The Rady Shell ... keeping things low-key while gearing up for another stop on his North American run.
+Prosecutors filed legal documents formally charging Jefe -- real name Maurice Shelmon -- and another man named Johnnie Gray with Welch's murder ... and the L.A. County Medical Examiner listed the cause of death and a few other details on their own site.
 
-MGK sparked the drama after YUNGBLUD shared a video discussing how "live music has become inaccessible," part of his ongoing push to create more affordable fan experiences through projects like BLUDFEST.
+Prosecutors allege the crime went down on or about January 31 of this year ... and they also listed a series of previous charges for which Jefe was arrested -- including robbery.
 
-MGK then posted an alleged since-deleted comment criticizing YUNGBLUD over a previously canceled tour and questioning his messaging around ticket prices and mental health. The comment quickly made the rounds online, sparking reactions from fans of both artists.
+We broke the story ... Jefe was arrested by LAPD's elite Robbery-Homicide Division and booked for felony murder.
 
-A rep for YUNGBLUD previously told TMZ ... "Dom has not commented directly as he is so busy focusing on his sold-out North American tour and finishing his next album."
-
-The rep added ... "He genuinely hasn't got time to engage in any of this but we wish MGK the very best."
-
-MGK's fiery comments caught fans off guard because he and YUNGBLUD were once close collaborators during the pop-punk revival era, frequently appearing together and running in the same Travis Barker circle.
+Jefe's cohost -- Adam22 -- told us, "[Ant has] been a great podcaster for the last year or so and as far as I knew, he wasn’t really in the streets like that anymore, so this was all a huge shock."
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/yungblud-spotted-with-gf-amid-mgk-drama/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/ant-jefe-murder-victim-cause-of-death/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Addison Rae's Dad Monty Lopez Files For Divorce From Wife Kaitlyn Lopez
-<img src='https://imagez.tmz.com/image/eb/16by9/2026/05/20/eb891d41c45647ea8ec6334b44ccd33a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Who Is Mackenzie Shirilla From 'The Crash' Documentary?
+<img src='https://imagez.tmz.com/image/09/16by9/2026/05/20/09d81460dc7342588ad640861dc02660_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Addison Rae's dad, Monty Lopez, is pulling the plug on his latest marriage ... 'cause TMZ has learned he's filed for divorce amid a whirlwind of legal drama with his wife.
+Mackenzie Shirilla is "literal hell on wheels" -- at least that's how the judge felt about her role in the fatal car crash that killed Dominic Russo and Davion Flanagan in 2022 -- but who is she, exactly?
 
-According to court docs, obtained by TMZ, Monty filed for divorce from Kaitlyn Lopez on Monday. The docs say the two got married in Las Vegas on October 25, 2025, before separating less than a month later on November 15.
+Whether you've been following Mackenzie's case for years or are just now hearing the hype over Netflix's new documentary, "The Crash," we've rounded up everything you need to know.
 
-As TMZ first reported ... cops responded to Monty's home on April 23. Then, on April 28, Monty was arrested on a felony charge of possession with intent to distribute marijuana.
+Mackenzie was charged with murdering Dominic and Davion
 
-Just days later, Monty filed for a protective order against Kaitlyn, alleging she had a gun during a recent altercation and claiming there had been multiple physical conflicts throughout their relationship. Kaitlyn denied the gun claim and told us the situation affected her sense of safety, finances, and her ability to function.
+Mackenzie was driving her then-boyfriend Dominic, and her friend Davion home around 5 AM on July 31, 2022 when she crashed her car into the brick wall of a building in Strongsville, Ohio.
 
-A judge granted Monty a temporary protection order, requiring Kaitlyn to leave the home and stay at least 100 yards away. The two are due back in court next month.
+Dominic and Davion were killed almost immediately, but Mackenzie was still breathing and taken to the hospital for her injuries.
 
-Monty's no stranger to public relationship drama. His split from Addison's mom, Sheri Easterling, became tabloid fodder in 2022 amid cheating allegations and social media controversy.
+Police initially thought the crash was an accident, but after months of investigating, they arrested Mackenzie that November ... hitting her with a bunch of charges, including multiple counts of murder.
 
-We've reached out to Monty and Kaitlyn ... so far, no word back.
+She was going about 100 mph when she crashed
+
+Prosecutors used CCTV from that morning to show Mackenzie's Toyota Camry making a controlled turn moments before accelerating to a terrifying speed as the car drives straight at the wall. Prosecutors pointed to data from the car's "black box" system to figure out just how fast she was going.
+
+In the Netflix doc, you can see a spreadsheet that seems to show the data from the last five seconds before the crash.
+
+It showed the car hit around 100 mph in those final moments ... and the accelerator was fully floored in the seconds leading up to impact. The data also showed that no one touched the brake during that five-second window.
+
+Prosecutors also brought in a forensic auto investigator who determined the braking, steering, acceleration, and tires of the car had all been working fine ... which they argued showed the crash wasn't caused by a malfunction of the vehicle.
+
+Mackenzie allegedly threatened Dominic before the crash
+
+Dominic and Mackenzie had been living together, but their relationship was a bit rocky ... according to the Netflix doc. In an audio, his brother Angelo told police that Dominic had been trying to break up with Shirilla.
+
+The doc also reveals that -- two weeks before the crash -- Dominic called his mother, Christine, to say Mackenzie was driving dangerously while he was in the car. So, she sent her friend Christopher "Hench" Martin to track him down.
+
+Christopher told cops in an interview that when he called Dominic to figure out where he was, he heard Mackenzie in the background allegedly saying, "I'll crash this car."
+
+As far as Mackenzie's side of the story goes ... she says Dominic had been trying to grab the steering wheel. The doc shows she texted her mom that he was trying to "spin out" her car.
+
+There was no alcohol or psilocybin in Shirilla's system at the time of the crash
+
+At the scene of the crash, cops found marijuana, psilocybin mushrooms, and a digital scale ... which initially led police to believe that Mackenzie might've been impaired behind the wheel. A blood test did find THC in her system ... but no shrooms or alcohol.
+
+Prosecutors said Mackenzie was used to driving under the influence of marijuana, so the THC alone wouldn't impair her abilities. The Netflix doc even included a montage of social media videos of her smoking in her car.
+
+She blamed the crash on her POTS diagnosis
+
+Mackenzie maintains that she has no memory of the crash or the moments leading up to it ... claiming she must've had a medical emergency.
+
+Mackenzie's mom says her daughter was diagnosed with postural orthostatic tachycardia syndrome -- commonly known as POTS -- in 2017 and argued that the condition may have caused her to black out and crash the car.
+
+Mackenzie was sentenced to 2 life sentences
+
+In 2023, Mackenzie was tried as an adult and found guilty on all 12 charges -- 4 counts of murder, 4 counts of felonious assault, 2 counts of aggravated vehicular homicide, 1 count of drug possession, and 1 count of possessing criminal tools.
+
+While delivering the verdict, the judge said Mackenzie went from a "responsible driver" to "literal hell on wheels" as she accelerated down the road and crashed the car. She was ultimately sentenced to 2 concurrent sentences of 15 years to life ... and she will be eligible for parole starting in 2037.
+
+Former inmate says her prison behavior doesn't match the doc
+
+Mackenzie is currently serving time at the Ohio Reformatory for Women and did an interview from prison for the Netflix doc, where she maintained that the crash was a complete accident and that she had no recollection of the details.
+
+But a former inmate -- who showed screenshots to confirm her time in the clink overlapped with Mackenzie's -- said she was much more of a mean girl than she let on in the doc.
+
+Mary Katherine Crowder said on TikTok ... "Mackenzie Shirilla did not walk around that prison yard with an ounce of remorse."
+
+She claimed Mackenzie was more concerned with doing her makeup and rubbing elbows with the cool kids ... even accusing her of putting on a different voice for the doc.
+
+Dominic was 20, and Davion was 19.
+
+RIP.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/monty-lopez-divorcing-addison-raes-step-mom/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/who-is-mackenzie-shirilla/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -664,25 +694,25 @@ Once seen by some as the most conventional of President Trump’s political appo
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 How the $1.8 Billion Trump Fund May Violate Past Practice and Policy
+### 📰 Trump’s $1.8 Billion Fund in the Cross Hairs
 <div align='justify'>
 
-The fund that could offer payouts to Trump allies who accuse the government of mistreatment is not only highly unusual but also appears to violate the administration’s own policies.
+Critics say the deal creates a “slush fund,” a term with a colorful maritime history.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/the-docket-trump-fund.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump’s Government Moves to Spare an Unhappy Taxpayer Named Trump
+### 📰 5 Takeaways From the Democrats’ Autopsy of Kamala Harris’s 2024 Loss
 <div align='justify'>
 
-No president has ever used the federal government to advance his own personal interests and those of his family and allies as expansively and openly as Mr. Trump has.
+A draft report released by the Democratic National Committee argued that Ms. Harris did not sufficiently separate herself from President Joseph R. Biden Jr.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-presidents-self-dealing.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/dnc-election-autopsy-report-takeaways.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -697,160 +727,154 @@ Democratic voters are in a combative, anti-establishment mood, unhappy with thei
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 ‘We’ve Never Been This Bad.’ Eastern Pennsylvania Weighs Rising Costs.
+### 📰 Experimental Drug Yields Dramatic Weight Loss
 <div align='justify'>
 
-With two swing districts, the region from Scranton to Allentown could decide control of the House, and voters are expressing profound economic distress.
+People who got the injection, retatrutide, lost 28 percent of their body weight on average after 80 weeks, Eli Lilly said.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/pennsylvania-affordability-politics.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
-### 📰 NASA Welcomes 16th Deputy Administrator Matt Anderson
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/deputy-administrator-announcement-may-21.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/testing-link-vibration-tests-2-4000x2600-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-Matt Anderson was sworn in Thursday as NASA’s 16th deputy administrator by NASA Administrator Jared Isaacman. The oath was taken during a ceremony held at the Eisenhower Executive Office Building in Washington.
+Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory.
 
-As NASA deputy administrator, Anderson will help lead the agency’s efforts to execute the President’s national space policy, strengthen America’s leadership in space, and advance NASA’s missions in exploration, science, and aeronautics.
+Katalyst’s robotic servicing spacecraft, called LINK, will launch on Pegasus in June to rendezvous with Swift and raise its altitude, extending its science mission lifespan.
 
-“Matt Anderson brings exactly the kind of operational leadership, technical expertise, and mission focus NASA needs right now,” said NASA Administrator Jared Isaacman. “His decades of experience across the Air Force, Space Command, and the aerospace industry give him a valuable perspective as we work to strengthen America’s leadership in space and enter the next era of exploration. I’m excited to have him helping lead NASA as we take on the near-impossible and push the boundaries of what we can achieve.”
+Both United States and international media may apply for onsite credentials to view the Pegasus and the L-1011 Stargazer aircraft that will deploy the rocket at launch. In addition to interview opportunities on site, media also will receive images and video of LINK, as the spacecraft already will be encapsulated in the rocket.
 
-“I’m deeply honored to serve as the deputy administrator and support the men and women across NASA who carry out some of the most ambitious and important work in the world,” said NASA Deputy Administrator Matt Anderson. “NASA has been entrusted with a mission of enormous strategic, scientific, and economic significance, and delivering on that mission will require disciplined execution, technical excellence, and a strong culture of accountability. I’m grateful to President Trump for the trust and confidence he has placed in me with this nomination, and I look forward to serving alongside Administrator Isaacman and the extraordinary NASA workforce as we strengthen America’s leadership in space and build toward the next golden era of space exploration.”
+NASA and Katalyst also will host an audio-only media teleconference on June 17 to preview the mission to boost Swift’s orbit. Audio of the media teleconference will stream live on NASA’s YouTube channel. Information about timing and teleconference participants will be shared closer to the event.
 
-“NASA succeeds when we pair clear mission goals with empowered teams and disciplined execution,” said NASA Associate Administrator Amit Kshatriya. “Matt Anderson has spent his career leading in complex operational environments where the stakes are high and mission success depends on trust in the people doing the work. I look forward to working with him as we continue building the capabilities, partnerships, and workforce needed for the challenging missions ahead of us.”
+The application deadline for U.S. citizens to attend in person is 4 p.m. EDT, Wednesday, June 10. International media without U.S. citizenship must apply by 3 p.m. EDT, Wednesday, May 27. NASA’s media accreditation policy is available online.
 
-Anderson was nominated by President Donald J. Trump on Jan. 13, and confirmed by the U.S. Senate on May 18.
+Media requesting to participate in person or join the media call must send their accreditation requests to Amy Barra at: amy.l.barra@nasa.gov, with the following information:
 
-Bethany Stevens / George AldermanHeadquarters, Washington202-358-1600bethany.c.stevens@nasa.gov / george.a.alderman@nasa.gov
+The Swift mission, which launched in 2004, leads NASA’s fleet of space telescopes in studying changes in the high-energy universe. It studies gamma-ray bursts — the most powerful explosions in the universe — and other cosmic objects and events. When a rapid, sudden event takes place in the cosmos, Swift serves as a “dispatcher,” providing critical information that allows other “first responder” missions to follow up to learn more about how the universe works.
+
+Karen Fox / Alise FisherHeadquarters, Washington202-385-1287 / 202-358-2546karen.c.fox@nasa.gov / alise.m.fisher@nasa.gov
+
+Amy BarraWallops Flight Facility, Wallops Island, Virginia757-824-1579amy.l.barra@nasa.gov
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA Highlights 2025 International Space Station Science Results
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/iss072e279980.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA Joins Artemis Accords Workshop as Global Signings Rise
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/workshop-peruvian-space-agency-jpg.jpeg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-To dive deeper into the International Space Station research achievements from the past year, browse the 2025 Annual Highlights of Results, which NASA released in May 2026.
+The United States participated in an Artemis Accords workshop in Lima, Peru, last week, following a new wave of nations committing to safe and responsible exploration of the Moon, Mars, and beyond.
 
-In 2025, researchers using the orbital laboratory conducted more than 750 investigations that advanced understanding of life in space, drove innovations to benefit people on Earth, and supported NASA’s exploration of the Moon and Mars.
+Leading up to the event, six countries, including Latvia, Jordan, Morocco, Malta, Ireland, and Paraguay, joined the growing coalition of Artemis Accords signatories during ceremonies held at NASA Headquarters and abroad. This brings the total number of Artemis Accords signatories to 67 like-minded nations.
 
-Results include a study that could protect astronaut performance on future long-duration missions and a biomaterials investigation aimed at advancing tissue engineering and regenerative medicine.
+“This gathering showcases the remarkable global momentum behind the Artemis Accords and our Artemis program,” said NASA Administrator Jared Isaacman. “The Artemis Accords were created in President Trump’s first term and, as we execute his National Space Policy, we are putting these principles into practice. By aligning our capabilities, acting with urgency, and moving forward as partners, these signatory countries will help shape the future, not from the sidelines, but as essential contributors to humanity’s first permanent outpost on the Moon. Each and every Artemis Accords signatory has the opportunity to play a meaningful role with NASA as we work together to build a sustained human presence on the surface of the Moon.”
 
-NASA evaluated whether a miniature robotic system could perform surgical tasks in microgravity. Researchers used rubber bands to simulate surgical tasks aboard the space station, allowing them to observe communication delays from Earth and test robotic precision in space during remote operations. Results showed that while timing delays increased the duration of procedures, they had minimal impact on robotic accuracy.
+On May 13-14, representatives from NASA and the U.S. Department of State joined dozens of counterparts from 30 countries, including several of the newest signatories, for technical discussions and a tabletop exercise focused on operating in complex lunar environments.
 
-This research demonstrates that precise surgical procedures could one day be performed in space, including at a future lunar base or on Mars. Robotic surgery also offers a compact, reliable option for performing medical procedures in remote places on Earth.
+Peru hosted the fourth annual workshop, marking the first time the gathering has taken place in South America.
 
-The Roscosmos investigation Magnetic 3D Bioprinter used magnetic levitation to form complex tissue structures in microgravity with high precision and minimal materials. Researchers used this technique to position calcium crystals into structures that can serve as synthetic bone grafts to promote new bone growth. Samples formed in microgravity showed superior structural organization and a high capacity for bone tissue regeneration. Astronauts experience bone loss in space and may face a higher risk of bone fractures during long-duration exploration missions.
+“One of our objectives in hosting this edition of the workshops in our country was to increase regional participation,” said Maj. Gen. Roberto Melgar Sheen, director of Peruvian Space Agency (CONIDA). “I am pleased to say that we have achieved this: All South American signatory countries are taking part in this event, with 90% participating in person and 10% virtually.”
 
-This research could one day allow astronauts to fabricate medical treatments on demand to address skeletal injuries far from Earth.
+The Artemis Accords community reviewed planned lunar landing and orbiting missions from all the signatories in attendance. With more than a dozen lunar landing missions expected over the next 18 months, last week’s discussions and tabletop exercises focused on non-interference, interoperability, release of scientific data, orbital debris and mitigation. These conversations included a presentation on NASA’s exploration plan, which accelerates the agency’s missions to the Moon. Artemis Accords signatories now have expanded opportunities to support NASA’s Moon Base and deepen their participation in the broader Artemis program, following the agency’s Ignition event on March 24.
 
-NASA examined how prolonged exposure to the vacuum of space affects the performance and durability of materials used in space exploration. Researchers exposed polymers, thermal protection systems, spacesuit components, and radiation-shielding materials to the space environment for six months. The research also tested several biomaterials infused with different types of melanin, a naturally occurring pigment that protects against ultraviolet radiation. The materials infused with fungal melanin showed the greatest resistance to radiation damage.
+“Peru joined the Artemis Accords in 2024, aiming to participate in a cutting-edge dialogue mechanism that addresses global trends in space exploration. We aspire to forge cooperative ties with the signatories of the Artemis Accords that contribute to the scientific and aerospace development of our country,” said Peru’s Vice Minister of Foreign Affairs Ambassador Felix Denegri about the workshop.
 
-Biologically derived materials offer a lightweight, sustainable option for radiation shielding during future missions beyond Earth, with potential applications on Earth in medical protection, UV defense, and radiation-resistant structures.
+During the first Trump Administration, the United States, led by NASA and the U.S. State Department, joined with seven other founding nations in 2020 to establish the Artemis Accords in response to the growing interest in lunar activities by both governments and private companies. Today, countries representing every region of the world have committed to responsible principles for exploration.
 
-Learn more about the Materials International Space Station Experiment-13-NASA (MISSE-13-NASA) investigation.
+Signing the Artemis Accords means a commitment to the peaceful and transparent exploration of space; rendering aid to those in need; enabling access to scientific data; ensuring activities do not interfere with those of others; and preserving historically significant sites and artifacts by developing best practices.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/station/iss-research/nasa-highlights-2025-international-space-station-science-results/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/2m2a1740-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA Seeks Interest for Artemis Mission CubeSats
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/artemisiispls.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-Robotics will play a critical role in NASA’s ambitious plan to establish a long-term presence on the Moon, presenting opportunities for the next generation of engineers, technologists, and innovators to contribute to a bold vision for the future.
+Organizations interested in launching CubeSats on future Artemis missions should respond to NASA’s request for information (RFI) by Monday, June 1, for initial consideration.
 
-That was the agency’s message to students, partners, and industry leaders at the 2026 FIRST Robotics World Championship in Houston, where more than 1,000 student teams convened for exciting competitions and hands-on experiences.
+“The SLS (Space Launch System) rocket and the Artemis missions provide great opportunities for teams to conduct important, science and technology investigations that contribute to the expansion of human space exploration,” said Courtney Ryals, acting manager, SLS payload integration, NASA’s Marshall Space Flight Center in Huntsville, Alabama.
 
-NASA connected directly with the future workforce at the event, engaging more than 51,000 students, parents, and mentors through interactive exhibits and discussions. The agency highlighted its plan to construct a permanent lunar outpost – Moon Base – that will serve as a hub for lunar exploration, scientific research, and technology demonstration, laying the foundation for future missions to Mars and beyond. Phase 1 of NASA’s Moon Base plan centers around a rapid series of robotic and early uncrewed missions to scout, experiment, and prepare for surface operations ahead of crewed Artemis missions. That includes an accelerated cadence of CLPS (Commercial Lunar Payload Services) flights, with up to 30 robotic lunar landings targeted for 2027, to expedite the delivery of science and technology payloads including rovers, hoppers, and drones.
+The RFI will inform potential future opportunities for CubeSats to fly on Artemis III, IV and V. While NASA is reviewing specific mission profiles, the agency expects to accommodate 6U and 12U-sized CubeSats that would deploy in Earth orbit or on a heliocentric disposal trajectory following the separation of the Orion spacecraft from the rocket, as the nanosatellites would deploy from a ring on the upper stage of the rocket. Opportunities may also exist for CubeSats deployed on a reentry trajectory from Earth orbit.
 
-A Moon Base model was a focal point of NASA’s exhibit. Other displays highlighted key innovations such as:
+CubeSat sizes are measured in “one unit” or “1U” increments, each measuring 10x10x10 centimeters.
 
-Multiple NASA centers participated in the event, including Johnson Space Center in Houston; Kennedy Space Center in Florida; Langley Research Center in Virginia; Ames Research Center in California; Michoud Assembly Facility in New Orleans; Armstrong Flight Research Center in Edwards, California; Glenn Research Center in Cleveland; Goddard Space Flight Center in Greenbelt, Maryland; White Sands Test Facility in Las Cruces, New Mexico; and Wallops Flight Facility in Wallops Island, Virginia. Each brought unique technologies and expertise to the exhibit floor.
+NASA flew 10 CubeSats on the uncrewed Artemis I mission in 2022 and four on the crewed Artemis II mission, deploying each after the upper stage detached from the spacecraft and Orion was flying free on its own to carry out its primary mission. In addition to providing a ride to space as secondary payloads, the agency provides payload integration and engineering support.
 
-Since 1996, NASA has supported and mentored FIRST Robotics teams across the country. This year, NASA sponsored more than 160 FIRST Robotics Teams – 50 of which also had a NASA mentor. NASA Johnson directly mentored six teams, with two of them making it all the way to the FIRST Championship. Additionally, NASA supported the FIRST Championship with a Mobile Machine Shop where teams could bring broken parts and have NASA machinists help them with repairs. The shop completed over 600 jobs for the teams during the event.
-
-NASA’s presence at the championship not only provides a platform for sharing its ambitious plans but also inspires students to envision themselves as part of the NASA team, working to achieve the near-impossible.
+As part of the Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions to explore more of the Moon for scientific discovery, economic benefits, establish an enduring human presence on the lunar surface, and to build on our foundation for the first crewed missions to Mars.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 New Eruption in the Bismarck Sea
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/new-eruption-in-the-bismarck-sea/bismarckeruption_oli2_20260511_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather
+<img src='https://assets.science.nasa.gov/content/dam/science/cds/general/images/2020/09/awe-high-res-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-Satellite imagery shows a surge of new volcanic activity in the ocean near Papua New Guinea.
+On May 21, ground controllers powered down NASA’s AWE (Atmospheric Waves Experiment) instrument, bringing the data collection phase of the mission to a successful and scheduled end, surpassing its planned two-year mission.
 
-It’s a truism among oceanographers that there is more accurate mapping of the surface of the Moon and Mars than of the deep-ocean floor. That’s especially true for the Bismarck Sea, a relatively deep body of water north of Papua New Guinea. It's an ocean basin with a geologically complex seafloor rife with faults, volcanic features, rifts, scarps, and active subduction and spreading zones at depths that make high-resolution sonar mapping challenging.
+Installed on the exterior of the International Space Station since November 2023, AWE studied atmospheric gravity waves, which are giant ripples in the atmosphere caused by strong winds flowing over tall mountains or by violent weather events, such as tornadoes, thunderstorms, and hurricanes. The AWE instrument looked for these waves in colorful bands of light in Earth’s atmosphere, called airglow. Funded by NASA’s Heliophysics Division, AWE investigated how atmospheric gravity waves propagate upward to space and contribute to space weather — conditions in space that can disrupt satellites, as well as navigation and communications signals.
 
-When satellites detected signs of an unexpected submarine volcanic eruption in the Central Bismarck Sea on May 8, 2026, volcanologists were confronted with the reality that no high-resolution maps of the area were available, and relatively little is known about the deep-water eruption setting. The new eruption is thought to be occurring along the Titan Ridge, about 16 kilometers (10 miles) southeast of the location of a submarine eruption in 1972. However, there is little clarity or consensus among scientists about precisely which volcanic feature may be erupting, the original depth of the currently active vent, or when it last erupted.
+“The AWE mission has proven that our atmosphere is not a ceiling, but a living, breathing ocean in the sky,” said Joe Westlake, director of NASA’s Heliophysics Division at NASA Headquarters in Washington. “For the first time, we can see how a thunderstorm in the Midwest, a hurricane over Florida, or a wind gust over the Andes sends invisible ripples — atmospheric gravity waves — crashing into the edge of space like waves hitting a shoreline. By mapping these ripples from the International Space Station, we’ve discovered that Earth’s weather doesn’t just end at the clouds, instead it reaches out beyond our planet, shaping the space weather that impacts our orbital economy.”
 
-"The good news is that there are huge opportunities to explore and learn using both government and commercial satellite platforms already in orbit," said Jim Garvin, the chief scientist at NASA's Goddard Space Flight Center.
+During AWE’s 30-month residency on the station, the instrument captured four infrared images every second, tallying more than 80 million nighttime images, which is when airglow can be seen. It observed atmospheric gravity waves from numerous extreme weather events, including a tornado outbreak across the central U.S. in May 2024 and Hurricane Helene impacting the gulf coast of Florida in September 2024.
 
-What is known is that seismometers detected a small swarm of earthquakes on May 8, followed soon after by clear signs of a submarine eruption in satellite observations. Beginning on May 9, NASA’s Aqua and Terra satellites captured optical imagery of white, steam-rich volcanic plumes rising into the atmosphere, while the ocean color sensor on NASA's PACE (Plankton, Aerosol, Cloud, Ocean Ecosystem) satellite revealed discolored and disturbed water surrounding the eruption site.
+“We’ve seen atmospheric wave signatures associated with major terrestrial events, which provided a clear example of how intense weather systems can generate measurable upper-atmospheric responses,” said AWE’s principal investigator, Ludger Scherliess of Utah State University in Logan.
 
-Other satellites observed ash plumes soaring several kilometers into the atmosphere. Higher resolution imagery from the European Space Agency’s Sentinel-2 and the NASA/USGS Landsat 9 (top) satellites, acquired on May 10 and 11, respectively, captured detailed views of activity near the water surface. The right image at the top of the page shows the same scene in false color (bands 7-6-5), with the inset highlighting the infrared signature of the eruption. On May 12, the VIIRS (Visible Infrared Imaging Radiometer Suite) on Suomi NPP detected thermal anomalies spanning roughly seven square kilometers.
+These events revealed variations in the types of atmospheric gravity waves created by different kinds of storms. For example, when AWE viewed atmospheric gravity waves generated by a thunderstorm in north Texas on May 26, 2024, it saw they were smaller and more irregular, with a notable asymmetry from north to south, compared to waves created by storms in the same part of the country earlier that month.
 
-"There must be a lot of hot material near the surface to generate so many thermal anomalies," said Simon Carn, a volcanologist at Michigan Tech. "This suggests a fairly shallow eruption vent—much shallower than what's implied by the existing bathymetry, which shows water depths of several hundred meters or more."
+It is important to understand variations in the density of plasma, which is electrically charged gas, in Earth’s upper atmosphere instigated by atmospheric gravity waves, because these variations can disrupt radio signals traveling between satellites and the ground, and from satellite to satellite, degrading the accuracy and reliability of systems used for navigation, timing, and communications.
 
-Optical satellite imagery shows intense activity in near-surface water, including large plumes of discolored water and widely distributed steam and ash vents. Both medium- and high-resolution sensors—from both government sources and commercial satellite companies—have captured images of expansive pumice rafts (floating volcanic rocks) forming long bands in the surface currents in recent days.
+In a recent study, AWE measurements also revealed the gravity waves with the greatest influence on the upper atmosphere have small horizontal wavelengths, ranging from 30 to 300 kilometers, which AWE was specifically designed to measure.
 
-"We're now eagerly waiting to see if a new island is about to be born—something that we've only rarely been able to observe with satellites as it happens," Garvin said. If a new island does emerge, volcanologists will be watching it closely to see how it evolves. It could build a tuff cone with a long-lived vent crater, or it could collapse and erode rapidly. The eruption could also take a much more explosive turn if seawater finds its way into the shallow magma chamber that has risen within the growing underwater structure.
+With its data-collection phase complete, the AWE instrument was turned off to make way for another science experiment that will take its place on the outside of the space station. Called CLARREO Pathfinder (Calibration Absolute Radiance and Refractivity Observatory Pathfinder), the new instrument will take measurements of sunlight reflected by Earth and the Moon that are five to 10 times more accurate than those from existing sensors. The exchange of instruments is a key part of the space station’s mission and versatility as an orbiting laboratory for various types of research.
 
-To date, the eruption has been much less explosive than other recent submarine eruptions, such as those at Hunga Tonga-Hunga Ha'apai in 2022 and Fukutoku-Okanobain 2021. It seems unlikely that this event will become highly explosive because it appears to be associated with a volcanic ridge near the junction of a transform fault and a back-arc spreading center, Carn said. "Spreading centers are associated with less explosive activity, while the most explosive eruptions are usually along subduction zones and involve large stratovolcanoes."
+In the coming days, a robotic arm on the space station, called Canadarm2, will remove the AWE instrument from its location. Soon afterward, the AWE instrument will be loaded into part of a SpaceX Dragon cargo spacecraft that will deorbit and burn up as it re-enters the atmosphere. However, all of AWE’s observations will ultimately become available to the public and the scientific community for ongoing research and discovery.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/new-eruption-in-the-bismarck-sea/)
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA Announces Winners in University Aeronautics Competition
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/gateways-2026-sdsu-wingman.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA Wins Four Telly Awards for Artemis Moon Coverage, More
+<img src='https://images-assets.nasa.gov/image/NHQ202604010226/NHQ202604010226~large.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-A South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance.
+NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards.
 
-This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could advance commercial aircraft maintenance and repair operations by 2035. The competition, sponsored by NASA’s University Innovation project within the agency’s Aeronautics Research Mission Directorate, supported the agency’s objectives of fostering innovative research and strengthening the future aviation workforce.
+“President Trump’s leadership in establishing the Artemis program reignited America’s bold vision for space exploration and set our nation on a course back to the Moon. During America’s 250th birthday, Artemis II marked the beginning of that new era by sending astronauts around the Moon for the first crewed lunar mission since Apollo, inspiring millions across the country and around the world,” said Will Boyington, associate administrator, Office of Communications, NASA Headquarters in Washington. “These Telly Awards recognize the extraordinary NASA teams who brought that historic journey into homes everywhere through innovative storytelling, live coverage, and an unprecedented digital experience that showcased American leadership in space and renewed the spirit of exploration for a new generation.”
 
-“This year’s finalists proposed novel ideas to equip companies and their workers with innovative technologies to help keep our nation’s planes airworthy. This is especially critical in a time where flight safety is more commonly in the spotlight and where workforce shortages lead to challenges and opportunities in aviation,” said Steven Holz, associate project manager for NASA’s University Innovation Project and judging panel chair for Gateways to Blue Skies. “Our panel of industry and subject matter experts were excited about the possibilities these concepts could bring, as well as shared insights needed for these teams to push forward for real-world implementation.”
+The agency’s continuous, 24/7 livestream of the Artemis II mission, which functioned as both a live event and as a science storytelling experience, combined visuals, real-time mission data, and expert analysis to make a complex spaceflight clear and accessible for an international audience. NASA’s video documentation of mission astronauts and support teams conducting geology training on Earth to prepare for future Artemis missions on the Moon also won a science and technology storytelling award.
 
-The winning project, WINGMAN, proposed augmented reality safety glasses equipped with voice-controlled manuals, automatic documentation, and photo recognition that could assist aircraft mechanics during routine daily servicing and minor repairs. The glasses would function as the mechanic’s “wingman,” enabling hands-free access to the information and reporting mechanisms required for line inspections.
+In addition, NASA won a screenwriting award for a documentary on the agency’s Hubble Space Telescope, James Webb Space Telescope, and Nancy Grace Roman Space Telescope, narrated by actor John Rhys-Davies.
 
-The WINGMAN team presented their research along with seven finalists at the 2026 Gateways to Blue Skies Forum held May 18 and 19 at NASA’s Langley Research Center in Hampton, Virginia. The forum was judged by subject matter experts from NASA, the Federal Aviation Administration, and industry, including representatives from Southwest Airlines and American Airlines. Students at the forum had the opportunity to network with NASA and industry experts, tour the center, and gain insight into potential careers. The event was livestreamed, and the presentations were recorded.
+“By following NASA’s Artemis II coverage in real time on multiple platforms, millions of viewers around the world were able to experience the mission inside the Orion spacecraft and alongside the crew, from lunar flyby to splashdown,” said Brittany Brown, director, Office of Communications Digital and Technology Division, NASA Headquarters in Washington. “Our team’s coordination, from the Mission Control Center at NASA’s Johnson Space Center in Houston to the Moon, technical expertise, and around-the-clock dedication turned a single spaceflight mission into a shared, global experience of wonder and inspiration.”
 
-The winning team members will have the opportunity to intern at one of NASA’s four aeronautics research centers during the 2026-27 academic year, including NASA Langley, NASA’s Glenn Research Center in Cleveland, NASA’s Ames Research Center in California’s Silicon Valley, and NASA’s Armstrong Flight Research Center in Edwards, California.
-
-“It was super exciting to participate in Gateways to Blue Skies, especially with the really interesting concepts this year,” said Owen Diede, WINGMAN team lead. “We couldn’t have done it without the feedback and support from our faculty advisor, Dr. Todd Letcher, as well as our design review committee, Dr. Ruyi Lian and Dr. Cody Christensen. This was a fantastic opportunity to learn and grow, and we are incredibly thankful for the experience.”
-
-The commercial aviation industry is a crucial component of the U.S. economy, yet it faces significant challenges due to a shortage of qualified maintenance workers and increasing demands to keep aircraft running for longer. NASA is dedicated to working with commercial, academic, and government partners to advance the capabilities and performance of U.S. aviation.
-
-The Gateways to Blue Skies Challenge is part of the Transformative Aeronautics Concepts Program in NASA’s Aeronautics Research Mission Directorate. The NASA Tournament Lab, part of the Prizes, Challenges, and Crowdsourcing Program in the Space Technology Mission Directorate, manages the challenge through the National Institute of Aerospace on behalf of NASA.
-
-For more information about NASA’s Aeronautics Research Mission Directorate, visit:
+Livestream coverage of the mission and milestones reached NASA’s largest streaming audience ever on its individual platforms, ultimately reaching nearly 290 million combined views across agency platforms. Commercial streaming partners expanded the mission’s reach to a global audience of hundreds of millions more potential viewers.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
