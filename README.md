@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/22 - 01:37`
+**📅 Update (Tehran Time):** `2026/05/22 - 16:10`
 
 ---
 
@@ -19,118 +19,265 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a0f6b9b88b94-1779395483.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Everest record holder warns of Nepal danger as two Indian mountaineers die
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-13T123251Z_1399427903_RC25YDAMJGXA_RTRMADP_3_NEPAL-EVEREST-1779447663.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The high representative overseeing the United States-founded Board of Peace for Gaza, Nickolay Mladenov, has warned that the deteriorating status quo in the devastated Palestinian enclave risks becoming “permanent”.
+Two Indian climbers have died on Mount Everest during a record-breaking period of ascents via Nepal’s southern route, as experts warn of overcrowding on the world’s highest peak.
 
-Speaking on Thursday to the United Nations Security Council (UNSC), Mladenov presented a roadmap detailing obligations for Israel and Hamas to implement a permanent ceasefire. He urged the UNSC to use “every means at its disposal” to press Hamas to disarm, while also saying that Israel must uphold its commitment under a ceasefire agreed in October.
+Nepal is home to eight of the world’s 10 highest peaks and welcomes hundreds of adventurers each spring.
 
-“Let me say this clearly: the implementation cannot advance through Palestinian obligations alone,” Mladenov said, speaking via video call.
+At least five climbers have died during this Everest season, including the two Indians and three Nepalis. A United States and a Czech climber died on Mount Makalu earlier this month.
 
-“The continued killings and Israeli restrictions affecting humanitarian flows are not abstract issues,” he said.
+Nivesh Karki, director at Pioneer Adventures, named the latest victims as Sandeep Are, who he said summited on May 20, and Arun Kumar Tiwari, who reached the peak on May 21.
 
-The war that Israel launched following the October 7, 2023 attacks on southern Israel by Hamas and other armed Palestinian groups was halted by a ceasefire in October 2025. More than 72,775 Palestinians have been killed in the conflict. But the Israeli military maintains a strict security regime, and many hundreds more have been killed in the past seven months. On Thursday, an Israeli drone attack killed a 26-year-old in Gaza’s al-Mahatta area, east of Deir el-Balah city, according to Wafa news agency.
+“They fell ill while descending at high altitude. We are working out how to retrieve the bodies,” Karki told the AFP news agency.
 
-Conflict monitors warn that since the ceasefire in the US-Israel war on Iran was struck last month, Israeli bombardment of Gaza has accelerated. Violent raids by settlers and the military in the occupied West Bank have also been increasing.
+Nepali climber Kami Rita Sherpa, who scaled Everest for a record 32nd time earlier this month, returned to the capital, Kathmandu, on Friday, where he expressed concern about the experience of some climbers.
 
-Mladenov, a veteran Bulgarian diplomat, warned of the risks of inaction by both parties.
+Pictures posted by climbers show a long line of people climbing up fixed ropes, queueing in the icy, low-oxygen high-altitude zones.
 
-“The risk is that the deteriorating status quo becomes permanent: a divided Gaza, Hamas holding military and administrative control over two million people across less than half the territory.
+“The expedition this time felt a bit crowded,” said Kami Rita Sherpa, dubbed the “Everest Man”.
 
-“Those people are likely to remain trapped in the rubble, dependent on aid with no meaningful reconstruction, because reconstruction financing will not follow where weapons have not been laid down,” Mladenov said.
+“The government should regulate this a bit … They should let in only climbers of quality – there should be a limit,” he told AFP.
 
-“And the result? Another generation growing up in tents in fear, with despair as the most rational thing for them to feel.”
+On Thursday, a record number of climbers reached the 8,849-metre (29,032-foot) Himalayan peak from the Nepali side, according to tourism officials, who gave a preliminary total of 275 pending final confirmation.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/22/everest-record-holder-warns-of-nepal-danger-as-two-indian-mountaineers-die?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ronaldo scores twice to seal Saudi Pro League at last with Al-Nassr
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/GettyImages-2277551901-1779397791.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Iran’s enriched uranium stockpile: Can it be safely transferred?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a102d9d1f13-1779445149.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Cristiano Ronaldo scored twice as Al-Nassr clinched the Saudi Pro League title with a 4-1 win over Damac, ending his long wait for domestic silverware.
+United States President Donald Trump reiterated on Thursday that the US will not permit Iran to keep its stockpile of highly enriched uranium.
 
-A trademark free-kick and a close-range finish, both in the final half-hour of Thursday’s game, sealed the win Al-Nassr needed on the last night of the season, with Al Hilal finishing just two points behind.
+However, Iran’s supreme leader, Ayatollah Mojtaba Khamenei, has issued a directive that Iran’s enriched uranium should not be sent abroad, the Reuters news agency reported on Thursday, citing two unnamed senior Iranian sources.
 
-Ronaldo, 41, who was without a major club trophy since winning Serie A with Juventus in 2020, arrived in the oil-rich desert kingdom to great acclaim in 2023, wept as he watched the final minutes from the bench.
+The future of the estimated 440kg (970lb) of uranium enriched to 60 percent that Iran is believed to be holding remains a chief sticking point in peace negotiations between the US and Iran.
 
-He adds the Saudi championship to his English, Spanish and Italian titles and five Champions League medals.
+While uranium enriched to 60 percent is still far short of the 90 percent required for weapons-grade material, it is the point at which it becomes much quicker to reach 90 percent, nuclear experts say.
 
-Al-Nassr took a 2-0 lead but were back to 2-1 before Ronaldo’s free-kick on 63 minutes evaded the goalkeeper and a forest of legs to find the far corner.
+But even if Iran were to agree to transferring it, can highly enriched uranium be moved between countries safely?
 
-He struck again nine minutes from time, receiving a cut-back on the edge of the six-yard box and smashing high into the net.
+“We will get it. We don’t need it, we don’t want it. We’ll probably destroy it after we get it, but we’re not going to let them have it,” Trump said about Iran’s enriched uranium stockpile when he spoke to reporters at the White House on Thursday.
 
-Next up for the all-time leading men’s international goalscorer, with 143 goals, is a sixth crack at the World Cup after he was named in Portugal’s squad this week.
+However, the same day, Reuters reported that Iran’s supreme leader had issued a directive prohibiting the removal of the uranium.
 
-Ronaldo opened the door to a series of big-money Saudi signings when he joined Al-Nassr in January 2023, following an unhappy second spell at Manchester United.
+Reuters additionally reported, citing unnamed Israeli officials, that Trump had assured Israel that Iran’s enriched uranium stockpile will be sent out of Iran and that any peace deal will include a clause on this.
 
-Neymar and Karim Benzema were among those to follow after Ronaldo signed a two-and-a-half-year deal estimated at $232m, extended for two years in June 2025.
+“The Supreme Leader’s directive, and the consensus within the establishment, is that the stockpile of enriched uranium should not leave the country,” Reuters reported, quoting one of the two Iranian sources, who spoke on condition of anonymity because of the sensitivity of the matter.
 
-The stated aim was to turn the Pro League into one of the world’s top five football competitions measured by the quality of players, stadium attendances and commercial success. International interest has been muted, however.
+Tehran has said for years that its nuclear programme is for civilian purposes only and that it does not intend to build nuclear weapons. It signed a deal with the US in 2015 to limit its nuclear programme in exchange for sanctions relief. But Trump withdrew from the landmark deal in 2018 and slapped sanctions back on Iran, despite international inspectors stating that Iran had stuck to its side of the deal.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/21/ronaldo-scores-twice-to-seal-saudi-pro-league-at-last-with-al-nassr?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/22/irans-enriched-uranium-stockpile-can-it-be-safely-transferred?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ebola treatment hospital burned down in DRC as outbreak spreads
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779396472.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Man City confirm Guardiola exit to end decade-long, trophy-laden spell
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-22T104232Z_1989524323_RC2V5LAMMAIS_RTRMADP_3_SOCCER-ENGLAND-MCI-GUARDIOLA-1779447128.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Protesters set a hospital on fire in the Democratic of Congo, as authorities struggle to contain an Ebola outbreak.
+Pep Guardiola will leave ‌Manchester City at the end of the season after a decade in charge, the club has confirmed, bringing an end to ⁠one of the most successful ⁠eras in English football and one of the most influential managerial reigns of all time.
+
+The departure of the 55-year-old Catalan coach will close the book on a remarkable chapter that has seen City transform into a footballing juggernaut.
+
+Guardiola, who took ⁠charge of City in 2016, has won six Premier League titles – including four in a row – three FA Cups, five League Cups and the Champions League, but his side have not won the league in two years.
+
+“Don’t ask me the reasons I’m leaving. There is no reason, but ⁠deep inside, I know it’s my time,” Guardiola said in a statement on Friday.
+
+“Nothing is eternal, if it was, I would be here. Eternal will be the feeling, the people, the memories, the love I have for my Manchester City.
+
+“We worked. We suffered. We fought. And we did things our own way. Our way.”
+
+Although City sealed the domestic cup double this season, Guardiola saw his dreams of a seventh Premier League crown dashed when they drew 1-1 at ‌Bournemouth on Tuesday to hand Arsenal the title, with City set to finish second.
+
+Guardiola had arrived in Manchester with a resume already stuffed with silverware from Barcelona and Bayern Munich, taking over from Manuel Pellegrini in July 2016.
+
+After inheriting a successful club financed by the Abu Dhabi United Group, Guardiola will walk away having built a footballing empire after overseeing a paradigm shift in Premier League tactics.
+
+As Guardiola faced the challenge of adapting to England’s famously fast-paced and physical league, possession became an art form and a defensive tool at City as his teams craved complete control.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/21/ebola-treatment-hospital-burned-down-in-drc-as-outbreak-spreads?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/22/guardiola-confirms-man-city-exit-ending-17-year-trophy-laden-spell?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NYC launches lottery for $50 World Cup football tickets
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779395973.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 British climber sets record with 20th Everest summit
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-24T100752Z_1841006913_RC23UKACY538_RTRMADP_3_NEPAL-EVEREST-ROUTE-1777900758.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-New York City is launching a lottery for 1,000 discounted World Cup tickets priced at $50. The city’s Mayor, Zohran Mamdani said match prices had soared into the thousands of dollars. The scheme is intended to give working-class New Yorkers access to matches.
+A 52-year-old British climber has set a new record as he summited Mount Everest for a 20th time.
+
+Kenton Cool became the first non-Nepali climber to conquer the world’s highest peak 20 times before dawn on Friday. However, as he celebrated his achievement and began his descent, voices called for limiting activity on the 8,849-metre (29,032ft) mountain as it was reported that two Indian climbers had died.
+
+Cool is expected to reach the base camp over the weekend after his latest summit. In a statement carried by the Reuters news agency, he said climbing Mount Everest never gets “any easier or any less frightening. It’s the tallest mountain in the world and with it comes an incredible sense of majesty.
+
+“I rely on every bit of experience ⁠I have to move safely in this environment. Standing on the summit for the twentieth time is incredibly special.”
+
+Cool is the first non-Sherpa to achieve the feat, but at least seven Nepali climbers have more than 20 summits under their belt.
+
+Fifty-five-year-old Kami Rita Sherpa, or “Everest Man” climbed the summit for the 32nd time – extending the world record – on Sunday.
+
+The British climber first reached Everest’s peak in 2004 and has since taken an expedition almost every year. His journey to the top of the world was not without hardship; he was once told he would never walk unaided again, after a rock-climbing accident in 1996 left both his heel bones broken.
+
+Four-time Everest climber and expedition organiser Lukas Furtenbach told Reuters that Cool was “quietly rewriting the record books”, praising him as an “absolute legend” for racking up more Everest summits than any non-Sherpa in history.
+
+Cool’s achievement follows on the heels of another record. On Wednesday, more than 270 climbers ascended via Nepal’s southern route, the most in a single day. That came amid calls for action to prevent overcrowding and improve safety.
+
+Two Indian climbers were reported on Friday to have reached the peak, but to have died during their descent after they “fell ill”, Nivesh Karki, director at Pioneer Adventure, told the AFP news agency.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/21/nyc-launches-lottery-for-50-world-cup-football-tickets?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/22/british-climber-sets-record-with-20th-everest-summit?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Flotilla activists recount Israeli violence as they arrive in Turkiye
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779395735.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Gang violence kills at least 25 in Honduras
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a101dba8983-1779441082.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Activists from the Global Sumud Flotilla arrived in Istanbul on Thursday and described Israeli violence.
+Gunmen have killed at least 25 people, including six police officers, in attacks across Honduras.
+
+The attacks marked Thursday as one of the most violent days the country has seen in recent years. They came despite ongoing efforts by the government to rein in organised crime and violence.
+
+Nineteen people were killed as gunmen raided a palm plantation in the municipality of Trujillo in the north of the country.
+
+A leader of one rural group told the AFP news agency that those killed were employees of an armed group controlling a plantation.
+
+However, local media indicated that armed suspects had fired indiscriminately on labourers. They reported that the oldest victim was 61.
+
+Photos showed bodies, some wearing thick rubber boots for work, strewn on the ground outside.
+
+Meanwhile, in the west near the Guatemalan border, six police officers were killed in another shooting in the municipality of Omoa.
+
+Police report that the officers had travelled to the area as part of an operation to quash gang activity. However, they were ambushed.
+
+After the two attacks, the National Police issued a statement, saying it “will proceed immediately with a direct intervention in the affected areas”.
+
+“The state will act firmly to capture those responsible, protect vulnerable communities and guarantee comprehensive justice for all affected victims,” it added.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/21/flotilla-activists-recount-israeli-violence-as-they-arrive-in-turkiye?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/22/gang-violence-kills-at-least-25-in-honduras?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
+### 📰 Cubans grapple with fuel shortages and blackouts as US steps up pressure
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/b06e/live/97877430-5599-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+The incident at the centre of a murder charge against Cuba's former president, Raúl Castro, is burned into the collective memory of both Havana and Miami.
+
+The US case, unveiled on Wednesday, accuses Castro and five others in the shooting down of two planes belonging to Cuban-American group Brothers to the Rescue in 1966 - killing four people, including three Americans.
+
+Cuban President Miguel Díaz-Canel has called this and other charges levelled at Castro "a political manoeuvre, devoid of any legal foundation".
+
+US Secretary of State Marco Rubio has since said Cuba poses a "national security threat" and the likelihood of a peaceful agreement between the two countries is "not high".
+
+As the charges against Raúl Castro were announced, many Cubans were unaware and incommunicado due to the 20-hour blackouts continuing to grip the island. The US has imposed a near-total fuel blockade that has affected almost every facet of daily life.
+
+US President Donald Trump has repeatedly sought to exert pressure on Cuba and has openly discussed toppling its communist regime.
+
+The US has demanded political and economic reforms but the specifics are unclear beyond a leadership change. They could include a pledge to open up the economy to more foreign investment and a commitment to end the presence of Russian or Chinese intelligence agencies on the island.
+
+Ana Rosa Romero lives on the 11th floor of the Granma Dos building, an imposing modernist social housing block in the Cuban capital, Havana. A widow in her 70s, she said that when her husband died recently, a blackout in her neighbourhood meant she had to sit with his body for hours before it could be moved.
+
+These days, with the lift so often not working, she says she barely leaves her apartment.
+
+"You can hardly go out," said the former philosophy teacher, a framed picture of Fidel Castro on her wall.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 US navy chief says $14bn arms sale to Taiwan paused due to Iran war
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/48b0/live/2c1d2b70-55a5-11f1-a3f4-25da51d330b4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+The US is pausing a $14bn (£10.4bn) arms sale to Taiwan to ensure it has enough weapons for the Iran war, acting Navy secretary Hung Cao has said.
+
+Cao confirmed this at a Senate hearing, days after President Donald Trump appeared non-committal about the sale following his meetings with Chinese leader Xi Jinping.
+
+A spokesperson for Taiwan's presidential office told reporters on Friday that they had not received any information about "US adjustments to the arms sale".
+
+The sale of US arms to Taiwan has long irked Beijing, which claims the self-governed island as its territory and has not ruled out taking it by force.
+
+"Right now we're doing a pause in order to make sure we have the munitions we need for Epic Fury - which we have plenty," Cao said at the hearing on Thursday, using the code name for the US-Israel joint military operation in Iran.
+
+"We're just making sure we have everything, but then the foreign military sales will continue when the administration deems necessary."
+
+When asked what he had heard from the Taiwanese about a pause in the weapons sale, Cao said he had "not spoken to the Taiwanese".
+
+The $14bn package has been waiting for Trump's approval for months. It includes air defence missiles, such as Lockheed Martin's PAC-3, and surface-to-air missile systems, according to a Reuters report in March.
+
+Trump has yet to confirm that he would give final approval to the package, telling Fox News last week that it was "a very good negotiating chip" with China.
+
+He also told reporters he would "make a determination over the next fairly short period" on the weapons sale to Taiwan.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1b68/live/1f2e9b70-55d1-11f1-9a5f-8f70d4bfa4fc.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Turkish opposition leader Özgür Özel has vowed to fight a court ruling removing him and fellow party leaders, in the latest legal move that helps cement President Recep Tayyip Erdoğan's grip on power.
+
+The appeal court declared the 2023 leadership election in Özel's Republican People's Party (CHP) null and void, prompting thousands of demonstrators to gather outside party headquarters in Ankara.
+
+"We are experiencing a dark day for Turkish democracy," said Özel, who vowed to  challenge the ruling in the courts and with Turkey's supreme election council (YSK).
+
+Justice Minister Akin Gürlek insisted the ruling "reinforces our citizens' trust in democracy".
+
+Until Gürlek was appointed justice minister by President Erdoğan earlier this year, he was the chief prosecutor in Istanbul who spearheaded investigations targeting the opposition, and the city's highly popular mayor Ekrem Imamoğlu in particular.
+
+Imamoğlu, who is still considered Erdoğan's biggest political rival, has been in jail for over a year and it was Gürlek who accused him of corruption offences which command more than 2,000 years behind bars.
+
+The supreme election council was meeting on Friday to hear the opposition party's objection to the court's decision.
+
+In its ruling on Thursday, the appeals court in Ankara overturned a 2025 ruling by a lower court that threw out allegations of vote buying during the CHP primary which made Özgür Özel opposition leader.
+
+The appeals court decided that Özel should be replaced by Kemal Kilicdaroğlu, a 77-year-old party veteran who was defeated by Erdoğan in the 2023 presidential election and then voted out as party leader.
+
+The ruling also means the party's entire executive is replaced and it is thought the decisions it has made are no longer recognised.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Rubio says Cuba is threat to US as Havana accuses him of 'lies'
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7399/live/04ee7920-5553-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/93de/live/41fbbf70-55c2-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
 Cuba poses a "national security threat" to the US and the likelihood of a peaceful agreement is "not high", US Secretary of State Marco Rubio has said.
 
-His comments come just a day after the US charged Cuba's former president Raúl Castro with murder over the 1996 downing of two planes resulting the the killing of US nationals.
+His comments come just a day after the US charged Cuba's former president Raúl Castro with murder over the 1996 downing of two planes resulting in the killing of US nationals.
 
 Rubio said Washington's preference was "a diplomatic solution" but warned that President Donald Trump had the right and obligation to protect his country against any threat.
 
@@ -154,125 +301,34 @@ Rubio said the country had accepted a US offer of $100m (£74.4m) in humanitaria
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Angry crowd sets Ebola hospital tents on fire in DR Congo
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7fb5/live/d6df4d30-554c-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 AI used to fake evidence that ended Korean actor's career, say police
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c782/live/1b71a660-55c4-11f1-99e4-4d92e48ba181.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-An angry crowd set alight a section of a hospital at the epicentre of the Ebola outbreak in the eastern Democratic Republic of Congo after family and friends of a young man thought to have died from the virus were prevented from taking his body away for burial.
+South Korean police are seeking an arrest warrant for a YouTuber who allegedly faked evidence that defamed actor Kim Soo-hyun and fuelled a scandal which ended his career.
 
-"They started throwing projectiles at the hospital. They even set fire to tents that were being used as isolation wards," local politician Luc Malembe Malembe told the BBC about the scene he witnessed at Rwampara General Hospital.
+Authorities say the YouTuber had manipulated screenshots of text messages and shared an audio file made with AI to give the impression that the actor had dated actress Kim Sae-ron when she was still a minor.
 
-The body of a dead Ebola victim is highly infectious and the authorities need to ensure safe burial to stop the spread of the virus.
+The allegations surfaced last year, shortly after Kim Sae-ron killed herself at the age  of 24.
 
-Medical workers at the Rwampara hospital, located near the city of Bunia in Ituri province, where almost all of the cases have been reported, were placed under military protection as the police moved in to restore order.
+The scandal shook the country and upended the career of Kim Soo-hyun, who is a household name in South Korea. The actor has consistently denied the allegations.
 
-A healthcare worker was injured by stone-throwing protesters before law enforcement agents intervened, a hospital worker told the AFP news agency.
+The YouTuber, Kim Se-ui, has since posted a video claiming the authorities' allegations were a "subterfuge meant to disrupt his investigation".
 
-The man who died was a popular figure in the local community and those upset by his death did not "grasp the reality of the disease," Jean Claude Mukendi, who is co-ordinating the security response to Ebola in Ituri, told the Associated Press.
+Months after Kim Sae-ron's death, the YouTuber had posted online a voice recording in which the actress could be heard saying she had been dating Kim Soo-hyun since she was in middle school.
 
-Witnesses told Reuters the young man was a footballer who had played with several local teams. His mother told the news agency she believed her son had died of typhoid fever, not Ebola.
+The YouTuber Kim Se-ui, who has nearly a million followers on his channel, had also presented screenshots of text messages purportedly sent between the actor and the actress.
 
-Malembe said the crowd did not believe the virus, which has so far killed more than 130 in eastern DR Congo, was real.
+They also allege that the YouTuber had manipulated screenshots of text messages sent from the actress's phone to make it look like she had been texting Kim Soo-hyun.
 
-"People are not properly informed or sensitised about what is happening. For a certain segment of the population, especially in remote areas, Ebola is an invention by outsiders - it does not exist," the politician said.
+The YouTuber had knowingly spread the false claims for financial gain, authorities say.
 
-"They believe it is the NGOs and hospitals creating this to make money, and this is tragic."
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cp8p2g8yp8do?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Iran steps up claim to control Strait of Hormuz
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8d05/live/16dba5c0-550f-11f1-89a3-d1f559421220.png' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Iran has said it is significantly expanding the area around the Strait of Hormuz over which it claims military control in an effort to assert its sovereignty of the key trade route.
-
-A map published by Iran's newly-created "Persian Gulf Strait Authority" claims "Iranian armed forces oversight" across more than 22,000 sq km (8,800 sq miles).
-
-It extends into the territorial waters of Oman and the UAE. The UAE described Iran's claims of control as "nothing but fragments of dreams".
-
-Iran's new authority added that all transit through the strait "requires coordination with and authorization from the Persian Gulf Strait Authority".
-
-The US and Gulf allies have repeatedly rejected Iranian attempts to assert control over the strait. The US has told ships not to comply with Iran's rules.
-
-The diplomatic adviser to the UAE president, Anwar Gargash, said Iran is "trying to consecrate a new reality born from a clear military defeat, but attempts to control the Strait of Hormuz or encroach on the UAE's maritime sovereignty are nothing but fragments of dreams".
-
-Under the United Nations Convention on the Law of the Sea ships are guaranteed safe passage through another country's waters - but Iran has not ratified this convention.
-
-Media linked to Iran's Islamic Revolutionary Guard Corps (IRGC) this week published footage showing what it claimed was a "punishment" strike on a tanker in the strait.
-
-BBC Verify analysis shows key characteristics of the vessel in the footage match with Barakah, a Liberian-flagged tanker which reported being struck by unknown projectiles in early May, according to the ship's operators.
-
-Iran's push for greater control over the area around the Strait of Hormuz comes as US forces boarded an Iran-bound oil ‌tanker on Wednesday. The US military's Central Command (Centcom) said it was ⁠suspected of violating the American blockade of Iranian ports.
+His actions "collapsed Kim Soo-hyun's social base and his economic activities across the board, and destroyed the basis for his professional survival," according to a police filing reported by news outlet JoongAng Ilbo.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Gaza flotilla activists deported from Israel as backlash over treatment grows
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/71dc/live/48351120-5509-11f1-9922-c1ca78961024.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Hundreds of pro-Palestinian activists who were detained in Israel after their flotilla bringing symbolic aid to Gaza was intercepted have been deported, Israel has confirmed.
-
-It follows international backlash in response to a video posted by far-right National Security Minister Itamar Ben Gvir showing himself taunting activists kneeling with their hands tied behind their backs.
-
-On Thursday, the UK confirmed it had summoned Israel's top diplomat in Britain, charge d'affaires Daniela Grudsky Ekstein, over the incident.
-
-In a statement, the UK Foreign Office said the move reflected the UK's "strong condemnation of [Ben Gvir's] conduct in taunting those involved in the Global Sumud Flotilla".
-
-"We are also deeply concerned by the detention conditions depicted and have demanded an explanation from the Israeli authorities. We made clear their obligations to protect the rights of all those involved," the statement said.
-
-Similarly, Poland has also summoned Israel's Chargé d'Affaires in Warsaw.
-
-Writing on social media, Poland's Foreign Affairs Minister Radosław Sikorski said it wished to express "outrage" at the treatment of its citizens, and "demand an apology for the utterly inappropriate behavior of a member of the Israeli government".
-
-A foreign ministry spokesman later said two Polish citizens who were part of the flotilla would be returning, and that a request had been made to ban Ben Gvir from Poland.
-
-On Thursday, Italy's Foreign Affairs Minister Antonio Tajani said he had asked the EU to consider placing sanctions on Ben Gvir.
-
-He said this was for the "unacceptable acts" of "seizing the activists in international waters and subjecting them to harassment and humiliation, in violation of the most basic human rights".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Pair arrested after boys abandoned by road in Portugal
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c569/live/088e2860-5543-11f1-bf6a-71733cf77f82.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A man and a woman reported by local media to be the mother and stepfather of two young French boys found alone and in tears by the side of a road in southern Portugal have been arrested.
-
-The children - both under five - were found by a driver near the town of Alcacer do Sal on Tuesday, police said.
-
-They were carrying backpacks with food and water but no identity documents.
-
-The boys' father had reported them missing from their home in Colmar in eastern France on 11 May and France had issued a pan-European request for help.
-
-Police in Portugal and France have opened inquiries and said they had not reached any conclusions at this stage.
-
-Local media reports said the couple were arrested after their car was spotted outside a café in the city of Fatima, about 180km (112 miles) north of Alcacer do Sal.
-
-Portugal's National Republican Guard said its officers arrested a 41-year-old woman and man aged 55. They have not formally identified the arrested pair.
-
-They said the couple were being investigated for the crimes of domestic violence, exposure to danger, and abandonment.
-
-The driver who found the boys said he fed them before alerting the police.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c9wex9v57ndo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -437,310 +493,304 @@ She added: “It is a strategic mistake – and a national security vulnerabilit
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 NASCAR Legend Kyle Busch Dead At 41
-<img src='https://imagez.tmz.com/image/1b/16by9/2026/05/21/1b2755b3786b4eb2a5b6786bbd9bbbfb_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Stephen Colbert Trots Out A-Listers to Say Farewell to 'The Late Show'
+<img src='https://imagez.tmz.com/image/1c/16by9/2026/05/21/1c93589f8e284e639ebdf239bd365223_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-NASCAR legend Kyle Busch has tragically died at the age of 41.
+Stephen Colbert's final farewell to "The Late Show With Stephen Colbert" was memorable mostly for its star power!
 
-Busch's racing team, Richard Childress Racing, along with NASCAR, announced the shocking news.
+Colbert brought out a bunch of A-list celebs Thursday night to help him say goodbye to his show and his fans after over 10 years and 1,800 episodes.
 
-"On behalf of the Busch family, everyone at Richard Childress Racing and all of NASCAR, we are devastated to announce the sudden and tragic passing of Kyle Busch."
+Feast your eyes on these bold-faced names:&nbsp;Paul McCartney, Bryan Cranston, Ryan Reynolds, Paul Rudd, Tim Meadows, Tig Notaro, John Oliver, Seth Meyers, Jimmy Kimmel, Jimmy Fallon, Andy Cohen, Neil deGrasse Tyson, and Elvis Costello.
 
-"Our&nbsp;entire NASCAR family&nbsp;is heartbroken by the loss of Kyle Busch. A future Hall of Famer, Kyle was a rare talent, one who comes along once in a generation.&nbsp;He was fierce, he was passionate, he was immensely skilled and he cared deeply about the sport and fans. Throughout a career that spanned more than two decades, Kyle set records in national series wins, won championships at NASCAR’s highest level and fostered the next generation of drivers as an owner in the Truck Series."
+One high-profile person who wasn't present -- and not directly mentioned -- was President Trump, who became Colbert's archenemy before 'The Late Show' recently got canceled by CBS.
 
-"His sharp wit and competitive spirit sparked a deep emotional connection with&nbsp;race fans of every age, creating the proud and loyal ‘Rowdy Nation.’ Our thoughts are with Samantha, Brexton and Lennix, Kyle and Samantha's parents, Kurt and all of Kyle’s family, Richard and Judy Childress, everyone at Richard Childress Racing, his teammates, friends and fans. NASCAR lost a giant of the sport today, far too soon."
+As everyone knows, Trump and Colbert were always at war over their divergent political beliefs, and many think that the prez pressured CBS to give the show the ax. CBS says the show was a money loser.
 
-"During this incredibly difficult time, we ask everyone to respect the family’s privacy and continue to keep them in your thoughts and prayers. Further updates will be shared as appropriate."
+During his opening monologue last night, Colbert talked about what 'The Late Show' meant to him and his staff, calling it "The Joy Machine."
 
-Earlier in the day, RCR revealed Kyle was in the hospital with a "severe illness" which came on the heels of his last race on May 10 at Watkins Glen in upstate New York. During the race, Busch radioed his crew for medical aid.
+He also discussed back in the day with Comedy Central, highlighting his old show, "The Colbert Report," in which he would "feel the news at you" instead of just reading it. Colbert said that his job was different on "The Late Show" ... which was to "feel the news with you."
 
-On TV, they noted Kyle had been battling some sort of sinus code. However, he actually finished the race, coming in eighth place.
+Colbert also thanked the crowd for giving him the energy to do the "best possible show we could have for you for the last 11 years.”
 
-Busch was one of the best drivers to ever get behind the wheel of a NASCAR stock car, winning 63 Cup Series races (1st among active drivers, 9th overall), 102 Xfinity Series races (a record), and 69 Craftsman Truck Series wins (also a record).
-
-KB is the most winningest driver ever across all the NASCAR series.
-
-Busch was known by a couple of nicknames among race fans ... "Rowdy" and "Wild Thing," for his aggressive style on the track.
-
-Kyle's brother, Kurt, also raced in the Cup Series back in the day.
-
-Kyle is survived by his wife Samantha, and his two children, an 11-year-old son and 4-year-old daughter.
-
-Story developing ...
+Mic drop!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/nascar-kyle-busch-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/stephen-colbert-late-show-paul-mccartney-brian-cranston/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Britney Spears Invites Cops Over For Lasagna, Pool Time Amid DUI Arrest, on Video
-<img src='https://imagez.tmz.com/image/22/16by9/2026/05/21/22b83a460880438e874f3142ac2d783f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Nicki Minaj Pops Up at Elon Musk's Attempted SpaceX Rocket Launch
+<img src='https://imagez.tmz.com/image/12/16by9/2026/05/22/12eeb2f976654a52b813fb36be6ef53f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Britney Spears had a complete meltdown when she was arrested for DUI ... and the superstar even made cops a very bizarre offer.
+Nicki Minaj made a surprise cameo appearance Thursday at Elon Musk's Starbase site in Texas, where SpaceX tried to launch its new megarocket into outer space -- but it all fell apart due to technical issues.
 
-In CHP footage, obtained by TMZ ... Brit has some serious mood swings, going from combative and defiant ... to a full-on crying spiral.
+Still, Nicki had a blast attending her first attempted rocket launch, hanging out with some of the SpaceX staff -- and even getting interviewed on camera.
 
-At first, she tells the cops she won't get out of her car ... because she feels “invaded” and "harassed" by them -- and that "I haven't done anything wrong."
+Check out the clip ... Nicki called the moment "historic," pointing to her T-shirt emblazoned with the rocket's name, "Starship," which is almost identical to the name of one of her most famous songs, "Starships."
 
-It takes a wild turn when Brit tells officers she doesn't want to get out because there's too much traffic. The cops play it cool ... and tell her they can drive her up the road where it's less busy. And that's when Brit tells them ... she lives nearby, and they can just come over for some "lasagna" and to take a dip in her pool.
+The artist also got super excited when one of the staffers told her only 6 minutes remained before the much-anticipated launch. But the rocket never made liftoff as a result of technical issues that could not be fixed in time.
 
-There is a beat before one of the cops again asks her to get out of the car.
+After the issues are finally resolved, though, the&nbsp;rocket could potentially launch Friday night at the earliest.&nbsp;&nbsp;
 
-The video highlights what we reported was in arrest documents ... Brit's mood went from one extreme to another. It actually gets pretty sad ... once Brit seems to realize she's in deep trouble, she begs officers, while sobbing, not to leave her alone, but for someone to sit with her in a cruiser.
-
-As we previously told you ... Britney&nbsp;reached a plea deal&nbsp;with prosecutors earlier this month, which resulted in them dropping the DUI charge. The&nbsp;charge&nbsp;was reduced to a "Wet Reckless" -- reckless driving involving alcohol.
-
-As part of the deal ... Spears was put on probation for 12 months and cannot possess drugs without a valid prescription.
+We'll have to see if Nicki makes another cameo. By the way, Nicki and Elon traded pleasantries on X, with Nicki calling his Starbase site "magical."&nbsp;
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/britney-spears-invites-cops-over-for-lasagna-during-dui-arrest/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/nicki-minaj-elon-musk-spacex-starship/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 'No Jumper' Cohost's Alleged Murder Victim Died From Blunt Force Trauma
-<img src='https://imagez.tmz.com/image/6c/16by9/2026/05/21/6c9eabcb834e44d4b05f4af60fa82037_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 See the Full Video of Britney Spears' DUI Arrest
+<img src='https://imagez.tmz.com/image/00/16by9/2026/05/21/005e67bcc9874e069bb0f4855a840dff_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Carl Welch -- the person who prosecutors claim "No Jumper" podcast cohost Ant Jefe murdered -- died of blunt force trauma in a parking lot ... TMZ has learned.
+Britney Spears was busted for DUI back in March, and now we get to see how the whole thing played out.
 
-Prosecutors filed legal documents formally charging Jefe -- real name Maurice Shelmon -- and another man named Johnnie Gray with Welch's murder ... and the L.A. County Medical Examiner listed the cause of death and a few other details on their own site.
+TMZ has obtained the full dashcam video of Britney's arrest -- from the moment cops hit the lights to pull her over ... which she took her 3 minutes to do!
 
-Prosecutors allege the crime went down on or about January 31 of this year ... and they also listed a series of previous charges for which Jefe was arrested -- including robbery.
+The pop star's out of frame for most of the footage, but you can hear her going through the field sobriety test -- including when cops cuffed her -- and seemingly blowing into a breathalyzer as she insists she's not drunk.
 
-We broke the story ... Jefe was arrested by LAPD's elite Robbery-Homicide Division and booked for felony murder.
+At one point, she tells the officers she wants to drive home, but they let her know she can't. You can hear Britney respond ... "Yes, I can drive home. Why are you telling me that?"
 
-Jefe's cohost -- Adam22 -- told us, "[Ant has] been a great podcaster for the last year or so and as far as I knew, he wasn’t really in the streets like that anymore, so this was all a huge shock."
+Check out the full video to see how her arrest went down, start to finish.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/ant-jefe-murder-victim-cause-of-death/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/britney-spears-full-dui-arrest-footage/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Who Is Mackenzie Shirilla From 'The Crash' Documentary?
-<img src='https://imagez.tmz.com/image/09/16by9/2026/05/20/09d81460dc7342588ad640861dc02660_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Rep. Ilhan Omar Says Donald Trump is a Bad Parent If He Skips Don Jr.'s Wedding
+<img src='https://imagez.tmz.com/image/0d/16by9/2026/05/21/0d44f5bd1037430f8d77cad1ab89dc49_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Mackenzie Shirilla is "literal hell on wheels" -- at least that's how the judge felt about her role in the fatal car crash that killed Dominic Russo and Davion Flanagan in 2022 -- but who is she, exactly?
+Rep. Ilhan Omar has more issues with Donald Trump than his political views ... she's questioning whether he's a good parent.
 
-Whether you've been following Mackenzie's case for years or are just now hearing the hype over Netflix's new documentary, "The Crash," we've rounded up everything you need to know.
+Jacob got the Congresswoman from Minnesota Thursday leaving Capitol Hill, and asked about the Prez saying he may be too busy to attend Donald Jr.'s wedding to Bettina Anderson this weekend in the Bahamas.
 
-Mackenzie was charged with murdering Dominic and Davion
+Trump said it wasn't a great time because he had "other things" going on, including the Iran War.
 
-Mackenzie was driving her then-boyfriend Dominic, and her friend Davion home around 5 AM on July 31, 2022 when she crashed her car into the brick wall of a building in Strongsville, Ohio.
+Omar says a good parent would make time for his son's special day, adding Trump has time to golf and fiddle with the White House ballroom during the war. At one point she laughingly says, "Worst parent in the world."
 
-Dominic and Davion were killed almost immediately, but Mackenzie was still breathing and taken to the hospital for her injuries.
-
-Police initially thought the crash was an accident, but after months of investigating, they arrested Mackenzie that November ... hitting her with a bunch of charges, including multiple counts of murder.
-
-She was going about 100 mph when she crashed
-
-Prosecutors used CCTV from that morning to show Mackenzie's Toyota Camry making a controlled turn moments before accelerating to a terrifying speed as the car drives straight at the wall. Prosecutors pointed to data from the car's "black box" system to figure out just how fast she was going.
-
-In the Netflix doc, you can see a spreadsheet that seems to show the data from the last five seconds before the crash.
-
-It showed the car hit around 100 mph in those final moments ... and the accelerator was fully floored in the seconds leading up to impact. The data also showed that no one touched the brake during that five-second window.
-
-Prosecutors also brought in a forensic auto investigator who determined the braking, steering, acceleration, and tires of the car had all been working fine ... which they argued showed the crash wasn't caused by a malfunction of the vehicle.
-
-Mackenzie allegedly threatened Dominic before the crash
-
-Dominic and Mackenzie had been living together, but their relationship was a bit rocky ... according to the Netflix doc. In an audio, his brother Angelo told police that Dominic had been trying to break up with Shirilla.
-
-The doc also reveals that -- two weeks before the crash -- Dominic called his mother, Christine, to say Mackenzie was driving dangerously while he was in the car. So, she sent her friend Christopher "Hench" Martin to track him down.
-
-Christopher told cops in an interview that when he called Dominic to figure out where he was, he heard Mackenzie in the background allegedly saying, "I'll crash this car."
-
-As far as Mackenzie's side of the story goes ... she says Dominic had been trying to grab the steering wheel. The doc shows she texted her mom that he was trying to "spin out" her car.
-
-There was no alcohol or psilocybin in Shirilla's system at the time of the crash
-
-At the scene of the crash, cops found marijuana, psilocybin mushrooms, and a digital scale ... which initially led police to believe that Mackenzie might've been impaired behind the wheel. A blood test did find THC in her system ... but no shrooms or alcohol.
-
-Prosecutors said Mackenzie was used to driving under the influence of marijuana, so the THC alone wouldn't impair her abilities. The Netflix doc even included a montage of social media videos of her smoking in her car.
-
-She blamed the crash on her POTS diagnosis
-
-Mackenzie maintains that she has no memory of the crash or the moments leading up to it ... claiming she must've had a medical emergency.
-
-Mackenzie's mom says her daughter was diagnosed with postural orthostatic tachycardia syndrome -- commonly known as POTS -- in 2017 and argued that the condition may have caused her to black out and crash the car.
-
-Mackenzie was sentenced to 2 life sentences
-
-In 2023, Mackenzie was tried as an adult and found guilty on all 12 charges -- 4 counts of murder, 4 counts of felonious assault, 2 counts of aggravated vehicular homicide, 1 count of drug possession, and 1 count of possessing criminal tools.
-
-While delivering the verdict, the judge said Mackenzie went from a "responsible driver" to "literal hell on wheels" as she accelerated down the road and crashed the car. She was ultimately sentenced to 2 concurrent sentences of 15 years to life ... and she will be eligible for parole starting in 2037.
-
-Former inmate says her prison behavior doesn't match the doc
-
-Mackenzie is currently serving time at the Ohio Reformatory for Women and did an interview from prison for the Netflix doc, where she maintained that the crash was a complete accident and that she had no recollection of the details.
-
-But a former inmate -- who showed screenshots to confirm her time in the clink overlapped with Mackenzie's -- said she was much more of a mean girl than she let on in the doc.
-
-Mary Katherine Crowder said on TikTok ... "Mackenzie Shirilla did not walk around that prison yard with an ounce of remorse."
-
-She claimed Mackenzie was more concerned with doing her makeup and rubbing elbows with the cool kids ... even accusing her of putting on a different voice for the doc.
-
-Dominic was 20, and Davion was 19.
-
-RIP.
+Trump said he'll get torn apart by the fake news, whatever he decides to do. Add at least one of his political rivals to that list.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/who-is-mackenzie-shirilla/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/ilhan-omar-calls-trump-a-bad-dad/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Shop Swimsuits Inspired by Love Island
-<img src='https://imagez.tmz.com/image/55/16by9/2026/05/13/55ed0e87eab041adb0e164116de8031a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Best Amazon Memorial Day Sale Deals for Summer
+<img src='https://imagez.tmz.com/image/19/16by9/2026/05/18/194f86b5420840479286ec5fc6a091e4_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
-A hot new bombshell has entered the villa … you! Get ready for summer, because season 8 of "Love Island" is almost here.
+Memorial Day weekend is not just the unofficial start to summer … it's also one of the biggest sale events of the year.
 
-A new group of islanders are about to bring the heat -- and a whole lotta outfit inspo -- just in time for summer.
+With a hot summer ahead, it’s time to upgrade your gear for the warmer weather, from bathing suits to pool floats -- and all for epic-ly low prices. That's right ... Amazon is having a massive Memorial Day Weekend sale you don't want to miss!
 
-Before the villa opens, here are some island-inspired bikinis and swimsuits so you can dress like your favorite islanders and sexy singles!
+So whether you’re headed poolside, oceanside, or just planning to kick it outdoors this summer, we've got you covered with major deals on the gear you need.
 
 Want more great finds? Head to TMZ Deals.
 
-RoseSeek Leopard Floral Bikini
+TMZ CHEAT SHEET: MEMORIAL DAY SALE
 
-A cute, sexy bikini is basically the Love Island uniform.
+Anker Soundcore 2 Bluetooth Speaker -- $30Tummy Control One Piece Swimsuit -- $20Crochet Bathing Suit Coverup -- $15Coleman Portable Camping Chair -- $40Inflatable Pool Floats Set -- $22Inflatable Standup Paddleboard -- $1503-in-1 Slim Can Cooler -- $15Women’s Slip On Faux Leather Sandals -- $27
 
-This RoseSeek Bikini Set features a starfish charm and comes in a ton of fab prints.
+Anker Soundcore 2 Bluetooth Speaker
 
-Whether you're lounging on the beach or tanning by the pool, this 2-piece will be sure to turn some heads.&nbsp;
+Pump up the tunes! This Anker Soundcore 2 Bluetooth Speaker provides unbelievable sound at an unbeatable price. Bring this speaker with you for on-the-go tunes, from the beach to a barbecue.
 
-Blooming Jelly Womens High Waisted 2-Piece
+With huge stereo and enhanced bass, this device delivers vibrant audio … and has up to 24 hours of non-stop playtime … keeping you covered all weekend long.
 
-Give major bombshell energy with this Blooming Jelly Womens High Waisted Bikini Set.
+And with IPX7 waterproof protection, you’ll be safeguarded against accidental splashes, wet weather and mud.
 
-This set includes a plunging bikini top featuring mesh panel detailing and gold metal accents.
+Tummy Control One Piece Swimsuit
 
-Meanwhile, the adjustable, ruched mini skirt gives a flirty cover-up feel without completely hiding the look underneath.&nbsp;
+Upgrade your bathing suit before summer officially kicks off. This Tummy Control One Piece Swimsuit is made to be flattering. With a twist front and plunging neckline, this unique suit will become a staple in your swimwear collection.
 
-FWBBG Halter Mini Dress
+It's also designed with removable padding, adjustable wide straps and ruching at the waist for tummy control … so it's a perfect fit for literally anyone.
 
-This FWBBG Halter Summer Mini Dress is great for lounging by the fire pit or late-night flirting.
+Plus, it's available in a wide variety of colors, from vibrant pink to baby blue, meaning you're guaranteed to find something you’ll love.
 
-The open back and stretchy fabric make this perfect for warm summer nights.
+Crochet Bathing Suit Coverup
 
-This is perfect for when you want to look like an islander but still have a bit more coverage.
+Lounging by the pool or hitting the beach this weekend? Do it in style in this Crochet Bathing Suit Coverup.
 
-MIYIEONZ Ruffle Hem Maxi Dress
+Featuring an asymmetric hem with tassels and an open knit that shows off your swimwear, this piece will have you looking hot … but feeling cool.
 
-If you're looking for something more elegant, this MIYIEONZ Ruffle Hem Maxi Dress is perfect for you.
+There's plenty of color options too, ensuring it complements the rest of your Memorial Day 'fit.&nbsp;
 
-The high slit and ruffled details make this the ideal dress for sunset dates and slow-motion villa entrances.&nbsp;
+Coleman Portable Camping Chair
 
-CUPSHE Plunging Neck One-Piece
+Gone are the days of being uncomfortable while you're sitting around the campfire or on the beach.
 
-This CUPSHE Plunging Neck One-Piece proves you don't need a bikini to bring the heat in the villa. The plunging neckline and gold ring hardware give the swimsuit a sleek, glam feel … while the contrasting trim adds a sporty edge.
+Sink into a Coleman Portable Camping Chair that's complete with a fully cushioned seat and back. It's got adjustable arm heights and can hold up to 325 lbs., making it suitable for all shapes and sizes.
 
-Adjustable straps and a high-leg fit help create a flattering silhouette that's perfect for poolside lounging and making a statement during every villa scene.
+Plus, it’s also equipped with a cup holder and a 4-can cooler so you can&nbsp; grab a cold drink without getting up. And when you’re ready to head home, it folds up into a compact storage bag.&nbsp;
 
-Blooming Jelly One-Piece Swim Dress
+Inflatable Pool Floats Set
 
-You can be modest while still looking cute, thanks to this Blooming Jelly One-Piece Swim Dress.
+Nothing says relaxation quite like floating in the pool while enjoying a three day weekend.
 
-This swimsuit includes a built-in skirt to provide a little extra coverage, along with adjustable straps for a comfortable fit.
+With this Inflatable Pool Floats Set, you (and your BFF) are guaranteed a whole lot of time to unwind.
 
-Michael Kors Jan Sunglasses
+Simply inflate both floaties, toss them in the pool and sink into the serene comfort of knowing you have absolutely nothing to do.
 
-Protect your eyes and spy on some eye candy at the same time with these Michael Kors Jan Sunglasses!
+Inflatable Standup Paddleboard
 
-These cat-eye sunnies feature 100% UV protection lenses and gold accents that instantly elevate any swim or vacation outfit.
+Kick off summer with a new hobby. This Inflatable Standup Paddleboard is perfect for newbies who are trying paddleboarding for the first time.
 
-The oversized shape brings instant islander energy while being versatile for beach days and brunches all summer long.
+Each set comes with everything you need to get started, from the paddle, air pump and fins all the way to a waterproof storage bag for your belongings and a repair kit in case things go awry.
 
-ANRABESS Crochet Coverup
+Whether you’re paddling across the pond, fishing while on board or trying your hand at water yoga, you’re bound to have adventures this weekend and beyond.&nbsp;
 
-A cute coverup is the ultimate staple for when you're in between swims and sunbathing sessions. This breezy and lightweight ANRABESS Women Crochet Swim Cover Up gives off effortless vacation energy while still showing off your swimwear underneath.&nbsp;
+3-in-1 Slim Can Cooler
+
+Lukewarm drinks? Not on your watch this weekend. This 3-in-1 Slim Can Cooler is guaranteed to keep your beverages cool for up to six hours.
+
+With double-walled vacuum insulation and an extra copper layer, your drink will be refreshing until the very last sip. Whether you’re drinking from a beer bottle, soda can or a 12 oz. slim can, this cooler has got you covered.
+
+Women’s Slip On Faux Leather Sandals
+
+Memorial Day means it's basically summer so ditch the sneakers and loafers for something a little more comfortable. These Women’s Slip On Faux Leather Sandals are perfect for all of your holiday weekend activities, from hitting the pool to dinner by the beach. Plus, they’re available in so many colors so you’ll always have a pair to match your look.&nbsp;
 
 For more curated product lists check out TMZ Deals.
 
 Sign up for Amazon Prime to get the best deals!
 
-All prices subject to change. Not official merchandise.
+All prices &amp; availability subject to change.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/love-island-swimsuit-finds/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/memorial-day-sale-summer-gear/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Trump’s Fund Shows Blanche Choosing Loyalty Over Pushing Back
+### 📰 In a Rarity, Republicans Stand Up to Trump
 <div align='justify'>
 
-Once seen by some as the most conventional of President Trump’s political appointees, Todd Blanche has taken off the gloves in his new role as acting attorney general.
+President Trump faced a wall of opposition from Senate G.O.P. lawmakers, in part over his plan to create a $1.8 billion fund to reward his allies.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/trump-fund-todd-blanche-doj.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump’s $1.8 Billion Fund in the Cross Hairs
+### 📰 Inside the Senate G.O.P. Meltdown Over Trump’s Fund
 <div align='justify'>
 
-Critics say the deal creates a “slush fund,” a term with a colorful maritime history.
+Todd Blanche, the acting attorney general, went to Capitol Hill to allay Republicans’ concerns over a fund to pay people who claim government mistreatment. It did not go well.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/the-docket-trump-fund.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/trump-fund-congress-limits.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 5 Takeaways From the Democrats’ Autopsy of Kamala Harris’s 2024 Loss
+### 📰 Trump Faces Rare G.O.P. Revolt, and Democrats Mock Their Own Party’s Report
 <div align='justify'>
 
-A draft report released by the Democratic National Committee argued that Ms. Harris did not sufficiently separate herself from President Joseph R. Biden Jr.
+Plus, the Friday news quiz.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/dnc-election-autopsy-report-takeaways.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/22/podcasts/the-headlines/trump-republicans-democrats-report.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Democrats’ Midterm Strength Masks Fierce Divides and Frustration, Poll Shows
+### 📰 Iran and Oman in Talks Over Strait of Hormuz Ship Payment System
 <div align='justify'>
 
-Democratic voters are in a combative, anti-establishment mood, unhappy with their party and disagreeing about its best path forward, a New York Times/Siena poll found.
+The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/poll-democrats-midterms-house-senate.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Experimental Drug Yields Dramatic Weight Loss
+### 📰 GOP Pulls Measure on Trump’s War Powers in Iran, Lacking Votes to Defeat It
 <div align='justify'>
 
-People who got the injection, retatrutide, lost 28 percent of their body weight on average after 80 weeks, Eli Lilly said.
+House Republican leaders abruptly scrapped a planned vote on a measure to direct President Trump to end the conflict or win authorization for it, amid party defections and absences.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 Hubble Captures Galaxy Cluster
+<img src='https://assets.science.nasa.gov/content/dam/science/missions/hubble/galaxies/clusters/Hubble_MACSJ1141.6-1905_1reg_flat_FINAL.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the result of how point sources of light (such as stars) bend, or diffract, around the supports for Hubble’s secondary mirror.
+
+Hubble captured this scene of MACS J1141.6-1905 in visible and infrared light. The image includes data from two Hubble observing programs that looked at massive galaxy clusters that shine very brightly in X-rays. Both programs were looking for distant galaxies gravitationally lensed by the cluster. They also wanted to better understand the physical nature of interactions at each cluster’s core. An extra bonus was the addition of Hubble’s visible and infrared observations of these very bright X-ray clusters to its archive.
+
+Hubble’s archive of 1.7 million observations, and counting, is a valuable tool for current and future astronomers. They can mine Hubble’s 36 years of observations and examine the data with new tools, enabling researchers to make new discoveries.
+
+MACS J1141.6-1905 is around four billion light-years away in the constellation Crater (the Cup).
+
+Claire AndreoliNASA's Goddard Space Flight Center, Greenbelt, MDclaire.andreoli@nasa.gov
+
+Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Tornado Draws a Jagged Line in Mississippi
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tornado-draws-a-jagged-line-in-mississippi/mississippitornado_oli_20260512_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+The strongest of several twisters to touch down in the southern part of the state in early May 2026 left a visible path of damaged vegetation.
+
+A powerful supercell storm produced multiple tornadoes across southern Mississippi on May 6, 2026. The longest and most powerful spanned five counties, delivering wind speeds up to 137 miles (220 kilometers) per hour and EF-3 damage, as gauged by the Enhanced Fujita Scale, to several areas.
+
+Part of this tornado’s destructive path was visible to the Landsat 8 satellite when it passed over the area on May 12. Winds snapped, uprooted, and tore bark and branches off trees, creating a brownish track across the landscape. This area, south of Brookhaven in Lincoln County, was one that sustained EF-3 damage. National Weather Service (NWS) post-event damage assessments noted extensive tree damage, a home whose exterior walls collapsed, and a mobile home park “devastated with debris.”
+
+The tornado covered much more ground than is captured in this scene. It began in St. Catherine Creek National Wildlife Refuge near the Mississippi River, approximately 60 miles (100 kilometers) west-southwest of Brookhaven. In just over two hours, it traveled nearly 82 miles (132 kilometers), placing it among some of the longest tornadoes recorded in Mississippi. Heavy tree damage occurred along its entire path, NWS surveys found, with several instances of EF-2 structural damage and bent or collapsed transmission towers.
+
+Seven tornadoes occurred in Mississippi on the evening of May 6, according to NWS preliminary data as of May 20. The Mississippi Emergency Management Agency received reports of damage to more than 400 homes and dozens of businesses and farm buildings statewide after the storms, according to a news release, the majority of which were in Lincoln County.
+
+The Gulf Coast and other southeastern states are not considered part of what’s commonly known as Tornado Alley, an area encompassing much of the U.S. central and southern plains where supercells tend to form. However, this belt of southeastern states is also tornado-prone, experiencing a relatively high frequency of tornadoes in spring and late autumn. Historically in Mississippi, the most monthly tornadoes—an average of more than seven—occur in April, while May averages just over three. Some recent analyses have found decreases in tornado frequency in the Great Plains and increases in the Southeast over several decades.
+
+NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. Story by Lindsey Doermann.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+Back-to-back subtropical cyclones in March fueled destructive flash flooding on several of the Hawaiian Islands.
+
+An advancing cold front kicked up a sharp line of sand and other small particles that swept over the high…
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/tornado-draws-a-jagged-line-in-mississippi/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/testing-link-vibration-tests-2-4000x2600-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -821,60 +871,6 @@ As part of the Golden Age of innovation and exploration, NASA will send Artemis�
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather
-<img src='https://assets.science.nasa.gov/content/dam/science/cds/general/images/2020/09/awe-high-res-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-On May 21, ground controllers powered down NASA’s AWE (Atmospheric Waves Experiment) instrument, bringing the data collection phase of the mission to a successful and scheduled end, surpassing its planned two-year mission.
-
-Installed on the exterior of the International Space Station since November 2023, AWE studied atmospheric gravity waves, which are giant ripples in the atmosphere caused by strong winds flowing over tall mountains or by violent weather events, such as tornadoes, thunderstorms, and hurricanes. The AWE instrument looked for these waves in colorful bands of light in Earth’s atmosphere, called airglow. Funded by NASA’s Heliophysics Division, AWE investigated how atmospheric gravity waves propagate upward to space and contribute to space weather — conditions in space that can disrupt satellites, as well as navigation and communications signals.
-
-“The AWE mission has proven that our atmosphere is not a ceiling, but a living, breathing ocean in the sky,” said Joe Westlake, director of NASA’s Heliophysics Division at NASA Headquarters in Washington. “For the first time, we can see how a thunderstorm in the Midwest, a hurricane over Florida, or a wind gust over the Andes sends invisible ripples — atmospheric gravity waves — crashing into the edge of space like waves hitting a shoreline. By mapping these ripples from the International Space Station, we’ve discovered that Earth’s weather doesn’t just end at the clouds, instead it reaches out beyond our planet, shaping the space weather that impacts our orbital economy.”
-
-During AWE’s 30-month residency on the station, the instrument captured four infrared images every second, tallying more than 80 million nighttime images, which is when airglow can be seen. It observed atmospheric gravity waves from numerous extreme weather events, including a tornado outbreak across the central U.S. in May 2024 and Hurricane Helene impacting the gulf coast of Florida in September 2024.
-
-“We’ve seen atmospheric wave signatures associated with major terrestrial events, which provided a clear example of how intense weather systems can generate measurable upper-atmospheric responses,” said AWE’s principal investigator, Ludger Scherliess of Utah State University in Logan.
-
-These events revealed variations in the types of atmospheric gravity waves created by different kinds of storms. For example, when AWE viewed atmospheric gravity waves generated by a thunderstorm in north Texas on May 26, 2024, it saw they were smaller and more irregular, with a notable asymmetry from north to south, compared to waves created by storms in the same part of the country earlier that month.
-
-It is important to understand variations in the density of plasma, which is electrically charged gas, in Earth’s upper atmosphere instigated by atmospheric gravity waves, because these variations can disrupt radio signals traveling between satellites and the ground, and from satellite to satellite, degrading the accuracy and reliability of systems used for navigation, timing, and communications.
-
-In a recent study, AWE measurements also revealed the gravity waves with the greatest influence on the upper atmosphere have small horizontal wavelengths, ranging from 30 to 300 kilometers, which AWE was specifically designed to measure.
-
-With its data-collection phase complete, the AWE instrument was turned off to make way for another science experiment that will take its place on the outside of the space station. Called CLARREO Pathfinder (Calibration Absolute Radiance and Refractivity Observatory Pathfinder), the new instrument will take measurements of sunlight reflected by Earth and the Moon that are five to 10 times more accurate than those from existing sensors. The exchange of instruments is a key part of the space station’s mission and versatility as an orbiting laboratory for various types of research.
-
-In the coming days, a robotic arm on the space station, called Canadarm2, will remove the AWE instrument from its location. Soon afterward, the AWE instrument will be loaded into part of a SpaceX Dragon cargo spacecraft that will deorbit and burn up as it re-enters the atmosphere. However, all of AWE’s observations will ultimately become available to the public and the scientific community for ongoing research and discovery.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA Wins Four Telly Awards for Artemis Moon Coverage, More
-<img src='https://images-assets.nasa.gov/image/NHQ202604010226/NHQ202604010226~large.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards.
-
-“President Trump’s leadership in establishing the Artemis program reignited America’s bold vision for space exploration and set our nation on a course back to the Moon. During America’s 250th birthday, Artemis II marked the beginning of that new era by sending astronauts around the Moon for the first crewed lunar mission since Apollo, inspiring millions across the country and around the world,” said Will Boyington, associate administrator, Office of Communications, NASA Headquarters in Washington. “These Telly Awards recognize the extraordinary NASA teams who brought that historic journey into homes everywhere through innovative storytelling, live coverage, and an unprecedented digital experience that showcased American leadership in space and renewed the spirit of exploration for a new generation.”
-
-The agency’s continuous, 24/7 livestream of the Artemis II mission, which functioned as both a live event and as a science storytelling experience, combined visuals, real-time mission data, and expert analysis to make a complex spaceflight clear and accessible for an international audience. NASA’s video documentation of mission astronauts and support teams conducting geology training on Earth to prepare for future Artemis missions on the Moon also won a science and technology storytelling award.
-
-In addition, NASA won a screenwriting award for a documentary on the agency’s Hubble Space Telescope, James Webb Space Telescope, and Nancy Grace Roman Space Telescope, narrated by actor John Rhys-Davies.
-
-“By following NASA’s Artemis II coverage in real time on multiple platforms, millions of viewers around the world were able to experience the mission inside the Orion spacecraft and alongside the crew, from lunar flyby to splashdown,” said Brittany Brown, director, Office of Communications Digital and Technology Division, NASA Headquarters in Washington. “Our team’s coordination, from the Mission Control Center at NASA’s Johnson Space Center in Houston to the Moon, technical expertise, and around-the-clock dedication turned a single spaceflight mission into a shared, global experience of wonder and inspiration.”
-
-Livestream coverage of the mission and milestones reached NASA’s largest streaming audience ever on its individual platforms, ultimately reaching nearly 290 million combined views across agency platforms. Commercial streaming partners expanded the mission’s reach to a global audience of hundreds of millions more potential viewers.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
