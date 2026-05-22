@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/22 - 16:10`
+**📅 Update (Tehran Time):** `2026/05/22 - 23:55`
 
 ---
 
@@ -19,322 +19,291 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Everest record holder warns of Nepal danger as two Indian mountaineers die
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-13T123251Z_1399427903_RC25YDAMJGXA_RTRMADP_3_NEPAL-EVEREST-1779447663.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Man City boss and Palestine advocate Pep Guardiola to step down
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-11.01.39-PM-1779480117.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Two Indian climbers have died on Mount Everest during a record-breaking period of ascents via Nepal’s southern route, as experts warn of overcrowding on the world’s highest peak.
-
-Nepal is home to eight of the world’s 10 highest peaks and welcomes hundreds of adventurers each spring.
-
-At least five climbers have died during this Everest season, including the two Indians and three Nepalis. A United States and a Czech climber died on Mount Makalu earlier this month.
-
-Nivesh Karki, director at Pioneer Adventures, named the latest victims as Sandeep Are, who he said summited on May 20, and Arun Kumar Tiwari, who reached the peak on May 21.
-
-“They fell ill while descending at high altitude. We are working out how to retrieve the bodies,” Karki told the AFP news agency.
-
-Nepali climber Kami Rita Sherpa, who scaled Everest for a record 32nd time earlier this month, returned to the capital, Kathmandu, on Friday, where he expressed concern about the experience of some climbers.
-
-Pictures posted by climbers show a long line of people climbing up fixed ropes, queueing in the icy, low-oxygen high-altitude zones.
-
-“The expedition this time felt a bit crowded,” said Kami Rita Sherpa, dubbed the “Everest Man”.
-
-“The government should regulate this a bit … They should let in only climbers of quality – there should be a limit,” he told AFP.
-
-On Thursday, a record number of climbers reached the 8,849-metre (29,032-foot) Himalayan peak from the Nepali side, according to tourism officials, who gave a preliminary total of 275 pending final confirmation.
+Man City manager Pep Guardiola to step down as manager of Manchester City after a trophy-laden 10-year reign.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/22/everest-record-holder-warns-of-nepal-danger-as-two-indian-mountaineers-die?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/22/man-city-boss-and-palestine-advocate-pep-guardiola-to-step-down?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Iran’s enriched uranium stockpile: Can it be safely transferred?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a102d9d1f13-1779445149.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 San Diego’s Muslims, a mosque, and a city shaken
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779478330.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-United States President Donald Trump reiterated on Thursday that the US will not permit Iran to keep its stockpile of highly enriched uranium.
+We hear how San Diego’s Muslim community is grieving, supporting one another, and trying to move forward after an attack that shattered their sense of safety. How does a community begin healing after unimaginable loss?
 
-However, Iran’s supreme leader, Ayatollah Mojtaba Khamenei, has issued a directive that Iran’s enriched uranium should not be sent abroad, the Reuters news agency reported on Thursday, citing two unnamed senior Iranian sources.
+This episode was produced by Chloe K. Li and Sarí el-Khalili, with Spencer Cline, Catherine Nouhan, Tuleen Barat, and our host, Malika Bilal. It was edited by Noor Wazwaz.
 
-The future of the estimated 440kg (970lb) of uranium enriched to 60 percent that Iran is believed to be holding remains a chief sticking point in peace negotiations between the US and Iran.
-
-While uranium enriched to 60 percent is still far short of the 90 percent required for weapons-grade material, it is the point at which it becomes much quicker to reach 90 percent, nuclear experts say.
-
-But even if Iran were to agree to transferring it, can highly enriched uranium be moved between countries safely?
-
-“We will get it. We don’t need it, we don’t want it. We’ll probably destroy it after we get it, but we’re not going to let them have it,” Trump said about Iran’s enriched uranium stockpile when he spoke to reporters at the White House on Thursday.
-
-However, the same day, Reuters reported that Iran’s supreme leader had issued a directive prohibiting the removal of the uranium.
-
-Reuters additionally reported, citing unnamed Israeli officials, that Trump had assured Israel that Iran’s enriched uranium stockpile will be sent out of Iran and that any peace deal will include a clause on this.
-
-“The Supreme Leader’s directive, and the consensus within the establishment, is that the stockpile of enriched uranium should not leave the country,” Reuters reported, quoting one of the two Iranian sources, who spoke on condition of anonymity because of the sensitivity of the matter.
-
-Tehran has said for years that its nuclear programme is for civilian purposes only and that it does not intend to build nuclear weapons. It signed a deal with the US in 2015 to limit its nuclear programme in exchange for sanctions relief. But Trump withdrew from the landmark deal in 2018 and slapped sanctions back on Iran, despite international inspectors stating that Iran had stuck to its side of the deal.
+Our sound designer is Alex Roldan. Our video editors are Hisham Abu Salah and Mohannad al-Melhem. Alexandra Locke is The Take’s executive producer.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/22/irans-enriched-uranium-stockpile-can-it-be-safely-transferred?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/the-take-2/2026/5/22/aje-onl-usa_sandiegomosque_av_v2-220526?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Man City confirm Guardiola exit to end decade-long, trophy-laden spell
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-22T104232Z_1989524323_RC2V5LAMMAIS_RTRMADP_3_SOCCER-ENGLAND-MCI-GUARDIOLA-1779447128.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 What are the implications of US sanctions in Lebanon?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779477750.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Pep Guardiola will leave ‌Manchester City at the end of the season after a decade in charge, the club has confirmed, bringing an end to ⁠one of the most successful ⁠eras in English football and one of the most influential managerial reigns of all time.
+As Israel keeps up its attacks on Lebanon despite a ceasefire, the United States has sanctioned nine people, including two Lebanese military officers, accused of links to Hezbollah.
 
-The departure of the 55-year-old Catalan coach will close the book on a remarkable chapter that has seen City transform into a footballing juggernaut.
+It comes while Washington brokers more talks between Lebanese and Israeli officials.
 
-Guardiola, who took ⁠charge of City in 2016, has won six Premier League titles – including four in a row – three FA Cups, five League Cups and the Champions League, but his side have not won the league in two years.
+Randa Slim – Middle East programme director at the US-based Stimson Center
 
-“Don’t ask me the reasons I’m leaving. There is no reason, but ⁠deep inside, I know it’s my time,” Guardiola said in a statement on Friday.
-
-“Nothing is eternal, if it was, I would be here. Eternal will be the feeling, the people, the memories, the love I have for my Manchester City.
-
-“We worked. We suffered. We fought. And we did things our own way. Our way.”
-
-Although City sealed the domestic cup double this season, Guardiola saw his dreams of a seventh Premier League crown dashed when they drew 1-1 at ‌Bournemouth on Tuesday to hand Arsenal the title, with City set to finish second.
-
-Guardiola had arrived in Manchester with a resume already stuffed with silverware from Barcelona and Bayern Munich, taking over from Manuel Pellegrini in July 2016.
-
-After inheriting a successful club financed by the Abu Dhabi United Group, Guardiola will walk away having built a footballing empire after overseeing a paradigm shift in Premier League tactics.
-
-As Guardiola faced the challenge of adapting to England’s famously fast-paced and physical league, possession became an art form and a defensive tool at City as his teams craved complete control.
+Elijah Magnier – Specialist in Middle East wars and regional military dynamics
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/22/guardiola-confirms-man-city-exit-ending-17-year-trophy-laden-spell?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 British climber sets record with 20th Everest summit
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-24T100752Z_1841006913_RC23UKACY538_RTRMADP_3_NEPAL-EVEREST-ROUTE-1777900758.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Thousands in Cuba rally for Raul Castro to protest US indictment
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779479695.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A 52-year-old British climber has set a new record as he summited Mount Everest for a 20th time.
-
-Kenton Cool became the first non-Nepali climber to conquer the world’s highest peak 20 times before dawn on Friday. However, as he celebrated his achievement and began his descent, voices called for limiting activity on the 8,849-metre (29,032ft) mountain as it was reported that two Indian climbers had died.
-
-Cool is expected to reach the base camp over the weekend after his latest summit. In a statement carried by the Reuters news agency, he said climbing Mount Everest never gets “any easier or any less frightening. It’s the tallest mountain in the world and with it comes an incredible sense of majesty.
-
-“I rely on every bit of experience ⁠I have to move safely in this environment. Standing on the summit for the twentieth time is incredibly special.”
-
-Cool is the first non-Sherpa to achieve the feat, but at least seven Nepali climbers have more than 20 summits under their belt.
-
-Fifty-five-year-old Kami Rita Sherpa, or “Everest Man” climbed the summit for the 32nd time – extending the world record – on Sunday.
-
-The British climber first reached Everest’s peak in 2004 and has since taken an expedition almost every year. His journey to the top of the world was not without hardship; he was once told he would never walk unaided again, after a rock-climbing accident in 1996 left both his heel bones broken.
-
-Four-time Everest climber and expedition organiser Lukas Furtenbach told Reuters that Cool was “quietly rewriting the record books”, praising him as an “absolute legend” for racking up more Everest summits than any non-Sherpa in history.
-
-Cool’s achievement follows on the heels of another record. On Wednesday, more than 270 climbers ascended via Nepal’s southern route, the most in a single day. That came amid calls for action to prevent overcrowding and improve safety.
-
-Two Indian climbers were reported on Friday to have reached the peak, but to have died during their descent after they “fell ill”, Nivesh Karki, director at Pioneer Adventure, told the AFP news agency.
+Thousands of people are protesting outside the US embassy in Havana to show their support for Raul Castro.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/22/british-climber-sets-record-with-20th-everest-summit?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-in-cuba-rally-for-raul-castro-to-protest-us-indictment?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Gang violence kills at least 25 in Honduras
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a101dba8983-1779441082.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Slovenia’s parliament approves right-wing Janez Jansa as prime minister
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a109c8b5f2f-1779473547.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Gunmen have killed at least 25 people, including six police officers, in attacks across Honduras.
+Slovenia’s parliament has voted to bring back right-wing politician Janez Jansa as prime minister, after his last stint in power ended in 2022.
 
-The attacks marked Thursday as one of the most violent days the country has seen in recent years. They came despite ongoing efforts by the government to rein in organised crime and violence.
+Legislators in the 90-member assembly voted 51-36 for Jansa on Friday – marking a shift for the small European Union country recently run by a liberal government.
 
-Nineteen people were killed as gunmen raided a palm plantation in the municipality of Trujillo in the north of the country.
+Jansa will need to return to parliament within the next 15 days for another vote to confirm his future Cabinet.
 
-A leader of one rural group told the AFP news agency that those killed were employees of an armed group controlling a plantation.
+His appointment concludes a post-election stalemate after the vote two months ago ended in a tie when former liberal Prime Minister Robert Golob’s Freedom Movement was unable to create a parliamentary majority by only securing a thin margin.
 
-However, local media indicated that armed suspects had fired indiscriminately on labourers. They reported that the oldest victim was 61.
+On Thursday, Jansa and his populist Slovenian Democratic Party (SDS) signed a coalition agreement with several centre-right groups to form a new government, which now holds 43 seats in the assembly.
 
-Photos showed bodies, some wearing thick rubber boots for work, strewn on the ground outside.
+He was the country’s leader from 2004 to 2008, 2012 to 2013 and 2020 to 2022.
 
-Meanwhile, in the west near the Guatemalan border, six police officers were killed in another shooting in the municipality of Omoa.
+In the March 22 elections, the SDS came second with 28 seats, behind Golob’s Freedom Movement, which secured 29 seats.
 
-Police report that the officers had travelled to the area as part of an operation to quash gang activity. However, they were ambushed.
+The new coalition government is made up of the SDS, New Slovenia, Democrats, the Slovenian People’s Party and Focus. It also secured additional backing from the right-wing Resnica party, which will not formally join the government.
 
-After the two attacks, the National Police issued a statement, saying it “will proceed immediately with a direct intervention in the affected areas”.
+In a speech laying out the government’s future goals, Jansa listed the economy, the fight against corruption and red tape, and decentralisation.
 
-“The state will act firmly to capture those responsible, protect vulnerable communities and guarantee comprehensive justice for all affected victims,” it added.
+He also promised to lower taxes for the rich and support private education and healthcare.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/22/gang-violence-kills-at-least-25-in-honduras?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/22/slovenias-parliament-approves-right-wing-janez-jansa-as-prime-minister?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Cubans grapple with fuel shortages and blackouts as US steps up pressure
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/b06e/live/97877430-5599-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The incident at the centre of a murder charge against Cuba's former president, Raúl Castro, is burned into the collective memory of both Havana and Miami.
+Russian President Vladimir Putin has promised retaliation after accusing Ukraine of carrying out a deadly attack on a student dormitory in an occupied part of eastern Ukraine.
 
-The US case, unveiled on Wednesday, accuses Castro and five others in the shooting down of two planes belonging to Cuban-American group Brothers to the Rescue in 1966 - killing four people, including three Americans.
+Six people were killed and 39 injured in the overnight strike in the town of Starobilsk, Luhansk region, Putin said. Another 15 people were missing.
 
-Cuban President Miguel Díaz-Canel has called this and other charges levelled at Castro "a political manoeuvre, devoid of any legal foundation".
+Ukraine's military said it hit the headquarters of Russia's elite Rubicon drone military unit in Starobilsk. It did not say whether it was the same building as the one identified by Russia.
 
-US Secretary of State Marco Rubio has since said Cuba poses a "national security threat" and the likelihood of a peaceful agreement between the two countries is "not high".
+"There are no military facilities, intelligence service facilities, or related services in the vicinity," Putin said in Moscow.
 
-As the charges against Raúl Castro were announced, many Cubans were unaware and incommunicado due to the 20-hour blackouts continuing to grip the island. The US has imposed a near-total fuel blockade that has affected almost every facet of daily life.
+"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems," he said at a reception in his Kremlin residence on Friday.
 
-US President Donald Trump has repeatedly sought to exert pressure on Cuba and has openly discussed toppling its communist regime.
+He ordered the Russian military to prepare its "proposals" on how to retaliate.
 
-The US has demanded political and economic reforms but the specifics are unclear beyond a leadership change. They could include a pledge to open up the economy to more foreign investment and a commitment to end the presence of Russian or Chinese intelligence agencies on the island.
+The Russian leader said the Ukrainian strike had been carried out in three waves using 16 drones.
 
-Ana Rosa Romero lives on the 11th floor of the Granma Dos building, an imposing modernist social housing block in the Cuban capital, Havana. A widow in her 70s, she said that when her husband died recently, a blackout in her neighbourhood meant she had to sit with his body for hours before it could be moved.
+Russia's state-run TV showed what it said was one of the injured students, identifying her as Diana Shovkun, aged 19.
 
-These days, with the lift so often not working, she says she barely leaves her apartment.
+She had head injuries after a being hit by a collapsing concrete slab, the TV said report said.
 
-"You can hardly go out," said the former philosophy teacher, a framed picture of Fidel Castro on her wall.
+Later on Friday, Ukraine's military said its overnight strike targeted Rubikon's headquarters in Starobilsk. It accused fighters from the special drone unit of regularly striking civilians and civilian infrastructure in Ukraine.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 US navy chief says $14bn arms sale to Taiwan paused due to Iran war
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/48b0/live/2c1d2b70-55a5-11f1-a3f4-25da51d330b4.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Rubio tries to reassure Nato allies over US troop deployments
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/cb4f/live/0b4bb9f0-55c0-11f1-99e4-4d92e48ba181.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The US is pausing a $14bn (£10.4bn) arms sale to Taiwan to ensure it has enough weapons for the Iran war, acting Navy secretary Hung Cao has said.
+US Secretary of State Marco Rubio has tried to reassure allies over US decisions on troop deployments in Europe.
 
-Cao confirmed this at a Senate hearing, days after President Donald Trump appeared non-committal about the sale following his meetings with Chinese leader Xi Jinping.
+Rubio's intervention at the end of a Nato foreign ministers' meeting in Sweden came after President Donald Trump said the US would send an extra 5,000 troops to Poland.
 
-A spokesperson for Taiwan's presidential office told reporters on Friday that they had not received any information about "US adjustments to the arms sale".
+That decision was a week after a planned deployment of 4,000 troops to the country was cancelled and days after an announcement that US troops would be pulled out of Germany.
 
-The sale of US arms to Taiwan has long irked Beijing, which claims the self-governed island as its territory and has not ruled out taking it by force.
+The announcements have caused confusion among the allies of the trans-Atlantic defence organisation. However, at a news conference after the Nato meeting on Friday, Rubio said the US was constantly reevaluating its troop presence in view of its global commitments.
 
-"Right now we're doing a pause in order to make sure we have the munitions we need for Epic Fury - which we have plenty," Cao said at the hearing on Thursday, using the code name for the US-Israel joint military operation in Iran.
+Some US troops are currently involved in the Middle East, following the US and Israeli conflict with Iran.
 
-"We're just making sure we have everything, but then the foreign military sales will continue when the administration deems necessary."
+Trump made the announcement about the new Polish deployment as Nato ministers were in Sweden for talks.
 
-When asked what he had heard from the Taiwanese about a pause in the weapons sale, Cao said he had "not spoken to the Taiwanese".
+Writing on his Truth Social platform on Thursday, Trump said the decision was based on the US's relationship with Polish President Karol Nawrocki, whom he backed during presidential elections last year and who is a long-time supporter of his.
 
-The $14bn package has been waiting for Trump's approval for months. It includes air defence missiles, such as Lockheed Martin's PAC-3, and surface-to-air missile systems, according to a Reuters report in March.
+The US leader did not elaborate on whether the additional troops were part of the previous planned deployment or a different operation.
 
-Trump has yet to confirm that he would give final approval to the package, telling Fox News last week that it was "a very good negotiating chip" with China.
+The US defence department abruptly said last week it was cancelling the deployment of 4,000 troops to Poland.
 
-He also told reporters he would "make a determination over the next fairly short period" on the weapons sale to Taiwan.
+Earlier this month, the US announced it would withdraw 5,000 troops from Germany after a row between Trump and German Chancellor Friedrich Merz over the war with Iran.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1b68/live/1f2e9b70-55d1-11f1-9a5f-8f70d4bfa4fc.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Ebola risk raised to 'very high' in DR Congo
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ecdf/live/73886470-55eb-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Turkish opposition leader Özgür Özel has vowed to fight a court ruling removing him and fellow party leaders, in the latest legal move that helps cement President Recep Tayyip Erdoğan's grip on power.
+The public health risk from the current Ebola outbreak in the Democratic Republic of Congo has been raised from "high" to "very high" by the World Health Organization (WHO).
 
-The appeal court declared the 2023 leadership election in Özel's Republican People's Party (CHP) null and void, prompting thousands of demonstrators to gather outside party headquarters in Ankara.
+In an update on Friday, WHO head Dr Tedros Adhanom Ghebreyesus also said the risk in the wider region in Africa was "high", but it remained "low" globally.
 
-"We are experiencing a dark day for Turkish democracy," said Özel, who vowed to  challenge the ruling in the courts and with Turkey's supreme election council (YSK).
+The rare species of Ebola, known as Bundibugyo, has no proven vaccine and kills about a third of those infected. So far, the outbreak centred on DR Congo has resulted in 177 suspected deaths and 750 suspected cases.
 
-Justice Minister Akin Gürlek insisted the ruling "reinforces our citizens' trust in democracy".
+It comes as scientists at Oxford University in the UK are developing a new vaccine that could be ready for clinical trials within two to three months.
 
-Until Gürlek was appointed justice minister by President Erdoğan earlier this year, he was the chief prosecutor in Istanbul who spearheaded investigations targeting the opposition, and the city's highly popular mayor Ekrem Imamoğlu in particular.
+Based on the same technology they developed for the AstraZeneca Covid vaccine, there are no guarantees it will prove effective and it will take animal research and trials on people to know if it will be.
 
-Imamoğlu, who is still considered Erdoğan's biggest political rival, has been in jail for over a year and it was Gürlek who accused him of corruption offences which command more than 2,000 years behind bars.
+The Serum Institute of India is lined up to mass produce the Ebola vaccine once Oxford can supply medical-grade material.
 
-The supreme election council was meeting on Friday to hear the opposition party's objection to the court's decision.
+A separate experimental Bundibugyo vaccine is also in development, but it is expected to take six to nine months for any dose to be ready for testing.
 
-In its ruling on Thursday, the appeals court in Ankara overturned a 2025 ruling by a lower court that threw out allegations of vote buying during the CHP primary which made Özgür Özel opposition leader.
+Dr Vasee Moorthy, WHO's research and development adviser, described that vaccine as "the most promising" earlier this week.
 
-The appeals court decided that Özel should be replaced by Kemal Kilicdaroğlu, a 77-year-old party veteran who was defeated by Erdoğan in the 2023 presidential election and then voted out as party leader.
+He said it would be the equivalent of Ervebo, which is already in use for the more common Zaire species of Ebola.
 
-The ruling also means the party's entire executive is replaced and it is thought the decisions it has made are no longer recognised.
+Speaking at Friday's news briefing in Geneva, Tedros said: "We are now revising our risk assessment to very high at the national level, high at the regional level, and low at the global level."
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Rubio says Cuba is threat to US as Havana accuses him of 'lies'
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/93de/live/41fbbf70-55c2-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Bodies of Italian divers did not have optimal equipment, says rescuer
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/39f1/live/ca0ae890-55ff-11f1-ad45-8ffb2d2085e2.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Cuba poses a "national security threat" to the US and the likelihood of a peaceful agreement is "not high", US Secretary of State Marco Rubio has said.
+A member of the diving team that recovered the bodies of Italian scuba divers in the Maldives has said the equipment they were found with "was not optimal".
 
-His comments come just a day after the US charged Cuba's former president Raúl Castro with murder over the 1996 downing of two planes resulting in the killing of US nationals.
+Images from inside the cave where the four Italians were discovered earlier this week were taken by Finnish diver Sami Paakkarinen, who told Italian media "the bodies were all together in one section of the cave", which he said was very deep and "very challenging".
 
-Rubio said Washington's preference was "a diplomatic solution" but warned that President Donald Trump had the right and obligation to protect his country against any threat.
+The body of the first diver was found soon after the five disappeared in a scuba diving accident at the 60-metre-deep (197ft) cave in Vaavu Atoll.
 
-Cuba's Foreign Minister Bruno Rodríguez accused Rubio of "lies" and said the island had never posed a threat to the US.
+It took several days before the rest of the group were found deep inside the cave by a team of specialist Finnish and Maldivian divers.
 
-Speaking to reporters on Thursday, Rubio said diplomacy "remains our preference with Cuba", but added: "I'm just being honest with you, you know, the likelihood of that happening, given who we're dealing with right now, is not high."
+A Maldivian rescue diver died last weekend while searching for the bodies of the group.
 
-He also accused Cuba of being "one of the leading sponsors of terrorism in the entire region", which Rodríguez vehemently denied in a post on X.
+It is believed to be the worst single diving accident in the tiny Indian Ocean nation, a popular tourist destination because of its string of coral islands.
 
-The Cuban foreign minister criticised Rubio for trying to "instigate a military aggression" and accused the US government of "ruthlessly and systematically" attacking his country.
+The four bodies found earlier this week are expected to be repatriated to Italy on Saturday and post mortem examinations will take place in the coming days.
 
-Cuba is suffering from a fuel crisis exacerbated by an effective US oil blockade, while under pressure from the Trump administration to make a deal.
+Paakkarinen told La Repubblica newspaper that when the team found the bodies they realised the cause could have been a "tragic human error" but ultimately it would be for investigators to determine what happened.
 
-Its citizens have experienced extended blackouts and food shortages over the last few months.
+He also questioned why the divers were inside the cave "without the proper equipment" as he said himself and his fellow rescuers would never have ventured into such an environment without a scuba diving reel or guide rope for safety which he described as "Ariadne's thread".
 
-Rubio said the country had accepted a US offer of $100m (£74.4m) in humanitarian aid.
+The diving reel is used to guide divers through complicated or hazardous terrain underwater.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 AI used to fake evidence that ended Korean actor's career, say police
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c782/live/1b71a660-55c4-11f1-99e4-4d92e48ba181.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Trump is putting pressure on Cuba - why and to what end?
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ca01/live/b51e3b60-55f2-11f1-9773-43c89bcb1e91.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-South Korean police are seeking an arrest warrant for a YouTuber who allegedly faked evidence that defamed actor Kim Soo-hyun and fuelled a scandal which ended his career.
+The relationship between the United States and Cuba - already strained and fragile for decades - has been rapidly deteriorating in recent weeks.
 
-Authorities say the YouTuber had manipulated screenshots of text messages and shared an audio file made with AI to give the impression that the actor had dated actress Kim Sae-ron when she was still a minor.
+Accusing Cuba of posing a national security threat, the US has hit it with an oil blockade, sanctions and now an unprecedented murder indictment against former leader Raúl Castro.
 
-The allegations surfaced last year, shortly after Kim Sae-ron killed herself at the age  of 24.
+Washington is also warning that a peaceful agreement with the Caribbean nation is unlikely, while Cuba says the US is using a "fraudulent case" to justify military intervention.
 
-The scandal shook the country and upended the career of Kim Soo-hyun, who is a household name in South Korea. The actor has consistently denied the allegations.
+Since returning to the White House, Donald Trump has made clear his desire to change Havana's leadership and has openly mused that Cuba is "ready to fall".
 
-The YouTuber, Kim Se-ui, has since posted a video claiming the authorities' allegations were a "subterfuge meant to disrupt his investigation".
+In March, he suggested the country was in "deep trouble" as he threatened a "friendly takeover".
 
-Months after Kim Sae-ron's death, the YouTuber had posted online a voice recording in which the actress could be heard saying she had been dating Kim Soo-hyun since she was in middle school.
+There has been no announcement of plans for any military intervention but Cuba is on edge, especially as surveillance activity in the Caribbean increases.
 
-The YouTuber Kim Se-ui, who has nearly a million followers on his channel, had also presented screenshots of text messages purportedly sent between the actor and the actress.
+Over the past week, the US military has been publicly broadcasting the location of its aircrafts near Cuba on plane-tracking websites.
 
-They also allege that the YouTuber had manipulated screenshots of text messages sent from the actress's phone to make it look like she had been texting Kim Soo-hyun.
+Leaving the flight transponders on "is likely deliberate", said UK drone expert Dr Steve Wright, with the US intending to send "a clear message it has eyes in the sky to maintain the squeeze".
 
-The YouTuber had knowingly spread the false claims for financial gain, authorities say.
+Flight-tracking data does not give a complete picture as military aircrafts often only share their location for portions of a flight.
 
-His actions "collapsed Kim Soo-hyun's social base and his economic activities across the board, and destroyed the basis for his professional survival," according to a police filing reported by news outlet JoongAng Ilbo.
+Meanwhile, US news site Axios, citing classified intelligence, reported that Cuba  possessed 300 drones and was discussing striking nearby US targets - including Guantanamo Bay, Key West in Florida, and naval vessels.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC
+<img src='https://i.guim.co.uk/img/media/2ef7792278e0afedb94ef56e9958ff512fdfd531/562_102_4362_3490/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6676db88645929885a8ea0851df987e' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede responders
+
+The Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization said on Friday, revising its threat assessment upwards.
+
+The outbreak is spreading rapidly, WHO leaders said, with almost 750 suspected cases and 177 suspected deaths, up from 246 cases and 65 deaths when it was first reported a week earlier.
+
+The situation is “deeply worrisome”, said Dr Tedros Adhanom Ghebreyesus, the WHO director-general.
+
+On Thursday, tents and medical supplies outside a hospital in Rwampara, Ituri province, were set on fire as medics tried to set up an Ebola treatment centre. A crowd was reportedly angry at not being allowed to retrieve the body of a local man who had died at the hospital. The bodies of Ebola patients must be buried according to strict infection control protocols to prevent further spread.
+
+Tedros warned that “significant distrust of outside authorities among the local population” was causing issues for the response to the outbreak.
+
+“Building trust in the affected communities is critical to a successful response, and is one of our highest priorities,” Tedros said.
+
+The WHO’s representative in the DRC, Dr Anne Ancia, said the incident in Rwampara would “significantly jeopardise” the response operation there.
+
+The treatment centre that was attacked was designed to separate Ebola patients from others being treated in the same hospital. Ancia said she was hopeful that it would be able to be up and running again within 24 hours.
+
+The outbreak has been caused by the Bundibugyo strain of Ebola, for which no vaccines or treatments exist. Most cases are in the DRC’s Ituri province, with a handful reported elsewhere in the country, and two in neighbouring Uganda.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’
 <img src='https://i.guim.co.uk/img/media/49583dee91b5a91b99d9699dfd099e58da815fbb/0_0_4193_3355/master/4193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5a8afb490a9699274eccfaba202501c' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -459,131 +428,116 @@ Myhre described Stafford as “a very meticulous professional, and for every sur
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Rubio criticizes WHO’s Ebola response as US continues sweeping public health cuts
-<img src='https://i.guim.co.uk/img/media/a3f21d907e4f5a93f50312335bdac29f159ea6b2/454_0_6882_5504/master/6882.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9537dd264466a80ff3f2cc0cdfb19f1a' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-US secretary of state says WHO was ‘a little late’ in identifying deadly Ebola outbreak in the DRC and Uganda
-
-The US secretary of state, Marco Rubio, said on Tuesday that the World Health Organization (WHO) was “a little late” in identifying the deadly Ebola outbreak in the the Democratic Republic of the Congo and Uganda.
-
-On Tuesday, Rubio told reporters: “The lead is obviously going to be CDC [Centers for Disease Control] and the World Health Organization, which was a little late to identify this thing unfortunately.”
-
-His comments follow Donald Trump’s decision to withdraw the US from the WHO, a move which experts described as “sowing the seeds of the next pandemic”. Trump made the move in one of his first acts on returning to office last year. The US’s departure also led to the loss of nearly a quarter of the WHO’s workforce – about 2,000 jobs – from a total staff of about 9,400.
-
-Rubio said that the US, which has committed about $13m in assistance after sweeping aid cuts last year, was hoping to open about 50 clinics to treat Ebola in the DRC.
-
-“It’s a little tough to get to because it’s in a rural area … and [a] hard-to-get-to place in a war-torn country, unfortunately,” Rubio said. “We’re going to lean into that pretty heavy.”
-
-The WHO said earlier on Tuesday that it was concerned about the “scale and speed” of the Ebola outbreak that has killed an estimated 131 people in the DRC.
-
-Gigi Gronvall, an immunologist and professor at the Johns Hopkins Bloomberg School of Public Health, rejected Rubio’s criticism of the WHO.
-
-“Blaming the WHO is misplaced, because they are operating with limited resources in a difficult setting with many security challenges. But it’s also cold comfort for all the people who have gotten Ebola and died. And this should concern Americans as well. It’s highly worrisome given that public health resources in the US have been slashed and even a couple of cases in the US would be challenging with our current workforce,” Gronvall said.
-
-She added: “It is a strategic mistake – and a national security vulnerability – that we are worse off now to handle infectious disease threats than at the start of Covid-19. Hantavirus [and] Ebola are terrible, serious diseases but they are not as transmissible as some other infectious disease threats we could face. Instead of dismantling everything, we need to invest in the vaccines, diagnostic testing, and public health and hospital responses we would need to protect Americans.”
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/us-news/2026/may/19/marco-rubio-who-ebola)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Stephen Colbert Trots Out A-Listers to Say Farewell to 'The Late Show'
-<img src='https://imagez.tmz.com/image/1c/16by9/2026/05/21/1c93589f8e284e639ebdf239bd365223_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Kyle Busch's No. 8 To Be Reserved Until Son's NASCAR Career
+<img src='https://imagez.tmz.com/image/25/16by9/2026/05/22/25dfd78d26ff4a8ebef7a3c5d6e33c81_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Stephen Colbert's final farewell to "The Late Show With Stephen Colbert" was memorable mostly for its star power!
+No one will race the No. 8 car after Kyle Busch's tragic death ... with Richard Childress Racing announcing the digit will be suspended in his honor until his son, Brexton, is ready to join NASCAR.
 
-Colbert brought out a bunch of A-list celebs Thursday night to help him say goodbye to his show and his fans after over 10 years and 1,800 episodes.
+The decision was shared on Friday ... with Busch's team saying it will opt to use No. 33 at Charlotte Motor Speedway this weekend and beyond.
 
-Feast your eyes on these bold-faced names:&nbsp;Paul McCartney, Bryan Cranston, Ryan Reynolds, Paul Rudd, Tim Meadows, Tig Notaro, John Oliver, Seth Meyers, Jimmy Kimmel, Jimmy Fallon, Andy Cohen, Neil deGrasse Tyson, and Elvis Costello.
+"Kyle Busch was instrumental in the design of RCR’s stylized No. 8 and it has become synonymous with Kyle and an important symbol for his fans and the NASCAR industry," RCR said minutes ago. "No one can carry it forward to the level that he did."
 
-One high-profile person who wasn't present -- and not directly mentioned -- was President Trump, who became Colbert's archenemy before 'The Late Show' recently got canceled by CBS.
+In an incredible gesture, it added when 11-year-old Brexton follows in his dad's pro driving footsteps ... the number will be made available to him.
 
-As everyone knows, Trump and Colbert were always at war over their divergent political beliefs, and many think that the prez pressured CBS to give the show the ax. CBS says the show was a money loser.
+Brexton started racing at five years old ... and has already won more than 100 competitions.
 
-During his opening monologue last night, Colbert talked about what 'The Late Show' meant to him and his staff, calling it "The Joy Machine."
+After Kyle passed away at 41 years old, Brexton changed his Instagram avatar to feature a picture of him hugging his dad.
 
-He also discussed back in the day with Comedy Central, highlighting his old show, "The Colbert Report," in which he would "feel the news at you" instead of just reading it. Colbert said that his job was different on "The Late Show" ... which was to "feel the news with you."
+Just days ago, Brexton shared a pic of his family celebrating his 11th birthday ... a truly heartbreaking image following the news.
 
-Colbert also thanked the crowd for giving him the energy to do the "best possible show we could have for you for the last 11 years.”
+Kyle was hospitalized with a severe illness prior to his death ... and the loss has sent shockwaves through the sports community.
 
-Mic drop!
+Expect many more tributes to the legend in the following days.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/stephen-colbert-late-show-paul-mccartney-brian-cranston/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/kyle-buschs-no-8-reserved-for-sons-nascar-career/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Nicki Minaj Pops Up at Elon Musk's Attempted SpaceX Rocket Launch
-<img src='https://imagez.tmz.com/image/12/16by9/2026/05/22/12eeb2f976654a52b813fb36be6ef53f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Donald Trump Jr. and Bettina Anderson Are Officially Married
+<img src='https://imagez.tmz.com/image/7f/16by9/2026/05/22/7f747b2f23684748a2dd4618005ee409_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Nicki Minaj made a surprise cameo appearance Thursday at Elon Musk's Starbase site in Texas, where SpaceX tried to launch its new megarocket into outer space -- but it all fell apart due to technical issues.
+Donald Trump Jr. and Bettina Anderson are officially official ... because the couple quietly was wed ahead of their lavish Bahamas wedding weekend.
 
-Still, Nicki had a blast attending her first attempted rocket launch, hanging out with some of the SpaceX staff -- and even getting interviewed on camera.
+According to the marriage certificate, obtained by TMZ, Don Jr. and Bettina checked the legal box Thursday, with a Palm Beach County deputy clerk signing off on the license ... paving the way for the couple’s upcoming "I do" moment on a private island in the Bahamas.
 
-Check out the clip ... Nicki called the moment "historic," pointing to her T-shirt emblazoned with the rocket's name, "Starship," which is almost identical to the name of one of her most famous songs, "Starships."
+The ceremony was officiated by Brad McPherson ... a longtime real estate attorney who has worked closely with the Trump family for years. This was a legal formality the pair needed to handle before their actual ceremony outside of the U.S.
 
-The artist also got super excited when one of the staffers told her only 6 minutes remained before the much-anticipated launch. But the rocket never made liftoff as a result of technical issues that could not be fixed in time.
+BTW, it looks like Bettina's not legally taking the Trump name ... according to the certificate.
 
-After the issues are finally resolved, though, the&nbsp;rocket could potentially launch Friday night at the earliest.&nbsp;&nbsp;
+Don Jr. and Bettina plan to exchange vows in front of a small group of family members and close friends during an intimate celebration this weekend. One notable absence, though -- President Donald Trump has already said he will not be attending the wedding festivities.
 
-We'll have to see if Nicki makes another cameo. By the way, Nicki and Elon traded pleasantries on X, with Nicki calling his Starbase site "magical."&nbsp;
+Looks like the only thing left now is the actual celebration!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/nicki-minaj-elon-musk-spacex-starship/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/donald-trump-jr-bettina-anderson-marriage-license/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 See the Full Video of Britney Spears' DUI Arrest
-<img src='https://imagez.tmz.com/image/00/16by9/2026/05/21/005e67bcc9874e069bb0f4855a840dff_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Kyle Busch Was Coughing Up Blood Day Before Death, According to 911 Call
+<img src='https://imagez.tmz.com/image/0f/16by9/2026/05/22/0fbaf22d5603474daab200fb94ad63a7_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Britney Spears was busted for DUI back in March, and now we get to see how the whole thing played out.
+Kyle Busch's medical emergency has been partially revealed by 911 audio obtained by TMZ Sports ... with a caller saying the NASCAR superstar was struggling to breathe, overheating and coughing up blood before medics rushed to help.
 
-TMZ has obtained the full dashcam video of Britney's arrest -- from the moment cops hit the lights to pull her over ... which she took her 3 minutes to do!
+During the emergency call placed around 5:30 PM Wednesday, the caller urgently requests an ambulance to a training facility in Concord, North Carolina ... telling dispatch, "I've got an individual that's shortness of breath, very hot, thinks he's going to pass out, and he's producing a little bit of blood, coughing up some blood."
 
-The pop star's out of frame for most of the footage, but you can hear her going through the field sobriety test -- including when cops cuffed her -- and seemingly blowing into a breathalyzer as she insists she's not drunk.
+The caller also confirmed the patient was still conscious at the time ... repeatedly telling dispatch, “He is awake. He's awake. He's awake.”
 
-At one point, she tells the officers she wants to drive home, but they let her know she can't. You can hear Britney respond ... "Yes, I can drive home. Why are you telling me that?"
+Kyle was known to use this testing facility extensively since joining Richard Childress Racing -- and according to the audio, he was lying on a bathroom floor inside the complex while employees prepared for paramedics to arrive.
 
-Check out the full video to see how her arrest went down, start to finish.
+The caller even asked responding crews to shut off their sirens when approaching the building ... while explaining he would wait outside and flag them down at a side entrance.
+
+TMZ also obtained dispatch audio from the incident ... listen to it above.
+
+As we reported ... Busch reportedly became unresponsive Wednesday while testing in a Chevrolet racing simulator ... just one day before his death at 41.
+
+He was transported to a Charlotte-area hospital after collapsing during the simulator session ... though officials have not yet confirmed his exact cause of death.
+
+The shocking collapse came less than two weeks after Busch reportedly requested medical assistance during a race weekend at Watkins Glen, where he had been dealing with what was described as a severe sinus-related illness.
+
+Busch's death sent shockwaves through the racing world Thursday ... with tributes pouring in from NASCAR drivers, teams and fans mourning one of the sport’s most dominant modern stars.
+
+The two-time Cup Series champion leaves behind a massive legacy in motorsports ... including hundreds of victories across NASCAR's top national divisions.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/britney-spears-full-dui-arrest-footage/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/kyle-busch-911-audio/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Rep. Ilhan Omar Says Donald Trump is a Bad Parent If He Skips Don Jr.'s Wedding
-<img src='https://imagez.tmz.com/image/0d/16by9/2026/05/21/0d44f5bd1037430f8d77cad1ab89dc49_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Admiral's Fox News Appearance Sparks Questions About Possible Mask
+<img src='https://imagez.tmz.com/image/e8/16by9/2026/05/22/e8c369f9aae74423b203e713303c356f_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Rep. Ilhan Omar has more issues with Donald Trump than his political views ... she's questioning whether he's a good parent.
+A Vice Admiral's recent interview on Fox News has caused the internet to go into a full-blown meltdown ... with many insisting he wore a mask on TV for some reason -- and now the network's weighing in.
 
-Jacob got the Congresswoman from Minnesota Thursday leaving Capitol Hill, and asked about the Prez saying he may be too busy to attend Donald Jr.'s wedding to Bettina Anderson this weekend in the Bahamas.
+Here's the deal ... Vice Admiral Robert Harward -- a retired Navy SEAL and the former Deputy Commander of the United States Central Command -- appeared on the network earlier this week to discuss the ongoing war in Iran.
 
-Trump said it wasn't a great time because he had "other things" going on, including the Iran War.
+While he spoke, a dark shadow near the base of his throat drew audience members' eyes ... and people took to social media to question whether Harward wore a mask for the TV spot.
 
-Omar says a good parent would make time for his son's special day, adding Trump has time to golf and fiddle with the White House ballroom during the war. At one point she laughingly says, "Worst parent in the world."
+Users were quick to push the mask theory ... with some saying he probably wasn't available that day, and Fox News used a stand-in who threw on the mask -- which may seem like a small thing, but would certainly constitute a serious violation of journalistic ethics.
 
-Trump said he'll get torn apart by the fake news, whatever he decides to do. Add at least one of his political rivals to that list.
+Others are arguing this is an issue of lighting ... with lights in front and above him creating a sinister double shadow effect.
+
+And some are just trolling ... like Meghan McCain who wrote, "That motherf***er is NOT real" -- similar to what Tiffany Gomas yelled in her viral airplane freakout a few years ago.
+
+Fox News tells TMZ ... "Vice Admiral Robert Harward appeared on FOX News Channel earlier this week via a remote, mobile camera operated by an outside vendor. During the interview, lighting conditions in the van contrasted with the vice admiral’s jacket, which caused a shadow to appear on his neck.”
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/21/ilhan-omar-calls-trump-a-bad-dad/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/robert-harward-has-internet-making-mask-theories/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -679,36 +633,25 @@ All prices &amp; availability subject to change.
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 In a Rarity, Republicans Stand Up to Trump
+### 📰 Regional Mediators Rush to Save U.S.-Iran Cease-Fire
 <div align='justify'>
 
-President Trump faced a wall of opposition from Senate G.O.P. lawmakers, in part over his plan to create a $1.8 billion fund to reward his allies.
+Pakistan and Qatar have dispatched teams to Iran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Inside the Senate G.O.P. Meltdown Over Trump’s Fund
+### 📰 Stocks and Oil Prices Tick Up Amid Impasse Over Reopening Strait of Hormuz
 <div align='justify'>
 
-Todd Blanche, the acting attorney general, went to Capitol Hill to allay Republicans’ concerns over a fund to pay people who claim government mistreatment. It did not go well.
+Nearly three months since the fighting began, disagreements remain over the fate of Iran’s uranium stockpile and transit fees for the Strait of Hormuz.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/politics/trump-fund-congress-limits.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Trump Faces Rare G.O.P. Revolt, and Democrats Mock Their Own Party’s Report
-<div align='justify'>
-
-Plus, the Friday news quiz.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/22/podcasts/the-headlines/trump-republicans-democrats-report.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -734,143 +677,144 @@ House Republican leaders abruptly scrapped a planned vote on a measure to direct
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
+### 📰 Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says
+<div align='justify'>
+
+The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
-### 📰 Hubble Captures Galaxy Cluster
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/hubble/galaxies/clusters/Hubble_MACSJ1141.6-1905_1reg_flat_FINAL.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/roscosmosadvisorymay22-4d3cc8.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the result of how point sources of light (such as stars) bend, or diffract, around the supports for Hubble’s secondary mirror.
+NASA will provide live coverage on Wednesday, May 27, as two Roscosmos cosmonauts conduct a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at approximately 10:15 a.m. EDT and last roughly five hours.
 
-Hubble captured this scene of MACS J1141.6-1905 in visible and infrared light. The image includes data from two Hubble observing programs that looked at massive galaxy clusters that shine very brightly in X-rays. Both programs were looking for distant galaxies gravitationally lensed by the cluster. They also wanted to better understand the physical nature of interactions at each cluster’s core. An extra bonus was the addition of Hubble’s visible and infrared observations of these very bright X-ray clusters to its archive.
+Watch NASA’s live coverage beginning at 9:45 a.m. on NASA+, Amazon Prime, and the agency’s YouTube channel. Learn how to watch NASA content through a variety of online platforms, including social media.
 
-Hubble’s archive of 1.7 million observations, and counting, is a valuable tool for current and future astronomers. They can mine Hubble’s 36 years of observations and examine the data with new tools, enabling researchers to make new discoveries.
+International Space Station Expedition 74 commander Sergey Kud-Sverchkov and flight engineer Sergei Mikaev will install a solar radiation experiment on the Zvezda service module and remove other science hardware from the Poisk and Nauka modules of the orbiting complex’s Roscosmos segment. If time allows, the duo also will photograph one of the Progress 94 cargo spacecraft’s Kurs rendezvous antennas, which failed to deploy in March following its launch to the space station.
 
-MACS J1141.6-1905 is around four billion light-years away in the constellation Crater (the Cup).
+This Roscosmos spacewalk will be the second for Kud-Sverchkov and the first for Mikaev. Kud-Sverchkov will wear a spacesuit with red stripes, and Mikaev will wear a spacesuit with blue stripes. It will be the 279th spacewalk in support of space station assembly, maintenance, and upgrades.
 
-Claire AndreoliNASA's Goddard Space Flight Center, Greenbelt, MDclaire.andreoli@nasa.gov
+To learn more about International Space Station research, operations, and its crews, visit:
 
-Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.
+Josh Finch / Jimi RussellHeadquarters, Washington202-358-1100 joshua.a.finch@nasa.gov / james.j.russell@nasa.gov
+
+Sandra JonesJohnson Space Center, Houston281-483-5111sandra.p.jones@nasa.gov
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Tornado Draws a Jagged Line in Mississippi
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tornado-draws-a-jagged-line-in-mississippi/mississippitornado_oli_20260512_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 Webb Studies Star Clusters
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/55252854454-c4ed9aa664-o.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-The strongest of several twisters to touch down in the southern part of the state in early May 2026 left a visible path of damaged vegetation.
+This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA’s James Webb Space Telescope in a study of nearly 9,000 star clusters.
 
-A powerful supercell storm produced multiple tornadoes across southern Mississippi on May 6, 2026. The longest and most powerful spanned five counties, delivering wind speeds up to 137 miles (220 kilometers) per hour and EF-3 damage, as gauged by the Enhanced Fujita Scale, to several areas.
+Data from the study shows that more massive star clusters emerge more quickly from the clouds they are born in. Learning about star formation helps us understand galactic evolution, the dynamics within a galaxy, as well as how and where planets form.
 
-Part of this tornado’s destructive path was visible to the Landsat 8 satellite when it passed over the area on May 12. Winds snapped, uprooted, and tore bark and branches off trees, creating a brownish track across the landscape. This area, south of Brookhaven in Lincoln County, was one that sustained EF-3 damage. National Weather Service (NWS) post-event damage assessments noted extensive tree damage, a home whose exterior walls collapsed, and a mobile home park “devastated with debris.”
-
-The tornado covered much more ground than is captured in this scene. It began in St. Catherine Creek National Wildlife Refuge near the Mississippi River, approximately 60 miles (100 kilometers) west-southwest of Brookhaven. In just over two hours, it traveled nearly 82 miles (132 kilometers), placing it among some of the longest tornadoes recorded in Mississippi. Heavy tree damage occurred along its entire path, NWS surveys found, with several instances of EF-2 structural damage and bent or collapsed transmission towers.
-
-Seven tornadoes occurred in Mississippi on the evening of May 6, according to NWS preliminary data as of May 20. The Mississippi Emergency Management Agency received reports of damage to more than 400 homes and dozens of businesses and farm buildings statewide after the storms, according to a news release, the majority of which were in Lincoln County.
-
-The Gulf Coast and other southeastern states are not considered part of what’s commonly known as Tornado Alley, an area encompassing much of the U.S. central and southern plains where supercells tend to form. However, this belt of southeastern states is also tornado-prone, experiencing a relatively high frequency of tornadoes in spring and late autumn. Historically in Mississippi, the most monthly tornadoes—an average of more than seven—occur in April, while May averages just over three. Some recent analyses have found decreases in tornado frequency in the Great Plains and increases in the Southeast over several decades.
-
-NASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. Story by Lindsey Doermann.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-Back-to-back subtropical cyclones in March fueled destructive flash flooding on several of the Hawaiian Islands.
-
-An advancing cold front kicked up a sharp line of sand and other small particles that swept over the high…
+Image credit: ESA/Webb, NASA & CSA, A. Pedrini, A. Adamo (Stockholm University) and the FEAST JWST team
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/tornado-draws-a-jagged-line-in-mississippi/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/webb-studies-star-clusters/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/testing-link-vibration-tests-2-4000x2600-1.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness
+<img src='https://images-assets.nasa.gov/image/AFRC2026-0053-25/AFRC2026-0053-25~large.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory.
+From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready.
 
-Katalyst’s robotic servicing spacecraft, called LINK, will launch on Pegasus in June to rendezvous with Swift and raise its altitude, extending its science mission lifespan.
+At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably.
 
-Both United States and international media may apply for onsite credentials to view the Pegasus and the L-1011 Stargazer aircraft that will deploy the rocket at launch. In addition to interview opportunities on site, media also will receive images and video of LINK, as the spacecraft already will be encapsulated in the rocket.
+This year, NASA added two F-15s and a Pilatus PC-12 to its fleet at Armstrong. These aircraft – alongside platforms such as the high-altitude ER-2s and NASA’s newest X-plane, the X-59 – reflect a wide range of capabilities. The maintenance staff is responsible for keeping each one mission ready.
 
-NASA and Katalyst also will host an audio-only media teleconference on June 17 to preview the mission to boost Swift’s orbit. Audio of the media teleconference will stream live on NASA’s YouTube channel. Information about timing and teleconference participants will be shared closer to the event.
+“That’s the beauty of our Armstrong maintenance teams. They adapt to any type of change,” said Jose “Manny” Rodriguez, NASA Armstrong Gulfstream G-IV crew chief. “One day you could have an instrument being loaded, and the next day it may be aircraft reconfiguration, all while other aircraft systems may need fixing. They adapt and they overcome any situation.”
 
-The application deadline for U.S. citizens to attend in person is 4 p.m. EDT, Wednesday, June 10. International media without U.S. citizenship must apply by 3 p.m. EDT, Wednesday, May 27. NASA’s media accreditation policy is available online.
+Each aircraft supports a specific mission, whether it’s conducting science research, serving as a support or chase aircraft, or assisting NASA rocket launches. The aircraft fly at different speeds, carry specialized hardware, and require maintenance crews to stay agile with fast-paced changes.
 
-Media requesting to participate in person or join the media call must send their accreditation requests to Amy Barra at: amy.l.barra@nasa.gov, with the following information:
+To ensure NASA can make aeronautics and science advancements safely, the crews work continuously, checking on the ejection seats, filling the tanks with fuel, and changing out brakes, wheels, wiring, and hardware constantly, all of which can degrade with each flight.
 
-The Swift mission, which launched in 2004, leads NASA’s fleet of space telescopes in studying changes in the high-energy universe. It studies gamma-ray bursts — the most powerful explosions in the universe — and other cosmic objects and events. When a rapid, sudden event takes place in the cosmos, Swift serves as a “dispatcher,” providing critical information that allows other “first responder” missions to follow up to learn more about how the universe works.
+On any given day, an aircraft may be flight-ready for a mission, undergoing scheduled maintenance or modifications, or down for longer-term care.
 
-Karen Fox / Alise FisherHeadquarters, Washington202-385-1287 / 202-358-2546karen.c.fox@nasa.gov / alise.m.fisher@nasa.gov
+There are typically multiple NASA Armstrong aircraft in the air in one day. Currently, the center’s C-20A is flying in Peru and Panama, the X-59 is often  flying twice per day with a chase plane, and the center’s ER-2 is flying in Colorado, supporting the Geological Earth Mapping Experiment (GEMx). All this work is happening at the same time, and Armstrong’s skilled maintenance staff is prepping and fixing aircraft as needed along the way.
 
-Amy BarraWallops Flight Facility, Wallops Island, Virginia757-824-1579amy.l.barra@nasa.gov
+The team includes mechanics with both military and civilian backgrounds, and the job involves a lot of on-the-job training.
+
+After the maintenance crew ensures the aircraft is in the best condition possible, the team tows it out to the flightline, and it becomes ready for operations. The NASA pilot assigned to the mission will walk around the aircraft with the assigned crew chief for a final safety check before flight.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA Joins Artemis Accords Workshop as Global Signings Rise
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/workshop-peruvian-space-agency-jpg.jpeg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA to Compete Contract for Jet Propulsion Laboratory Management
+<img src='https://www.nasa.gov/wp-content/uploads/2022/09/DSC_421543.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-The United States participated in an Artemis Accords workshop in Lima, Peru, last week, following a new wave of nations committing to safe and responsible exploration of the Moon, Mars, and beyond.
+NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers.
 
-Leading up to the event, six countries, including Latvia, Jordan, Morocco, Malta, Ireland, and Paraguay, joined the growing coalition of Artemis Accords signatories during ceremonies held at NASA Headquarters and abroad. This brings the total number of Artemis Accords signatories to 67 like-minded nations.
+The California Institute of Technology (Caltech) has managed the laboratory since its inception in the 1930s, and previous NASA contracts for its management and operations have been awarded sole source to the university since the facility was transferred from the U.S. Army to NASA in 1958.
 
-“This gathering showcases the remarkable global momentum behind the Artemis Accords and our Artemis program,” said NASA Administrator Jared Isaacman. “The Artemis Accords were created in President Trump’s first term and, as we execute his National Space Policy, we are putting these principles into practice. By aligning our capabilities, acting with urgency, and moving forward as partners, these signatory countries will help shape the future, not from the sidelines, but as essential contributors to humanity’s first permanent outpost on the Moon. Each and every Artemis Accords signatory has the opportunity to play a meaningful role with NASA as we work together to build a sustained human presence on the surface of the Moon.”
+The rapid growth of the U.S. space economy indicates there may now be a viable competitive market for programmatic and institutional elements of the FFRDC operations.
 
-On May 13-14, representatives from NASA and the U.S. Department of State joined dozens of counterparts from 30 countries, including several of the newest signatories, for technical discussions and a tabletop exercise focused on operating in complex lunar environments.
+Conducting a competition for this contract enables NASA to assess the potential benefits of alternative management approaches to the FFRDC, including opportunities to enhance mission performance, innovation, and overall cost and operational efficiency, consistent with federal competition requirements.
 
-Peru hosted the fourth annual workshop, marking the first time the gathering has taken place in South America.
+This decision is part of a broader governmentwide and agency effort to find efficiencies, strengthen performance, and drive mission outcomes faster and more affordably.
 
-“One of our objectives in hosting this edition of the workshops in our country was to increase regional participation,” said Maj. Gen. Roberto Melgar Sheen, director of Peruvian Space Agency (CONIDA). “I am pleased to say that we have achieved this: All South American signatory countries are taking part in this event, with 90% participating in person and 10% virtually.”
+“The Jet Propulsion Laboratory has delivered some of the most extraordinary scientific and engineering achievements in NASA’s history,” said NASA Administrator Jared Isaacman. “As America’s space economy evolves, we have a responsibility to the American people and the scientific community to evaluate how we can execute faster, operate more efficiently, and continue to deliver world-class science and engineering at the highest level. The decision to compete this contract reflects NASA’s commitment to strong stewardship of taxpayer resources and positions Jet Propulsion Laboratory to continue driving world-changing scientific discovery and technological innovation for decades to come.”
 
-The Artemis Accords community reviewed planned lunar landing and orbiting missions from all the signatories in attendance. With more than a dozen lunar landing missions expected over the next 18 months, last week’s discussions and tabletop exercises focused on non-interference, interoperability, release of scientific data, orbital debris and mitigation. These conversations included a presentation on NASA’s exploration plan, which accelerates the agency’s missions to the Moon. Artemis Accords signatories now have expanded opportunities to support NASA’s Moon Base and deepen their participation in the broader Artemis program, following the agency’s Ignition event on March 24.
+The work conducted at JPL remains critically important to the agency, and NASA is committed to maintaining continuity for active and future missions throughout the procurement process. NASA also is committed to maintaining the FFRDC’s existing physical location.
 
-“Peru joined the Artemis Accords in 2024, aiming to participate in a cutting-edge dialogue mechanism that addresses global trends in space exploration. We aspire to forge cooperative ties with the signatories of the Artemis Accords that contribute to the scientific and aerospace development of our country,” said Peru’s Vice Minister of Foreign Affairs Ambassador Felix Denegri about the workshop.
+This approach is consistent with broader government practices, including at the Department of Energy, which has held full and open competitions for five of its 16 FFRDC management and operations contracts over the past 10 years.
 
-During the first Trump Administration, the United States, led by NASA and the U.S. State Department, joined with seven other founding nations in 2020 to establish the Artemis Accords in response to the growing interest in lunar activities by both governments and private companies. Today, countries representing every region of the world have committed to responsible principles for exploration.
+The current contract with Caltech began Oct. 1, 2018, and runs through Sept. 30, 2028, with a potential maximum value of $30 billion, if all options are exercised. NASA has initiated the procurement process to compete the contract. Beginning this process now allows the agency sufficient time to conduct a comprehensive competition and award cycle while maintaining continuity for ongoing missions and laboratory operations.
 
-Signing the Artemis Accords means a commitment to the peaceful and transparent exploration of space; rendering aid to those in need; enabling access to scientific data; ensuring activities do not interfere with those of others; and preserving historically significant sites and artifacts by developing best practices.
+George Alderman / Cheryl WarnerHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov / cheryl.m.warner@nasa.gov
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-joins-artemis-accords-workshop-as-global-signings-rise/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASA Seeks Interest for Artemis Mission CubeSats
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/artemisiispls.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA Announces Realignment to Accelerate Mission Delivery
+<img src='https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-Organizations interested in launching CubeSats on future Artemis missions should respond to NASA’s request for information (RFI) by Monday, June 1, for initial consideration.
+Editor’s Note: This advisory was updated May 22, 2026 to include a retirement.
 
-“The SLS (Space Launch System) rocket and the Artemis missions provide great opportunities for teams to conduct important, science and technology investigations that contribute to the expansion of human space exploration,” said Courtney Ryals, acting manager, SLS payload integration, NASA’s Marshall Space Flight Center in Huntsville, Alabama.
+NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency.
 
-The RFI will inform potential future opportunities for CubeSats to fly on Artemis III, IV and V. While NASA is reviewing specific mission profiles, the agency expects to accommodate 6U and 12U-sized CubeSats that would deploy in Earth orbit or on a heliocentric disposal trajectory following the separation of the Orion spacecraft from the rocket, as the nanosatellites would deploy from a ring on the upper stage of the rocket. Opportunities may also exist for CubeSats deployed on a reentry trajectory from Earth orbit.
+During the Ignition event in late March, NASA Administrator Jared Isaacman and agency leaders outlined the most pressing objectives to deliver on the next chapter of American leadership in space. President Trump’s Executive Order Ensuring American Space Superiority, otherwise known as the National Space Policy, directed NASA to focus talent and resources on objectives including accelerating the Artemis program, establishing a Moon Base, developing a nuclear space reactor, igniting the orbital economy, and expanding missions of science and discovery.
 
-CubeSat sizes are measured in “one unit” or “1U” increments, each measuring 10x10x10 centimeters.
+To support the agency’s ambitious short- and long-term goals, NASA is taking action to increase specialization at centers and integrate mission directorates, elevating delivery of technically excellent work. Some of these actions include:
 
-NASA flew 10 CubeSats on the uncrewed Artemis I mission in 2022 and four on the crewed Artemis II mission, deploying each after the upper stage detached from the spacecraft and Orion was flying free on its own to carry out its primary mission. In addition to providing a ride to space as secondary payloads, the agency provides payload integration and engineering support.
+“This initiative reflects NASA’s extreme focus on executing the mission in direct support of the National Space Policy. We are focusing resources on the most pressing objectives only NASA is capable of undertaking and liberating the workforce from unnecessary bureaucracy and obstacles that impede progress. We aim to rebuild competencies and instill a culture that attracts the best and brightest capable of pursuing the most demanding engineering challenges and moving safely and urgently,” said Isaacman. “There will be no reduction in force, no program cancellations, no closures, but we will achieve cost savings through more efficient execution and taking an active role in delivering the outcomes the world has been waiting for from NASA. This is how we deliver on the mission, meet the moment, and continue to make history on behalf of the American people.”
 
-As part of the Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions to explore more of the Moon for scientific discovery, economic benefits, establish an enduring human presence on the lunar surface, and to build on our foundation for the first crewed missions to Mars.
+Bethany Stevens / Camille GalloHeadquarters, Washington202-358-1600bethany.c.stevens@nasa.gov / camille.m.gallo@nasa.gov
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
