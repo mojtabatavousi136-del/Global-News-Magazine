@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/22 - 23:55`
+**📅 Update (Tehran Time):** `2026/05/23 - 13:46`
 
 ---
 
@@ -19,130 +19,242 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Man City boss and Palestine advocate Pep Guardiola to step down
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-11.01.39-PM-1779480117.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Kohli refuses Head handshake after heated Hyderabad-Bengaluru clash in IPL
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26142634436122-1779528120.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Man City manager Pep Guardiola to step down as manager of Manchester City after a trophy-laden 10-year reign.
+Tempers flared ‌between Virat Kohli and Travis Head in ⁠the Indian ⁠Premier League, as the former India captain refused to shake hands with the Australian ⁠batter after Head’s Sunrisers Hyderabad handed Kohli’s Royal Challengers Bengaluru a crushing 55-run defeat.
+
+The two exchanged ⁠heated words when Kohli opened for Bengaluru, looking to chase down a daunting target of 256. During the exchange, a visibly angry Kohli was seen gesturing towards ‌Head to come and bowl.
+
+Kohli also mockingly made the “impact player” substitution gesture, a reference to Head, who is primarily a batter, often being replaced by Hyderabad for a specialist bowler after the Australian finishes batting.
+
+Head did not have much ⁠time to take Kohli up on ⁠his invite, as the Bengaluru opener fell soon after, scoring 15 off 11 balls. The Australian, however, bowled an over later ⁠in the game and dismissed Bengaluru captain Rajat Patidar.
+
+As the teams lined ⁠up to shake hands after ⁠the match, Head held out his hand but Kohli looked straight ahead and walked past him.
+
+Friday’s win left third-placed Hyderabad on ‌equal points with Bengaluru, but Kohli’s side remained top of the table with a superior net run ‌rate. ‌Both teams have qualified for the IPL playoffs starting Wednesday.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/22/man-city-boss-and-palestine-advocate-pep-guardiola-to-step-down?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/23/kohli-refuses-head-handshake-after-heated-hyderabad-bengaluru-clash-in-ipl?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 San Diego’s Muslims, a mosque, and a city shaken
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779478330.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israel attacks southern Lebanon and near Syrian border despite ‘ceasefire’
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260523__B3TH8WE__v1__HighRes__LebanonIsraelIranUsWar-1779517052.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-We hear how San Diego’s Muslim community is grieving, supporting one another, and trying to move forward after an attack that shattered their sense of safety. How does a community begin healing after unimaginable loss?
+Israeli forces launched a new wave of air attacks in Lebanon on Saturday after earlier raids killed 10 people, targeting an area near the Syrian border and several villages in southern Lebanon.
 
-This episode was produced by Chloe K. Li and Sarí el-Khalili, with Spencer Cline, Catherine Nouhan, Tuleen Barat, and our host, Malika Bilal. It was edited by Noor Wazwaz.
+Lebanon’s National News Agency said there were five Israeli air attacks shortly before midnight in the mountainous Nabi Sreij area on the outskirts of Brital, which had been spared from attacks since April 17. On Saturday,  the agency reported large explosions in the towns of Yohmor al-Shaqif in Nabatieh and Taybeh in the Marjayoun district, both in southern Lebanon.
 
-Our sound designer is Alex Roldan. Our video editors are Hisham Abu Salah and Mohannad al-Melhem. Alexandra Locke is The Take’s executive producer.
+On Thursday, an Israeli attack near the Tebnine Hospital in southern Lebanon damaged all three floors of the building, including ‌the ‌emergency room, intensive care unit, surgical ward, and ambulances parked outside, according to the Ministry of Public Health.
+
+Israel’s military had issued two forced displacement warnings since Friday night via its Arabic-language spokesman Avichay Adraee, for the southern Lebanese village of Burj Rahal and the areas of Tyre and Zqouq al-Mufdi.
+
+Al Jazeera’s Obaida Hitto, reporting from Tyre, southern Lebanon, at the edge of the 500-metre (550-yard) perimeter that Israel has designated as the danger zone, said: “There are ambulances here. There are also rescue teams and people who have fled their homes this evening following this forced [displacement] order.”
+
+Many left in fear and panic, he said, seeing these orders as threats while being unsure of when they could return home.
+
+“People are here with their families and their children,” Hitto said. “This is the kind of psychological terror that Israel is forcing people to live in, here in southern Lebanon.”
+
+More than 3,100 people have been killed in Lebanon ⁠since Israeli forces escalated attacks on the country on March 2, and attacks have continued despite a ceasefire announced by United States President Donald Trump on April 16. The dead include 123 medics, more than 210 children and nearly 300 women, according to statistics shared by Lebanon’s Health Ministry on Friday.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/the-take-2/2026/5/22/aje-onl-usa_sandiegomosque_av_v2-220526?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/23/israel-attacks-southern-lebanon-and-near-syrian-border-despite-ceasefire?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 What are the implications of US sanctions in Lebanon?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779477750.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-23T021444Z_1274126490_UP1EM5N068I79_RTRMADP_3_SOCCER-FRIENDLY-MEX-GHA-1779526842.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-As Israel keeps up its attacks on Lebanon despite a ceasefire, the United States has sanctioned nine people, including two Lebanese military officers, accused of links to Hezbollah.
+Mexico have beaten Ghana 2-0 ⁠in Puebla in a World Cup warm-up that offered a glimpse of the excitement building less than three weeks before the country opens ⁠the tournament.
 
-It comes while Washington brokers more talks between Lebanese and Israeli officials.
+While Puebla is not among Mexico’s World Cup host cities, fans in green shirts at Cuauhtemoc Stadium created an electric atmosphere throughout the night on Friday.
 
-Randa Slim – Middle East programme director at the US-based Stimson Center
+Repeated Mexican waves rolled ⁠around the stadium despite visible empty sections closed under FIFA sanctions linked to discriminatory chants at previous national team matches.
 
-Elijah Magnier – Specialist in Middle East wars and regional military dynamics
+Brian Gutierrez set the tone immediately, curling home from the edge of the box after two minutes.
+
+Teenage Liga MX ‌sensation Gil Mora struck the post in the first half, and Alexis Vega had a header ruled out for offside before the break.
+
+“He’s a different player, we’ve always said that,” Mexico coach Javier Aguirre said of Mora, who made his first appearance for Mexico since November after returning from injury.
+
+“He’s brave, direct, vertical … he gives us great joy because he’s Mexican and ⁠because he’s back without pain.”
+
+Ghana, with recently appointed coach ⁠Carlos Queiroz absent and assistants leading from the bench, threatened an equaliser early in the second half after forcing a pair of saves from the Mexican goalkeeper and hitting the crossbar.
+
+But substitute ⁠Guillermo Martinez ended the visitors’ hopes in the 54th minute, finishing off a counterattack to double Mexico’s lead.
+
+Coach Aguirre ⁠used the friendly to continue evaluating players ahead ⁠of naming Mexico’s final World Cup squad on June 1, with Europe-based players Luis Chavez, Edson Alvarez and Jorge Sanchez making second-half appearances after recently joining training camp.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/22/us-lebanon-sanctions-implications?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Thousands in Cuba rally for Raul Castro to protest US indictment
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779479695.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Missiles to munitions: Does the US risk running out of key weapons?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-23T071710Z_787943666_RC2TUKAYHZCU_RTRMADP_3_IRAN-CRISIS-BRITAIN-1779455296.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Thousands of people are protesting outside the US embassy in Havana to show their support for Raul Castro.
+On Thursday, the acting United States Navy secretary, Hung Cao, was asked by a Senate committee about $14bn in weapons sales to Taiwan that Congress has approved but that President Donald Trump needs to sign off on.
+
+“Right now we’re doing a pause,” said Cao, “in order to make sure we have the munitions we need for Epic Fury – which we have plenty.”
+
+Epic Fury is the name of the US military operation that the Trump administration launched on February 28 against Iran. Trump’s Secretary of State Marco Rubio has since stated that Epic Fury was over, so Cao’s comments on needing munitions for the operation appeared to contradict the US’s top diplomat.
+
+But the Navy secretary’s comments on needing munitions for the Iran war also hit at another contradiction between the administration’s claims and the facts.
+
+While Cao was adamant that the pause in supplies to Taiwan was not due to a critical shortage of weapons – echoing other officials in the Trump administration – there’s growing evidence that the US is running through its munitions and missiles in the war on Iran much faster than they can be replenished.
+
+That strain was captured by Cao’s own comments. “We’re just making sure we have everything, then the foreign military sales will continue when the administration deems necessary,” he told senators.
+
+On Thursday, The Washington Post revealed that the US used more of its advanced missile-defence interceptors to defend Israel than even Israel itself during the 40 days of the Iran war, before the ceasefire came into effect on April 8.
+
+The report found that the US launched more than 200 Terminal High Altitude Area Defenses (THAAD) interceptors – which equate to about half its total inventory – and more than 100 Standard Missile-3 and Standard Missile-6 interceptors. By contrast, Israel fired fewer than 100 Arrow interceptors and about 90 David’s Sling interceptors.
+
+While US officials publicly project confidence in their stockpiles, analysts say the diminishing munitions could be factoring in Washington’s calculations in resuming its war on Tehran.
+
+Following The Washington Post’s report, the Pentagon and Israel both defended their joint strategy of interceptor deployments, with the US defence body downplaying concerns of dwindling weapons.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/22/thousands-in-cuba-rally-for-raul-castro-to-protest-us-indictment?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/features/2026/5/23/missiles-to-munitions-does-the-us-risk-running-out-of-key-weapons?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Slovenia’s parliament approves right-wing Janez Jansa as prime minister
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a109c8b5f2f-1779473547.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 As Salah plays final Liverpool match, his legacy goes far beyond the pitch
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a10505405-1779454036_328143-1779454072.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Slovenia’s parliament has voted to bring back right-wing politician Janez Jansa as prime minister, after his last stint in power ended in 2022.
+When Mohamed Salah plays his last match for Liverpool this Sunday, he will leave as a cultural icon with a lasting legacy well beyond the game.
 
-Legislators in the 90-member assembly voted 51-36 for Jansa on Friday – marking a shift for the small European Union country recently run by a liberal government.
+The 33-year-old Egyptian forward announced in March that he would leave Anfield at the end of this season, with Liverpool boss Arne Slot saying he “deserves a big send-off” after nearly a decade at the Premier League club.
 
-Jansa will need to return to parliament within the next 15 days for another vote to confirm his future Cabinet.
+Liverpool will take on Brentford this Sunday at Anfield, a fitting locale for the striker to play his final game for the club.
 
-His appointment concludes a post-election stalemate after the vote two months ago ended in a tie when former liberal Prime Minister Robert Golob’s Freedom Movement was unable to create a parliamentary majority by only securing a thin margin.
+Salah’s status as one of the greatest Liverpool players of all time transcends the awards and top-tier statistics that he dominates – more than 250 goals for the club, two Premier League titles, four league Golden Boots, and three PFA Players of the Year awards, among others.
 
-On Thursday, Jansa and his populist Slovenian Democratic Party (SDS) signed a coalition agreement with several centre-right groups to form a new government, which now holds 43 seats in the assembly.
+The legacy he has built as an openly Muslim and North African player in Europe – authentically and unapologetically – has left a lasting impact on thousands of fans and budding players alike.
 
-He was the country’s leader from 2004 to 2008, 2012 to 2013 and 2020 to 2022.
+“If you told me at 10-years-old that the best player in the league is Muslim, I’d have called you a liar. And if you told me his name was Mohammed Salah, I would have told you to get out of my room, basically,” London-based football journalist Ahmed Shooble told Al Jazeera last month.
 
-In the March 22 elections, the SDS came second with 28 seats, behind Golob’s Freedom Movement, which secured 29 seats.
+As a young fan, Shooble recalls the struggles of navigating the quintessentially English football atmosphere synonymous with drinking and gambling, both of which are forbidden in Islam.
 
-The new coalition government is made up of the SDS, New Slovenia, Democrats, the Slovenian People’s Party and Focus. It also secured additional backing from the right-wing Resnica party, which will not formally join the government.
+Salah being a devout Muslim and “authentically himself” was the first time Shooble saw his own identity take up space on the global football stage. For Shooble, even Salah’s trademark celebration of sujoud (bending down in prostration) was testimony that nothing is possible without God.
 
-In a speech laying out the government’s future goals, Jansa listed the economy, the fight against corruption and red tape, and decentralisation.
+“Islamophobia, I hate to say it, is on the rise again in the UK and generally across Europe as well,” Shooble said. “I guess Salah is contributing to the lessening of that just purely by being himself.”
 
-He also promised to lower taxes for the rich and support private education and healthcare.
+He emphasised how the Egyptian great neither forced any sort of narrative, nor was he overly performative when it came to his faith.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/22/slovenias-parliament-approves-right-wing-janez-jansa-as-prime-minister?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/23/mohamed-salah-liverpool-final-match-legacy?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory
+### 📰 At least 90 killed in Chinese coal mine explosion, state media reports
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+At least 90 people have been killed in a coal mine blast in northern China, according to state media.
+
+The gas explosion at the Liushenyu Coal Mine in Shanxi province is the worst mining disaster in China since 2009.
+
+There were 247 workers reportedly on duty when the blast happened at 19:29 local time on Friday (22:29 GMT), with more than 100 people reportedly pulled to safety and hundreds of rescuers sent to the site.
+
+Chinese President Xi Jinping called for no effort to be spared in efforts to treat the injured and search for survivors, and asked the government to investigate the cause of the blast and hold those responsible to account.
+
+Twenty-seven people remain in a local hospital, with one in critical condition, while the rest have minor injuries. Most were affected after inhaling poisonous gas, according to state media, though it is not clear what type of gas it was.
+
+Wang Yong, an injured miner, told state media that when the incident happened, he did not hear a sound but saw a sudden plume of smoke.
+
+"I smelled sulphur, the same smell you get from blasting. I shouted at people to run. As we were running I could see people collapsing from the fumes. Then I blacked out too," he said.
+
+"I lay there for about an hour or so before I came round on my own. I woke up the person next to me and we got out together."
+
+Some of the management team at the mine have reportedly been detained. The cause of the gas explosion has not yet been revealed, but state media reported that the levels of carbon monoxide - a highly toxic, odourless gas - in the mine were found to have "exceeded limits".
+
+China's Ministry of Emergency Management has sent 345 personnel from six rescue teams to help with the operation.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Putin vows retaliation after accusing Ukraine of hitting student dormitory
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Russian President Vladimir Putin has promised retaliation after accusing Ukraine of carrying out a deadly attack on a student dormitory in an occupied part of eastern Ukraine.
+Vladimir Putin has promised retaliation after accusing Ukraine of carrying out a deadly attack on a student dormitory in an occupied part of eastern Ukraine.
 
-Six people were killed and 39 injured in the overnight strike in the town of Starobilsk, Luhansk region, Putin said. Another 15 people were missing.
+Ten people were killed and 38 others injured in the overnight strike in the town of Starobilsk, in the Luhansk region, the local Russian-backed governor said. Another 11 people remain missing, he said.
 
-Ukraine's military said it hit the headquarters of Russia's elite Rubicon drone military unit in Starobilsk. It did not say whether it was the same building as the one identified by Russia.
+Ukraine's military said it had hit the headquarters of Russia's elite Rubicon drone military unit in Starobilsk. It did not say whether it was the same building as the one identified by Russia.
 
-"There are no military facilities, intelligence service facilities, or related services in the vicinity," Putin said in Moscow.
+But Putin said there were "no military facilities, intelligence service facilities or related services in the vicinity".
 
-"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems," he said at a reception in his Kremlin residence on Friday.
+"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems," he said at a reception in his Kremlin residence in Moscow on Friday.
 
-He ordered the Russian military to prepare its "proposals" on how to retaliate.
+He ordered the Russian military to prepare "proposals" on how to retaliate.
 
 The Russian leader said the Ukrainian strike had been carried out in three waves using 16 drones.
 
 Russia's state-run TV showed what it said was one of the injured students, identifying her as Diana Shovkun, aged 19.
 
-She had head injuries after a being hit by a collapsing concrete slab, the TV said report said.
+She had head injuries after being hit by a collapsing concrete slab, the report said.
 
-Later on Friday, Ukraine's military said its overnight strike targeted Rubikon's headquarters in Starobilsk. It accused fighters from the special drone unit of regularly striking civilians and civilian infrastructure in Ukraine.
+Early on Saturday, Russian officials reported two people had been injured after falling debris from drones triggered a fire at an oil depot in Russia's Black Sea port of Novorossiysk.
 
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 SpaceX launches massive Starship V3 rocket on test flight
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/98ff/live/9fa417a0-565b-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Elon Musk's SpaceX has launched the largest and most powerful rocket in history after its highly anticipated test flight was delayed.
+
+The uncrewed Starship V3 rocket blasted off from Texas just after 17:30 (22:30 GMT) on Friday, days after SpaceX revealed plans for a record-breaking stock market debut.
+
+Once in space, Starship deployed 20 dummy satellites before making re-entry and about an hour after launch it splashed down in the Indian Ocean, where it exploded as planned.
+
+"Congratulations @SpaceX team on an epic first Starship V3 launch & landing!" Musk wrote on X. "You scored a goal for humanity."
+
+The first attempted launch on Thursday was postponed due to a launch-tower malfunction.
+
+The SpaceX team celebrated after the launch, and while the mission achieved most of its major objectives, it did not go exactly to plan.
+
+Both stages of the rocket suffered engine failures but the test flight was largely successful – a result that will likely boost confidence both for investors and for Nasa, which intends to use the Starship vehicle in future missions to the moon.
+
+Nasa Administrator Jared Isaacman congratulated Musk and the SpaceX team.
+
+"One step closer to the Moon… one step closer to Mars," he posted on X.
+
+It was the 12th flight of a SpaceX rocket, and featured the latest design which stands 124m (407ft) high – more than 40 storeys.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -205,68 +317,6 @@ Speaking at Friday's news briefing in Geneva, Tedros said: "We are now revising 
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Bodies of Italian divers did not have optimal equipment, says rescuer
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/39f1/live/ca0ae890-55ff-11f1-ad45-8ffb2d2085e2.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A member of the diving team that recovered the bodies of Italian scuba divers in the Maldives has said the equipment they were found with "was not optimal".
-
-Images from inside the cave where the four Italians were discovered earlier this week were taken by Finnish diver Sami Paakkarinen, who told Italian media "the bodies were all together in one section of the cave", which he said was very deep and "very challenging".
-
-The body of the first diver was found soon after the five disappeared in a scuba diving accident at the 60-metre-deep (197ft) cave in Vaavu Atoll.
-
-It took several days before the rest of the group were found deep inside the cave by a team of specialist Finnish and Maldivian divers.
-
-A Maldivian rescue diver died last weekend while searching for the bodies of the group.
-
-It is believed to be the worst single diving accident in the tiny Indian Ocean nation, a popular tourist destination because of its string of coral islands.
-
-The four bodies found earlier this week are expected to be repatriated to Italy on Saturday and post mortem examinations will take place in the coming days.
-
-Paakkarinen told La Repubblica newspaper that when the team found the bodies they realised the cause could have been a "tragic human error" but ultimately it would be for investigators to determine what happened.
-
-He also questioned why the divers were inside the cave "without the proper equipment" as he said himself and his fellow rescuers would never have ventured into such an environment without a scuba diving reel or guide rope for safety which he described as "Ariadne's thread".
-
-The diving reel is used to guide divers through complicated or hazardous terrain underwater.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c0l2j723nrxo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Trump is putting pressure on Cuba - why and to what end?
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ca01/live/b51e3b60-55f2-11f1-9773-43c89bcb1e91.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-The relationship between the United States and Cuba - already strained and fragile for decades - has been rapidly deteriorating in recent weeks.
-
-Accusing Cuba of posing a national security threat, the US has hit it with an oil blockade, sanctions and now an unprecedented murder indictment against former leader Raúl Castro.
-
-Washington is also warning that a peaceful agreement with the Caribbean nation is unlikely, while Cuba says the US is using a "fraudulent case" to justify military intervention.
-
-Since returning to the White House, Donald Trump has made clear his desire to change Havana's leadership and has openly mused that Cuba is "ready to fall".
-
-In March, he suggested the country was in "deep trouble" as he threatened a "friendly takeover".
-
-There has been no announcement of plans for any military intervention but Cuba is on edge, especially as surveillance activity in the Caribbean increases.
-
-Over the past week, the US military has been publicly broadcasting the location of its aircrafts near Cuba on plane-tracking websites.
-
-Leaving the flight transponders on "is likely deliberate", said UK drone expert Dr Steve Wright, with the US intending to send "a clear message it has eyes in the sky to maintain the squeeze".
-
-Flight-tracking data does not give a complete picture as military aircrafts often only share their location for portions of a flight.
-
-Meanwhile, US news site Axios, citing classified intelligence, reported that Cuba  possessed 300 drones and was discussing striking nearby US targets - including Guantanamo Bay, Key West in Florida, and naval vessels.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -431,55 +481,60 @@ Myhre described Stafford as “a very meticulous professional, and for every sur
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Kyle Busch's No. 8 To Be Reserved Until Son's NASCAR Career
-<img src='https://imagez.tmz.com/image/25/16by9/2026/05/22/25dfd78d26ff4a8ebef7a3c5d6e33c81_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Mackenzie Shirilla Cashed In On Sugar Daddy Sites In Jail, Ex-Inmate Claims
+<img src='https://imagez.tmz.com/image/e9/16by9/2026/05/22/e90fb61ddc6346a2bfc2c92cfa7b8f46_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-No one will race the No. 8 car after Kyle Busch's tragic death ... with Richard Childress Racing announcing the digit will be suspended in his honor until his son, Brexton, is ready to join NASCAR.
+Mackenzie Shirilla apparently kept her hustle going behind bars ... at least according to a former inmate who says she found creative ways to make money while locked up.
 
-The decision was shared on Friday ... with Busch's team saying it will opt to use No. 33 at Charlotte Motor Speedway this weekend and beyond.
+Kat Crowder, who says she spent six months in prison with Shirilla, tells TMZ Mackenzie got crafty with an arts kit -- making jewelry, including nose rings, bracelets, and custom shoes ... claiming Mackenzie told people if they wanted something, they could pay up via Cash App.
 
-"Kyle Busch was instrumental in the design of RCR’s stylized No. 8 and it has become synonymous with Kyle and an important symbol for his fans and the NASCAR industry," RCR said minutes ago. "No one can carry it forward to the level that he did."
+Catch the full clip ... 'cause Kat refers to the platforms Mackenzie was active on as "sugar daddy" websites -- though she says that label was more jail slang than literal.
 
-In an incredible gesture, it added when 11-year-old Brexton follows in his dad's pro driving footsteps ... the number will be made available to him.
+Kat says she doesn’t think Mackenzie’s still using those sites now that more people have found out ... but adds she wouldn’t be shocked if she got plenty of attention through them.
 
-Brexton started racing at five years old ... and has already won more than 100 competitions.
-
-After Kyle passed away at 41 years old, Brexton changed his Instagram avatar to feature a picture of him hugging his dad.
-
-Just days ago, Brexton shared a pic of his family celebrating his 11th birthday ... a truly heartbreaking image following the news.
-
-Kyle was hospitalized with a severe illness prior to his death ... and the loss has sent shockwaves through the sports community.
-
-Expect many more tributes to the legend in the following days.
+In 2023, Shirilla was convicted on multiple murder-related charges and sentenced to prison after prosecutors said she drove nearly 100 MPH into a brick wall -- killing boyfriend Dominic Russo and friend Davion Flanagan -- and Shirilla is pushing back on the public perception in Netflix’s recent "The Crash," insisting she’s not a monster.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/kyle-buschs-no-8-reserved-for-sons-nascar-career/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/23/mackenzie-shirilla-former-inmate-says-she-was-on-sugar-daddy-websites/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Donald Trump Jr. and Bettina Anderson Are Officially Married
-<img src='https://imagez.tmz.com/image/7f/16by9/2026/05/22/7f747b2f23684748a2dd4618005ee409_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 WWE's Ludwig Kaiser Returns as Mexican Wrestling Star After Battery Arrest
+<img src='https://imagez.tmz.com/image/37/16by9/2026/05/21/379a321f353b4f8083a46b8cab482339_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Donald Trump Jr. and Bettina Anderson are officially official ... because the couple quietly was wed ahead of their lavish Bahamas wedding weekend.
+Fresh off his arrest for battery in Florida ... WWE's Ludwig Kaiser was back in the wrestling world, but in a totally different role in Mexico and the crowd there just loved it!
 
-According to the marriage certificate, obtained by TMZ, Don Jr. and Bettina checked the legal box Thursday, with a Palm Beach County deputy clerk signing off on the license ... paving the way for the couple’s upcoming "I do" moment on a private island in the Bahamas.
+Kaiser (real name: Marcel Barthel) turned into his alter ego -- the mask-wearing El Grande Americano -- for the cheering crowd Friday night at his very own "Serenade for El Grande Americano" rally in the Kings League Dome in Mexico City.
 
-The ceremony was officiated by Brad McPherson ... a longtime real estate attorney who has worked closely with the Trump family for years. This was a legal formality the pair needed to handle before their actual ceremony outside of the U.S.
+Video shows El Grande getting pumped up and emotional, wiping tears from his eye slits as he high-fives with fans.
 
-BTW, it looks like Bettina's not legally taking the Trump name ... according to the certificate.
+Another clip shows the wrestler looking dapper in his suit behind the scenes ahead of his upcoming mask vs mask match at Noche de Los Grandes&nbsp;next Saturday.&nbsp; &nbsp;
 
-Don Jr. and Bettina plan to exchange vows in front of a small group of family members and close friends during an intimate celebration this weekend. One notable absence, though -- President Donald Trump has already said he will not be attending the wedding festivities.
+El Grande's rally was supposed to go down Thursday ... but it got moved to Friday after his arrest Wednesday for battery in Orlando, Florida.
 
-Looks like the only thing left now is the actual celebration!
+As we first reported ... Kaiser, who doesn't don a mask in WWE, allegedly slugged his neighbor and pushed him to the floor during an argument inside their apartment building. Police say the neighbor called out Kaiser for making out with a woman in front of him, sparking the confrontation.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/donald-trump-jr-bettina-anderson-marriage-license/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/23/wwe-ludwig-kaiser-battery-arrest-marcel-barthel-el-grande-americano/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Stars and Scars -- You Be the Judge
+<img src='https://imagez.tmz.com/image/b9/16by9/2026/05/23/b93e06fa2f47483f8ddfa22db6afdad9_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+President Trump's giving away $1.776B, but who deserves it?? Plus, Taylor Swift and Travis Kelce's potential prenup debate, Britney Spears says pasta la vista and holy role models, Prattman! So, we gotta ask ...
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/23/polls-you-be-the-judge/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -516,107 +571,56 @@ The two-time Cup Series champion leaves behind a massive legacy in motorsports .
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Admiral's Fox News Appearance Sparks Questions About Possible Mask
-<img src='https://imagez.tmz.com/image/e8/16by9/2026/05/22/e8c369f9aae74423b203e713303c356f_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-A Vice Admiral's recent interview on Fox News has caused the internet to go into a full-blown meltdown ... with many insisting he wore a mask on TV for some reason -- and now the network's weighing in.
-
-Here's the deal ... Vice Admiral Robert Harward -- a retired Navy SEAL and the former Deputy Commander of the United States Central Command -- appeared on the network earlier this week to discuss the ongoing war in Iran.
-
-While he spoke, a dark shadow near the base of his throat drew audience members' eyes ... and people took to social media to question whether Harward wore a mask for the TV spot.
-
-Users were quick to push the mask theory ... with some saying he probably wasn't available that day, and Fox News used a stand-in who threw on the mask -- which may seem like a small thing, but would certainly constitute a serious violation of journalistic ethics.
-
-Others are arguing this is an issue of lighting ... with lights in front and above him creating a sinister double shadow effect.
-
-And some are just trolling ... like Meghan McCain who wrote, "That motherf***er is NOT real" -- similar to what Tiffany Gomas yelled in her viral airplane freakout a few years ago.
-
-Fox News tells TMZ ... "Vice Admiral Robert Harward appeared on FOX News Channel earlier this week via a remote, mobile camera operated by an outside vendor. During the interview, lighting conditions in the van contrasted with the vice admiral’s jacket, which caused a shadow to appear on his neck.”
-
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/robert-harward-has-internet-making-mask-theories/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Best Amazon Memorial Day Sale Deals for Summer
-<img src='https://imagez.tmz.com/image/19/16by9/2026/05/18/194f86b5420840479286ec5fc6a091e4_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Best Citizen Watch Deals in Amazon's Memorial Day Sale
+<img src='https://imagez.tmz.com/image/a6/16by9/2026/05/18/a6c6d0ceaac744f6bc4baf511f7b718a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
-Memorial Day weekend is not just the unofficial start to summer … it's also one of the biggest sale events of the year.
+These fantastic watches are here to help you count every second of your dreaded meeting ... or your wonderful vacation.
 
-With a hot summer ahead, it’s time to upgrade your gear for the warmer weather, from bathing suits to pool floats -- and all for epic-ly low prices. That's right ... Amazon is having a massive Memorial Day Weekend sale you don't want to miss!
+Time doesn't discriminate between good and bad, but it's always important to keep your timekeepers as sharp as you.
 
-So whether you’re headed poolside, oceanside, or just planning to kick it outdoors this summer, we've got you covered with major deals on the gear you need.
+Here are some of the sharpest Citizen Watches you can find ... during Amazon's Memorial Day sale!
 
 Want more great finds? Head to TMZ Deals.
 
-TMZ CHEAT SHEET: MEMORIAL DAY SALE
+Automatic Tsuyosa Citizen Luxury Watch
 
-Anker Soundcore 2 Bluetooth Speaker -- $30Tummy Control One Piece Swimsuit -- $20Crochet Bathing Suit Coverup -- $15Coleman Portable Camping Chair -- $40Inflatable Pool Floats Set -- $22Inflatable Standup Paddleboard -- $1503-in-1 Slim Can Cooler -- $15Women’s Slip On Faux Leather Sandals -- $27
+Citizen is all about class and simplicity. This Automatic Tsuyosa Citizen Luxury Watch is the embodiment of both.
 
-Anker Soundcore 2 Bluetooth Speaker
+The neat thing about this option is that it has multiple color variants.
 
-Pump up the tunes! This Anker Soundcore 2 Bluetooth Speaker provides unbelievable sound at an unbeatable price. Bring this speaker with you for on-the-go tunes, from the beach to a barbecue.
+So, if you you're not a fan of this bronze-orange color, you can get green, gold, navy blue, or black to fit your taste!
 
-With huge stereo and enhanced bass, this device delivers vibrant audio … and has up to 24 hours of non-stop playtime … keeping you covered all weekend long.
+Citizen Brycen Eco-Drive
 
-And with IPX7 waterproof protection, you’ll be safeguarded against accidental splashes, wet weather and mud.
+Oh god, look at the time ... See, you can do that AND look at your wrist when you have a Citizen Brycen Eco-Drive on! Who wants to look at that lame clock they have mounted on your office wall?
 
-Tummy Control One Piece Swimsuit
+No, you came here because you like to tell time like a boss ... and bosses tell time with this solar-powered wonder.
 
-Upgrade your bathing suit before summer officially kicks off. This Tummy Control One Piece Swimsuit is made to be flattering. With a twist front and plunging neckline, this unique suit will become a staple in your swimwear collection.
+Citizen Chronograph Atomic Time Keeping Watch
 
-It's also designed with removable padding, adjustable wide straps and ruching at the waist for tummy control … so it's a perfect fit for literally anyone.
+Nothing tells people you're a master of time better than this Citizen Chronograph Atomic Time Keeping Watch!
 
-Plus, it's available in a wide variety of colors, from vibrant pink to baby blue, meaning you're guaranteed to find something you’ll love.
+Whether you're flying into work, flying into an exercise, or flying into, well, the sky ... this Watch is built to be your "flying" partner!
 
-Crochet Bathing Suit Coverup
+Citizen Axiom Watch
 
-Lounging by the pool or hitting the beach this weekend? Do it in style in this Crochet Bathing Suit Coverup.
+"I don't want that watch, it's got too many numbers on it!" That's a complaint you would NEVER hear with this Citizen Axiom Watch! This is for time-telling veterans, okay? Only someone who has been looking at a clock their whole life will know what time it is even without the numbers! And, this is a classy way to wear it -- just black and gold, and simple, sleek design.
 
-Featuring an asymmetric hem with tassels and an open knit that shows off your swimwear, this piece will have you looking hot … but feeling cool.
+Citizen Women’s Gold Rectangle
 
-There's plenty of color options too, ensuring it complements the rest of your Memorial Day 'fit.&nbsp;
+Ladies ... this time it's your time! This Citizen Women's Gold Rectangle watch is an excellent piece of bling that screams girl boss!
 
-Coleman Portable Camping Chair
+It's elegant, bold, and beautiful ... just like you -- but only if you wear it! Just kidding. But do give it a shot. You won't be disappointed.
 
-Gone are the days of being uncomfortable while you're sitting around the campfire or on the beach.
+Citizen Men's Gold Two-Tone Luxury Watch
 
-Sink into a Coleman Portable Camping Chair that's complete with a fully cushioned seat and back. It's got adjustable arm heights and can hold up to 325 lbs., making it suitable for all shapes and sizes.
+This Citizen Men's Gold Two-Tone Luxury Watch is the crème de la crème.
 
-Plus, it’s also equipped with a cup holder and a 4-can cooler so you can&nbsp; grab a cold drink without getting up. And when you’re ready to head home, it folds up into a compact storage bag.&nbsp;
-
-Inflatable Pool Floats Set
-
-Nothing says relaxation quite like floating in the pool while enjoying a three day weekend.
-
-With this Inflatable Pool Floats Set, you (and your BFF) are guaranteed a whole lot of time to unwind.
-
-Simply inflate both floaties, toss them in the pool and sink into the serene comfort of knowing you have absolutely nothing to do.
-
-Inflatable Standup Paddleboard
-
-Kick off summer with a new hobby. This Inflatable Standup Paddleboard is perfect for newbies who are trying paddleboarding for the first time.
-
-Each set comes with everything you need to get started, from the paddle, air pump and fins all the way to a waterproof storage bag for your belongings and a repair kit in case things go awry.
-
-Whether you’re paddling across the pond, fishing while on board or trying your hand at water yoga, you’re bound to have adventures this weekend and beyond.&nbsp;
-
-3-in-1 Slim Can Cooler
-
-Lukewarm drinks? Not on your watch this weekend. This 3-in-1 Slim Can Cooler is guaranteed to keep your beverages cool for up to six hours.
-
-With double-walled vacuum insulation and an extra copper layer, your drink will be refreshing until the very last sip. Whether you’re drinking from a beer bottle, soda can or a 12 oz. slim can, this cooler has got you covered.
-
-Women’s Slip On Faux Leather Sandals
-
-Memorial Day means it's basically summer so ditch the sneakers and loafers for something a little more comfortable. These Women’s Slip On Faux Leather Sandals are perfect for all of your holiday weekend activities, from hitting the pool to dinner by the beach. Plus, they’re available in so many colors so you’ll always have a pair to match your look.&nbsp;
+The 40.5mm two-tone silver and gold-tone stainless steel case holds a sunray green dial with a 1/5 second chronograph that measures up to 60 minutes, 12/24 hour, time, and date. The sleek dial is accented with gold-tone registers and indices, protected by a sapphire crystal. In other words ... this is a great watch that crowns your boldest fashion statements!
 
 For more curated product lists check out TMZ Deals.
 
@@ -626,71 +630,92 @@ All prices &amp; availability subject to change.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/22/memorial-day-sale-summer-gear/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/23/citizen-watch-deals/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Regional Mediators Rush to Save U.S.-Iran Cease-Fire
+### 📰 Trump, Defiant After Bad Week, Pushes Ahead on Politically Unpopular Ideas
 <div align='justify'>
 
-Pakistan and Qatar have dispatched teams to Iran under the looming threat of resumed war, after weeks of diplomacy failed to produce an agreement.
+President Trump continues to act like he’s politically all-powerful, even in the face of indications that he is not.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/23/us/politics/defiant-after-bad-week-trump-pushes-ahead-on-politically-unpopular-ideas.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Stocks and Oil Prices Tick Up Amid Impasse Over Reopening Strait of Hormuz
+### 📰 Trump’s Pursuit of a Partnership With China Raises Concerns in India
 <div align='justify'>
 
-Nearly three months since the fighting began, disagreements remain over the fate of Iran’s uranium stockpile and transit fees for the Strait of Hormuz.
+Secretary of State Marco Rubio has a “gargantuan task” during his visit to Delhi: defuse tensions over President Trump’s anti-India aggression and overtures to China.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/22/business/oil-stocks-bonds-gas.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Iran and Oman in Talks Over Strait of Hormuz Ship Payment System
+### 📰 Food, Flashlights and Fans: Floridians Step Up Aid to Cuban Relatives
 <div align='justify'>
 
-The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.
+Months into the oil blockade imposed by President Trump, many Cubans are relying more than ever on relatives in the U.S. for help meeting their daily needs.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/23/us/south-florida-cuba-family.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 GOP Pulls Measure on Trump’s War Powers in Iran, Lacking Votes to Defeat It
+### 📰 Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger
 <div align='justify'>
 
-House Republican leaders abruptly scrapped a planned vote on a measure to direct President Trump to end the conflict or win authorization for it, amid party defections and absences.
+A partner in the war, Israel has been largely left out of the peace talks, a humbling setback for its prime minister with significant risks for the country.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says
+### 📰 Trump Weighs His Options in Carrying Out New Strikes in Iran
 <div align='justify'>
 
-The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
+There is no shortage of targets if he decides to strike: Energy facilities left untouched, the deep underground nuclear storage site at Isfahan and missile sites that appear to have been dug out.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/22/us/politics/trump-iran-targets.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling
+<img src='https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon missions, nuclear propulsion, aeronautics, and more.
+
+NASA published an Announcement for Proposals on May 21 asking filmmakers, documentarians, songwriters, storytellers, poets, and others to submit proposals to partner with the agency by Tuesday, June 30.
+
+In this initial round, NASA is seeking up to 10 partners for unfunded Space Act Agreements to share the stories behind, and insights into, multiple NASA missions, including, but not limited to, the following:
+
+While this opportunity is focused on U.S. creators, the agency will consider proposals with a minority of international participants. Proposals should detail which area of focus is desired, funding and distribution arrangements, and any specifics needs from NASA to move forward (access to facilities, personnel, etc.).
+
+Camille Gallo / Cheryl WarnerHeadquarters, Washington202-358-1600camille.m.gallo@nasa.gov / cheryl.m.warner@nasa.gov
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/roscosmosadvisorymay22-4d3cc8.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -792,29 +817,6 @@ George Alderman / Cheryl WarnerHeadquarters, Washington202-358-1600george.a.alde
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA Announces Realignment to Accelerate Mission Delivery
-<img src='https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-Editor’s Note: This advisory was updated May 22, 2026 to include a retirement.
-
-NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency.
-
-During the Ignition event in late March, NASA Administrator Jared Isaacman and agency leaders outlined the most pressing objectives to deliver on the next chapter of American leadership in space. President Trump’s Executive Order Ensuring American Space Superiority, otherwise known as the National Space Policy, directed NASA to focus talent and resources on objectives including accelerating the Artemis program, establishing a Moon Base, developing a nuclear space reactor, igniting the orbital economy, and expanding missions of science and discovery.
-
-To support the agency’s ambitious short- and long-term goals, NASA is taking action to increase specialization at centers and integrate mission directorates, elevating delivery of technically excellent work. Some of these actions include:
-
-“This initiative reflects NASA’s extreme focus on executing the mission in direct support of the National Space Policy. We are focusing resources on the most pressing objectives only NASA is capable of undertaking and liberating the workforce from unnecessary bureaucracy and obstacles that impede progress. We aim to rebuild competencies and instill a culture that attracts the best and brightest capable of pursuing the most demanding engineering challenges and moving safely and urgently,” said Isaacman. “There will be no reduction in force, no program cancellations, no closures, but we will achieve cost savings through more efficient execution and taking an active role in delivering the outcomes the world has been waiting for from NASA. This is how we deliver on the mission, meet the moment, and continue to make history on behalf of the American people.”
-
-Bethany Stevens / Camille GalloHeadquarters, Washington202-358-1600bethany.c.stevens@nasa.gov / camille.m.gallo@nasa.gov
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
