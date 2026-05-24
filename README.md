@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/24 - 13:53`
+**📅 Update (Tehran Time):** `2026/05/24 - 18:21`
 
 ---
 
@@ -19,122 +19,138 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Senegal football fans return home after royal pardon in Morocco
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260524__B3V97ND__v1__HighRes__ReturnOfSenegaleseSupportersPardonedByTheKingOf-1779615447.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/03/reuters_69c3d4e6-1774441702.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A group of Senegalese football supporters jailed following their country’s chaotic, violence-plagued Africa Cup of Nations (AFCON) final in Morocco in January have returned home after being pardoned by the Moroccan king.
+Bahrain has sentenced nine people to life in prison for carrying out what authorities describe as “hostile and terrorist acts” in cooperation with Iran’s Islamic Revolutionary Guard Corps (IRGC).
 
-King Mohammed VI granted the fans a pardon “on humanitarian grounds” on the occasion of the Muslim holiday of Eid al-Adha, Morocco’s royal court said on Saturday.
+Two other defendants were also jailed for three years each after being convicted of collaborating with the IRGC in what prosecutors described as “terrorist and espionage” activities, state media reported on Sunday.
 
-Senegalese President Bassirou Diomaye Faye welcomed the jubilant supporters on their arrival at the airport outside Dakar on Sunday.
+The convictions were handed down during an intensified crackdown by Bahraini authorities on individuals accused of ties to Tehran. The crackdown followed a wave of Iranian strikes on Bahrain after the United States and Israel launched their war on Iran in late February. Iran began striking all of its Gulf neighbours in response, saying it was targeting American interests, including military bases.
 
-“We’re very happy to have them back on Senegalese soil,” Faye, who donned a tracksuit for the occasion, told journalists.
+Prosecutors said some of the defendants photographed vital and strategic sites in Bahrain on behalf of the IRGC. Others were accused of facilitating the transfer of funds from Iran to Bahrain, including through cryptocurrency transactions, to finance the operations. Authorities also alleged that individuals inside the country were recruited to support some of the plans.
 
-He thanked Moroccan authorities for the pardon but, in what Morocco will likely perceive as a new dig, hailed the national team as “two-time African champions”, even though the January final is the subject of an ongoing dispute before the Court of Arbitration for Sport in Switzerland.
+Bahrain began arresting individuals allegedly linked to Iran in March, shortly after the conflict began.
 
-Senegal won the tumultuous continental final against Morocco in Rabat on January 18, but the match was later awarded on appeal to the hosts.
+Less than two weeks later, more than 60 people were stripped of their citizenship for allegedly supporting Iranian attacks on Bahrain and “colluding with foreign entities”.
 
-With the match tied at 0-0, after a penalty awarded to Morocco in stoppage time of the second half – just after a Senegal goal was disallowed – Senegalese fans tried to storm the pitch and hurled projectiles.
+The London-based Bahrain Institute for Rights and Democracy described the move as “dangerous” and said it constituted a clear violation of international law.
 
-The Senegalese team left the pitch in protest against the penalty decision, halting play for nearly 20 minutes.
+Other Gulf states have also arrested individuals accused of cooperating with Iran. Last month, the United Arab Emirates said it had dismantled a group allegedly planning to carry out what officials described as “terrorist acts”.
 
-When they returned, they gleefully watched Morocco miss their penalty and went on to score a 94th-minute winner.
-
-In February, Moroccan courts sentenced 18 Senegalese supporters held in Morocco since the final to prison terms ranging from three months to a year for hooliganism.
+Bahrain is home to a large Shia population. Many of its members have long accused the authorities of political and economic marginalisation. The government denies discriminating against Shia citizens, accusing Iran of fuelling unrest in the country.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/bahrain-jails-nine-defendants-for-life-for-cooperating-with-irans-irgc?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Marco Rubio says ‘significant progress’ made in US-Iran talks to end war
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a12b36d5934-1779610477.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 France bans Ben-Gvir: Which other Israeli leaders have been penalised?
+<img src='https://www.aljazeera.com/wp-content/uploads/2024/01/Ben-Gvir-1706532005.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-United States Secretary of State Marco Rubio says “significant progress” has been made in talks to end the US-Israeli war on Iran, hours after President Donald Trump claimed that a memorandum of understanding to end the fighting was “largely negotiated”.
+France has banned Israel’s far-right National Security Minister Itamar Ben-Gvir from entering its territory, citing his “unspeakable” behaviour of taunting Gaza flotilla activists who were arrested by Israeli police forces.
 
-Rubio, who is on his first official visit to India, said on Sunday that the emerging deal would address Trump’s concerns about the Strait of Hormuz, which Iran has largely blocked since the US and Israel launched their war on February 28.
+“As of today, Itamar Ben-Gvir is banned from entering French territory. This decision follows his unspeakable actions towards French and European citizens who were passengers on the Global Sumud Flotilla,” French Foreign Minister Jean-Noel Barrot announced in a post on X on Saturday.
 
-“Some progress has been made, significant progress, although not final progress has been made,” Rubio told reporters in New Delhi.
+“We cannot tolerate that French nationals can be threatened, intimidated or brutalised in this way – all the more so by a public official,” Barrot said, while calling on the European Union to also sanction Ben-Gvir.
 
-“I do think perhaps there is the possibility that in the next few hours the world will get some good news,” he said.
+Ben-Gvir had posted footage on a social media platform showing himself gloating as activists from the flotilla knelt on the floor, blindfolded, with their hands bound, at the port of Ashdod.
 
-The agreement would also start a “process that can ultimately leave us where the president wants us to be, and that is a world that no longer has to fear or worry about an Iranian nuclear weapon”, Rubio added.
+The organisers of the Global Sumud Flotilla said in a Telegram statement on Friday that the freed activists reported at least 15 cases of sexual abuse while in Israeli detention.
 
-Iran’s semiofficial Tasnim News Agency, which is close to the Islamic Revolutionary Guard Corps (IRGC), said that under a potential memorandum of understanding, the number of vessels transiting the Strait of Hormuz would return to pre-war levels within weeks.
+Ben-Gvir is an open admirer of Baruch Goldstein, an Israeli who killed 29 Palestinians as they prayed in Hebron in 1994. He has been convicted multiple times by Israeli courts for “incitement to racism”.
 
-“If the agreement is reached, the Strait of Hormuz will not fully return to its pre-war status; instead, the number of ships allowed to pass would be restored to pre-war levels within 30 days,” Tasnim reported.
+Poland has also barred Ben-Gvir, announcing a five-year ban on Thursday. “In the democratic world we do not abuse and gloat over people in custody,” Polish Foreign Minister Radek Sikorski posted.
 
-The US ⁠naval blockade on Iranian ports must ⁠be completely lifted within 30 days, according ⁠to the potential memorandum ⁠of understanding, Tasnim ⁠said, adding that part of Iran’s frozen funds ‌must be released in the first phase of the agreement.
+The French ban comes weeks after the European Union imposed sanctions on Israeli settlers and pro-settlement groups.
 
-The potential deal also includes an end to the war on all fronts, including in Lebanon, Tasnim reported.
+Ben-Gvir is among several Israeli leaders and organisations that have been temporarily or outright banned by countries in the West, or sanctioned under international law since Israel’s genocide in Gaza began in October 2023.
 
-The measures on the Strait of Hormuz would take effect over a 30-day period while negotiations over Iran’s nuclear programme would continue over a 60-day period after the potential agreement is signed, Tasnim said.
+Here is a list of other Israeli figures and entities that have been barred, penalised or sanctioned in recent years:
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/france-bans-ben-gvir-which-other-israeli-leaders-have-been-penalised?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 US, Iran inch closer to deal to end the war: What to know
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a102d9d1f13-1779445149.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/8-1778959772-1-1779614763.jpg?resize=1200%2C630' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-United States President Donald Trump says a possible agreement between Washington and Tehran to end months of war is now “largely negotiated”, raising hopes that tensions in the region could ease after a flurry of diplomatic overtures involving multiple countries.
+Hanan al-Hams was among the 3,000 Palestinians from Gaza scheduled to travel for the annual pilgrimage to Mecca in 2024. But her lifelong dream to perform Hajj, one of the five pillars of Islam, was shattered by Israel’s war on Gaza, launched on October 7, 2024.
 
-The proposed memorandum of understanding (MoU) reportedly includes reopening the Strait of Hormuz, a vital shipping lane for crude oil and gas, as well as talks aimed at formally ending the US-Israel war on Iran.
+“I lost my son, my home was destroyed, and now I am deprived of the journey I waited decades for,” al-Hams, 65, told Al Jazeera, sitting inside a makeshift tent pitched over the ruins of her home in northern Gaza.
 
-But despite optimistic statements from Trump, Iranian officials say major disagreements remain, especially over the status of the Strait of Hormuz, Iran’s nuclear programme and conflicts involving Tehran-backed groups in Lebanon.
+Entry and exit from Gaza were decided by Israel even before the war began. A partial opening in February of the Rafah crossing – the only connection to the outside world –  has allowed passage only for patients who need medical treatments abroad.
 
-So, what has Trump said, what is the pushback from Iran, and what are the key sticking points?
+For any other travel requirement, including pilgrimage, study, and work, getting out of the enclave is near to impossible amid an Israeli land, air and sea blockade in place since 2007.
 
-The president said on his social media platform Truth Social on Saturday that an agreement between the US, Iran and several other countries in the region had been “largely negotiated” and that final details would be announced soon.
+Most of Gaza’s 2.3 million people remain displaced, living in tent camps and destroyed houses as Israeli forces have turned the besieged enclave into rubble, killing at least 72,775 Palestinians during the ongoing genocidal war that has drawn condemnation from across the world.
 
-“An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries,” Trump wrote on Truth Social.
+A ceasefire in October 2025 ended the war, but Israel has continued its military offensive and continues to occupy more than 60 percent of Gaza’s territory in breach of the truce.
 
-He said the proposed agreement would include reopening the Strait of Hormuz, which has remained effectively closed to most shipping since the US-Israel war on Iran began on February 28.
+Across the besieged Gaza Strip, scenes of profound grief are echoing as the Hajj season commences in Saudi Arabia. Adnan Abu Foul and his wife, Um Ibrahim, wept as they watched pilgrims circumambulate the Kaaba on a small mobile phone screen.
 
-Trump described the proposal as a “Memorandum of Understanding pertaining to PEACE” and said the discussions involved Saudi Arabia, the United Arab Emirates, Qatar, Pakistan, Turkiye, Egypt, Jordan and Bahrain.
+“The war stopped, and we hoped to perform Hajj, but for three years, I haven’t been able to leave,” Abu Foul said.
 
-Trump said he also spoke to Israeli Prime Minister Benjamin Netanyahu, and it “went very well”.
+According to Gaza’s Ministry of Awqaf and Religious Affairs, more than 10,000 citizens have been prevented from performing Hajj over three years due to the Israeli shutdown of the Rafah crossing, which borders Egypt.
 
-Sources told the Reuters news agency the proposed framework would unfold in stages: formally ending the war, resolving the Strait of Hormuz crisis, and opening a 30-day negotiation window for a broader agreement on sustained peace, which could be extended.
+At least 71 Hajj pilgrims, who had won the official draw in previous years, died during the Israeli war before they could perform the ritual, according to the Awqaf.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Russia pounds Ukraine’s capital with hypersonic missile
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779614191.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Syria cannot heal without a rebuilt health system
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2017-04-25T000000Z_26855503_RC13AB22ED20_RTRMADP_3_MIDEAST-CRISIS-SYRIA-IDLIB-1779623173.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Russia pounded Ukraine’s capital overnight on Saturday with drones and ballistic missiles.
+Last week, European Union and Syrian officials met in Brussels for high-level talks on the country’s reconstruction. The EU’s support for Syria’s health system, including 14 million euros ($16.25m) to rehabilitate Ar-Rastan Hospital in Homs, is a significant contribution that merits recognition.
+
+While the EU is demonstrating what strategic investment can achieve, the gap between the conditions returnees face and what they need for a healthy life remains a major barrier for the country’s recovery. After 14 years of conflict, Syria is facing a public health crisis that no government can address on its own.
+
+The restoration of health services will instead require large-scale, coordinated action from across the international community.
+
+A recent report authored by my organisation, Relief International, details the crisis at hand: many of the 3.7 million Syrians who have returned home are encountering a health system left fractured and struggling after years of devastation. According to our findings, 78 percent of returnees in Deir Az Zor reported that healthcare was unavailable. In al-Tebni district, 41 percent of surveyed households said at least one family member had been unable to access emergency care in the previous six months. From shortages of staff and equipment to long wait times, communities are facing obstacles to care with life-or-death consequences.
+
+Across the 50 healthcare facilities Relief International supports, our teams are seeing the consequences every day. Children arriving with acute malnutrition that should have been identified months earlier and adults with chronic conditions such as diabetes and hypertension are going without medication. Pregnant women and their babies are being put at risk without critical antenatal support and skilled obstetric care during birth.
+
+We also hear from people who have stopped seeking care altogether; they no longer trust that quality services exist, are worth the journey, or can be relied on. For many, whatever care is available is simply unaffordable.
+
+Families like Aref’s in al-Tebni are still waiting for healthcare to be restored. When Aref went back to his hometown months ago, he found the local health centre closed: its gates locked, its staff long gone, and its pharmacy empty of the asthma medication he needed. For a family that had already endured years of insecurity, it was especially painful to find that while home remained, healthcare did not.
+
+Relief International teams also see the hidden wounds this war has left across Syrian society. Our report found that 86 percent of women surveyed were experiencing anxiety and psychological distress, driven by exposure to conflict and the uncertainty of displacement. Anxiety, grief, and trauma are widespread, yet mental health and psychosocial support remain severely underfunded and understaffed.
+
+These challenges affect every aspect of Syria’s recovery. How can Syria know peace when its people have no peace of mind?
+
+The scale of disability following the war is equally staggering and raises concerns about the quality of life that is possible upon return. An estimated 28 percent of Syrians – nearly double the global average – now live with some form of disability, a figure that continues to rise amid widespread landmine and unexploded ordnance contamination, yet rehabilitation services are among the most severely under-resourced in the country.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/24/syria-cannot-heal-without-a-rebuilt-health?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump says US and Iran deal to end war is ‘largely negotiated’
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779613794.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 ‘We won’t know who won until final outcome of US-Iran ceasefire’
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Trita-Parsi-Horizontal-thunb-1779630138.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-US President Trump announced that a Memorandum of Understanding on a peace deal with Iran has been ‘largely negotiated&#039;.
+‘We won&#039;t know who won until final outcome of US-Iran ceasefire’
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/we-wont-know-who-won-until-final-outcome-of-us-iran?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -142,7 +158,7 @@ US President Trump announced that a Memorandum of Understanding on a peace deal 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
 ### 📰 Suspect killed after opening fire on Secret Service near White House
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1af8/live/21744ff0-5735-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/3777/live/e04870b0-5775-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
@@ -150,11 +166,9 @@ A suspect who shot at a White House checkpoint was killed in an exchange of fire
 
 The BBC's US media partner CBS has named the suspect as Nasire Best, a 21-year-old man who was known to the protection agency and had a documented history of mental health conditions.
 
-US President Donald Trump thanked the officers for their "swift and professional action" in apprehending the gunman, who he said in a Truth social post had a "violent history and possible obsession with our Country's most cherished structure".
+US President Donald Trump thanked the officers for their "swift and professional action" in apprehending the gunman, who he said in a Truth Social post had a "violent history and possible obsession with our Country's most cherished structure".
 
 The shooting comes only a month after a gunman opened fire at the White House Correspondents' Dinner.
-
-The incident on Saturday remains under investigation and road closures around the White House will likely stay in place overnight.
 
 Shortly before 18:00 local time (23:00 GMT), a man pulled a gun from his bag and "began firing" outside the White House at the intersection of 17th Street and Pennsylvania Avenue NW in Washington DC, near the Eisenhower Executive Office Building.
 
@@ -166,71 +180,86 @@ Trump was at the White House at the time, but "no protectees or operations were 
 
 The suspect was later identified in US media as Best, who had been known to both the Secret Service and the Metropolitan Police Department and had used a revolver, law enforcement sources told CBS.
 
+A source familiar with the investigation told CBS that Best had attempted to gain entry to the White House in July 2025 and had been arrested by officers nearby, after which he spent time at a psychiatric facility. He had been living in Washington DC for 18 months.
+
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-On Russian state TV a news bulletin shows images of a five-storey building reduced to rubble.
-
-What happened here early on Friday has sparked Russian accusations, Ukrainian denials, an emergency session of the United Nations Security Council and vows of retribution by the Kremlin.
-
-The town of Starobilsk is in Russian-occupied eastern Ukraine: in the Luhansk region which Moscow claims to have annexed.
-
-Russian officials accuse Ukraine of a carrying out a drone attack on the college dormitory. According to official figures, 21 people were killed and 42 wounded.
-
-The Russian TV report shows а number of survivors in hospital. One of them is identified as 21-year-old Olga Kovaleva. She'd been trapped under the rubble, but later rescued.
-
-"The people killed in the Starobilsk attack," it says, listing the names of the dead students and their dates of birth.
-
-Russian President Vladimir Putin called what happened a "terrorist strike." He insisted there had been "no military facilities, intelligence service facilities or related services in the vicinity."
-
-"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems," the Kremlin leader said.
-
-In a statement the General Staff of Ukraine's Armed Forces said it did carry out an attack near Starobilsk on the night of 21-22 May but maintains that it struck a Russian military unit.
-
-Amid claim and counterclaim Russia on Friday had requested an emergency session of the United Nations Security Council.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ### 📰 Large-scale Russian attack on Ukraine leaves four dead and dozens injured
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/0aeb/live/b5374250-574a-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/56f5/live/7464d3e0-576e-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Russia has launched a large-scale wave of strikes against Ukraine, firing hundreds of drones and dozens of missiles.
+Russia carried out a deadly large-scale wave of strikes against Ukraine, firing hundreds of drones and dozens of missiles overnight.
 
-Ukrainian President Volodymyr Zelensky said the capital was the main target, but other areas were also hit, with at least 83 people injured.
+Ukrainian President Volodymyr Zelensky said Kyiv was the main target, but other areas were also hit, with about 100 people injured.
 
-Four people were killed in Kyiv and its surrounding areas, with explosions heard across the region overnight into Sunday, and reports of damage to residential buildings and schools.
+Four people were killed in the capital and wider region, with loud explosions heard across the area throughout the night. Dozens of residential buildings, a school, an opera house and a museum were damaged.
 
-Russia's defence ministry said the Oreshnik hypersonic missile was used in the strikes, which it described as coming in response to Ukraine's "attacks on civilian infrastructure".
+Russia's defence ministry said the Oreshnik hypersonic missile was used in the strikes, which it described as coming in response to Ukraine's "attacks on civilian infrastructure". Ukraine's military denies targeting civilians.
 
-President Vladimir Putin has accused Ukraine of a deadly strike on a student dormitory in the town of Starobilsk on Friday, in which 21 people were killed.
+Russian President Vladimir Putin launched a full-scale invasion of Ukraine in February 2022.
 
-The general staff of Ukraine's armed forces said it did carry out an attack near Starobilsk in Russian-occupied eastern Ukraine overnight on Friday, but maintained that it struck an elite Russian military unit.
+Earlier this week, he accused Kyiv of hitting a student dormitory in the town of Starobilsk on Friday, in which Russian officials said 21 people were killed.
 
-Russia's overnight strikes on Sunday come after warnings from Zelensky that Russia was planning an attack, and that it may be preparing to use the Oreshnik missile, which reportedly travels at more than 10 times the speed of sound and is impossible to intercept.
+Ukraine's military said its forces did carry out an attack in Starobilsk in Russian-occupied eastern Ukraine overnight on Friday, but maintained that it struck an elite Russian drone military unit.
 
-Zelensky said in a Telegram post on Sunday that Russia had launched the Oreshnik missile against the city of Bila Tserkva in the Kyiv region.
+European leaders have condemned the overnight Russian strikes on Sunday, which came after warnings from Zelensky that Russia was planning an attack, and that it may have been preparing to use the Oreshnik missile.
 
-Ukraine's presidential office later said it was not confirming that, saying work was ongoing to determine exactly what had been used.
+It reportedly travels at more than 10 times the speed of sound, is hard to intercept, and is known to be capable of carrying both conventional and nuclear warheads.
 
-Ukraine's air force said that from 18:00 local time on Saturday, it detected 90 missiles and 600 drones.
+Zelensky - who on Sunday visited a number of damaged buildings in Kyiv - said that Russia had launched the Oreshnik missile against the city of Bila Tserkva in the Kyiv region.
 
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 BBC at the site of China's worst mining disaster in more than a decade
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/77b2/live/14f6e760-5758-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Blast targeting train kills at least 20 in Pakistan
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/fc37/live/290cfef0-574a-11f1-934b-4138723911fd.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+At least 20 people have been killed and 70 others injured in an explosion targeting a train transporting military personnel in Pakistan.
+
+The blast occurred while the train was travelling through Chaman Phatak station in Quetta, the capital of the western Balochistan region, on Sunday morning.
+
+Railway officials told BBC Urdu that three coaches and the engine were derailed while two were overturned. The shuttle service had primarily been transporting service personnel and their families who had been returning home for Eid.
+
+The Balochistan Liberation Army (BLA) separatist group claimed responsibility for the attack, saying it was a suicide bombing. Pakistani officials have not yet confirmed this.
+
+Images from the scene show burnt-out and mangled carriages and nearby cars, as well as bomb damage to a nearby building.
+
+"The train was moving and there were passengers on board when the explosion occurred," Naseer Ahmed, a local resident, told the BBC.
+
+He said that, as it had been a Sunday morning, his family had been asleep when the blast happened, shattering all his windows.
+
+Eyewitnesses said a vehicle laden with explosives drove into the train, causing the explosion.
+
+A police officer and civil administration official in Balochistan confirmed to BBC Urdu that 20 people had been killed, with fears the death toll could rise. Officials said three soldiers were among the dead.
+
+Pakistan's Prime Minister Shehbaz Sharif strongly condemned the attack, saying "such cowardly acts of terrorism cannot weaken the resolve of the people of Pakistan".
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -262,37 +291,6 @@ There were four encounters with sharks across Australia in January, according to
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Blast targeting train kills at least 20 in Pakistan
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/fc37/live/290cfef0-574a-11f1-934b-4138723911fd.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-At least 20 people have been killed and 70 others injured in an explosion targeting a train transporting military personnel in Pakistan.
-
-The blast occurred while the train was travelling through Chaman Phatak station in Quetta, the capital of the western Balochistan region, on Sunday morning.
-
-Railway officials told BBC Urdu that three coaches and the engine were derailed while two were overturned. The shuttle service had primarily been transporting service personnel and their families who had been returning home for Eid.
-
-The Balochistan Liberation Army (BLA) separatist group claimed responsibility for the attack, saying it was a suicide bombing. Pakistani officials have not yet confirmed this.
-
-Images from the scene show burnt-out and mangled carriages and nearby cars, as well as bomb damage to a nearby building.
-
-"The train was moving and there were passengers on board when the explosion occurred," Naseer Ahmed, a local resident, told the BBC.
-
-He said that, as it had been a Sunday morning, his family had been asleep when the blast occurred, shattering all his windows.
-
-A police officer and civil administration official in Balochistan confirmed to BBC Urdu that 20 people had been killed, with fears the death toll could rise.
-
-Pakistan's Prime Minister Shehbaz Sharif strongly condemned the attack, saying "such cowardly acts of terrorism cannot weaken the resolve of the people of Pakistan".
-
-"The entire nation stands in solidarity with the people of Balochistan in this hour of grief," he added.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -457,99 +455,101 @@ The outbreak has been caused by the Bundibugyo strain of Ebola, for which no vac
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Ray J Knocked Out in the Second Round by Supa Hot Fire, Watch the Video
-<img src='https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Comedian Laura Clery Crushed by 600-Pound Fridge in Freak Accident
+<img src='https://imagez.tmz.com/image/94/16by9/2026/05/24/948d4c9b43d24bb6b6c9f1ddc5f15419_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Ray J went down in flames during his celebrity MMA match Saturday night, getting his ass wooped by Supa Hot Fire.
+Laura Clery is thanking the first responders who rushed to save her after she was crushed beneath a 600-pound refrigerator in a terrifying freak accident at home.
 
-The R&amp;B singer went toe-to-toe with the popular YouTuber&nbsp;for just two rounds during their co-main MMA fight at Adin Ross' UFC Apex event in Las Vegas.&nbsp;
+The comedian and social media star shared a video from inside an ambulance while wearing a neck brace ... jokingly asking firefighters, "So I was crushed by a 600-pound fridge ... is that correct?"
 
-In the second round, Ray had Supa against the ropes, throwing a few body punches. But then Supa hit Ray with a hard left hook square in the face, and Ray fell into the ropes before hitting the canvas.
+Clery later praised the emergency crew on Instagram, calling them "actual heroes" and thanking the firefighters who allegedly broke through her garage door and lifted the massive appliance off her.
 
-Ray eventually got back to his feet, but he was so dazed he had to sit down on a stool. And that was that, folks. The ref stopped the fight.
+According to Clery, the accident happened earlier this week while she was home alone with her two children. She said the refrigerator suddenly slammed into her and pinned her against the counter, leaving her unable to move or breathe.
 
-But things got even crazier during an after fight interview in which Ray suggested he had a plan in place with Supa Hot and they lost money as a result of the knockout.&nbsp;
+Clery's ex-husband, Stephen Hilton, also revealed she sent him a frantic message during the ordeal that read, "I'm dying. Come by now now now."
 
-In the other co-main fight, former Heisman Trophy winner Johnny Manziel made quick work of social media influencer Bob Menery, beating him in the first round.
+She later claimed the fridge had not been properly mounted into the wall and blamed the installation on contractor negligence. She also said her 7-year-old son accidentally caused the appliance to tip while climbing on it.
+
+Despite the horrifying incident, Clery said she suffered no broken bones and called herself "so lucky" her kids were unharmed.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/ray-j-supa-hot-fire-las-vegas/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/laura-clery-crushed-by-refrigerator/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Harry Jowsey Hot Shots To Slay His 29th Birthday
-<img src='https://imagez.tmz.com/image/24/16by9/2026/05/12/2402b0e737cd49cb87fe9ac84dfdc101_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 John McCain's Eldest Son Doug McCain Dead at 66
+<img src='https://imagez.tmz.com/image/1d/16by9/2026/05/24/1d4bec4d53ae4d0cb7fcf5e3a9cff6a4_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Harry Jowsey is 29 and looking damn fine ... and that calls for a celebration! So let's ring in the last year of the reality star's 20s, shall we?!
+Doug McCain, the eldest son of late Senator John McCain, has died suddenly.
 
-In honor of another trip around the sun, nothing sounds more fitting than a round up of Harry's sexiest snaps. After all, he was one of the OG winners of "Too Hot to Handle!"
+Meghan McCain confirmed the news Sunday, though the cause of death has not been made public.
 
-Check out our gallery to show the birthday boy some love!
+Meghan paid tribute to her brother in an emotional message shared online ... writing ... "I am deeply saddened to share the news of my brother Doug McCain’s sudden passing."
+
+She called Doug "a truly wonderful, joyful man" and said he brought "humor, fun and great conversation to every room." Meghan added she would always cherish their memories together.
+
+Doug was part of the well-known McCain military family legacy and served as a Navy pilot for years. He was the son of Carol Shepp, John's first wife, and was later adopted by the late Arizona senator after the couple married in 1965.
+
+He is survived by his wife, Ashley, children Caroline and Shepp, daughters-in-law Ellie and Emily, his grandson Teddy, his mother Carol, and many others from the McCain family.
+
+John McCain, the longtime Arizona senator and 2008 Republican presidential nominee, died in 2018 following a battle with brain cancer.
+
+Doug was 66.
+
+RIP
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/harry-jowsey-sexy-pictures/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/doug-mccain-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Queen Latifah Is Serving Ageless Beauty -- Good Genes or Good Docs?!
-<img src='https://imagez.tmz.com/image/0b/16by9/2026/05/12/0ba284bb2ddf4295aa32ffa46ced949f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Bianca Censori Covers Her Chest But Not The Rest In Sexy New Photos
+<img src='https://imagez.tmz.com/image/62/16by9/2026/05/24/629d0bc7eaf147f0b0643bbe05c7c418_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Queen Latifah's regal looks over the years deserve a frigin' award!!!
+Bianca Censori seemed a bit chilly during her Saturday night outing in Los Angeles ... but the mild L.A. temperatures certainly didn’t crimp her usual naked style -- at least, from the waist down.
 
-Here is a 32-year-old version of the rapper-actress lookin' fire at a Hollywood luncheon in back in 2002 (left).
+TMZ obtained photos of Mrs. Kanye West strolling out of a studio after doing a photoshoot ... and she was swaddled in a warm wool coat with her arms crossed in front of her as if to say, “I’m cold.”
 
-And, more than two decades later, it's hard to believe this queen is 56! Here's a shot of her serving style and stunning looks at CinemaCon 2026 just last month (right).
+But the overnight temps in L.A. were in the low 60s -- which isn't that cold, likely accounting for Bianca barely covering up most of her lower half and leaving her shapely legs completely exposed.
 
-Queen Latifah is set to host tomorrow's American Music Awards, where we're placing our bets on her looking gorgeous, but the question here is:
+We’re told Bianca climbed inside a Mercedes-Maybach before the model was driven away by her chauffeur. ICYW, Kanye was nowhere in sight.
 
-Good Genes or Good Docs?!
+However, the couple was photographed heading to an L.A. theater to watch a screening of “Michael” during a Friday night date.
 
-Make sure to stick around tomorrow -- TMZ’s ready to drop all the hottest moments from the 2026 American Music Awards!
+In those pics, Bianca was basically naked from the waist up with her lower body covered. There's always a curveball with Bianca -- and Ye, for that matter!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/queen-latifah-good-genes-or-good-docs/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/bianca-censori-leaving-los-angeles-photoshoot/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 DeMarcus Cousins Gives Blueprint For Shutting Down Victor Wembanyama
-<img src='https://imagez.tmz.com/image/55/16by9/2026/05/21/5562160263904c55b064c477e5ed6ad3_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Twitch Streamer Hasan Piker Reportedly Subpoenaed in Federal Cuba Probe
+<img src='https://imagez.tmz.com/image/ca/16by9/2026/05/24/cac784560e9b47959778802716887fcf_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Shutting down Victor Wembanyama is an impossible task, but how do you slow down the 7'4" forward?! DeMarcus Cousins is laying out the blueprint for guarding the NBA superstar!
+Hasan Piker has reportedly been subpoenaed by federal officials as part of a widening investigation into whether U.S. activists violated laws and sanctions while supporting Cuba’s communist regime.
 
-TMZ Sports chopped it up with Boogie at LAX on Thursday ... but the former NBA All-Star started with a disclaimer.
+The far-left Twitch streamer and CodePink cofounder Medea Benjamin were served "Requests for Information" by the Treasury Department's Office of Foreign Assets Control tied to a March trip to Cuba organized through the "Nuestra América Convoy," according to Fox News Digital.
 
-"First, I'm going to say it's probably easier said than done. He's one of one. This is something new to the game in general," Cousins said of "the Alien," and the unique challenges he presents to opposing teams.
+Investigators are reportedly examining whether activists illegally financed travel, coordinated logistics, or conducted prohibited transactions involving Cuba, including possible stays at hotels on the U.S. State Department's restricted list.
 
-"I think your best chance is trying to make the game physical for him, make it really uncomfortable. And, you know, that's limited in today's game. But, you know, as far as whatever's allowed, you try to be as physical as possible."
+The investigation is allegedly part of a broader federal crackdown involving the Treasury, Justice and State Departments into alleged foreign influence operations and extremist political networks operating inside the U.S. Sources told Fox as many as 40 Americans are under scrutiny, with more subpoenas expected.
 
-Of course, if there's any weakness in Wemby's game, it's his physical strength ... the league's tallest player weighs just 235 lbs. (though he's bulked up every year since being picked first overall in 2023).
-
-Demarcus says as a defender, you cannot let Victor get into rhythm on the court.
-
-"I think just crowding his space, crowding him to the point where he's never really comfortable in his movements throughout the game."
-
-Wembanyama is averaging over 22 points and 12 rebounds a game during the playoffs -- and scored 41 points and grabbed 24 boards on Monday during game one of the Western Conference Finals.
-
-Like Boogie said, bottling him up is easier said than done.
-
-The Spurs big man has his squad in the midst of a hotly contested battle with the Oklahoma City Thunder -- the favorites to win the chip -- with the winner advancing to the NBA Finals, for a date with the winner of the Knicks and Cavs.
-
-For the sake of OKC, let's hope Isaiah Hartenstein sees our Cousins' clip!
+Piker, a self-described Marxist and a socialist, posted about the trip online before traveling to Havana alongside CodePink activists and groups connected to billionaire Neville Roy Singham's left-wing funding network.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/demarcus-cousins-guard-victor-wembanyama/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/hasan-piker-subpoenaed-in-cuba-probe/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -708,14 +708,14 @@ Detroit-based automakers pioneered open trade between Canada and the United Stat
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump Is Setting His Sights on Restricting Legal Immigration
+### 📰 Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions
 <div align='justify'>
 
-After a year focused on immigrants here illegally, the Trump administration is now making it harder for legal migrants to stay in the country. It is a risky pivot.
+In New Delhi, Secretary of State Marco Rubio tried to explain why President Trump has pushed aggressive trade and immigration policies affecting India and Indians in the United States.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/23/us/politics/trump-legal-immigration.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
