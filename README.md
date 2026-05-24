@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/24 - 18:21`
+**📅 Update (Tehran Time):** `2026/05/25 - 00:06`
 
 ---
 
@@ -19,177 +19,131 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/03/reuters_69c3d4e6-1774441702.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Ebola spreads in the DRC as authorities struggle to contain outbreak
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Ebola-intensifies-1779652641.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Bahrain has sentenced nine people to life in prison for carrying out what authorities describe as “hostile and terrorist acts” in cooperation with Iran’s Islamic Revolutionary Guard Corps (IRGC).
-
-Two other defendants were also jailed for three years each after being convicted of collaborating with the IRGC in what prosecutors described as “terrorist and espionage” activities, state media reported on Sunday.
-
-The convictions were handed down during an intensified crackdown by Bahraini authorities on individuals accused of ties to Tehran. The crackdown followed a wave of Iranian strikes on Bahrain after the United States and Israel launched their war on Iran in late February. Iran began striking all of its Gulf neighbours in response, saying it was targeting American interests, including military bases.
-
-Prosecutors said some of the defendants photographed vital and strategic sites in Bahrain on behalf of the IRGC. Others were accused of facilitating the transfer of funds from Iran to Bahrain, including through cryptocurrency transactions, to finance the operations. Authorities also alleged that individuals inside the country were recruited to support some of the plans.
-
-Bahrain began arresting individuals allegedly linked to Iran in March, shortly after the conflict began.
-
-Less than two weeks later, more than 60 people were stripped of their citizenship for allegedly supporting Iranian attacks on Bahrain and “colluding with foreign entities”.
-
-The London-based Bahrain Institute for Rights and Democracy described the move as “dangerous” and said it constituted a clear violation of international law.
-
-Other Gulf states have also arrested individuals accused of cooperating with Iran. Last month, the United Arab Emirates said it had dismantled a group allegedly planning to carry out what officials described as “terrorist acts”.
-
-Bahrain is home to a large Shia population. Many of its members have long accused the authorities of political and economic marginalisation. The government denies discriminating against Shia citizens, accusing Iran of fuelling unrest in the country.
+The Ebola outbreak in the eastern Democratic Republic of the Congo is spreading as cases been confirmed in Uganda.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/bahrain-jails-nine-defendants-for-life-for-cooperating-with-irans-irgc?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/ebola-spreads-in-the-drc-as-authorities-struggle-to-contain-outbreak?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 France bans Ben-Gvir: Which other Israeli leaders have been penalised?
-<img src='https://www.aljazeera.com/wp-content/uploads/2024/01/Ben-Gvir-1706532005.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 How will Iran war fallout impact upcoming US elections?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779646139.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-France has banned Israel’s far-right National Security Minister Itamar Ben-Gvir from entering its territory, citing his “unspeakable” behaviour of taunting Gaza flotilla activists who were arrested by Israeli police forces.
+President Donald Trump was able to purge his most vocal critics within the Republican Party, as Americans voted for the congressional candidates who will run in November’s midterm elections.
 
-“As of today, Itamar Ben-Gvir is banned from entering French territory. This decision follows his unspeakable actions towards French and European citizens who were passengers on the Global Sumud Flotilla,” French Foreign Minister Jean-Noel Barrot announced in a post on X on Saturday.
+One of the most prominent politicians to be unseated was Representative Thomas Massie, who pushed for the release of the Epstein files.
 
-“We cannot tolerate that French nationals can be threatened, intimidated or brutalised in this way – all the more so by a public official,” Barrot said, while calling on the European Union to also sanction Ben-Gvir.
+The Democratic Party partially released a report about performance that noted “a persistent inability or unwillingness to listen to all voters”.
 
-Ben-Gvir had posted footage on a social media platform showing himself gloating as activists from the flotilla knelt on the floor, blindfolded, with their hands bound, at the port of Ashdod.
-
-The organisers of the Global Sumud Flotilla said in a Telegram statement on Friday that the freed activists reported at least 15 cases of sexual abuse while in Israeli detention.
-
-Ben-Gvir is an open admirer of Baruch Goldstein, an Israeli who killed 29 Palestinians as they prayed in Hebron in 1994. He has been convicted multiple times by Israeli courts for “incitement to racism”.
-
-Poland has also barred Ben-Gvir, announcing a five-year ban on Thursday. “In the democratic world we do not abuse and gloat over people in custody,” Polish Foreign Minister Radek Sikorski posted.
-
-The French ban comes weeks after the European Union imposed sanctions on Israeli settlers and pro-settlement groups.
-
-Ben-Gvir is among several Israeli leaders and organisations that have been temporarily or outright banned by countries in the West, or sanctioned under international law since Israel’s genocide in Gaza began in October 2023.
-
-Here is a list of other Israeli figures and entities that have been barred, penalised or sanctioned in recent years:
+Host Steve Clemons asks former Trump aide Hogan Gidley, and Matt Duss – former adviser to Senator Bernie Sanders – about the challenges facing both parties.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/france-bans-ben-gvir-which-other-israeli-leaders-have-been-penalised?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 For third year in a row, Israel blocks Hajj pilgrimage for Gaza Muslims
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/8-1778959772-1-1779614763.jpg?resize=1200%2C630' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israeli strikes kill six in southern Lebanon amid fresh evacuation orders
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-24T125530Z_847033659_RC2NFLAUYAKI_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1779639326.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Hanan al-Hams was among the 3,000 Palestinians from Gaza scheduled to travel for the annual pilgrimage to Mecca in 2024. But her lifelong dream to perform Hajj, one of the five pillars of Islam, was shattered by Israel’s war on Gaza, launched on October 7, 2024.
+Israeli strikes have killed at least six people in southern Lebanon as the Israeli army issues fresh evacuation orders.
 
-“I lost my son, my home was destroyed, and now I am deprived of the journey I waited decades for,” al-Hams, 65, told Al Jazeera, sitting inside a makeshift tent pitched over the ruins of her home in northern Gaza.
+Israeli air raids in al-Namiriya killed two young men who were riding on a motorcycle, and another young man in al-Duweir was also killed while he was on a motorcycle, according to Lebanon’s National News Agency (NNA).
 
-Entry and exit from Gaza were decided by Israel even before the war began. A partial opening in February of the Rafah crossing – the only connection to the outside world –  has allowed passage only for patients who need medical treatments abroad.
+In the town of Abba, a Syrian man driving a motorcycle was killed by an Israeli strike, and in Jebchit, one man was killed in another attack. A paramedic was killed by a drone strike while he was inspecting the site of a recent air strike in Arab Salim, and an air raid in Bazouriyeh in Tyre left one person dead, NNA reported.
 
-For any other travel requirement, including pilgrimage, study, and work, getting out of the enclave is near to impossible amid an Israeli land, air and sea blockade in place since 2007.
+Israel’s army spokesperson issued 16 evacuation orders in southern Lebanon, and local sources said Israel was striking before and after the order was given.
 
-Most of Gaza’s 2.3 million people remain displaced, living in tent camps and destroyed houses as Israeli forces have turned the besieged enclave into rubble, killing at least 72,775 Palestinians during the ongoing genocidal war that has drawn condemnation from across the world.
+“These attacks are very violent, and they are targeting places that are filled with many people, homes and communities,” said Al Jazeera’s correspondent in Tyre, Obaida Hitto. He explained that many of these places are not near the front line.
 
-A ceasefire in October 2025 ended the war, but Israel has continued its military offensive and continues to occupy more than 60 percent of Gaza’s territory in breach of the truce.
+Rescue teams managed to recover three bodies from the rubble of a house that was targeted by Israeli warplanes in the town of Srifa, in southern Lebanon’s Tyre district, according to the NNA.
 
-Across the besieged Gaza Strip, scenes of profound grief are echoing as the Hajj season commences in Saudi Arabia. Adnan Abu Foul and his wife, Um Ibrahim, wept as they watched pilgrims circumambulate the Kaaba on a small mobile phone screen.
+Hezbollah said it carried out a series of attacks on Israeli military infrastructure and military positions throughout the day. Hezbollah forces targeted Israeli soldiers stationed in a house in the Biyyada area of the South Governorate with a drone.
 
-“The war stopped, and we hoped to perform Hajj, but for three years, I haven’t been able to leave,” Abu Foul said.
+Hezbollah also launched a rocket barrage at soldiers in the town of Rashaf in Nabatieh Governorate.
 
-According to Gaza’s Ministry of Awqaf and Religious Affairs, more than 10,000 citizens have been prevented from performing Hajj over three years due to the Israeli shutdown of the Rafah crossing, which borders Egypt.
+Israel’s continued bombardment of southern Lebanon comes amid tense peace talks between the United States and Iran. Despite an ongoing ceasefire, Israel and Hezbollah have continued to trade fire.
 
-At least 71 Hajj pilgrims, who had won the official draw in previous years, died during the Israeli war before they could perform the ritual, according to the Awqaf.
+Since Israel’s conflict with Hezbollah began in early March, Israeli air strikes in Lebanon have killed 3,151 people and wounded 9,571, the Health Ministry has said in a statement carried by the NNA.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/for-third-year-in-a-row-israel-blocks-hajj-pilgrimage-for-gaza-muslims?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Syria cannot heal without a rebuilt health system
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2017-04-25T000000Z_26855503_RC13AB22ED20_RTRMADP_3_MIDEAST-CRISIS-SYRIA-IDLIB-1779623173.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779646963.jpg?resize=1916%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Last week, European Union and Syrian officials met in Brussels for high-level talks on the country’s reconstruction. The EU’s support for Syria’s health system, including 14 million euros ($16.25m) to rehabilitate Ar-Rastan Hospital in Homs, is a significant contribution that merits recognition.
-
-While the EU is demonstrating what strategic investment can achieve, the gap between the conditions returnees face and what they need for a healthy life remains a major barrier for the country’s recovery. After 14 years of conflict, Syria is facing a public health crisis that no government can address on its own.
-
-The restoration of health services will instead require large-scale, coordinated action from across the international community.
-
-A recent report authored by my organisation, Relief International, details the crisis at hand: many of the 3.7 million Syrians who have returned home are encountering a health system left fractured and struggling after years of devastation. According to our findings, 78 percent of returnees in Deir Az Zor reported that healthcare was unavailable. In al-Tebni district, 41 percent of surveyed households said at least one family member had been unable to access emergency care in the previous six months. From shortages of staff and equipment to long wait times, communities are facing obstacles to care with life-or-death consequences.
-
-Across the 50 healthcare facilities Relief International supports, our teams are seeing the consequences every day. Children arriving with acute malnutrition that should have been identified months earlier and adults with chronic conditions such as diabetes and hypertension are going without medication. Pregnant women and their babies are being put at risk without critical antenatal support and skilled obstetric care during birth.
-
-We also hear from people who have stopped seeking care altogether; they no longer trust that quality services exist, are worth the journey, or can be relied on. For many, whatever care is available is simply unaffordable.
-
-Families like Aref’s in al-Tebni are still waiting for healthcare to be restored. When Aref went back to his hometown months ago, he found the local health centre closed: its gates locked, its staff long gone, and its pharmacy empty of the asthma medication he needed. For a family that had already endured years of insecurity, it was especially painful to find that while home remained, healthcare did not.
-
-Relief International teams also see the hidden wounds this war has left across Syrian society. Our report found that 86 percent of women surveyed were experiencing anxiety and psychological distress, driven by exposure to conflict and the uncertainty of displacement. Anxiety, grief, and trauma are widespread, yet mental health and psychosocial support remain severely underfunded and understaffed.
-
-These challenges affect every aspect of Syria’s recovery. How can Syria know peace when its people have no peace of mind?
-
-The scale of disability following the war is equally staggering and raises concerns about the quality of life that is possible upon return. An estimated 28 percent of Syrians – nearly double the global average – now live with some form of disability, a figure that continues to rise amid widespread landmine and unexploded ordnance contamination, yet rehabilitation services are among the most severely under-resourced in the country.
+Russia has launched one of its largest attacks on Kyiv since the war began, firing hundreds of drones and missiles.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/24/syria-cannot-heal-without-a-rebuilt-health?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 ‘We won’t know who won until final outcome of US-Iran ceasefire’
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Trita-Parsi-Horizontal-thunb-1779630138.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Fatou Bensouda on Israeli threats against her and the ICC
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779645836.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-‘We won&#039;t know who won until final outcome of US-Iran ceasefire’
+Fatou Bensouda, former International Criminal Court (ICC) chief prosecutor, discusses the threats, pressure and sanctions she faced while pursuing investigations on Palestine. She says Israel wanted the investigations stopped, describes feeling unsupported by ICC member states and warns that international justice is being sacrificed to political interests. Bensouda also reflects on US sanctions, accusations of ICC double standards and whether leaders such as Israeli Prime Minister Benjamin Netanyahu can ever be brought before the court.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/we-wont-know-who-won-until-final-outcome-of-us-iran?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Suspect killed after opening fire on Secret Service near White House
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/3777/live/e04870b0-5775-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Trump tells US negotiators 'not to rush' into deal with Iran
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a16c/live/d497f740-57a7-11f1-9a13-456ad0ca259e.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-A suspect who shot at a White House checkpoint was killed in an exchange of fire with Secret Service agents on Saturday evening, officials have confirmed.
+US President Donald Trump says he has instructed his negotiators "not to rush into a deal" with Iran, after reports suggested an agreement was close.
 
-The BBC's US media partner CBS has named the suspect as Nasire Best, a 21-year-old man who was known to the protection agency and had a documented history of mental health conditions.
+According to US media, the deal under discussion involves a 60-day ceasefire extension, reopening the Strait of Hormuz and further negotiations over Iran's nuclear programme.
 
-US President Donald Trump thanked the officers for their "swift and professional action" in apprehending the gunman, who he said in a Truth Social post had a "violent history and possible obsession with our Country's most cherished structure".
+In a social media post, Trump said "constructive" talks were proceeding but "both sides must take their time and get it right".
 
-The shooting comes only a month after a gunman opened fire at the White House Correspondents' Dinner.
+Trump said on Saturday an agreement had been "largely negotiated," prompting speculation an announcement could be imminent.
 
-Shortly before 18:00 local time (23:00 GMT), a man pulled a gun from his bag and "began firing" outside the White House at the intersection of 17th Street and Pennsylvania Avenue NW in Washington DC, near the Eisenhower Executive Office Building.
+Reports in Iranian media also say there are still "one or two" points of disagreement in the potential deal.
 
-Secret Service officers posted on the corner returned fire, striking the gunman. He was then taken to hospital, where he was pronounced dead.
+Iranian officials had similarly signalled progress in talks over the weekend, but foreign ministry spokesperson Esmail Baghaei said that did not mean agreements would be reached on key issues.
 
-A bystander was also wounded in the shooting, but the Secret Service did not give further details on their condition. No officers were injured in the attack.
+The mooted deal has split Republicans, with some publicly arguing it is too lenient on Iran.
 
-Trump was at the White House at the time, but "no protectees or operations were impacted", the agency said.
+Senator Ted Cruz said it would be "a disastrous mistake", while Roger Wicker, who chairs the Senate Armed Services Committee, said a 60-day ceasefire would mean "everything accomplished by Operation Epic Fury would be for naught!"
 
-The suspect was later identified in US media as Best, who had been known to both the Secret Service and the Metropolitan Police Department and had used a revolver, law enforcement sources told CBS.
+But Representative Mike Lawler, who sits on the House Foreign Affairs Committee, said the administration has managed to "force the remnants of this regime into a negotiation, a real negotiation".
 
-A source familiar with the investigation told CBS that Best had attempted to gain entry to the White House in July 2025 and had been arrested by officers nearby, after which he spent time at a psychiatric facility. He had been living in Washington DC for 18 months.
+The US and Israel launched wide-ranging strikes on Iran on 28 February, sparking conflict across the Middle East. Iran responded by launching attacks on Israel and US-allied states in the Gulf.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Large-scale Russian attack on Ukraine leaves four dead and dozens injured
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/56f5/live/7464d3e0-576e-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/321a/live/ffcd6860-5783-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
@@ -216,6 +170,37 @@ Zelensky - who on Sunday visited a number of damaged buildings in Kyiv - said th
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Turkish riot police storm opposition offices after leaders ousted
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a802/live/2b6400f0-578f-11f1-85d6-97cd1565aacc.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Turkish riot police forced their way into the headquarters of the country's main opposition party on Sunday, days after a court dismissed its leadership.
+
+Clouds of tear gas billowed outside the Republican People's Party (CHP) building in Ankara, where party members had blocked the entrances with a makeshift barricade.
+
+Footage from the scene showed those inside shouting and throwing objects towards the entrance, and police being sprayed with hoses.
+
+Party leader Özgür Özel had vowed to defy an appeal court decision on Thursday which declared his election null and void, in a move further cementing President Recep Tayyip Erdoğan's grip on power.
+
+The court decided that Özel should be replaced by Kemal Kilicdaroğlu, a 77-year-old party veteran who was defeated by Erdoğan in the 2023 presidential election.
+
+Turkish media reported that Kilicdaroğlu's representatives had requested the police carry out "necessary procedures" to hand over the headquarters to the new leadership, claiming they had so far been barred entry.
+
+The city's governor then instructed the police to "implement the court decision", according to a statement from his office.
+
+"We are under attack," Özel said in a video message shared on X as the security forces sought entry to the building, where clashes were also reported between his supporters and those of Kilicdaroğlu.
+
+Özel later emerged from the premises, telling crowds gathered outside: "They tried to uproot and throw us out - to where?"
+
+He said the party would "from now be on the streets or in the squares, marching towards power".
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -263,40 +248,40 @@ Pakistan's Prime Minister Shehbaz Sharif strongly condemned the attack, saying "
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Man killed in shark attack off Australia's north-east coast
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/9910/live/10cc3a30-573c-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A man has died after being attacked by a shark off the coast of the north-eastern Australian state of Queensland, police have confirmed.
-
-Emergency services were called to a boat ramp on the Cassowary Coast, between the cities of Cairns and Townsville, just before noon local time on Sunday, following reports of a 39-year-old being attacked while swimming out at a nearby shoal.
-
-Queensland Police said in a statement that the man was retrieved from the water but died from his injuries.
-
-It is the second fatal shark attack in Australian coastal waters in as many weeks, after a 38-year-old was killed while spearfishing near Perth, in Western Australia, last Saturday.
-
-In that incident, the man had been bitten on the lower legs and could not be revived.
-
-Queensland Police did not reveal details of the injuries sustained by the latest victim, nor did it disclose the man's identity.
-
-It said it will now prepare a report for the coroner on the "sudden and non-suspicious" death.
-
-"As the matter is before the coroner, it would be inappropriate to comment further," the force added.
-
-Shark attacks around Australia are more common than in many other parts of the world, though they are often not fatal.
-
-There were four encounters with sharks across Australia in January, according to the Australian Shark-Incident Database, only one of which was fatal.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages
+<img src='https://i.guim.co.uk/img/media/8355603236b6205fbdf5131669437d4b19be02f9/430_0_3768_3016/master/3768.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2b458c18d0709c15061779b0c71a2cc' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+World Health Organization says outbreak poses ‘very high’ risk for Congo, but risk of disease spreading globally remains low
+
+Congolese authorities say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country.
+
+The Congolese ministry of communication, in a post on X on Sunday, said there were 904 suspected cases and 119 suspected deaths.
+
+Authorities had previously announced more than 700 suspected Ebola cases, and more than 170 suspected deaths, mostly in Ituri province, where the outbreak is centred.
+
+The World Health Organization has said the outbreak now poses a “very high” risk for the Democratic Republic of Congo, but that the risk of the disease spreading globally remains low.
+
+Health authorities in the country are facing serious challenges as they try to stem the outbreak, which has been declared a global health emergency.
+
+There have been arson attacks on Ebola treatment centres in the country’s east – two centres in two towns were hit last week, exposing the anger in a region beset by violence linked to armed rebel groups, the displacement of a large number of people, the failure of local government and international aid cuts that experts say have stripped health facilities in vulnerable communities.
+
+Colin Thomas-Jensen, director of impact at the Aurora Humanitarian Initiative, said the attacks may reflect the “built-in skepticism and anger” of people in eastern Congo over how the region has been treated, with years of violence from foreign-linked rebel groups and a failure of their government and international peacekeepers to protect them.
+
+Another source of anger has been the strict protocols around the burial of suspected victims of Ebola, which authorities are taking charge of wherever they can to prevent further spread of the disease during traditional burials – where families prepare the bodies and people gather for a funeral.
+
+The first burning of an Ebola centre in Rwampara was by a group of young men trying to retrieve a friend’s body, according to witnesses and police. The witnesses said the crowd accused the foreign aid group operating there of lying about Ebola.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows
 <img src='https://i.guim.co.uk/img/media/f428ad0e4cf717eb6e16d62e3d1369c851836ee6/1043_0_5193_4157/master/5193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=878bf12d2ae0204244ba62304ab986b2' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -421,135 +406,118 @@ Military formations and security personnel in the region have been repeatedly ta
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC
-<img src='https://i.guim.co.uk/img/media/2ef7792278e0afedb94ef56e9958ff512fdfd531/562_102_4362_3490/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c6676db88645929885a8ea0851df987e' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede responders
-
-The Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization said on Friday, revising its threat assessment upwards.
-
-The outbreak is spreading rapidly, WHO leaders said, with almost 750 suspected cases and 177 suspected deaths, up from 246 cases and 65 deaths when it was first reported a week earlier.
-
-The situation is “deeply worrisome”, said Dr Tedros Adhanom Ghebreyesus, the WHO director-general.
-
-On Thursday, tents and medical supplies outside a hospital in Rwampara, Ituri province, were set on fire as medics tried to set up an Ebola treatment centre. A crowd was reportedly angry at not being allowed to retrieve the body of a local man who had died at the hospital. The bodies of Ebola patients must be buried according to strict infection control protocols to prevent further spread.
-
-Tedros warned that “significant distrust of outside authorities among the local population” was causing issues for the response to the outbreak.
-
-“Building trust in the affected communities is critical to a successful response, and is one of our highest priorities,” Tedros said.
-
-The WHO’s representative in the DRC, Dr Anne Ancia, said the incident in Rwampara would “significantly jeopardise” the response operation there.
-
-The treatment centre that was attacked was designed to separate Ebola patients from others being treated in the same hospital. Ancia said she was hopeful that it would be able to be up and running again within 24 hours.
-
-The outbreak has been caused by the Bundibugyo strain of Ebola, for which no vaccines or treatments exist. Most cases are in the DRC’s Ituri province, with a handful reported elsewhere in the country, and two in neighbouring Uganda.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Comedian Laura Clery Crushed by 600-Pound Fridge in Freak Accident
-<img src='https://imagez.tmz.com/image/94/16by9/2026/05/24/948d4c9b43d24bb6b6c9f1ddc5f15419_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'Teen Mom' Star Ryan Edwards' Wife Amanda Conner Arrested
+<img src='https://imagez.tmz.com/image/d9/16by9/2026/05/24/d9ecd1ebce6d451f9266ecb76565ad2a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Laura Clery is thanking the first responders who rushed to save her after she was crushed beneath a 600-pound refrigerator in a terrifying freak accident at home.
+Amanda Conner -- the wife of "Teen Mom" star Ryan Edwards -- has been arrested ... TMZ has confirmed.
 
-The comedian and social media star shared a video from inside an ambulance while wearing a neck brace ... jokingly asking firefighters, "So I was crushed by a 600-pound fridge ... is that correct?"
+A spokesperson for the Hamilton County Sheriff's Office Jail in Tennessee tells TMZ ... Conner was arrested Sunday morning near Chattanooga and booked on a charge of driving under the influence and child abuse/neglect.
 
-Clery later praised the emergency crew on Instagram, calling them "actual heroes" and thanking the firefighters who allegedly broke through her garage door and lifted the massive appliance off her.
+We're told there's also a charge for driving on the wrong side of the road.
 
-According to Clery, the accident happened earlier this week while she was home alone with her two children. She said the refrigerator suddenly slammed into her and pinned her against the counter, leaving her unable to move or breathe.
+Conner's bond was set at $16K ... and, at the time of publishing, it appears she has not yet bonded out.
 
-Clery's ex-husband, Stephen Hilton, also revealed she sent him a frantic message during the ordeal that read, "I'm dying. Come by now now now."
+If and when she does post bond, Conner will have to abide by a no-contact order regarding the alleged child victim until at least her court hearing on June 3.
 
-She later claimed the fridge had not been properly mounted into the wall and blamed the installation on contractor negligence. She also said her 7-year-old son accidentally caused the appliance to tip while climbing on it.
+She will not be allowed around the child, and she cannot contact the person who will be overseeing the child in the meantime.
 
-Despite the horrifying incident, Clery said she suffered no broken bones and called herself "so lucky" her kids were unharmed.
+We've obtained dispatch audio from the alleged incident ... in which a dispatcher says a husband called the police on his wife -- telling them he worried she was using narcotics because she wouldn't submit to a drug test.
+
+The dispatch claims the husband also told her the wife left with the baby in the car. Worth noting, the dispatcher does not give names for either party during the call.
+
+Edwards and Conner started dating back in 2023 and got married last year. We've reached out to Ryan ... so far, no word back.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/laura-clery-crushed-by-refrigerator/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/ryan-edwards-wife-amanda-conner-arrested/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 John McCain's Eldest Son Doug McCain Dead at 66
-<img src='https://imagez.tmz.com/image/1d/16by9/2026/05/24/1d4bec4d53ae4d0cb7fcf5e3a9cff6a4_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Kyle Busch Honored During Lap 18 of Indy 500
+<img src='https://imagez.tmz.com/image/65/16by9/2026/05/24/65d4f25450444f8bad68f8f75897df7d_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Doug McCain, the eldest son of late Senator John McCain, has died suddenly.
+Kyle Busch received a tribute in the middle of the Indy 500 Sunday ... with the crowd falling silent out of respect for him during lap 18 -- a nod to his former number.
 
-Meghan McCain confirmed the news Sunday, though the cause of death has not been made public.
+Check out the clip ... racers turn out of corner 4 on Lap 17 -- and, as they pass the scoring pylon, a picture of Kyle Busch "1985-2026" flashes on a screen at the venue.
 
-Meghan paid tribute to her brother in an emotional message shared online ... writing ... "I am deeply saddened to share the news of my brother Doug McCain’s sudden passing."
+The Indy 500 crowd -- usually a raucous bunch -- falls into a subdued silence ... while pit crew members can be seen standing at attention.
 
-She called Doug "a truly wonderful, joyful man" and said he brought "humor, fun and great conversation to every room." Meghan added she would always cherish their memories together.
+Lap 18 is one of just many tributes at the Indy 500 to Busch ... whose former teammate, Jimmie Johnson, appeared during Fox's pregame show.
 
-Doug was part of the well-known McCain military family legacy and served as a Navy pilot for years. He was the son of Carol Shepp, John's first wife, and was later adopted by the late Arizona senator after the couple married in 1965.
+Johnson talked about the respect Busch had from everyone about the sport ... while fellow driver Danica Patrick reflected on Busch's love of racing.
 
-He is survived by his wife, Ashley, children Caroline and Shepp, daughters-in-law Ellie and Emily, his grandson Teddy, his mother Carol, and many others from the McCain family.
+As you know ... Busch passed away Thursday after a bout with severe pneumonia that progressed into sepsis, according to his family.
 
-John McCain, the longtime Arizona senator and 2008 Republican presidential nominee, died in 2018 following a battle with brain cancer.
+KB won his final race on May 15 -- a Truck Series race ... and the No. 7 vehicle he used was back in action Sunday as well, though it didn't have the happy ending sports fans might've hoped for.
 
-Doug was 66.
+Driver Corey Day ended up in a hard crash during lap 47 when he received contact from Gio Ruggiero. It's a scary-looking crash ... but Day was able to walk off the track under his own power.
 
-RIP
+Day said, "I just hate it for the No. 7 guys. This is exactly what I didn’t want to do today. I just wanted to deliver them a good run. I feel terrible."
+
+Busch was supposed to drive in the Coca-Cola 600 this afternoon ... and the entire racing world is clearly still reeling from the shocking death.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/doug-mccain-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/kyle-busch-honored-by-fellow-racers-during-lap-18-of-indy-500/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Bianca Censori Covers Her Chest But Not The Rest In Sexy New Photos
-<img src='https://imagez.tmz.com/image/62/16by9/2026/05/24/629d0bc7eaf147f0b0643bbe05c7c418_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Chris Brown Receives Honorary PhD in Visual and Performing Arts
+<img src='https://imagez.tmz.com/image/4e/16by9/2026/05/24/4e734f508191498681c7e506903b5ceb_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Bianca Censori seemed a bit chilly during her Saturday night outing in Los Angeles ... but the mild L.A. temperatures certainly didn’t crimp her usual naked style -- at least, from the waist down.
+Dr. Chris Brown will see you now ... because the artist now has an honorary doctorate!
 
-TMZ obtained photos of Mrs. Kanye West strolling out of a studio after doing a photoshoot ... and she was swaddled in a warm wool coat with her arms crossed in front of her as if to say, “I’m cold.”
+Harvest Christian University -- a private faith-based school in Dallas, Texas -- awarded Brown a Doctor of Philosophy degree in Visual &amp; Performing Arts Friday.
 
-But the overnight temps in L.A. were in the low 60s -- which isn't that cold, likely accounting for Bianca barely covering up most of her lower half and leaving her shapely legs completely exposed.
+Doc Brown posed with his honorary degree in full graduation regalia ... a massive grin on his face as he showed off the honor.
 
-We’re told Bianca climbed inside a Mercedes-Maybach before the model was driven away by her chauffeur. ICYW, Kanye was nowhere in sight.
+In his Instagram post, Brown wrote, "I DID A THING" -- understatement of the year!
 
-However, the couple was photographed heading to an L.A. theater to watch a screening of “Michael” during a Friday night date.
+It's been a month full of good and bad for the star ... who celebrated his 37th birthday, dropped a new album that got so-so reviews, and also had to deal with a trespasser showing up to his home multiple times.
 
-In those pics, Bianca was basically naked from the waist up with her lower body covered. There's always a curveball with Bianca -- and Ye, for that matter!
+Basically, Chris earned a win after all that ... and, we'd say this is a pretty big one!
+
+Congrats, Doc!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/bianca-censori-leaving-los-angeles-photoshoot/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/chris-brown-gets-honorary-phd/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Twitch Streamer Hasan Piker Reportedly Subpoenaed in Federal Cuba Probe
-<img src='https://imagez.tmz.com/image/ca/16by9/2026/05/24/cac784560e9b47959778802716887fcf_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Beartooth Singer Caleb Shomo Comes Out as Gay After 14-Year Marriage
+<img src='https://imagez.tmz.com/image/c4/16by9/2026/05/24/c48ff68230014a0980dad6b2fbea0e96_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Hasan Piker has reportedly been subpoenaed by federal officials as part of a widening investigation into whether U.S. activists violated laws and sanctions while supporting Cuba’s communist regime.
+Caleb Shomo is opening up about his personal life in a huge way ... revealing he's gay after more than 14 years of marriage to his wife, Fleur Shomo.
 
-The far-left Twitch streamer and CodePink cofounder Medea Benjamin were served "Requests for Information" by the Treasury Department's Office of Foreign Assets Control tied to a March trip to Cuba organized through the "Nuestra América Convoy," according to Fox News Digital.
+The Beartooth frontman shared the emotional announcement Saturday on Instagram, saying he felt it was time to set the record straight after growing speculation about his personal life.
 
-Investigators are reportedly examining whether activists illegally financed travel, coordinated logistics, or conducted prohibited transactions involving Cuba, including possible stays at hotels on the U.S. State Department's restricted list.
+"I am a proudly gay man," Caleb wrote, admitting he's been struggling privately with his sexuality for years while also battling alcohol issues. He said getting sober helped push him toward finally confronting feelings he'd buried for a long time.
 
-The investigation is allegedly part of a broader federal crackdown involving the Treasury, Justice and State Departments into alleged foreign influence operations and extremist political networks operating inside the U.S. Sources told Fox as many as 40 Americans are under scrutiny, with more subpoenas expected.
+The rocker also revealed his upcoming music will reflect this new chapter in his life, promising fans he plans to express himself more honestly than ever before.
 
-Piker, a self-described Marxist and a socialist, posted about the trip online before traveling to Havana alongside CodePink activists and groups connected to billionaire Neville Roy Singham's left-wing funding network.
+Caleb's wife, Fleur, later shared her own emotional statement supporting him ... while also admitting the situation has been heartbreaking for her personally. She paired the lengthy post with a vid of them dancing.
+
+She said watching Caleb struggle internally over the years was painful, adding that she still wants to "love, protect and support" him despite their marriage ending. Fleur called the situation "disorienting and hurtful" while acknowledging the emotional toll it's taken on both of them.
+
+In one especially emotional moment, she reflected on their 14-year marriage by writing, "Our story was a good one. And now it's done."
+
+The pair tied the knot in 2012 and do not share children together.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/hasan-piker-subpoenaed-in-cuba-probe/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/caleb-shomo-comes-out-as-gay/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -675,6 +643,17 @@ All prices &amp; availability subject to change.
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
+### 📰 Senate Republicans Cast Doubt on a Potential Peace Deal With Iran
+<div align='justify'>
+
+Lawmakers, including some of President Trump’s closest allies, slammed the emerging agreement as effectively undermining the president’s own war goals.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency
 <div align='justify'>
 
@@ -697,14 +676,14 @@ President Trump has alternated between bullying the justices and cozying up to t
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Do U.S. Automakers Have a Future in Canada?
+### 📰 RFK Jr.’s Push to Curb Antidepressants Has Shaken Psychiatry
 <div align='justify'>
 
-Detroit-based automakers pioneered open trade between Canada and the United States, benefiting both countries. President Trump’s trade war now leaves their future in the country in question.
+An annual psychiatric meeting was abuzz over Robert F. Kennedy Jr.’s call to rein in the use of depression medications. Some fear it will drive patients away from care.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/science/rfk-jr-antidepressants-ssri-psychiatry.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -716,17 +695,6 @@ In New Delhi, Secretary of State Marco Rubio tried to explain why President Trum
 </div>
 
  [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 RFK Jr.’s Push to Curb Antidepressants Has Shaken Psychiatry
-<div align='justify'>
-
-An annual psychiatric meeting was abuzz over Robert F. Kennedy Jr.’s call to rein in the use of depression medications. Some fear it will drive patients away from care.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/science/rfk-jr-antidepressants-ssri-psychiatry.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
