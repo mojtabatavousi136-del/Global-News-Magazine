@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/23 - 23:43`
+**📅 Update (Tehran Time):** `2026/05/24 - 13:53`
 
 ---
 
@@ -19,282 +19,325 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Is pragmatism replacing ideology in international affairs?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779564528.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Senegal football fans return home after royal pardon in Morocco
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260524__B3V97ND__v1__HighRes__ReturnOfSenegaleseSupportersPardonedByTheKingOf-1779615447.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The United States and India are seeking to mend ties after a year of diplomatic see-saw during which tariffs were imposed and then quickly scrapped because of the US-Israel war on Iran.
+A group of Senegalese football supporters jailed following their country’s chaotic, violence-plagued Africa Cup of Nations (AFCON) final in Morocco in January have returned home after being pardoned by the Moroccan king.
 
-This is just one example of how international relations and conflict have become more complex and interlinked in recent years.
+King Mohammed VI granted the fans a pardon “on humanitarian grounds” on the occasion of the Muslim holiday of Eid al-Adha, Morocco’s royal court said on Saturday.
 
-Brahma Chellaney – Professor emeritus of strategic studies at the Centre for Policy Research
+Senegalese President Bassirou Diomaye Faye welcomed the jubilant supporters on their arrival at the airport outside Dakar on Sunday.
 
-Chris Weafer – Chief executive officer at Macro-Advisory strategic consultancy
+“We’re very happy to have them back on Senegalese soil,” Faye, who donned a tracksuit for the occasion, told journalists.
 
-Shaun Rein – Founder and managing director of the China Market Research Group
+He thanked Moroccan authorities for the pardon but, in what Morocco will likely perceive as a new dig, hailed the national team as “two-time African champions”, even though the January final is the subject of an ongoing dispute before the Court of Arbitration for Sport in Switzerland.
+
+Senegal won the tumultuous continental final against Morocco in Rabat on January 18, but the match was later awarded on appeal to the hosts.
+
+With the match tied at 0-0, after a penalty awarded to Morocco in stoppage time of the second half – just after a Senegal goal was disallowed – Senegalese fans tried to storm the pitch and hurled projectiles.
+
+The Senegalese team left the pitch in protest against the penalty decision, halting play for nearly 20 minutes.
+
+When they returned, they gleefully watched Morocco miss their penalty and went on to score a 94th-minute winner.
+
+In February, Moroccan courts sentenced 18 Senegalese supporters held in Morocco since the final to prison terms ranging from three months to a year for hooliganism.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/23/is-pragmatism-replacing-ideology-in-international?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/24/senegal-football-fans-return-home-after-royal-pardon-in-morocco?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Iran move World Cup base from US to Mexico with FIFA approval
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-18T140947Z_931977777_UP1EM5I13CA0Q_RTRMADP_3_IRAN-CRISIS-SOCCER-TURKEY-1779561976.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Marco Rubio says ‘significant progress’ made in US-Iran talks to end war
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a12b36d5934-1779610477.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Iran will base ‌their squad in the Mexican border city of Tijuana ⁠during this ⁠year’s World Cup after football’s world governing body FIFA approved a request to move their training camp from Arizona, ⁠the head of Iran’s football federation said on Saturday.
+United States Secretary of State Marco Rubio says “significant progress” has been made in talks to end the US-Israeli war on Iran, hours after President Donald Trump claimed that a memorandum of understanding to end the fighting was “largely negotiated”.
 
-“We will be based in the Tijuana camp, which is near the Pacific ⁠Ocean and on the border between Mexico and the United States,” Iran’s Football Federation President Mehdi Taj said in a video posted on its Telegram social media account.
+Rubio, who is on his first official visit to India, said on Sunday that the emerging deal would address Trump’s concerns about the Strait of Hormuz, which Iran has largely blocked since the US and Israel launched their war on February 28.
 
-Taj added that the switch would help ‌avoid visa-related complications following the US-Israel war on Iran, and that the squad would be able to fly directly to Mexico with Iran Air.
+“Some progress has been made, significant progress, although not final progress has been made,” Rubio told reporters in New Delhi.
 
-Iran will play their first two Group G matches in Los Angeles, against New Zealand on June 15 and Belgium on June 21, ⁠before facing Egypt in Seattle on June 26.
+“I do think perhaps there is the possibility that in the next few hours the world will get some good news,” he said.
 
-“The ⁠total distance between us and the venue of our games in Los Angeles is 55 minutes by flight,” Taj said, adding that Tijuana was closer to their ⁠match venues than the team’s previously planned camp in Arizona.
+The agreement would also start a “process that can ultimately leave us where the president wants us to be, and that is a world that no longer has to fear or worry about an Iranian nuclear weapon”, Rubio added.
 
-Iran has faced uncertainty for months ⁠over travel and security arrangements for the ⁠World Cup, which will be cohosted by the United States, Canada and Mexico, and had asked for their games to be moved from the US.
+Iran’s semiofficial Tasnim News Agency, which is close to the Islamic Revolutionary Guard Corps (IRGC), said that under a potential memorandum of understanding, the number of vessels transiting the Strait of Hormuz would return to pre-war levels within weeks.
 
-Iranian officials said this month that their players and staff had yet to receive US ‌visas, less than a month before the start of the tournament. They began visa applications during their stay in Turkiye for pre-tournament training.
+“If the agreement is reached, the Strait of Hormuz will not fully return to its pre-war status; instead, the number of ships allowed to pass would be restored to pre-war levels within 30 days,” Tasnim reported.
 
-Taj said FIFA had been asked for guarantees over visas, security ‌and ‌the treatment of the Iranian delegation.
+The US ⁠naval blockade on Iranian ports must ⁠be completely lifted within 30 days, according ⁠to the potential memorandum ⁠of understanding, Tasnim ⁠said, adding that part of Iran’s frozen funds ‌must be released in the first phase of the agreement.
 
-Iran are due to play Gambia in a friendly on May 29 before coach Amir Ghalenoei names his final 26-man World Cup squad by FIFA’s June 1 deadline.
+The potential deal also includes an end to the war on all fronts, including in Lebanon, Tasnim reported.
+
+The measures on the Strait of Hormuz would take effect over a 30-day period while negotiations over Iran’s nuclear programme would continue over a 60-day period after the potential agreement is signed, Tasnim said.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/23/iran-move-world-cup-base-from-us-to-mexico-with-fifa-approval?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Tens of thousands rally in Serbia for antigovernment demonstrations
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a11ed3c-1779559740.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 US, Iran inch closer to deal to end the war: What to know
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a102d9d1f13-1779445149.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Tens of thousands of people, led by university students, have rallied in the Serbian capital to protest against the government and call for early elections.
+United States President Donald Trump says a possible agreement between Washington and Tehran to end months of war is now “largely negotiated”, raising hopes that tensions in the region could ease after a flurry of diplomatic overtures involving multiple countries.
 
-The Novi Sad rail station disaster in November 2024, which killed 16 people, sparked anticorruption protests, calling for a transparent investigation, forcing then-Prime Minister Milos Vucevic to resign.
+The proposed memorandum of understanding (MoU) reportedly includes reopening the Strait of Hormuz, a vital shipping lane for crude oil and gas, as well as talks aimed at formally ending the US-Israel war on Iran.
 
-Serbia’s President Aleksandar Vucic later pushed back hard against the protesters.
+But despite optimistic statements from Trump, Iranian officials say major disagreements remain, especially over the status of the Strait of Hormuz, Iran’s nuclear programme and conflicts involving Tehran-backed groups in Lebanon.
 
-With students leading the anticorruption movement, the demonstrations have snowballed into a campaign to push Vucic to call early elections.
+So, what has Trump said, what is the pushback from Iran, and what are the key sticking points?
 
-Vucic said this week that the ballot could be held between September and November this year.
+The president said on his social media platform Truth Social on Saturday that an agreement between the US, Iran and several other countries in the region had been “largely negotiated” and that final details would be announced soon.
 
-Protesters streamed into a central square in the capital, Belgrade, from several directions, many carrying banners and wearing T-shirts inscribed with the “Students win” motto of the youth movement.
+“An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries,” Trump wrote on Truth Social.
 
-Columns of cars drove into Belgrade from other Serbian towns earlier in the day.
+He said the proposed agreement would include reopening the Strait of Hormuz, which has remained effectively closed to most shipping since the US-Israel war on Iran began on February 28.
 
-Protester Maja Milas Markovic said students “managed to gather us here with their youth and wonderful energy; I really believe that we have [the] right to live normally.”
+Trump described the proposal as a “Memorandum of Understanding pertaining to PEACE” and said the discussions involved Saudi Arabia, the United Arab Emirates, Qatar, Pakistan, Turkiye, Egypt, Jordan and Bahrain.
 
-Serbia’s state railway company cancelled all trains to and from Belgrade on Saturday, in a bid to prevent at least some people from coming from other parts of the Balkan country.
+Trump said he also spoke to Israeli Prime Minister Benjamin Netanyahu, and it “went very well”.
 
-In the evening, Sporadic clashes broke out between protesters and police near the presidency building and outside a park where Vucic’s supporters ‌have been camping since March last year.
+Sources told the Reuters news agency the proposed framework would unfold in stages: formally ending the war, resolving the Strait of Hormuz crisis, and opening a 30-day negotiation window for a broader agreement on sustained peace, which could be extended.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/IMGpez-1779561312.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Russia pounds Ukraine’s capital with hypersonic missile
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779614191.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Munir met senior Iranian officials on Saturday as Islamabad and Doha push to finalise a memorandum to end the war.
+Russia pounded Ukraine’s capital overnight on Saturday with drones and ballistic missiles.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Police beat and detain Gaza flotilla activists at airport
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Police-beat-gaza-flotilla-activists-1779560899.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Trump says US and Iran deal to end war is ‘largely negotiated’
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779613794.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Police forcibly detained members of the Global Sumud Flotilla and their supporters at Bilbao Airport.
+US President Trump announced that a Memorandum of Understanding on a peace deal with Iran has been ‘largely negotiated&#039;.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Iran 'getting a lot closer' to agreement with US, Trump says
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7430/live/da26d190-56c1-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Suspect killed after opening fire on Secret Service near White House
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1af8/live/21744ff0-5735-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-US President Donald Trump has said Iran is "getting a lot closer" to reaching an agreement with the US on the war, as Tehran also signalled progress had been made in the past week.
+A suspect who shot at a White House checkpoint was killed in an exchange of fire with Secret Service agents on Saturday evening, officials have confirmed.
 
-However, both sides have been cautious, and Iran's foreign ministry spokesperson said the key issue of nuclear weapons would not be part of any initial proposals.
+The BBC's US media partner CBS has named the suspect as Nasire Best, a 21-year-old man who was known to the protection agency and had a documented history of mental health conditions.
 
-Trump told the BBC's US partner CBS News he had seen a draft agreement with Iran. When asked whether it was good enough, he said: "I don't know, I can't tell you that."
+US President Donald Trump thanked the officers for their "swift and professional action" in apprehending the gunman, who he said in a Truth social post had a "violent history and possible obsession with our Country's most cherished structure".
 
-The president did not give any further details on the draft, but insisted any agreement would "absolutely" prevent Iran from obtaining a nuclear weapon.
+The shooting comes only a month after a gunman opened fire at the White House Correspondents' Dinner.
 
-"I will only sign a deal where we get everything we want," he said. "We're going to have a deal, or we're going have a situation where no country will ever be hit as hard as they're about to be hit."
+The incident on Saturday remains under investigation and road closures around the White House will likely stay in place overnight.
 
-Iranian foreign ministry spokesman Esmaeil Baqaei told state television on Saturday that the US and Iranian positions had been converging in the last week, but warned that did not mean agreements would be reached on key issues and accused the Americans of "contradictory statements".
+Shortly before 18:00 local time (23:00 GMT), a man pulled a gun from his bag and "began firing" outside the White House at the intersection of 17th Street and Pennsylvania Avenue NW in Washington DC, near the Eisenhower Executive Office Building.
 
-"Our plan has been to first draft a memorandum of understanding, or an agreement, in the form of a framework, consisting of 14 points," he said, according to Reuters news agency.
+Secret Service officers posted on the corner returned fire, striking the gunman. He was then taken to hospital, where he was pronounced dead.
 
-Baqaei said they were in the process of finalising the memorandum, so further talks could be held within 30 to 60 days "and ultimately a final agreement can be reached".
+A bystander was also wounded in the shooting, but the Secret Service did not give further details on their condition. No officers were injured in the attack.
 
-Meanwhile, US Secretary of State Marco Rubio was cautiously optimistic.
+Trump was at the White House at the time, but "no protectees or operations were impacted", the agency said.
 
-Speaking on a trip to India, he told the BBC there could be news within the next couple of days, but couldn't be certain.
+The suspect was later identified in US media as Best, who had been known to both the Secret Service and the Metropolitan Police Department and had used a revolver, law enforcement sources told CBS.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 At least 82 killed in Chinese coal mine explosion
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f7d9/live/d56919b0-5685-11f1-afe6-09264f8da456.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/44ff/live/6628b250-56f7-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-At least 82 people have been killed and two are missing after a coal mine blast in northern China, officials have said.
+On Russian state TV a news bulletin shows images of a five-storey building reduced to rubble.
 
-Rescue officials revised down the death toll in an update late on Saturday, having earlier said at least 90 people had died.
+What happened here early on Friday has sparked Russian accusations, Ukrainian denials, an emergency session of the United Nations Security Council and vows of retribution by the Kremlin.
 
-The gas explosion at the Liushenyu Coal Mine in Shanxi province is the worst mining disaster in China since 2009.
+The town of Starobilsk is in Russian-occupied eastern Ukraine: in the Luhansk region which Moscow claims to have annexed.
 
-There were 247 workers reportedly on duty when the blast happened at 19:29 local time (11:29 GMT) on Friday, with more than 100 people said to be saved and hundreds of rescuers sent to the site.
+Russian officials accuse Ukraine of a carrying out a drone attack on the college dormitory. According to official figures, 21 people were killed and 42 wounded.
 
-Chinese President Xi Jinping said no effort must be spared in efforts to treat the injured and search for survivors.
+The Russian TV report shows а number of survivors in hospital. One of them is identified as 21-year-old Olga Kovaleva. She'd been trapped under the rubble, but later rescued.
 
-The country's state council later said a "rigorous" investigation would be conducted and those found responsible would be "severely punished".
+"The people killed in the Starobilsk attack," it says, listing the names of the dead students and their dates of birth.
 
-Officials apologised for the confusion over the death toll, saying the situation was chaotic at the beginning which led to an unclear headcount and an incorrect figure.
+Russian President Vladimir Putin called what happened a "terrorist strike." He insisted there had been "no military facilities, intelligence service facilities or related services in the vicinity."
 
-They said that 128 people were being treated in hospitals, including two in critical condition.
+"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems," the Kremlin leader said.
 
-Most were affected after inhaling poisonous gas, according to state media, though it is not clear what type of gas it was.
+In a statement the General Staff of Ukraine's Armed Forces said it did carry out an attack near Starobilsk on the night of 21-22 May but maintains that it struck a Russian military unit.
 
-Wang Yong, an injured miner, told state media that when the incident happened, he did not hear a sound but saw a sudden plume of smoke.
+Amid claim and counterclaim Russia on Friday had requested an emergency session of the United Nations Security Council.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Red Cross volunteers die from suspected Ebola in DR Congo
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/f4e9/live/1fde0380-56bc-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Large-scale Russian attack on Ukraine leaves four dead and dozens injured
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/0aeb/live/b5374250-574a-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Three Red Cross volunteers died in the Democratic Republic of Congo from suspected Ebola likely caught while managing dead bodies, the organisation has said.
+Russia has launched a large-scale wave of strikes against Ukraine, firing hundreds of drones and dozens of missiles.
 
-They are believed to have contracted Ebola on 27 March while working in the eastern region of Ituri on a project unrelated to the virus, before the outbreak was identified.
+Ukrainian President Volodymyr Zelensky said the capital was the main target, but other areas were also hit, with at least 83 people injured.
 
-The volunteers are thought to be among the first to die in DR Congo's Ebola outbreak, which has resulted in more than 170 suspected deaths and 750 suspected cases.
+Four people were killed in Kyiv and its surrounding areas, with explosions heard across the region overnight into Sunday, and reports of damage to residential buildings and schools.
 
-The International Federation of Red Cross and Red Crescent Societies (IFRC) said they had died after serving their communities "with courage and humanity".
+Russia's defence ministry said the Oreshnik hypersonic missile was used in the strikes, which it described as coming in response to Ukraine's "attacks on civilian infrastructure".
 
-The outbreak "had not been identified" when Alikana Udumusi Augustin, Sezabo Katanabo and Ajiko Chandiru Viviane were working with the dead bodies, the IFRC said.
+President Vladimir Putin has accused Ukraine of a deadly strike on a student dormitory in the town of Starobilsk on Friday, in which 21 people were killed.
 
-They died between 5 and 16 May and had been working in the town of Mongbwalu, which is now considered the epicentre of the outbreak.
+The general staff of Ukraine's armed forces said it did carry out an attack near Starobilsk in Russian-occupied eastern Ukraine overnight on Friday, but maintained that it struck an elite Russian military unit.
 
-On Friday, the World Health Organization (WHO) raised the public health risk from the virus in DR Congo from "high" to "very high".
+Russia's overnight strikes on Sunday come after warnings from Zelensky that Russia was planning an attack, and that it may be preparing to use the Oreshnik missile, which reportedly travels at more than 10 times the speed of sound and is impossible to intercept.
 
-WHO chief Dr Tedros Adhanom Ghebreyesus also said the risk in the wider region in Africa was "high" but remained "low" globally.
+Zelensky said in a Telegram post on Sunday that Russia had launched the Oreshnik missile against the city of Bila Tserkva in the Kyiv region.
 
-The outbreak involves a rare species of Ebola, known as Bundibugyo, which has no proven vaccine and kills about a third of those infected.
+Ukraine's presidential office later said it was not confirming that, saying work was ongoing to determine exactly what had been used.
 
-Health experts warn that touching the body of someone who died from Ebola can spread the virus because bodily fluids remain highly infectious after death.
+Ukraine's air force said that from 18:00 local time on Saturday, it detected 90 missiles and 600 drones.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 French mum and partner held until trial after sons abandoned by road in Portugal
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/699d/live/c7e53410-569c-11f1-9615-e14e530a4b81.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Man killed in shark attack off Australia's north-east coast
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/9910/live/10cc3a30-573c-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-A French mother and her partner will remain in custody after allegedly abandoning her two young boys on a roadside in the south of Portugal, a court has ruled.
+A man has died after being attacked by a shark off the coast of the north-eastern Australian state of Queensland, police have confirmed.
 
-The boys were found on Tuesday evening crying beside a road near Alcacer do Sal, about 100km (60 miles) south of Lisbon. The woman and her partner, identified by authorities as Marine R and Marc B, were arrested in Fatima on Thursday.
+Emergency services were called to a boat ramp on the Cassowary Coast, between the cities of Cairns and Townsville, just before noon local time on Sunday, following reports of a 39-year-old being attacked while swimming out at a nearby shoal.
 
-As they were led into court on Saturday, the man shouted "I love you" in French and the boys' mother sang.
+Queensland Police said in a statement that the man was retrieved from the water but died from his injuries.
 
-A judge ordered they be placed in pre-trial detention, French and Portuguese media report. They are both accused of child endangerment and abandonment, while the man faces an additional charge of aggravated assault.
+It is the second fatal shark attack in Australian coastal waters in as many weeks, after a 38-year-old was killed while spearfishing near Perth, in Western Australia, last Saturday.
 
-In Portugal, suspects must be brought before a judge within 48 hours of their arrest to decide whether they remain in custody or are released ahead of their trial.
+In that incident, the man had been bitten on the lower legs and could not be revived.
 
-The couple have already been questioned by investigators for several hours.
+Queensland Police did not reveal details of the injuries sustained by the latest victim, nor did it disclose the man's identity.
 
-Meanwhile, the children, who are aged four and five, are with a French foster family in Lisbon and are expected to return to France.
+It said it will now prepare a report for the coroner on the "sudden and non-suspicious" death.
 
-Authorities told the Setubal courthouse that the two boys had been living with their 41-year-old mother in the eastern French city of Colmar, while their father had limited and supervised visitation rights, local media report.
+"As the matter is before the coroner, it would be inappropriate to comment further," the force added.
 
-On 11 May, the father reported them missing, prompting authorities to begin searching for the mother and children, and a European arrest warrant being issued.
+Shark attacks around Australia are more common than in many other parts of the world, though they are often not fatal.
 
-The mother of the motorist who found the children told Portuguese media that one of the boys had said they were blindfolded and told to look for a hidden toy, but that when they took their blindfolds off their mother had vanished.
+There were four encounters with sharks across Australia in January, according to the Australian Shark-Incident Database, only one of which was fatal.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Putin vows retaliation after accusing Ukraine of hitting student dormitory
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/db1a/live/dadb5390-5608-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Blast targeting train kills at least 20 in Pakistan
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/fc37/live/290cfef0-574a-11f1-934b-4138723911fd.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Vladimir Putin has promised retaliation after accusing Ukraine of carrying out a deadly attack on a student dormitory in an occupied part of eastern Ukraine.
+At least 20 people have been killed and 70 others injured in an explosion targeting a train transporting military personnel in Pakistan.
 
-Eighteen people were killed and 42 others injured in the overnight strike in the town of Starobilsk, in the Luhansk region, Russia's emergencies ministry said. Another three people are believed to be trapped under the rubble.
+The blast occurred while the train was travelling through Chaman Phatak station in Quetta, the capital of the western Balochistan region, on Sunday morning.
 
-Ukraine's military said it had hit the headquarters of Russia's elite Rubicon drone military unit in Starobilsk. It did not say whether it was the same building as the one identified by Russia.
+Railway officials told BBC Urdu that three coaches and the engine were derailed while two were overturned. The shuttle service had primarily been transporting service personnel and their families who had been returning home for Eid.
 
-But Putin said there were "no military facilities, intelligence service facilities or related services in the vicinity".
+The Balochistan Liberation Army (BLA) separatist group claimed responsibility for the attack, saying it was a suicide bombing. Pakistani officials have not yet confirmed this.
 
-"Therefore, there is absolutely no basis for claiming that the munitions struck the building as a result of our air defence or electronic warfare systems," he said at a reception in his Kremlin residence in Moscow on Friday.
+Images from the scene show burnt-out and mangled carriages and nearby cars, as well as bomb damage to a nearby building.
 
-He ordered the Russian military to prepare "proposals" on how to retaliate.
+"The train was moving and there were passengers on board when the explosion occurred," Naseer Ahmed, a local resident, told the BBC.
 
-The Russian leader said the Ukrainian strike had been carried out in three waves using 16 drones.
+He said that, as it had been a Sunday morning, his family had been asleep when the blast occurred, shattering all his windows.
 
-Russia's state-run TV showed what it said was one of the injured students, identifying her as Diana Shovkun, aged 19.
+A police officer and civil administration official in Balochistan confirmed to BBC Urdu that 20 people had been killed, with fears the death toll could rise.
 
-She had head injuries after being hit by a collapsing concrete slab, the report said.
+Pakistan's Prime Minister Shehbaz Sharif strongly condemned the attack, saying "such cowardly acts of terrorism cannot weaken the resolve of the people of Pakistan".
 
-Early on Saturday, Russian officials reported two people had been injured after falling debris from drones triggered a fire at an oil depot in Russia's Black Sea port of Novorossiysk.
+"The entire nation stands in solidarity with the people of Balochistan in this hour of grief," he added.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
-### 📰 White House pauses removal of detainees to the DRC as Ebola outbreak widens
+### 📰 Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows
+<img src='https://i.guim.co.uk/img/media/f428ad0e4cf717eb6e16d62e3d1369c851836ee6/1043_0_5193_4157/master/5193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=878bf12d2ae0204244ba62304ab986b2' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018
+
+Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in the past eight years, new analysis reveals.
+
+Attacks include 1,261 strikes on markets used by families for daily groceries and 863 incidents in which food distribution systems were targeted and workers killed.
+
+The analysis looked at the period since UN resolution 2417 unanimously condemned the deliberate starvation of civilians in 2018. It found starvation is being increasingly weaponised with the supply of food routinely targeted in Gaza, Sudan, Lebanon and Haiti among others.
+
+Data compiled by Insecurity Insight uncovered 21,403 incidents in 15 countries where food supplies have been deliberately targeted since 2018, when the UN security council unanimously passed a resolution condemning the unlawful denial of humanitarian aid as a tactic of warfare.
+
+Researchers discovered 1,909 military strikes on farmland, and another 563 on water infrastructure vital for crops, which affected food security in more than 42 countries and territories.
+
+States with the highest recorded incidents are the occupied Palestinian Territory with 9,013 attacks, followed by Yemen – 1,863 incidents – and Sudan, where food was targeted in 1,605 strikes. One of the most recent attacks in Sudan occurred on Tuesday when a drone struck a busy market, killing 28 people.
+
+Witnesses said the main market in the town of Ghubaysh, West Kordofan, appeared to have been deliberately targeted by the military while it was crowded with civilians.
+
+Other countries that documented repeated attacks on food supplies include Syria, which saw 1,538 incidents, many attributed to government or Russian military forces before the fall of the Assad regime; and Mali, where 1,415 attacks were recorded as the ruling junta struggled to maintain its grip on power in the west African country.
+
+The research, to be released on Monday to coincide with the anniversary of the UN resolution, describes a “marked increase” in attacks on markets, farmland and food distribution systems.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 White House pauses removal of detainees to DRC as Ebola outbreak widens
 <img src='https://i.guim.co.uk/img/media/ffc838e97b179b54b60aaffc6f8aa4d774457412/172_0_2281_1825/master/2281.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a142837b278325d8fdc2785d60f9c13' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 
-But Trump administration will not return detainees deported to third countries in disease-struck region
+But Trump administration will not return detainees deported to third countries in disease-stricken region
 
-The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of Congo (DRC) during a spiraling Ebola outbreak, according to reporting by Politico, but experts say the move won’t help prevent the spread of the disease.
+The Trump administration will temporarily pause the removal of refugees to the Democratic Republic of the Congo (DRC) during a spiraling Ebola outbreak, according to reporting by Politico, but experts say the move won’t help prevent the spread of the disease.
 
 At least one woman is now in limbo after officials moved her to Kinshasa, the capital of the DRC, and now say they won’t bring her back because of the Ebola travel ban – despite a judge’s order for her return.
 
@@ -310,7 +353,7 @@ As long as the US has a ban on travelers from the DRC, Uganda and South Sudan, �
 
 It’s not clear what happens next to refugees who were already moved against their will to countries affected by or near the outbreak. At least 37 people have been moved to these countries in recent months, according to Gillian Brockell, an independent journalist who tracks third-country removals by the US.
 
-Brockell suspects US officials are using the travel ban as an excuse for not returning Zapata. Sending people in detention centers to African nations far from home is a common threat, Brockell said, “so to publicly take one of their main scare tactics off the table, they are only going to do that if it helps them in some way”.
+Brockell suspects US officials are using the travel ban as an excuse to not return Zapata. Sending people in detention centers to African nations far from home is a common threat, Brockell said, “so to publicly take one of their main scare tactics off the table, they are only going to do that if it helps them in some way”.
 
 </div>
 
@@ -411,184 +454,211 @@ The outbreak has been caused by the Bundibugyo strain of Ebola, for which no vac
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ebola: US ban on travellers from DRC, Uganda or South Sudan ‘not the solution’
-<img src='https://i.guim.co.uk/img/media/49583dee91b5a91b99d9699dfd099e58da815fbb/0_0_4193_3355/master/4193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5a8afb490a9699274eccfaba202501c' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Africa CDC says restrictions could increase public health risks and highlight ‘deeper structural injustice’ in global health
-
-A US travel ban for people coming from the Democratic Republic of the Congo, Uganda or South Sudan in response to the Ebola outbreak could make the situation worse, critics have said.
-
-The outbreak was declared a public health emergency of international concern on Sunday and continues to spread, with a new case reported in the DRC’s South Kivu province, an area under the control of armed rebel groups.
-
-The American travel ban, which applies to non-US passport holders who have been in any of the three countries in the past 21 days, has caused disruption to the DRC men’s football team’s World Cup preparations. It also caused a flight to Detroit to be diverted to Canada on Wednesday because a traveller from the DRC was onboard.
-
-Africa Centres for Disease Control and Prevention (Africa CDC) said that while it “fully recognises the sovereign responsibility of every government to protect the health and security of its people … generalised travel restrictions and border closures are not the solution to outbreaks”.
-
-The body said: “Such measures can create fear, damage economies, discourage transparency, complicate humanitarian and health operations, and divert movement toward informal and unmonitored routes – potentially increasing public health risks rather than reducing them.”
-
-There is no vaccine or treatment available to fight the Bundibugyo strain of Ebola responsible for the outbreak.
-
-Africa CDC said this highlighted “a deeper structural injustice in global health innovation: the Bundibugyo Ebola virus was identified nearly two decades ago, yet no licensed vaccines or therapeutics specific to this strain exist today.”
-
-It said: “Africa CDC believes that if this disease had predominantly threatened wealthier regions of the world, medical countermeasures would likely already be available.”
-
-Dr Githinji Gitahi, the group CEO at Amref Health Africa, backed Africa CDC’s stance. He said: “Travel bans don’t stop viruses, they stop solidarity. The fastest way to protect everyone is to invest in outbreak control at the source, not isolate the affected. Africa needs partnership, not punishment.”
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/21/ebola-us-ban-travellers-drc-uganda-south-sudan)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Kyle Busch Honored by North Carolina, Flags to Be Flown Half-Staff
-<img src='https://imagez.tmz.com/image/9d/16by9/2026/05/23/9d466d94351e4614aa0f681c7fe290ca_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Ray J Knocked Out in the Second Round by Supa Hot Fire, Watch the Video
+<img src='https://imagez.tmz.com/image/0f/16by9/2026/05/23/0f6c6774af704dd39a36cb46a69499df_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Kyle Busch's tragic death has inspired statewide mourning in North Carolina ... with the governor ordering all flags to be flown half-staff.
+Ray J went down in flames during his celebrity MMA match Saturday night, getting his ass wooped by Supa Hot Fire.
 
-Governor Josh Stein announced the order Friday ... directing officials to lower all U.S. and state flags to half-staff as a way of honoring Busch's legacy.
+The R&amp;B singer went toe-to-toe with the popular YouTuber&nbsp;for just two rounds during their co-main MMA fight at Adin Ross' UFC Apex event in Las Vegas.&nbsp;
 
-The flags were set to half-staff at sunrise Saturday and will remain that way until the sun sets on Sunday.
+In the second round, Ray had Supa against the ropes, throwing a few body punches. But then Supa hit Ray with a hard left hook square in the face, and Ray fell into the ropes before hitting the canvas.
 
-Gov. Stein said, "Kyle Busch was not just a talented and record-setting driver; he was also a kind person. His loss will be felt throughout the entire NASCAR community and well beyond ... may his memory be a blessing.”
+Ray eventually got back to his feet, but he was so dazed he had to sit down on a stool. And that was that, folks. The ref stopped the fight.
 
-Busch primarily resided in Denver, North Carolina ... a Charlotte suburb. He died in Charlotte on Thursday.
+But things got even crazier during an after fight interview in which Ray suggested he had a plan in place with Supa Hot and they lost money as a result of the knockout.&nbsp;
 
-As we reported ... Busch died of severe&nbsp;pneumonia, which progressed into sepsis, according to his family.
-
-Before being taken to the hospital, Busch was in a racing simulator when he reportedly became unresponsive. We obtained 911 audio in which someone told a dispatcher the patient was coughing up blood and looked like they might pass out.
-
-Busch won a Truck Series race less than a week before he died ... and appeared in NASCAR's All-Star Race a few days before.
+In the other co-main fight, former Heisman Trophy winner Johnny Manziel made quick work of social media influencer Bob Menery, beating him in the first round.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/23/kyle-busch-death-results-in-north-carolina-flags-half-staff/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/ray-j-supa-hot-fire-las-vegas/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Bianca Censori Shows Off Her Biggest Assets on Movie Date With Kanye West
-<img src='https://imagez.tmz.com/image/8b/16by9/2026/05/23/8b0b4446d4fa45e3ae854eb1f4a31137_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Harry Jowsey Hot Shots To Slay His 29th Birthday
+<img src='https://imagez.tmz.com/image/24/16by9/2026/05/12/2402b0e737cd49cb87fe9ac84dfdc101_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Bianca Censori put on a "Thriller" display with her most recent fashion choice ... showing off her chest in a low-cut top while heading to watch "Michael" with Kanye West.
+Harry Jowsey is 29 and looking damn fine ... and that calls for a celebration! So let's ring in the last year of the reality star's 20s, shall we?!
 
-Censori stepped out in an all-black bodysuit Friday night in Los Angeles -- sans bra -- which featured a deep-V extending to her belly button and exposing her cleavage.
+In honor of another trip around the sun, nothing sounds more fitting than a round up of Harry's sexiest snaps. After all, he was one of the OG winners of "Too Hot to Handle!"
 
-The backless outfit clung tight to her waist and backside ... leaving little to the imagination, as she so often does.
-
-Meanwhile, West channeled his inner Jackson ... wearing a red leather jacket seemingly inspired by the one MJ donned in his famous "Thriller" music video.
-
-Unclear if Kanye busted out a few of his best moves during the Michael Jackson biopic, like many other fans have -- but we'd certainly like to see it!
-
-If you're feeling any déjà vu with Bianca baring all and Kanye clad in leather going to a movie, you're not going crazy ... they just recently pulled this out of their date playbook -- though Bianca put on a more cheeky outfit for that evening out.
-
-MJ told fans about "Dirty Diana" back in the day ... but "Busty Bianca" deserves to have a song or two written about her!
+Check out our gallery to show the birthday boy some love!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/23/kanye-west-and-bianca-censori-see-michael-movie/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/harry-jowsey-sexy-pictures/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Stars and Scars -- You Be the Judge
-<img src='https://imagez.tmz.com/image/b9/16by9/2026/05/23/b93e06fa2f47483f8ddfa22db6afdad9_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Queen Latifah Is Serving Ageless Beauty -- Good Genes or Good Docs?!
+<img src='https://imagez.tmz.com/image/0b/16by9/2026/05/12/0ba284bb2ddf4295aa32ffa46ced949f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-President Trump's giving away $1.776B, but who deserves it?? Plus, Taylor Swift and Travis Kelce's potential prenup debate, Britney Spears says pasta la vista and holy role models, Prattman! So, we gotta ask ...
+Queen Latifah's regal looks over the years deserve a frigin' award!!!
+
+Here is a 32-year-old version of the rapper-actress lookin' fire at a Hollywood luncheon in back in 2002 (left).
+
+And, more than two decades later, it's hard to believe this queen is 56! Here's a shot of her serving style and stunning looks at CinemaCon 2026 just last month (right).
+
+Queen Latifah is set to host tomorrow's American Music Awards, where we're placing our bets on her looking gorgeous, but the question here is:
+
+Good Genes or Good Docs?!
+
+Make sure to stick around tomorrow -- TMZ’s ready to drop all the hottest moments from the 2026 American Music Awards!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/23/polls-you-be-the-judge/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/queen-latifah-good-genes-or-good-docs/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 NASCAR Legend Kyle Busch Cause of Death Revealed
-<img src='https://imagez.tmz.com/image/d3/16by9/2026/05/23/d3d49ef221264fc8b4cff243f326be09_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 DeMarcus Cousins Gives Blueprint For Shutting Down Victor Wembanyama
+<img src='https://imagez.tmz.com/image/55/16by9/2026/05/21/5562160263904c55b064c477e5ed6ad3_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-NASCAR legend Kyle Busch died from severe pneumonia, which progressed into sepsis ... TMZ has confirmed.
+Shutting down Victor Wembanyama is an impossible task, but how do you slow down the 7'4" forward?! DeMarcus Cousins is laying out the blueprint for guarding the NBA superstar!
 
-According to a statement from Kyle's family, he passed away "after severe pneumonia progressed into sepsis, resulting in rapid and overwhelming associated complications."
+TMZ Sports chopped it up with Boogie at LAX on Thursday ... but the former NBA All-Star started with a disclaimer.
 
-As we reported ... Kyle died Thursday after being hospitalized with a severe illness.
+"First, I'm going to say it's probably easier said than done. He's one of one. This is something new to the game in general," Cousins said of "the Alien," and the unique challenges he presents to opposing teams.
 
-Before being taken to the hospital, Kyle was in a North Carolina racing simulator Wednesday when he reportedly became unresponsive. TMZ Sports obtained audio from the 911 call ... where someone told dispatch the patient was "coughing up some blood" at the NC training facility while looking like they were going to pass out.
+"I think your best chance is trying to make the game physical for him, make it really uncomfortable. And, you know, that's limited in today's game. But, you know, as far as whatever's allowed, you try to be as physical as possible."
 
-Kyle's death came 11 days after a NASCAR Cup Series race in which he radioed to his crew and asked for a doctor to give him a "shot" after he finished the race.
+Of course, if there's any weakness in Wemby's game, it's his physical strength ... the league's tallest player weighs just 235 lbs. (though he's bulked up every year since being picked first overall in 2023).
 
-On TV, they noted Kyle had been battling some sort of sinus cold that was made worse by the intense G-forces and elevation changes at New York's Watkins Glen course. That race was on May 10.
+Demarcus says as a defender, you cannot let Victor get into rhythm on the court.
 
-Despite the health issue, Kyle kept competing ... winning a Truck Series race on May 15 and then competing in the NASCAR All-Star Race on May 17, just four days before his death.
+"I think just crowding his space, crowding him to the point where he's never really comfortable in his movements throughout the game."
 
-Kyle was 41.
+Wembanyama is averaging over 22 points and 12 rebounds a game during the playoffs -- and scored 41 points and grabbed 24 boards on Monday during game one of the Western Conference Finals.
 
-RIP
+Like Boogie said, bottling him up is easier said than done.
+
+The Spurs big man has his squad in the midst of a hotly contested battle with the Oklahoma City Thunder -- the favorites to win the chip -- with the winner advancing to the NBA Finals, for a date with the winner of the Knicks and Cavs.
+
+For the sake of OKC, let's hope Isaiah Hartenstein sees our Cousins' clip!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/23/kyle-busch-cause-of-death/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/demarcus-cousins-guard-victor-wembanyama/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Best Citizen Watch Deals in Amazon's Memorial Day Sale
-<img src='https://imagez.tmz.com/image/a6/16by9/2026/05/18/a6c6d0ceaac744f6bc4baf511f7b718a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Best Memorial Day Deals on Amazon: Gadgets, Tools, Self-Care & More!
+<img src='https://imagez.tmz.com/image/e8/16by9/2026/05/19/e89cdc68434641c497c764d3e752e185_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
 TMZ may collect a share of sales or other compensation from links on this page.
 
-These fantastic watches are here to help you count every second of your dreaded meeting ... or your wonderful vacation.
+The best thing about Memorial Day is having the day off work. The second-best thing about Memorial Day is the deals!
 
-Time doesn't discriminate between good and bad, but it's always important to keep your timekeepers as sharp as you.
+From household tools to self-care essentials and more, Amazon is slashing prices for the holiday … and offering up serious savings on some top-tier stuff.
 
-Here are some of the sharpest Citizen Watches you can find ... during Amazon's Memorial Day sale!
+You won't want to miss out on these sales, which is why we rounded up some of the best ones just for you!
 
 Want more great finds? Head to TMZ Deals.
 
-Automatic Tsuyosa Citizen Luxury Watch
+Bose QuietComfort Bluetooth Headphones
 
-Citizen is all about class and simplicity. This Automatic Tsuyosa Citizen Luxury Watch is the embodiment of both.
+The Bose QuietComfort Bluetooth Headphones are a bit of a splurge … so you're definitely going to want to take advantage of this sale.
 
-The neat thing about this option is that it has multiple color variants.
+The comfortable over-ear design allows you to get the most out of that noise-cancelling setting.
 
-So, if you you're not a fan of this bronze-orange color, you can get green, gold, navy blue, or black to fit your taste!
+It comes in a bunch of fun colors ... and you'll be able to hear all the compliments you get when you switch over to Aware Mode.
 
-Citizen Brycen Eco-Drive
+Chefman Caffeinator Single Serve Coffee Maker
 
-Oh god, look at the time ... See, you can do that AND look at your wrist when you have a Citizen Brycen Eco-Drive on! Who wants to look at that lame clock they have mounted on your office wall?
+Can’t function before your morning coffee? That’s where the Chefman Caffeinator Single Serve Coffee Maker comes in!
 
-No, you came here because you like to tell time like a boss ... and bosses tell time with this solar-powered wonder.
+It’s compatible with your favorite K-cups … but also brews ground coffee.
 
-Citizen Chronograph Atomic Time Keeping Watch
+So -- now matter how you take your morning joe -- you won’t want to miss out on this deal!
 
-Nothing tells people you're a master of time better than this Citizen Chronograph Atomic Time Keeping Watch!
+Citizen TSUYOSA Automatic Sport Luxury Watch
 
-Whether you're flying into work, flying into an exercise, or flying into, well, the sky ... this Watch is built to be your "flying" partner!
+If you're in the market for some impressive wrist wear, you're in luck. The Citizen TSUYOSA Automatic Sport Luxury Watch is on sale for the holiday! It's an eco-drive which means it is powered by light ... any light and will not require a battery change.
 
-Citizen Axiom Watch
+It's got a sleek, sporty style and the dial comes in 5 cool colors … so pick your favorite or collect them all!
 
-"I don't want that watch, it's got too many numbers on it!" That's a complaint you would NEVER hear with this Citizen Axiom Watch! This is for time-telling veterans, okay? Only someone who has been looking at a clock their whole life will know what time it is even without the numbers! And, this is a classy way to wear it -- just black and gold, and simple, sleek design.
+Shark PowerDetect Robot Vacuum
 
-Citizen Women’s Gold Rectangle
+Sometimes you don’t always have time to do the vacuuming yourself.
 
-Ladies ... this time it's your time! This Citizen Women's Gold Rectangle watch is an excellent piece of bling that screams girl boss!
+If that’s you … you’re going to want to hop on this Shark PowerDetect Robot Vacuum sale while you can.
 
-It's elegant, bold, and beautiful ... just like you -- but only if you wear it! Just kidding. But do give it a shot. You won't be disappointed.
+It's totally worth the splurge, because the NeverStuck Technology ensures you won't have to babysit your vacuum and can actually multitask.
 
-Citizen Men's Gold Two-Tone Luxury Watch
+NOONI Korean Lip Oil
 
-This Citizen Men's Gold Two-Tone Luxury Watch is the crème de la crème.
+A good lip oil can really plump up your pout … and that’s why we love that the NOONI Korean Lip Oil is on sale for Memorial Day!
 
-The 40.5mm two-tone silver and gold-tone stainless steel case holds a sunray green dial with a 1/5 second chronograph that measures up to 60 minutes, 12/24 hour, time, and date. The sleek dial is accented with gold-tone registers and indices, protected by a sapphire crystal. In other words ... this is a great watch that crowns your boldest fashion statements!
+The vegan, cruelty-free formula is designed to hydrate your lips while also adding a subtle pop of color.
+
+Anker Soundcore 2 Portable Bluetooth Speaker
+
+The Anker Soundcore 2 Portable Bluetooth Speaker is a much more affordable alternative to big brands like Beats, Bose and Apple.
+
+It’s made with BassUp technology so you can really feel the beat bump. Plus, it’s got waterproof features … so don’t be scared to bring it to your next pool party or beach bash!
+
+Black + Decker Cordless Drill
+
+If you haven’t gotten yourself a good cordless drill … now’s the time!
+
+The Black + Decker Cordless Drill is on sale for the holiday and -- even if you aren’t in immediate need of some home improvement -- it’s a good one to have on hand.
+
+It’s compact, lightweight and has a keyless chuck to make bit changes a breeze!
+
+RELEXNOW Cordless Red Light Therapy Shoulder Wrap
+
+Stiff shoulders getting you down? You’ll want to take advantage of this deal on the RELEXNOW Cordless Red Light Therapy Shoulder Wrap while you can.
+
+With 6 levels of red light therapy and 3 levels of vibration, it’s like getting a massage and wearing a heating pad all at the same time!
+
+Dirt Devil Portable Compact Spot Carpet and Upholstery Cleaner
+
+For the messes you can’t just vacuum away … try the Dirt Devil Portable Compact Spot Carpet and Upholstery Cleaner!
+
+The price tag is seriously slashed for Memorial Day, so you’ll definitely want to jump on this.
+
+The portable carpet cleaner has powerful suction to tackle stubborn stains and spills, even if they’re deep in there!
+
+Apple MagSafe Charger
+
+Charging your Apple devices has never been easier … thanks to the Apple MagSafe Charger.
+
+Whether you’re looking to make the switch to wireless charging or simply stock up on chargers for every room, you can save a few bucks this holiday!
+
+It works with the iPhone 12 or later models, as well as several iterations of AirPods. This charger will have your devices at full battery in no time!
+
+Coleman Portable Camping Chair with Built-In Cooler
+
+If you’re celebrating Memorial Day weekend with cookouts and some fun in the sun, then a good camping chair is a must.
+
+And the Coleman Portable Camping Chair’s got a built-in cooler, so you can stash four cans by your side while you lounge.
+
+That way, you won’t have to get up to grab a cold one!
+
+Bissell PowerClean FurGuard Vacuum
+
+If you’re sick of pet hair taking over your home, we’ve got you! The Bissell PowerClean FurGuard Vacuum has FurFinder Headlights to help you spot any pesky strands you might’ve missed, and the 280W motor will suck it right up.
+
+It’s also got a self-cleaning brushroll … so you won’t have to worry about hair wrapping or clogging up your vacuum.
+
+SLOOSH 2-Pack Inflatable Pool Floats
+
+Summer’s practically here … which means it’s pool party season! And the SLOOSH 2-Pack Inflatable Pool Floats are the perfect aquatic accessories now that the weather’s warmer.
+
+They come in a couple fun colors and are long enough for you to fully lay out!
 
 For more curated product lists check out TMZ Deals.
 
@@ -598,13 +668,46 @@ All prices &amp; availability subject to change.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/23/citizen-watch-deals/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/amazon-memorial-day-sale-roundup/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
+### 📰 How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency
+<div align='justify'>
+
+The Commodity Futures Trading Commission purged its ranks, dialed back its enforcement and boosted industries in which President Trump’s family is heavily invested.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 With Big Decisions Ahead, the Supreme Court Collides With a Testy Trump
+<div align='justify'>
+
+President Trump has alternated between bullying the justices and cozying up to them as the court prepares to announce major decisions that will determine the fate of the key aspects of his agenda.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/us/politics/supreme-court-trump-vance.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Do U.S. Automakers Have a Future in Canada?
+<div align='justify'>
+
+Detroit-based automakers pioneered open trade between Canada and the United States, benefiting both countries. President Trump’s trade war now leaves their future in the country in question.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/world/canada/auto-industry-canada-detroit-ontario-car-tariffs.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Trump Is Setting His Sights on Restricting Legal Immigration
 <div align='justify'>
 
@@ -616,47 +719,14 @@ After a year focused on immigrants here illegally, the Trump administration is n
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump Administration Chips Away at Last Traces of Broad Inquiry Into Jan. 6
+### 📰 RFK Jr.’s Push to Curb Antidepressants Has Shaken Psychiatry
 <div align='justify'>
 
-Two recent moves aligned the department ever more closely with President Trump’s own efforts to whitewash the events of that day.
+An annual psychiatric meeting was abuzz over Robert F. Kennedy Jr.’s call to rein in the use of depression medications. Some fear it will drive patients away from care.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/23/us/politics/trump-prosecutors-jan-6.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Trump, Defiant After Bad Week, Pushes Ahead on Politically Unpopular Ideas
-<div align='justify'>
-
-President Trump continues to act like he’s politically all-powerful, even in the face of indications that he is not.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Trump’s Pursuit of a Partnership With China Raises Concerns in India
-<div align='justify'>
-
-Secretary of State Marco Rubio has a “gargantuan task” during his visit to Delhi: defuse tensions over President Trump’s anti-India aggression and overtures to China.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/23/us/politics/trump-rubio-india-china.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Iran and U.S. Officials Signal Progress as Cease-Fire Hangs in Balance
-<div align='justify'>
-
-As people across the Middle East braced for the possibility of renewed fighting, officials from both sides said there were signs that they were moving closer to an agreement.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/science/rfk-jr-antidepressants-ssri-psychiatry.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
