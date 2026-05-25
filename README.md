@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/25 - 00:06`
+**📅 Update (Tehran Time):** `2026/05/25 - 17:54`
 
 ---
 
@@ -19,126 +19,200 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Ebola spreads in the DRC as authorities struggle to contain outbreak
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Ebola-intensifies-1779652641.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Baloch separatists ‘take advantage’ of Pakistan’s entanglements
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/KB-Horizontal-THUMB-1779715968.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The Ebola outbreak in the eastern Democratic Republic of the Congo is spreading as cases been confirmed in Uganda.
+Baloch separatists &#039;take advantage&#039; of Pakistan&#039;s entanglements
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/ebola-spreads-in-the-drc-as-authorities-struggle-to-contain-outbreak?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/baloch-separatists-take-advantage-of-pakistans-entanglements?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 How will Iran war fallout impact upcoming US elections?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779646139.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Could Israel sabotage US-Iran deal?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779715730.jpg?resize=1618%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-President Donald Trump was able to purge his most vocal critics within the Republican Party, as Americans voted for the congressional candidates who will run in November’s midterm elections.
-
-One of the most prominent politicians to be unseated was Representative Thomas Massie, who pushed for the release of the Epstein files.
-
-The Democratic Party partially released a report about performance that noted “a persistent inability or unwillingness to listen to all voters”.
-
-Host Steve Clemons asks former Trump aide Hogan Gidley, and Matt Duss – former adviser to Senator Bernie Sanders – about the challenges facing both parties.
+As the US and Iran move closer to a peace deal, Israel vows to keep striking what it calls regional and nuclear threats.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/the-bottom-line/2026/5/24/how-will-iran-war-fallout-impact-upcoming-us-elections?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israeli strikes kill six in southern Lebanon amid fresh evacuation orders
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-24T125530Z_847033659_RC2NFLAUYAKI_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1779639326.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Iran says deal with US ‘not imminent’ despite progress
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779715059.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Israeli strikes have killed at least six people in southern Lebanon as the Israeli army issues fresh evacuation orders.
-
-Israeli air raids in al-Namiriya killed two young men who were riding on a motorcycle, and another young man in al-Duweir was also killed while he was on a motorcycle, according to Lebanon’s National News Agency (NNA).
-
-In the town of Abba, a Syrian man driving a motorcycle was killed by an Israeli strike, and in Jebchit, one man was killed in another attack. A paramedic was killed by a drone strike while he was inspecting the site of a recent air strike in Arab Salim, and an air raid in Bazouriyeh in Tyre left one person dead, NNA reported.
-
-Israel’s army spokesperson issued 16 evacuation orders in southern Lebanon, and local sources said Israel was striking before and after the order was given.
-
-“These attacks are very violent, and they are targeting places that are filled with many people, homes and communities,” said Al Jazeera’s correspondent in Tyre, Obaida Hitto. He explained that many of these places are not near the front line.
-
-Rescue teams managed to recover three bodies from the rubble of a house that was targeted by Israeli warplanes in the town of Srifa, in southern Lebanon’s Tyre district, according to the NNA.
-
-Hezbollah said it carried out a series of attacks on Israeli military infrastructure and military positions throughout the day. Hezbollah forces targeted Israeli soldiers stationed in a house in the Biyyada area of the South Governorate with a drone.
-
-Hezbollah also launched a rocket barrage at soldiers in the town of Rashaf in Nabatieh Governorate.
-
-Israel’s continued bombardment of southern Lebanon comes amid tense peace talks between the United States and Iran. Despite an ongoing ceasefire, Israel and Hezbollah have continued to trade fire.
-
-Since Israel’s conflict with Hezbollah began in early March, Israeli air strikes in Lebanon have killed 3,151 people and wounded 9,571, the Health Ministry has said in a statement carried by the NNA.
+Iran’s FM spokesman Baghaei says a ‘large portion’ of issues with the US have been resolved, but a deal is not imminent.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779646963.jpg?resize=1916%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Could Brazilian oil emerge as one of the big winners of the Iran war?
+<img src='https://www.aljazeera.com/wp-content/uploads/2025/08/2025-05-13T130658Z_693832443_RC2YGEA41KMG_RTRMADP_3_CHINA-BRAZIL-1754978512_16ce71-1754978603.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Russia has launched one of its largest attacks on Kyiv since the war began, firing hundreds of drones and missiles.
+China and India are increasingly turning to Brazil to make up for lost oil supplies as the fallout from the US-Israel war on Iran continues to disrupt energy trade through the Strait of Hormuz.
+
+With oil harder to access and Russian supply largely constrained by sanctions, Asian buyers are scrambling for crude from suppliers seen as safer and more reliable.
+
+Brazil, which is already one of the world’s biggest oil exporters, has emerged as one of the clearest beneficiaries.
+
+Sumit Ritolia, a specialist in modelling refinery and oil markets at Kpler, told Al Jazeera: “The disruption caused by the Iran war and the closure of the Strait of Hormuz has increased the importance of Brazil as a marginal crude supplier to Asia.”
+
+“China and India in particular have increased purchases of Brazilian crude to secure barrels that are not exposed to Gulf shipping disruptions,” he added.
+
+Analysts say Brazil cannot replace the Middle East as Asia’s main oil supplier. However, as shipping risks rise in the Gulf amid Iran’s effective closure of the Strait of Hormuz and the corresponding naval blockade on Iranian ports by the United States, its oil has become increasingly attractive to refiners seeking to avoid supply shocks.
+
+Asian countries imported about 1.2 million barrels per day (bpd) of crude from Brazil in 2025, according to data supplied to Al Jazeera by trade intelligence firm Kpler. That rose to roughly 1.8 million bpd between January and May this year, highlighting Brazil’s growing role in Asia’s efforts to diversify away from the Gulf.
+
+Brazil had already been increasing oil production in major offshore developments before tensions escalated in the Middle East.
+
+According to Kpler data, Brazil was producing about 3.77 million bpd of oil in 2025. Between January and May, this rose to an average of 4.06 million bpd, with 4.11 million bpd in May.
+
+But Ritolia said the increase is not just down to a rapid wartime production surge.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Fatou Bensouda on Israeli threats against her and the ICC
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779645836.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 What are the biggest FIFA World Cup upsets in history?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2022-11-22T214521Z_2010475262_UP1EIBM0X1FC6_RTRMADP_3_SOCCER-WORLDCUP-ARG-SAU-REPORT-1778935022.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Fatou Bensouda, former International Criminal Court (ICC) chief prosecutor, discusses the threats, pressure and sanctions she faced while pursuing investigations on Palestine. She says Israel wanted the investigations stopped, describes feeling unsupported by ICC member states and warns that international justice is being sacrificed to political interests. Bensouda also reflects on US sanctions, accusations of ICC double standards and whether leaders such as Israeli Prime Minister Benjamin Netanyahu can ever be brought before the court.
+The FIFA World Cup 2026 is the most eagerly awaited sports event of the year.
+
+Fans are gearing up to see who scores the most goals, who are the biggest performers on football’s grandest stage, and who wins the coveted trophy.
+
+But the tournament has also produced many stunning shocks throughout its history as defending champions have been knocked out in the group stages and minnows have downed giants of the game – such as when Saudi Arabia upset eventual champions Argentina at Qatar 2022.
+
+The post-war England team, comprising the likes of Alf Ramsey, Tom Finney and Billy Wright, was among the favourites to lift the trophy as it made its World Cup debut. The Americans, meanwhile, put together a group of part-timers, including a dishwasher, a letter carrier and a teacher. The mixed bunch practised together for one day and set off on a boat to Brazil.
+
+Joe Gaetjens scored a 38th-minute header to put the USA ahead. In the second half, England’s attack was relentless, but USA’s goalkeeper Frank Borghi prevented them from scoring an equaliser and etched his team’s name into the history books.
+
+A German side staging a comeback to win a World Cup match would not be considered an anomaly today.
+
+However, this was a lesser-known West German side of the 1950s facing the Mighty Magyars of Hungary, who had the great Ferenc Puskas leading their attack.
+
+Hungary entered the World Cup in Switzerland as favourites and lived up to their billing by handing a 9-0 drubbing to South Korea and thrashing West Germany 8-3 in earlier matches.
+
+The two sides met in the final again. Hungary scored two goals in the first half and were seemingly following the script until the opponents scored two.
+
+The game was tied until the 84th minute when Helmut Rahn scored his second goal and broke Hungarian hearts. The German comeback against one of the best teams in football’s history was termed “The Miracle of Bern”.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/24/fatou-bensouda-on-israeli-threats-against-her-and-the-icc?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/25/what-are-the-biggest-fifa-world-cup-upsets-in-history?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Trump tells US negotiators 'not to rush' into deal with Iran
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a16c/live/d497f740-57a7-11f1-9a13-456ad0ca259e.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Deal with US not imminent, Iran says
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a0c1/live/741c5a20-5827-11f1-8df1-478734c7d1a9.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-US President Donald Trump says he has instructed his negotiators "not to rush into a deal" with Iran, after reports suggested an agreement was close.
+Iran says some progress has been reached in talks with the US, but a deal "is not imminent".
 
-According to US media, the deal under discussion involves a 60-day ceasefire extension, reopening the Strait of Hormuz and further negotiations over Iran's nuclear programme.
+Foreign ministry spokesman Esmail Baqai's remarks came after US Secretary of State Marco Rubio said an agreement could possibly be reached on Monday.
 
-In a social media post, Trump said "constructive" talks were proceeding but "both sides must take their time and get it right".
+"It is correct to say that we have reached a conclusion on a large portion of the issues under discussion," Baqai said in Tehran on Monday. "But to say that this means the signing of an agreement is imminent - no-one can make such a claim."
 
-Trump said on Saturday an agreement had been "largely negotiated," prompting speculation an announcement could be imminent.
+The memorandum of understanding reportedly involves a 60-day ceasefire extension, reopening the Strait of Hormuz and a plan for further negotiations over Iran's nuclear programme.
 
-Reports in Iranian media also say there are still "one or two" points of disagreement in the potential deal.
+At the weekend, President Donald Trump suggested the sides were closing a deal, even though he later said he had instructed negotiators "not to rush into" one.
 
-Iranian officials had similarly signalled progress in talks over the weekend, but foreign ministry spokesperson Esmail Baghaei said that did not mean agreements would be reached on key issues.
+On Monday, Rubio told reporters in the Indian capital, Delhi: "We thought we might have some news last night. Maybe today."
 
-The mooted deal has split Republicans, with some publicly arguing it is too lenient on Iran.
+Cautioning "I wouldn't read too much into it", Rubio said: "It takes a little while to hear back from Iran."
 
-Senator Ted Cruz said it would be "a disastrous mistake", while Roger Wicker, who chairs the Senate Armed Services Committee, said a 60-day ceasefire would mean "everything accomplished by Operation Epic Fury would be for naught!"
+CBS News, the BBC's US partner, has reported that US intelligence believes Iran's Supreme Leader Mojtaba Khamenei - who was injured in an Israeli strike on the first day of the war which killed his father and predecessor - is holed up in an undisclosed location, making communication with his envoys difficult and therefore delaying pace of talks with the US.
 
-But Representative Mike Lawler, who sits on the House Foreign Affairs Committee, said the administration has managed to "force the remnants of this regime into a negotiation, a real negotiation".
+According to US media, the mooted deal is not a final settlement - instead it leaves some of the thorniest issues to be negotiated later, including the scope and timing of Iranian sanctions relief, the release of frozen Iranian funds, and Washington's demands for Iran to curb its nuclear ambitions.
 
-The US and Israel launched wide-ranging strikes on Iran on 28 February, sparking conflict across the Middle East. Iran responded by launching attacks on Israel and US-allied states in the Gulf.
+"So we have, what I think is a pretty solid thing on the table in terms of their ability to open up the Straits," he said referring to the Strait of Hormuz - the crucial waterway where 20% of the world's oil and liquefied natural gas passes and which Iran has been blocking.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Oil prices slide on hopes of US-Iran peace deal
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Oil prices have fallen sharply on hopes of a deal that could bring an end to the US-Israel war with Iran.
+
+US Secretary of State Marco Rubio said negotiators had a "pretty solid thing on the table" and an agreement to end the conflict might be reached on Monday.
+
+On Monday morning, global oil benchmark Brent fell 5.5% to $97.90 a barrel, and remained around $97.70 a barrel in the afternoon.
+
+US President Donald Trump said the negotiations were "proceeding nicely" but added it would either be "a great deal for all or no deal at all".
+
+While Iran says progress has been made, a government spokesman added that a deal was "not imminent".
+
+Trump had previously said the deal would include the reopening of the key Strait of Hormuz shipping route, without giving further details.
+
+The Strait of Hormuz, through which around a fifth of the world's oil and liquefied natural gas (LNG) usually passes, has been effectively closed since the conflict started on 28 February.
+
+Earlier on Monday, Rubio said the talks were "still a work in progress."
+
+"As I said, you know, we thought we might have some news last night," Rubio said in the Indian capital, Delhi.
+
+His comments came after Trump said he had instructed negotiators "not to rush into a deal", after earlier suggesting one was close.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 She was told to marry in a country which bans girls' education. So she got in a taxi and fled
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Alia -  whose name we have changed for her safety - travelled hundreds of miles from her village to Kabul to escape marriage.
+
+The journey by taxi last year with her female cousin - covered from head to toe, only their eyes visible, as the rules decree - was an exceptional thing to do, and risky in Afghanistan, where at any moment they might be caught by the Taliban inspectors enforcing rules banning women travelling long distances without a male relative escorting them.
+
+But Alia, who is 19, and her cousin weren't stopped at any Taliban checkpoints, and made it to the capital.
+
+"I made up an excuse to my family saying I was coming here to meet my friends and former classmates. But that's not true. They are not here. The actual reason is that if I stayed in Daykundi, I would be forced to get married."
+
+Instead, she arrived in Kabul with a plan: she enrolled in an English language course.
+
+These short-term, narrowly-focused private courses - available only to those who can afford them - are, along with madrasas which focus on religious education, the only options for girls to learn past primary school in Afghanistan. But neither are close to being a substitute for formal schooling.
+
+It has now been almost five years since the Taliban stopped girls over 12 going to school, with various reasons given to explain why the ban is still in place.
+
+Years in which girls like Alia have grown up without the education they wanted and needed. Years in which the path to a career has been effectively shut off, narrowing their options until millions of girls in Afghanistan have been left with just one choice: marriage.
+
+Alia's story is unusual, not just for her bravery. But she also comes from a family which has the funds to pursue the few opportunities available to young women - a rarity in a country where three in four people cannot meet their basic needs, according to the United Nations.
+
+It's not that Alia's family do not want her to study – they accepted she wanted to stay in Kabul, and are funding her English course even now - but even they are constrained by the realities of life in Afghanistan.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -147,25 +221,25 @@ The US and Israel launched wide-ranging strikes on Iran on 28 February, sparking
 
 <div align='justify'>
 
-Russia carried out a deadly large-scale wave of strikes against Ukraine, firing hundreds of drones and dozens of missiles overnight.
+Russia carried out a deadly large-scale wave of strikes against Ukraine, firing hundreds of drones and dozens of missiles on Saturday night.
 
 Ukrainian President Volodymyr Zelensky said Kyiv was the main target, but other areas were also hit, with about 100 people injured.
 
-Four people were killed in the capital and wider region, with loud explosions heard across the area throughout the night. Dozens of residential buildings, a school, an opera house and a museum were damaged.
+Four people were killed in the capital and wider region, with explosions heard throughout the night. Dozens of residential buildings, a school, an opera house and a museum were damaged.
 
 Russia's defence ministry said the Oreshnik hypersonic missile was used in the strikes, which it described as coming in response to Ukraine's "attacks on civilian infrastructure". Ukraine's military denies targeting civilians.
 
+Early on Monday, energy infrastructure was damaged in a missile attack on Russia's Belgorod region bordering Ukraine, including the city of Belgorod, the Interfax news agency reported, citing local authorities.
+
+There were no casualties but power and water supply were interrupted, Interfax said. It did not provide further details.
+
+Russia's Yaroslavl region, northeast of Moscow, also came under under a drone attack, the Governor Mikhail Yevrayev said on Telegram.
+
 Russian President Vladimir Putin launched a full-scale invasion of Ukraine in February 2022.
 
-Earlier this week, he accused Kyiv of hitting a student dormitory in the town of Starobilsk on Friday, in which Russian officials said 21 people were killed.
+He accused Kyiv of hitting a student dormitory in the town of Starobilsk on Friday, in which Russian officials said 21 people were killed.
 
 Ukraine's military said its forces did carry out an attack in Starobilsk in Russian-occupied eastern Ukraine overnight on Friday, but maintained that it struck an elite Russian drone military unit.
-
-European leaders have condemned the overnight Russian strikes on Sunday, which came after warnings from Zelensky that Russia was planning an attack, and that it may have been preparing to use the Oreshnik missile.
-
-It reportedly travels at more than 10 times the speed of sound, is hard to intercept, and is known to be capable of carrying both conventional and nuclear warheads.
-
-Zelensky - who on Sunday visited a number of damaged buildings in Kyiv - said that Russia had launched the Oreshnik missile against the city of Bila Tserkva in the Kyiv region.
 
 </div>
 
@@ -173,98 +247,85 @@ Zelensky - who on Sunday visited a number of damaged buildings in Kyiv - said th
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Turkish riot police storm opposition offices after leaders ousted
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a802/live/2b6400f0-578f-11f1-85d6-97cd1565aacc.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Anger grows after China's deadliest coal mining disaster in years
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1ed1/live/7ab063d0-580f-11f1-be4f-892ca05ec266.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Turkish riot police forced their way into the headquarters of the country's main opposition party on Sunday, days after a court dismissed its leadership.
+Anger is growing over alleged safety violations in the wake of China's worst mining disaster in more than 15 years.
 
-Clouds of tear gas billowed outside the Republican People's Party (CHP) building in Ankara, where party members had blocked the entrances with a makeshift barricade.
+At least 82 people were killed and more than 120 injured after an explosion on Friday at the Liushenyu coal mine in Shanxi province, the heart of China's huge mining industry.
 
-Footage from the scene showed those inside shouting and throwing objects towards the entrance, and police being sprayed with hoses.
+For many in China, the tragedy harks back to the 2000s, a period of regular, deadly coal mining disasters, which is widely thought to have been left in the past.
 
-Party leader Özgür Özel had vowed to defy an appeal court decision on Thursday which declared his election null and void, in a move further cementing President Recep Tayyip Erdoğan's grip on power.
+Those concerns are now reignited and playing out on China's tightly-controlled internet, with people calling for justice and questioning how this happened: "It's so heartbreaking, so many precious lives lost. When will we truly put safety first?"
 
-The court decided that Özel should be replaced by Kemal Kilicdaroğlu, a 77-year-old party veteran who was defeated by Erdoğan in the 2023 presidential election.
+Authorities say the cause of the disaster is still under investigation, but initial findings show Tongzhou Group, the company operating the privately-owned coal mine had committed "serious illegal violations".
 
-Turkish media reported that Kilicdaroğlu's representatives had requested the police carry out "necessary procedures" to hand over the headquarters to the new leadership, claiming they had so far been barred entry.
+At a news conference on Saturday, they pledged to conduct a "rigorous" investigation and "severely punish" those found responsible.
 
-The city's governor then instructed the police to "implement the court decision", according to a statement from his office.
+Tongzhou Group has not made a public statement so far, and the BBC has been unable to reach them for comment.
 
-"We are under attack," Özel said in a video message shared on X as the security forces sought entry to the building, where clashes were also reported between his supporters and those of Kilicdaroğlu.
+China's state media reported that the people running Tongzhou Group have been put under "control measures", though it's unclear what that means. The company has also been ordered to halt work at all four coal mines it currently operates in Shanxi province.
 
-Özel later emerged from the premises, telling crowds gathered outside: "They tried to uproot and throw us out - to where?"
+Authorities have not specified the safety violations they discovered at Liushenyu coal mine. State media, however, highlighted various issues at the site.
 
-He said the party would "from now be on the streets or in the squares, marching towards power".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 BBC at the site of China's worst mining disaster in more than a decade
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/77b2/live/14f6e760-5758-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.
+Reports claim that some workers did not bring mandatory tracking devices into the mines, and blueprints provided by the Liushenyu coal mine to authorities did not match the conditions at the mine, complicating rescue efforts.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Blast targeting train kills at least 20 in Pakistan
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/fc37/live/290cfef0-574a-11f1-934b-4138723911fd.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-At least 20 people have been killed and 70 others injured in an explosion targeting a train transporting military personnel in Pakistan.
-
-The blast occurred while the train was travelling through Chaman Phatak station in Quetta, the capital of the western Balochistan region, on Sunday morning.
-
-Railway officials told BBC Urdu that three coaches and the engine were derailed while two were overturned. The shuttle service had primarily been transporting service personnel and their families who had been returning home for Eid.
-
-The Balochistan Liberation Army (BLA) separatist group claimed responsibility for the attack, saying it was a suicide bombing. Pakistani officials have not yet confirmed this.
-
-Images from the scene show burnt-out and mangled carriages and nearby cars, as well as bomb damage to a nearby building.
-
-"The train was moving and there were passengers on board when the explosion occurred," Naseer Ahmed, a local resident, told the BBC.
-
-He said that, as it had been a Sunday morning, his family had been asleep when the blast happened, shattering all his windows.
-
-Eyewitnesses said a vehicle laden with explosives drove into the train, causing the explosion.
-
-A police officer and civil administration official in Balochistan confirmed to BBC Urdu that 20 people had been killed, with fears the death toll could rise. Officials said three soldiers were among the dead.
-
-Pakistan's Prime Minister Shehbaz Sharif strongly condemned the attack, saying "such cowardly acts of terrorism cannot weaken the resolve of the people of Pakistan".
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
-### 📰 Number of suspected Ebola cases in DR Congo passes 900 as health workers face attacks and shortages
+### 📰 ‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana
+<img src='https://i.guim.co.uk/img/media/bedc5386e1a3bf126cc1563c07558997ba9a9494/434_160_4599_3679/master/4599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38dda31386fa8fe480d1ab8b0d3895cc' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Bonolo Selelo and Tsholofelo Kumile are going to court for right to wed but face fierce opposition from church groups
+
+Bonolo Selelo was at Botswana’s national museum for a Gaborone Pride event when she spotted Tsholofelo Kumile and was struck by her good looks. The two initiated a conversation and when Kumile expressed anxiety about what a tarot reading at the event might hold, Selelo thought nothing of offering her a hug. The reading turned out positive but Kumile claimed her hug anyway and they talked for hours.
+
+That was 1 October 2023. Two months later, they moved in together. Then, on a hike during the Easter holidays in 2024, Selelo proposed to Kumile. A year later, they visited a local government office to register their intent to marry and were told it wasn’t legal.
+
+“It was kind of expected. But I don’t think they expected the response,” Kumile said. She looked affectionately at Selelo. “She does not back down.”
+
+The couple launched a court case, claiming the right to marry. Hearings are scheduled for 14 and 15 July. If they succeed, Botswana would become the second African country to legalise same-sex marriage, after South Africa in 2006. However, the case is facing fierce opposition from the government and traditional and church groups.
+
+“We did have a frank discussion about it,” said Selelo, sitting next to her fiancee in the office of her law firm, which Kumile also works for. “I said … I want us to get married, because I love you, but there’s also the practical part.”
+
+As a lawyer, Selelo worried what would happen to Kumile if she died. “I feel that I would be able to withstand a lot of legal pressure, but I wouldn’t want her to be harassed if I am no longer there to offer that protection. And, for me, marriage would give her that added protection that no other institution would be able to give her.”
+
+Botswana decriminalised same-sex relations in 2019 when the high court ruled that a British colonial-era ban was unconstitutional. The decision was upheld on appeal in 2021. The government is now defending its ban on same-sex marriage.
+
+A spokesperson for Botswana’s Attorney General said: “The Attorney General’s position... is that the Marriage Act stipulates that a valid marriage is one between a bride and a bridegroom and or a husband and wife, connoting a bond between a man and woman in the conventional sense. The Marriage Act does not provide for same sex marriages.”
+
+Selelo and Kumile argued that another law, the Interpretation Act, supports their case, due to the law stating: “In an enactment words importing the male sex include the female sex and words importing the female sex include males.”
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/25/same-sex-marriage-botswana-couple-court)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages
 <img src='https://i.guim.co.uk/img/media/8355603236b6205fbdf5131669437d4b19be02f9/430_0_3768_3016/master/3768.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2b458c18d0709c15061779b0c71a2cc' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
 <div align='justify'>
 
-World Health Organization says outbreak poses ‘very high’ risk for Congo, but risk of disease spreading globally remains low
+WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low
 
-Congolese authorities say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country.
+Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country.
 
-The Congolese ministry of communication, in a post on X on Sunday, said there were 904 suspected cases and 119 suspected deaths.
+The DRC’s ministry of communication said in a post on X on Sunday that there were 904 suspected cases and 119 suspected deaths.
 
-Authorities had previously announced more than 700 suspected Ebola cases, and more than 170 suspected deaths, mostly in Ituri province, where the outbreak is centred.
+Authorities had previously announced more than 700 suspected Ebola cases and more than 170 suspected deaths, mostly in Ituri province, where the outbreak is centred.
 
-The World Health Organization has said the outbreak now poses a “very high” risk for the Democratic Republic of Congo, but that the risk of the disease spreading globally remains low.
+The World Health Organization has said the outbreak now poses a “very high” risk for the DRC, but that the risk of the disease spreading globally remains low.
 
 Health authorities in the country are facing serious challenges as they try to stem the outbreak, which has been declared a global health emergency.
 
@@ -375,149 +436,112 @@ According to a study by the International Committee of the Red Cross (ICRC) this
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Côte d’Ivoire wary of jihadist threat in north 10 years on from major attack
-<img src='https://i.guim.co.uk/img/media/ce259019a87d1e32bae95e67818bd7e5640faa4a/928_0_5031_4024/master/5031.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74ce7b852ab1ee8d5252bc649546c52c' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-Threat of jihadism continues to lurk along borders with Mali and Burkina Faso
-
-These days, when she is not organising the annual International Day of Reggae celebrations in Côte d’Ivoire, Rose Ebirim picks up litter scattered on the beach in the historic port town of Grand Bassam, 25 miles east of Abidjan. Both activities have become a form of therapy since the time she saw someone die.
-
-On that day, she saw three gunmen open fire at close range as they stalked three adjacent hotels on the beach in a 45-minute shooting spree. By the time security agencies shot the attackers dead, they had killed 19 people including nine foreigners, and traumatised the entire nation.
-
-Al-Qaida in the Islamic Maghreb (AQIM) claimed responsibility for the attack, saying it was in retaliation for Côte d’Ivoire arresting its men and handing them over to Mali. It was not until December 2022 that an Abidjan court sentenced 11 men – including seven in absentia – to death for their roles in the attack.
-
-“Our forces have strengthened their operational vigilance to ensure that such tragedies never happen again,” the defence minister, Téné Birahima Ouattara, said at a ceremony this March to commemorate the 10th anniversary of what was the first major terrorist incident on Ivorian soil.
-
-Grand Bassam, a Unesco world heritage site and the country’s first capital, forms part of a relatively peaceful three-hour drive to the border with Ghana lined with resort towns that once again cater to residents and tourists.
-
-But up in the north, on the borders with Mali and Burkina Faso, the threat of jihadism continues to lurk. Both states have expelled French and American troops in recent years after military takeovers, pivoting to stronger partnerships with Russia instead.
-
-Côte d’Ivoire, now a key western ally for counterinsurgency in the region, stands as a buffer state between the Gulf of Guinea and the core of the Sahel. The violence in its neighbours has driven thousands of refugees into the country’s north.
-
-At the time of the 2016 attack, the insurgency had just emerged in Burkina Faso as a spillover from Mali. Terrorism incidents linked to jihadists have almost tripled in coastal west Africa as armed non-state actors proliferate.
-
-Military formations and security personnel in the region have been repeatedly targeted by Al-Qaida-affiliated Jama’at Nusrat ul-Islam wa al-Muslimin (JNIM), which swallowed AQIM. In June 2020, Katiba Macina, another group in the JNIM coalition, killed 14 Ivorian soldiers in the village of Kafolo near the Burkinabé border.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/23/cote-divoire-wary-of-jihadist-threat-in-north-10-years-on-from-major-attack)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 'Teen Mom' Star Ryan Edwards' Wife Amanda Conner Arrested
-<img src='https://imagez.tmz.com/image/d9/16by9/2026/05/24/d9ecd1ebce6d451f9266ecb76565ad2a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Sydney Sweeney Goes Fully Topless in Wild 'Euphoria' Scene
+<img src='https://imagez.tmz.com/image/9a/16by9/2026/05/25/9a2f1d0706c14a018a8b0e0b680c4b79_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Amanda Conner -- the wife of "Teen Mom" star Ryan Edwards -- has been arrested ... TMZ has confirmed.
+Sydney Sweeney is heating up "Euphoria" again ... because the actress dropped another wild hookup scene in Sunday night’s episode ... this time with Richard Gere's son.
 
-A spokesperson for the Hamilton County Sheriff's Office Jail in Tennessee tells TMZ ... Conner was arrested Sunday morning near Chattanooga and booked on a charge of driving under the influence and child abuse/neglect.
+Sydney's character, Cassie Howard, gets set up on a publicity date with rising movie star Dylan Reid, played by newcomer Homer Gere, after deleting her OnlyFans account and losing followers online.
 
-We're told there's also a charge for driving on the wrong side of the road.
+After heading home together, Cassie and Dylan launch into an intense hookup scene that leaves the room completely wrecked including a broken bed and a painting crashing off the wall.
 
-Conner's bond was set at $16K ... and, at the time of publishing, it appears she has not yet bonded out.
+Sydney goes fully topless during the scene, which is filmed mostly from Dylan's perspective as Cassie climbs on top of him during the over the top encounter.
 
-If and when she does post bond, Conner will have to abide by a no-contact order regarding the alleged child victim until at least her court hearing on June 3.
+This also isn't Sydney’s first viral "Euphoria" moment lately. Earlier this month, viewers were already freaking out over Cassie's revealing outfits and provocative OnlyFans storyline throughout Season 3.
 
-She will not be allowed around the child, and she cannot contact the person who will be overseeing the child in the meantime.
-
-We've obtained dispatch audio from the alleged incident ... in which a dispatcher says a husband called the police on his wife -- telling them he worried she was using narcotics because she wouldn't submit to a drug test.
-
-The dispatch claims the husband also told her the wife left with the baby in the car. Worth noting, the dispatcher does not give names for either party during the call.
-
-Edwards and Conner started dating back in 2023 and got married last year. We've reached out to Ryan ... so far, no word back.
+Let's just say ... we are already seated for next week's episode.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/ryan-edwards-wife-amanda-conner-arrested/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/sydney-sweeney-naked-on-euphoria/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Kyle Busch Honored During Lap 18 of Indy 500
-<img src='https://imagez.tmz.com/image/65/16by9/2026/05/24/65d4f25450444f8bad68f8f75897df7d_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Kevin Hart Parties in Las Vegas With Wife Eniko
+<img src='https://imagez.tmz.com/image/32/16by9/2026/05/25/3246dabadad841eebdcc89d1bf12009a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Kyle Busch received a tribute in the middle of the Indy 500 Sunday ... with the crowd falling silent out of respect for him during lap 18 -- a nod to his former number.
+The only sick burns on Kevin Hart's mind now are sunburns ... because the comedian hit Las Vegas for a fun Memorial Day Weekend getaway with wife Eniko Hart just a couple weeks after getting torched during his Netflix roast special.
 
-Check out the clip ... racers turn out of corner 4 on Lap 17 -- and, as they pass the scoring pylon, a picture of Kyle Busch "1985-2026" flashes on a screen at the venue.
+TMZ obtained video of Kevin and Eniko living it up Sunday at the Omnia Dayclub Las Vegas. The couple was first spotted leaving the Wynn before making their way over to Caesars Palace for a full on daytime bash.
 
-The Indy 500 crowd -- usually a raucous bunch -- falls into a subdued silence ... while pit crew members can be seen standing at attention.
+DJ FISHER had the place going nuts with booming party tracks, drinks flowing nonstop, and crowds packed shoulder to shoulder under the scorching Vegas sun.
 
-Lap 18 is one of just many tributes at the Indy 500 to Busch ... whose former teammate, Jimmie Johnson, appeared during Fox's pregame show.
+Kevin and Eniko looked adorbs as hell ... dancing closely, laughing together, and fully embracing vacation mode while living their best lives the packed day club.
 
-Johnson talked about the respect Busch had from everyone about the sport ... while fellow driver Danica Patrick reflected on Busch's love of racing.
+Kevin was even spotted having a run in with Jennifer Lopez's ex, Casper Smart, during the outing.
 
-As you know ... Busch passed away Thursday after a bout with severe pneumonia that progressed into sepsis, according to his family.
+Witnesses tell us Kevin was also super friendly with fans during his Vegas vacay ... chatting and happily interacting with people who came up to him.
 
-KB won his final race on May 15 -- a Truck Series race ... and the No. 7 vehicle he used was back in action Sunday as well, though it didn't have the happy ending sports fans might've hoped for.
+Honestly, not a bad way to decompress after Netflix's "The Roast of Kevin Hart" ... where celebrity friends and comedians spent hours clowning him over with everything from his height to his marriage.
 
-Driver Corey Day ended up in a hard crash during lap 47 when he received contact from Gio Ruggiero. It's a scary-looking crash ... but Day was able to walk off the track under his own power.
-
-Day said, "I just hate it for the No. 7 guys. This is exactly what I didn’t want to do today. I just wanted to deliver them a good run. I feel terrible."
-
-Busch was supposed to drive in the Coca-Cola 600 this afternoon ... and the entire racing world is clearly still reeling from the shocking death.
+Still, if Kevin was bothered by any of the jokes, he definitely wasn't showing it in Vegas.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/kyle-busch-honored-by-fellow-racers-during-lap-18-of-indy-500/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/kevin-hart-with-wife-partying-on-video/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Chris Brown Receives Honorary PhD in Visual and Performing Arts
-<img src='https://imagez.tmz.com/image/4e/16by9/2026/05/24/4e734f508191498681c7e506903b5ceb_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Kyle Busch's Wife, Kids and Family Fight Back Tears at Emotional NASCAR Tribute
+<img src='https://imagez.tmz.com/image/d6/16by9/2026/05/25/d6cbd4cae11c4deaad66add4bc2dfcf9_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Dr. Chris Brown will see you now ... because the artist now has an honorary doctorate!
+Kyle Busch's family leaned on each other Sunday as thousands of NASCAR fans honored the racing legend during an emotional tribute at Charlotte Motor Speedway.
 
-Harvest Christian University -- a private faith-based school in Dallas, Texas -- awarded Brown a Doctor of Philosophy degree in Visual &amp; Performing Arts Friday.
+Before the Coca-Cola 600 Sunday, Kyle's wife, Samantha Busch, appeared heartbroken while holding tightly onto son Brexton as daughter Lennix stood closely during the moving ceremony honoring the late NASCAR star, who died Thursday after a bout with&nbsp;severe pneumonia&nbsp;that progressed into sepsis.
 
-Doc Brown posed with his honorary degree in full graduation regalia ... a massive grin on his face as he showed off the honor.
+Kyle's parents, Tom and Gaye Busch, along with his brother, NASCAR Hall of Famer Kurt Busch, also gathered on the speedway as NASCAR CEO Steve O'Donnell delivered an emotional speech about the two time Cup Series champion.
 
-In his Instagram post, Brown wrote, "I DID A THING" -- understatement of the year!
+"Kyle Busch is NASCAR," O'Donnell told the crowd. "He was one of a kind, and there will never be another."
 
-It's been a month full of good and bad for the star ... who celebrated his 37th birthday, dropped a new album that got so-so reviews, and also had to deal with a trespasser showing up to his home multiple times.
+The tribute drew cheers and tears from fans packed inside the stadium as O'Donnell assured Samantha and the children that the NASCAR community would always stand beside them.
 
-Basically, Chris earned a win after all that ... and, we'd say this is a pretty big one!
+Before being taken to the hospital, Kyle was in a North Carolina&nbsp;racing simulator&nbsp;last Wednesday when he became unresponsive. TMZ Sports obtained&nbsp;audio&nbsp;from the 911 call ... where someone told dispatch the patient was "coughing up some blood" while looking like they were going to pass out.
 
-Congrats, Doc!
+RIP
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/chris-brown-gets-honorary-phd/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/kyle-buschs-family-in-tears-at-nascar-race/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Beartooth Singer Caleb Shomo Comes Out as Gay After 14-Year Marriage
-<img src='https://imagez.tmz.com/image/c4/16by9/2026/05/24/c48ff68230014a0980dad6b2fbea0e96_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 French Tennis Star Arthur Gea Has Bathroom Emergency During Match
+<img src='https://imagez.tmz.com/image/64/16by9/2026/05/24/64c50ddac6bb4b26a45b36a176193e1c_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Caleb Shomo is opening up about his personal life in a huge way ... revealing he's gay after more than 14 years of marriage to his wife, Fleur Shomo.
+Arthur Gea had more than his opponent to worry about at the French Open over the weekend ... because the dude suffered a full-blown bathroom emergency in the middle of his match and had to sprint off the court ASAP.
 
-The Beartooth frontman shared the emotional announcement Saturday on Instagram, saying he felt it was time to set the record straight after growing speculation about his personal life.
+The French tennis star was making his French Open debut against Karen Khachanov Sunday when he suddenly stopped playing and pleaded with the chair umpire for an emergency bathroom break.
 
-"I am a proudly gay man," Caleb wrote, admitting he's been struggling privately with his sexuality for years while also battling alcohol issues. He said getting sober helped push him toward finally confronting feelings he'd buried for a long time.
+"I need to go to the bathroom. I can't move anymore," Gea said before rushing off court. At one point, he even warned ... "I'm going to (go) on the court."
 
-The rocker also revealed his upcoming music will reflect this new chapter in his life, promising fans he plans to express himself more honestly than ever before.
+Gea was trailing 4-2 in the opening set when the match was paused. Khachanov appeared frustrated as officials tried sorting things out while the French player disappeared into the locker room.
 
-Caleb's wife, Fleur, later shared her own emotional statement supporting him ... while also admitting the situation has been heartbreaking for her personally. She paired the lengthy post with a vid of them dancing.
+However -- we imagine Khachanov he would have been more frustrated if Gea really did "go" on the court and didn't do his business in private ... call it his Civic Doody.
 
-She said watching Caleb struggle internally over the years was painful, adding that she still wants to "love, protect and support" him despite their marriage ending. Fleur called the situation "disorienting and hurtful" while acknowledging the emotional toll it's taken on both of them.
+Under ATP rules, players are only allowed one bathroom break per match during a set break but Gea later said he was granted special permission because of medical circumstances after dealing with severe sphincter-squeezing stomach pain.
 
-In one especially emotional moment, she reflected on their 14-year marriage by writing, "Our story was a good one. And now it's done."
+Despite the emergency pit stop, Gea couldn't recover with Khachanov winning in straight sets, 6-3, 7-6 (3), 6-0.
 
-The pair tied the knot in 2012 and do not share children together.
+After the match, Gea explained he woke up feeling sick and said the brutal Paris heat made things even worse.
+
+Temperatures reportedly climbed close to 90 degrees during the match ... with fans in the stands fanning themselves while players struggled through the heat.
+
+Better luck next time Gea ... Deuces!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/caleb-shomo-comes-out-as-gay/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/arthur-gea-bathroom-incident/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -643,58 +667,72 @@ All prices &amp; availability subject to change.
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Senate Republicans Cast Doubt on a Potential Peace Deal With Iran
+### 📰 To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later
 <div align='justify'>
 
-Lawmakers, including some of President Trump’s closest allies, slammed the emerging agreement as effectively undermining the president’s own war goals.
+President Trump is hailing the agreement with Iran as groundbreaking, even as he admits it “isn’t even fully negotiated.” But the nuclear stockpile, enrichment and missiles have not been discussed.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 How Prediction Markets and Crypto Firms Steamrolled a Watchdog Agency
+### 📰 Even After a Strait of Hormuz Deal, Moving 1,500 Ships Won’t Be Easy
 <div align='justify'>
 
-The Commodity Futures Trading Commission purged its ranks, dialed back its enforcement and boosted industries in which President Trump’s family is heavily invested.
+An agreement to reopen the waterway would be followed by a complicated process of navigating a backlog of vessels stranded for nearly three months.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/us/how-prediction-markets-and-crypto-firms-steamrolled-a-watchdog-agency.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/business/iran-strait-hormuz-shipping-traffic.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 With Big Decisions Ahead, the Supreme Court Collides With a Testy Trump
+### 📰 Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical
 <div align='justify'>
 
-President Trump has alternated between bullying the justices and cozying up to them as the court prepares to announce major decisions that will determine the fate of the key aspects of his agenda.
+The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/us/politics/supreme-court-trump-vance.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 RFK Jr.’s Push to Curb Antidepressants Has Shaken Psychiatry
+### 📰 Pope Leo Has Released an Encyclical About A.I. Why Is That Important?
 <div align='justify'>
 
-An annual psychiatric meeting was abuzz over Robert F. Kennedy Jr.’s call to rein in the use of depression medications. Some fear it will drive patients away from care.
+Leo XIV issued his thoughts about artificial intelligence in the modern world using a centuries-old form of papal communication called an encyclical.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/science/rfk-jr-antidepressants-ssri-psychiatry.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical-ai.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Rubio Says U.S.-India Ties Are Strong, Despite Fury Over Trump’s Actions
+### 📰 Trump’s Self-Indulgent Streak Deepens G.O.P. Fears He Is Risking Losses in Midterms
+<img src='https://wsrv.nl/?url=https://static01.nyt.com/images/2026/05/25/multimedia/25pol-trump-midterms-01-kmfb/25pol-trump-midterms-01-kmfb-facebookJumbo.jpg&w=800' width='100%' style='border-radius:15px;' alt='NY Times Image'>
+
 <div align='justify'>
 
-In New Delhi, Secretary of State Marco Rubio tried to explain why President Trump has pushed aggressive trade and immigration policies affecting India and Indians in the United States.
+A little more than five months ahead of the midterm elections, President Trump seems to be focused on virtually anything other than keeping Republican control of Congress.
+
+He endorsed a MAGA challenger over Texas’s senior Republican senator, ignoring warnings that he could endanger the seat. He has boasted almost daily about his expensive and expansive new White House ballroom. He has minimized rising gas costs, waving off spiking prices at the pump as “peanuts” last week compared to what he is pursuing in Iran. And even as he engaged over the weekend in negotiations to end the Iran war that he began, Mr. Trump has made plain that he prioritizes his record abroad above domestic affordability, which he has dismissed repeatedly as a Democratic “hoax.”
+
+For many, a new jaw-dropper came last week when Mr. Trump created a $1.8 billion fund to pay people who say they have been victims of “weaponization and lawfare,” including those who attacked the Capitol and law enforcement officers there, on Jan. 6, 2021.
+
+Incensed Senate Republicans, many of whom lived through that day, returned home vexed by a president who appears set on pursuing his personal priorities ahead of the November midterm elections, even if doing so undermines his own party. They angrily abandoned Washington on Thursday without funding the president’s immigration crackdown or the $1 billion he wants for his ballroom.
+
+Republicans know that their party’s fate rests with the president, according to interviews with numerous officials in recent weeks. Yet they also know there is not much any of them can do to make him help them.
+
+“The president was elected to juice the economy, to bring down inflation, to stop illegal immigration and to get away from woke culture,” said Whit Ayres, a Republican pollster. “If his highest goal were to maintain control of Congress, he would not be doing what he is doing.”
+
+Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/us/politics/rubio-india-trump-visit.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/us/politics/trump-gop-fears-midterms.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
