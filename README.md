@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/25 - 17:54`
+**📅 Update (Tehran Time):** `2026/05/25 - 23:44`
 
 ---
 
@@ -19,104 +19,86 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Baloch separatists ‘take advantage’ of Pakistan’s entanglements
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/KB-Horizontal-THUMB-1779715968.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 THE KISWA: BEYOND THE CLOTH
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779737066.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Baloch separatists &#039;take advantage&#039; of Pakistan&#039;s entanglements
+Every Muslim on earth has faced it in prayer. Billions have seen it in photos. Almost nobody knows its story.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/baloch-separatists-take-advantage-of-pakistans-entanglements?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/the-kiswa-beyond-the-cloth?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Could Israel sabotage US-Iran deal?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779715730.jpg?resize=1618%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Kyiv’s Chornobyl Museum devastated in overnight Russian missile attack
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-25T131208Z_926561931_RC2AGLA7DQCD_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-MUSEUM-1779736643.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-As the US and Iran move closer to a peace deal, Israel vows to keep striking what it calls regional and nuclear threats.
+An overnight Russian missile strike on Kyiv has destroyed nearly half of the exhibits at the National Chornobyl Museum, according to officials. The attack comes as Russia threatens systematic and widespread attacks on Ukraine’s capital.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/could-israel-sabotage-us-iran-deal?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/kyivs-chornobyl-museum-devastated-in-overnight-russian-missile-attack?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Iran says deal with US ‘not imminent’ despite progress
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779715059.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Father mourns daughter killed in Israeli strike on Gaza
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Girl-killed-in-Khan-Younis-1779736303.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Iran’s FM spokesman Baghaei says a ‘large portion’ of issues with the US have been resolved, but a deal is not imminent.
+A six-year-old Palestinian girl was killed by an Israeli strike on a displacement camp in Khan Younis.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/iran-says-deal-with-us-not-imminent-despite-progress?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Could Brazilian oil emerge as one of the big winners of the Iran war?
-<img src='https://www.aljazeera.com/wp-content/uploads/2025/08/2025-05-13T130658Z_693832443_RC2YGEA41KMG_RTRMADP_3_CHINA-BRAZIL-1754978512_16ce71-1754978603.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Lebanon marks Liberation Day under Israeli bombardment
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779735687.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-China and India are increasingly turning to Brazil to make up for lost oil supplies as the fallout from the US-Israel war on Iran continues to disrupt energy trade through the Strait of Hormuz.
-
-With oil harder to access and Russian supply largely constrained by sanctions, Asian buyers are scrambling for crude from suppliers seen as safer and more reliable.
-
-Brazil, which is already one of the world’s biggest oil exporters, has emerged as one of the clearest beneficiaries.
-
-Sumit Ritolia, a specialist in modelling refinery and oil markets at Kpler, told Al Jazeera: “The disruption caused by the Iran war and the closure of the Strait of Hormuz has increased the importance of Brazil as a marginal crude supplier to Asia.”
-
-“China and India in particular have increased purchases of Brazilian crude to secure barrels that are not exposed to Gulf shipping disruptions,” he added.
-
-Analysts say Brazil cannot replace the Middle East as Asia’s main oil supplier. However, as shipping risks rise in the Gulf amid Iran’s effective closure of the Strait of Hormuz and the corresponding naval blockade on Iranian ports by the United States, its oil has become increasingly attractive to refiners seeking to avoid supply shocks.
-
-Asian countries imported about 1.2 million barrels per day (bpd) of crude from Brazil in 2025, according to data supplied to Al Jazeera by trade intelligence firm Kpler. That rose to roughly 1.8 million bpd between January and May this year, highlighting Brazil’s growing role in Asia’s efforts to diversify away from the Gulf.
-
-Brazil had already been increasing oil production in major offshore developments before tensions escalated in the Middle East.
-
-According to Kpler data, Brazil was producing about 3.77 million bpd of oil in 2025. Between January and May, this rose to an average of 4.06 million bpd, with 4.11 million bpd in May.
-
-But Ritolia said the increase is not just down to a rapid wartime production surge.
+People in Lebanon have gathered to observe Liberation Day, which marks the date in 2000 when Israel ended its 22-year occupation of southern Lebanon. Al Jazeera’s Zeina Khodr explains how this year’s celebrations come as occupation returns to the country’s south.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/25/could-brazilian-oil-emerge-as-one-of-the-big-winners-of-the-iran-war?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/lebanon-marks-liberation-day-under-israeli-bombardment?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 What are the biggest FIFA World Cup upsets in history?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2022-11-22T214521Z_2010475262_UP1EIBM0X1FC6_RTRMADP_3_SOCCER-WORLDCUP-ARG-SAU-REPORT-1778935022.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 In Lebanon, everything and nothing has changed since 2000
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a149921-1779734817.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The FIFA World Cup 2026 is the most eagerly awaited sports event of the year.
+Twenty-six years ago this week, Israel was forced to end an 18-year occupation of south Lebanon. Much has changed since, yet Lebanon and Israel still cling to the very policies that dragged them into today’s war, a war that has engulfed Iran, drawn in the United States, and now threatens the global economy itself.
 
-Fans are gearing up to see who scores the most goals, who are the biggest performers on football’s grandest stage, and who wins the coveted trophy.
+Palestine remains the central issue reverberating across the region and the world. It is why Israel began attacking pro-Palestine forces in Lebanon in the 1970s, years before Hezbollah formed, and why that local conflict has widened ever since. Iran’s backing of Hezbollah after 1982 turned Lebanon into a front line between Iran and Israel; today, with the United States fighting alongside Israel, that front has grown into a regional war. At its heart stands Hezbollah, the central pillar of the Iran-anchored “Axis of Resistance” that opposes Israeli-American hegemony.
 
-But the tournament has also produced many stunning shocks throughout its history as defending champions have been knocked out in the group stages and minnows have downed giants of the game – such as when Saudi Arabia upset eventual champions Argentina at Qatar 2022.
+Lebanon might seem like a sideshow in this regional and global frame. But it deserves greater scrutiny precisely because it was, and remains, the spark that expanded 78 years of Israel-Lebanon-Palestine friction into today’s regional war.
 
-The post-war England team, comprising the likes of Alf Ramsey, Tom Finney and Billy Wright, was among the favourites to lift the trophy as it made its World Cup debut. The Americans, meanwhile, put together a group of part-timers, including a dishwasher, a letter carrier and a teacher. The mixed bunch practised together for one day and set off on a boat to Brazil.
+Much has changed in Lebanon since 2000. Advanced missile, drone and radar technology now shapes the balance of power, above all Iran and Hezbollah’s growing ability often to evade US-Israeli air defences. Lebanon’s economy has been shattered, its people driven from their homes again and again, and Israel has devastated towns and villages across the south, unleashing the doctrine of urban annihilation it forged in Beirut’s Dahiyeh in 2006, and subsequently applied in Gaza. Hezbollah was hit hard, but has been reborn as a leaner, more agile force that once again thwarts Israel’s drive to subdue Lebanon, or carve out another permanent security zone inside it.
 
-Joe Gaetjens scored a 38th-minute header to put the USA ahead. In the second half, England’s attack was relentless, but USA’s goalkeeper Frank Borghi prevented them from scoring an equaliser and etched his team’s name into the history books.
+The regional picture has shifted too. Syria’s role as Hezbollah’s link to Iran has collapsed, and Iran itself was damaged by the US-Israeli assault. Yet Tehran seems determined to see Lebanon covered by any regional deal that ends the war. The United States has openly sided with Israel, pressuring President Joseph Aoun and Prime Minister Nawaf Salam to “disarm” Hezbollah and remove a lingering threat to Israel, or else possibly face more Gaza-style destruction across Lebanon. Other powers, including China, Saudi Arabia, Türkiye, Pakistan and Russia, have pressed in different ways to end the war on Iran and restore calm and Lebanese sovereignty.
 
-A German side staging a comeback to win a World Cup match would not be considered an anomaly today.
+In the midst of this political whirlwind, several conditions from the pre-2000 era still prevail in Lebanon. The population remains split over Hezbollah’s role as an armed movement offering the only impactful resistance to Israel. The government seems unable to act, politically or militarily, for lack of funds, domestic consensus or military clout. At times it bends to Israeli or American pressure: “disarming” already marginalised Palestinian camps, or meeting Israeli officials in Washington under the aegis of Washington’s pro-Israel bias.
 
-However, this was a lesser-known West German side of the 1950s facing the Mighty Magyars of Hungary, who had the great Ferenc Puskas leading their attack.
+Washington has also tied financial support for Lebanon’s reconstruction to Beirut’s compliance with US-Israeli terms. Its pro-Israel bias is clear in its readiness to ignore Israeli violations of the last two ceasefires, and in formally backing Israel’s right to attack any Lebanese it deems a threat, while denying Lebanese threatened by Israel the same right.
 
-Hungary entered the World Cup in Switzerland as favourites and lived up to their billing by handing a 9-0 drubbing to South Korea and thrashing West Germany 8-3 in earlier matches.
+The Lebanese government also feels the pressure of a disgruntled, deeply impoverished population, exasperated by relentless Israeli attacks that, in 2026 alone, have killed more than 3,000 people, forcibly displaced 1.2 million and devastated dozens of villages and small towns. It justifies its talks with Israel as an attempt to offset its military disadvantage, using US pressure to stop the attacks and let Beirut re-establish sovereign control over all its land.
 
-The two sides met in the final again. Hungary scored two goals in the first half and were seemingly following the script until the opponents scored two.
+Hovering above these old and new dynamics is a historic reality: Iran and Hezbollah, with support from allies abroad, absorbed the devastating Israeli-American assault and twice forced their far more powerful, nuclear-armed adversaries to accept a ceasefire and negotiate anew, first over Iran in early April, then over Lebanon days later. The Lebanon truce is now meant to fold into the wider US-Iran settlement. Both ceasefires seem to herald weakened US-Israeli positions in the region, deep political blows to Israeli Prime Minister Benjamin Netanyahu, and new diplomatic leverage for Iran, Hezbollah and their allies.
 
-The game was tied until the 84th minute when Helmut Rahn scored his second goal and broke Hungarian hearts. The German comeback against one of the best teams in football’s history was termed “The Miracle of Bern”.
+What lesson might we draw from all this? Perhaps that military power, however savage or genocidal, cannot forever dictate realities across the Middle East. Buffer and “security” zones, new Israeli settlements, local pro-Israel accomplices, military outposts, relentless air strikes, the whole US-backed Israeli playbook, may all be consigned to the past if current trends hold.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/25/what-are-the-biggest-fifa-world-cup-upsets-in-history?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -185,102 +167,133 @@ His comments came after Trump said he had instructed negotiators "not to rush in
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 She was told to marry in a country which bans girls' education. So she got in a taxi and fled
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/b38b/live/bb0494a0-57b6-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Russia threatens more Kyiv strikes and tells foreign nationals to leave
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Alia -  whose name we have changed for her safety - travelled hundreds of miles from her village to Kabul to escape marriage.
+Russia has threatened to launch a fresh wave of "systematic strikes" against Kyiv, days after carrying out one of its largest attacks on the Ukrainian capital since the start of the war.
 
-The journey by taxi last year with her female cousin - covered from head to toe, only their eyes visible, as the rules decree - was an exceptional thing to do, and risky in Afghanistan, where at any moment they might be caught by the Taliban inspectors enforcing rules banning women travelling long distances without a male relative escorting them.
+The new strikes will target "decision-making centres and command posts", alongside drone manufacturing facilities in the city, Russia's foreign ministry said in a statement.
 
-But Alia, who is 19, and her cousin weren't stopped at any Taliban checkpoints, and made it to the capital.
+Moscow has called for foreign nationals and diplomats to leave Kyiv "as soon as possible" and warned citizens to stay away from administrative and military buildings.
 
-"I made up an excuse to my family saying I was coming here to meet my friends and former classmates. But that's not true. They are not here. The actual reason is that if I stayed in Daykundi, I would be forced to get married."
+Large-scale Russian strikes on Saturday night killed four and injured about 100 people in Kyiv and other areas, Ukrainian President Volodymyr Zelensky said.
 
-Instead, she arrived in Kabul with a plan: she enrolled in an English language course.
+Moscow said that barrage and threatened further strikes were in response to what it claims was a deliberate Ukrainian attack on a student dormitory in the town of Starobilsk on Friday, in which Russian officials said 21 people were killed.
 
-These short-term, narrowly-focused private courses - available only to those who can afford them - are, along with madrasas which focus on religious education, the only options for girls to learn past primary school in Afghanistan. But neither are close to being a substitute for formal schooling.
+Ukraine's military said its forces had struck an elite Russian military drone unit in the area, in Russian-occupied eastern Ukraine, and had not targeted civilians.
 
-It has now been almost five years since the Taliban stopped girls over 12 going to school, with various reasons given to explain why the ban is still in place.
+Russia has launched several waves of deadly missile and drone attacks on Kyiv since a brief ceasefire, that coincided with Moscow's annual Victory Day parade, expired earlier in May.
 
-Years in which girls like Alia have grown up without the education they wanted and needed. Years in which the path to a career has been effectively shut off, narrowing their options until millions of girls in Afghanistan have been left with just one choice: marriage.
+Shortly after that, Russian strikes on Kyiv killed 24 people, including three children, in a block of flats.
 
-Alia's story is unusual, not just for her bravery. But she also comes from a family which has the funds to pursue the few opportunities available to young women - a rarity in a country where three in four people cannot meet their basic needs, according to the United Nations.
+Days later, Russian officials said three people were killed in a large-scale Ukrainian drone attack on the Moscow region, with Zelensky saying the strikes were an "entirely justified" response to deadly Russian attacks.
 
-It's not that Alia's family do not want her to study – they accepted she wanted to stay in Kabul, and are funding her English course even now - but even they are constrained by the realities of life in Afghanistan.
+Kyiv then suffered one of the biggest aerial assaults of the war overnight on Saturday.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Large-scale Russian attack on Ukraine leaves four dead and dozens injured
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/321a/live/ffcd6860-5783-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Netanyahu says Israel will intensify strikes against Hezbollah
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/05aa/live/288ac730-5869-11f1-be4e-d7a885f34348.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Russia carried out a deadly large-scale wave of strikes against Ukraine, firing hundreds of drones and dozens of missiles on Saturday night.
+The Israeli military says it has begun a wave of strikes across Lebanon following an announcement by Prime Minister Benjamin Netanyahu that his country will intensify its attacks on Hezbollah.
 
-Ukrainian President Volodymyr Zelensky said Kyiv was the main target, but other areas were also hit, with about 100 people injured.
+The Israel Defense Forces (IDF) said it had launched strikes against Hezbollah sites in the Bekaa Valley in the east of Lebanon and additional areas across the country.
 
-Four people were killed in the capital and wider region, with explosions heard throughout the night. Dozens of residential buildings, a school, an opera house and a museum were damaged.
+It followed a video statement on Monday evening in which Netanyahu said Israel was "at war with Hezbollah" and that he had given the military instructions to "deal them a crushing blow".
 
-Russia's defence ministry said the Oreshnik hypersonic missile was used in the strikes, which it described as coming in response to Ukraine's "attacks on civilian infrastructure". Ukraine's military denies targeting civilians.
+Earlier this month Lebanon and Israel agreed to extend a 45-day ceasefire, though some fighting has continued.
 
-Early on Monday, energy infrastructure was damaged in a missile attack on Russia's Belgorod region bordering Ukraine, including the city of Belgorod, the Interfax news agency reported, citing local authorities.
+There will be fears in Beirut that these latest Israeli attacks will widen to include Lebanon's capital city.
 
-There were no casualties but power and water supply were interrupted, Interfax said. It did not provide further details.
+Netanyahu said Israel's military offensive against Hezbollah had "eliminated... over 600 terrorists."
 
-Russia's Yaroslavl region, northeast of Moscow, also came under under a drone attack, the Governor Mikhail Yevrayev said on Telegram.
+He continued: "But what this requires of us now is to increase the strikes, to increase the intensity."
 
-Russian President Vladimir Putin launched a full-scale invasion of Ukraine in February 2022.
+Since the ceasefire agreement was signed on 16 April, Israeli attacks have been largely confined to the south of the country, where Israeli troops remain and from where Israel says drones and rockets have been launched.
 
-He accused Kyiv of hitting a student dormitory in the town of Starobilsk on Friday, in which Russian officials said 21 people were killed.
+The Bekaa Valley, which was struck on Monday evening, lies in eastern Lebanon, close to the border with Syria.
 
-Ukraine's military said its forces did carry out an attack in Starobilsk in Russian-occupied eastern Ukraine overnight on Friday, but maintained that it struck an elite Russian drone military unit.
+The expansion of Israel's campaign came as the Iranian government insisted that an emerging peace deal with the US should include a complete ceasefire on all fronts in the regional war.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Anger grows after China's deadliest coal mining disaster in years
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1ed1/live/7ab063d0-580f-11f1-be4f-892ca05ec266.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 White House gunman had previous run-ins with Secret Service, court documents show
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7c0d/live/6930aff0-585c-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Anger is growing over alleged safety violations in the wake of China's worst mining disaster in more than 15 years.
+The suspect who fired shots outside the White House, striking a bystander before the Secret Service shot and killed him, had previous run-ins with authorities there, court documents show.
 
-At least 82 people were killed and more than 120 injured after an explosion on Friday at the Liushenyu coal mine in Shanxi province, the heart of China's huge mining industry.
+Nasire Best, as he has been identified to the BBC by Washington DC's Metropolitan Police Department, previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ.
 
-For many in China, the tragedy harks back to the 2000s, a period of regular, deadly coal mining disasters, which is widely thought to have been left in the past.
+Best is accused of firing shots outside the president's home just after 18:00 EST (23:00 GMT) on Saturday - reporters filming outside ducked and ran for cover inside. US President Donald Trump was at the White House but was unharmed.
 
-Those concerns are now reignited and playing out on China's tightly-controlled internet, with people calling for justice and questioning how this happened: "It's so heartbreaking, so many precious lives lost. When will we truly put safety first?"
+Court documents show that during a June 2025 incident with the Secret Service, Best, of Dundalk, Maryland, told agents he wanted to be arrested.
 
-Authorities say the cause of the disaster is still under investigation, but initial findings show Tongzhou Group, the company operating the privately-owned coal mine had committed "serious illegal violations".
+Despite having a mental evaluation, a month later in July, he again tried to access the White House.
 
-At a news conference on Saturday, they pledged to conduct a "rigorous" investigation and "severely punish" those found responsible.
+Best was arrested by Secret Service agents after that second incident and charged with unlawfully entering a federally controlled property, according to court records.
 
-Tongzhou Group has not made a public statement so far, and the BBC has been unable to reach them for comment.
+He was released after being arraigned on the unlawful entry charge, but in August of 2025, he failed to appear for a status hearing, the documents show. That led to a no-bond bench warrant, allowing law enforcement to arrest him.
 
-China's state media reported that the people running Tongzhou Group have been put under "control measures", though it's unclear what that means. The company has also been ordered to halt work at all four coal mines it currently operates in Shanxi province.
+Then on Saturday, less than a year later, he reappeared outside the White House and began firing at a Secret Service checkpoint at the intersection of 17th Street and Pennsylvania Avenue NW, near the Eisenhower Executive Office Building.
 
-Authorities have not specified the safety violations they discovered at Liushenyu coal mine. State media, however, highlighted various issues at the site.
+Secret Service officers posted on the corner returned fire, striking the gunman. Best was taken to hospital, where he was pronounced dead.
 
-Reports claim that some workers did not bring mandatory tracking devices into the mines, and blueprints provided by the Liushenyu coal mine to authorities did not match the conditions at the mine, complicating rescue efforts.
+A bystander was also shot and seriously wounded, but was in stable condition as of Sunday. It's not clear how the bystander was shot. No officers were injured in the attack.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO
+<img src='https://i.guim.co.uk/img/media/09ac020b7683265e2f3bb189ae92503b24d66346/94_0_2279_1824/master/2279.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c25a2747b6ca86c2c1c24777afc89bd' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Director general of World Health Organization urges neighbouring countries to take immediate action
+
+The World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic Republic of Congo (DRC) are at high risk from the disease.
+
+“We are urgently scaling up operations, but at the moment the epidemic is outpacing us,” said the WHO’s director-general, Dr Tedros Adhanom Ghebreyesus, as he urged neighbouring countries to take immediate action.
+
+Addressing an online meeting of the African Union about the outbreak, he also announced there had been 220 suspected deaths so far in the current Ebola outbreak and that he would travel to the DRC on Tuesday with Chikwe Ihekweazu, executive director of WHO’s health emergencies programme.
+
+Tedros’s announcement came as attacks by residents on health facilities in Ituri province, the centre of the outbreak, hampered the response.
+
+First on Saturday and again on Sunday, residents of Mongbwalu town in the DRC attacked the Mongbwalu general referral hospital.
+
+Dr Richard Lokodu, medical director of the facility, told Reuters that 18 Ebola patients had fled on Saturday after “unidentified individuals” burned tents, erected by Médecins Sans Frontières, where patients were being isolated.
+
+The hospital came under four waves of attacks on Sunday, he added, by young people mobilised by relatives of a religious leader who died of Ebola. Seven other patients escaped and Congolese police and soldiers had to intervene to restore order.
+
+A suspected patient who was in critical condition with haemorrhaging died in the second attack while trying to flee from his bed.
+
+The perpetrators of the attacks had wanted the bodies of the Ebola victims released for burial, Lokodu added.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/25/spread-of-ebola-in-drc-outpacing-response-efforts-warns-who)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 ‘She does not back down’: the couple seeking to legalise same-sex marriage in Botswana
 <img src='https://i.guim.co.uk/img/media/bedc5386e1a3bf126cc1563c07558997ba9a9494/434_160_4599_3679/master/4599.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38dda31386fa8fe480d1ab8b0d3895cc' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -405,252 +418,155 @@ Brockell suspects US officials are using the travel ban as an excuse to not retu
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 ‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC
-<img src='https://i.guim.co.uk/img/media/58a2ac81c56c0d87700b005292bd660689d87452/2202_290_5773_4621/master/5773.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af188e8886731e8a8759200e523778cb' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-New strain of virus, aid cuts, and cultural norms around burials and touch add to difficulties in stemming outbreak
-
-The warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls for coordinated international action impassioned.
-
-As the country reels from the return of the Ebola virus, there is growing concern that its fragile healthcare system will struggle to cope with an outbreak that experts say goes well beyond the number of confirmed cases.
-
-“The speed at which this Ebola outbreak is spreading is deeply worrying,” said Rose Tchwenko, the DRC country director at the NGO Mercy Corps. “The risk of wider spread is real, and more regional and global support is urgently needed.”
-
-Hama Amado, a field coordinator in the city of Bunia for the Alima aid group, said the virus was gaining momentum and spreading in many areas. “Everyone must mobilise,” he told Associated Press on Thursday. “We are still far from saying that the situation is under control.”
-
-It has been a week since the DRC reported its 17th outbreak of Ebola, a viral disease with a mortality rate of between 25% and 90% that is spread through body fluids or contaminated materials and causes organ damage, blood vessel impairment and sometimes severe internal and external bleeding.
-
-Nearly 750 suspected cases and 177 suspected deaths have been recorded since the first known victim died in Bunia, the capital of Ituri province in north-western DRC, on 24 April. Mourners touched him during a funeral in the nearby town of Mongbwalu, contributing to the spread of the virus.
-
-Hospitals and other healthcare facilities have quickly become overwhelmed. Trish Newport, an emergency programme manager at Médecins Sans Frontières, said a team had identified suspected cases over the weekend at Bunia’s Salama hospital but found no available isolation ward in the area. “Every health facility they called said: ‘We’re full of suspect cases. We don’t have any space,’” she said on social media. “This gives you a vision of how crazy it is right now.”
-
-Several factors are impeding the aid response, including the strain of the virus, for which there is no approved treatment or vaccine; the remote and conflict-scarred location of the outbreak; and local funeral customs which are at odds with strict disease-control practice. All this is set against the backdrop of big shortfalls in aid budgets, driven largely by the Trump administration’s cuts to foreign aid.
-
-According to a study by the International Committee of the Red Cross (ICRC) this year, more than half of health facilities surveyed in North and South Kivu provinces – where cases have also been reported – were damaged or destroyed, and nearly half had reported significant staff departures since January 2025 owing to conflict and insecurity.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Sydney Sweeney Goes Fully Topless in Wild 'Euphoria' Scene
-<img src='https://imagez.tmz.com/image/9a/16by9/2026/05/25/9a2f1d0706c14a018a8b0e0b680c4b79_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Lindsie Chrisley Arrested on Suspicion of DUI in Georgia
+<img src='https://imagez.tmz.com/image/cb/16by9/2026/05/25/cb4267a24e054d6cb107e1e604b6c559_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Sydney Sweeney is heating up "Euphoria" again ... because the actress dropped another wild hookup scene in Sunday night’s episode ... this time with Richard Gere's son.
+Lindsie Chrisley is dealing with a new legal headache ... 'cause TMZ has learned she was arrested in Georgia over the weekend.
 
-Sydney's character, Cassie Howard, gets set up on a publicity date with rising movie star Dylan Reid, played by newcomer Homer Gere, after deleting her OnlyFans account and losing followers online.
+According to jail records, obtained by TMZ, the "Chrisley Knows Best" alum was arrested Saturday night on suspicion of DUI and booked into jail before bonding out early Sunday morning.
 
-After heading home together, Cassie and Dylan launch into an intense hookup scene that leaves the room completely wrecked including a broken bed and a painting crashing off the wall.
+Lindsie tells TMZ ... "I got pulled over speeding past a car on a two lane road because they almost hit an animal and I was trying to miss hitting them and whatever the animal was."
 
-Sydney goes fully topless during the scene, which is filmed mostly from Dylan's perspective as Cassie climbs on top of him during the over the top encounter.
+She says she was booked and immediately released and adds she plans to fight the charge.
 
-This also isn't Sydney’s first viral "Euphoria" moment lately. Earlier this month, viewers were already freaking out over Cassie's revealing outfits and provocative OnlyFans storyline throughout Season 3.
+The arrest comes on the heels of Lindsie's messy breakup drama with ex-boyfriend David Landsman.
 
-Let's just say ... we are already seated for next week's episode.
+As TMZ previously reported ... the two recently agreed to a mutual no contact order requiring both sides to stay 500 yards away from each other, their homes and workplaces through May 2027.
+
+The agreement also settled the battle over the couple's Dachshund, Oliver ... with the dog ultimately being returned to Lindsie.
+
+The split turned ugly after both sides accused the other of getting physical during an April altercation. David previously alleged Lindsie punched him during a fight, while Lindsie claimed David attacked and attempted to strangle her.
+
+David was later arrested on an aggravated assault-strangulation charge tied to the incident.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/sydney-sweeney-naked-on-euphoria/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/lindsie-chrisley-arrested-on-suspicion-of-dui/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Kevin Hart Parties in Las Vegas With Wife Eniko
-<img src='https://imagez.tmz.com/image/32/16by9/2026/05/25/3246dabadad841eebdcc89d1bf12009a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Pat McAfee's Wife Samantha Welcomes Second Child After Emergency C-Section
+<img src='https://imagez.tmz.com/image/1d/16by9/2026/05/25/1dbcc5acc4b74b86b39524d810b45b19_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-The only sick burns on Kevin Hart's mind now are sunburns ... because the comedian hit Las Vegas for a fun Memorial Day Weekend getaway with wife Eniko Hart just a couple weeks after getting torched during his Netflix roast special.
+Pat McAfee’s got plenty to celebrate -- and exhale over -- after welcoming baby No. 2 with wife Samantha McAfee ... following a scary emergency C-section!
 
-TMZ obtained video of Kevin and Eniko living it up Sunday at the Omnia Dayclub Las Vegas. The couple was first spotted leaving the Wynn before making their way over to Caesars Palace for a full on daytime bash.
+In a lengthy X post Monday, Pat announced the arrival of son Midas Robert McAfee -- revealing doctors made the call Friday night after Samantha’s high-risk pregnancy took a turn with severe preeclampsia.
 
-DJ FISHER had the place going nuts with booming party tracks, drinks flowing nonstop, and crowds packed shoulder to shoulder under the scorching Vegas sun.
+Pat proudly shared ... "Baby boy officially entered the world on May 22nd at 10:42 PM as a 6lb 6oz screaming young legend … 10 toes, 10 fingers, full head of hair."
 
-Kevin and Eniko looked adorbs as hell ... dancing closely, laughing together, and fully embracing vacation mode while living their best lives the packed day club.
+He said he and Samantha got some time with Midas before the newborn was taken to the NICU to help develop his lungs and adjust after arriving a few weeks early.
 
-Kevin was even spotted having a run in with Jennifer Lopez's ex, Casper Smart, during the outing.
+As for Samantha -- Pat had nothing but praise ... writing she was "recovering like a badass" from the major surgery and saying he was blown away by her strength through it all.
 
-Witnesses tell us Kevin was also super friendly with fans during his Vegas vacay ... chatting and happily interacting with people who came up to him.
-
-Honestly, not a bad way to decompress after Netflix's "The Roast of Kevin Hart" ... where celebrity friends and comedians spent hours clowning him over with everything from his height to his marriage.
-
-Still, if Kevin was bothered by any of the jokes, he definitely wasn't showing it in Vegas.
+Now, the couple’s looking ahead to bringing little Midas home -- where big sister Mackenzie, 3, is apparently more than ready to meet her baby bro. Big congrats to the growing McAfee crew!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/kevin-hart-with-wife-partying-on-video/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/pat-mcafee-and-wife-samantha-have-son-after-emergency-c-section/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Kyle Busch's Wife, Kids and Family Fight Back Tears at Emotional NASCAR Tribute
-<img src='https://imagez.tmz.com/image/d6/16by9/2026/05/25/d6cbd4cae11c4deaad66add4bc2dfcf9_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Bella Hadid Rocks Tiny White String Swimwear For Cannes Yacht Day
+<img src='https://imagez.tmz.com/image/8b/16by9/2026/05/25/8b3d02df6a294aaa8441cbf12a6ff5c1_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Kyle Busch's family leaned on each other Sunday as thousands of NASCAR fans honored the racing legend during an emotional tribute at Charlotte Motor Speedway.
+If you needed another reason to question your own life choices after seeing Bella Hadid’s Cannes red carpet slay ... her latest bikini snaps just entered the chat.
 
-Before the Coca-Cola 600 Sunday, Kyle's wife, Samantha Busch, appeared heartbroken while holding tightly onto son Brexton as daughter Lennix stood closely during the moving ceremony honoring the late NASCAR star, who died Thursday after a bout with&nbsp;severe pneumonia&nbsp;that progressed into sepsis.
+Yup, Bella turned the heat all the way up in a series of yacht pics shared to her IG Stories -- striking every angle in a tiny white string one-piece that left very little room for distraction.
 
-Kyle's parents, Tom and Gaye Busch, along with his brother, NASCAR Hall of Famer Kurt Busch, also gathered on the speedway as NASCAR CEO Steve O'Donnell delivered an emotional speech about the two time Cup Series champion.
+Bella was clearly making the most, working those poses as her pal snapped away ... 'cause, LBR, there are only so many hours you can spend sunbathing before you’ve gotta find a side quest.
 
-"Kyle Busch is NASCAR," O'Donnell told the crowd. "He was one of a kind, and there will never be another."
+As you know, this isn’t her first headline-making look lately -- Bella’s basically become part of the annual Cannes Film Festival scenery, and off-duty season is proving just as strong.
 
-The tribute drew cheers and tears from fans packed inside the stadium as O'Donnell assured Samantha and the children that the NASCAR community would always stand beside them.
-
-Before being taken to the hospital, Kyle was in a North Carolina&nbsp;racing simulator&nbsp;last Wednesday when he became unresponsive. TMZ Sports obtained&nbsp;audio&nbsp;from the 911 call ... where someone told dispatch the patient was "coughing up some blood" while looking like they were going to pass out.
-
-RIP
+And judging by these scorching shots on the water ... looks like cowboy on again, off again BF Adan Banuelos might be feeling at least a little (sea) salty.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/kyle-buschs-family-in-tears-at-nascar-race/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/bella-hadid-swimwear-yacht-cannes/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 French Tennis Star Arthur Gea Has Bathroom Emergency During Match
-<img src='https://imagez.tmz.com/image/64/16by9/2026/05/24/64c50ddac6bb4b26a45b36a176193e1c_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 President Trump Honors Fallen Soldiers at Arlington After Memorial Day Rant
+<img src='https://imagez.tmz.com/image/f0/16by9/2026/05/25/f0041526b9cf4f7296de7c2b4f6f4e51_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Arthur Gea had more than his opponent to worry about at the French Open over the weekend ... because the dude suffered a full-blown bathroom emergency in the middle of his match and had to sprint off the court ASAP.
+President Donald Trump kicked off Memorial Day with a fiery online rant targeting political enemies before heading to Arlington National Cemetery to honor America's fallen service members.
 
-The French tennis star was making his French Open debut against Karen Khachanov Sunday when he suddenly stopped playing and pleaded with the chair umpire for an emergency bathroom break.
+Trump started the holiday Monday with a Truth Social post blasting "Dumocrats, RINOS, and Fools" criticizing his administration's ongoing negotiations with Iran.
 
-"I need to go to the bathroom. I can't move anymore," Gea said before rushing off court. At one point, he even warned ... "I'm going to (go) on the court."
+"Happy Memorial Day to all, including the Dumocrats, who disrespect our Military," Trump wrote, while also praising members of the armed forces and honoring Americans who "made the ultimate sacrifice."
 
-Gea was trailing 4-2 in the opening set when the match was paused. Khachanov appeared frustrated as officials tried sorting things out while the French player disappeared into the locker room.
+The President also mocked critics of the possible Iran deal, calling them "losers" and insisting any agreement would be far stronger than the Obama-era nuclear deal he scrapped during his first term.
 
-However -- we imagine Khachanov he would have been more frustrated if Gea really did "go" on the court and didn't do his business in private ... call it his Civic Doody.
+Later in the day, Trump appeared alongside Vice President J.D. Vance and Defense Secretary Pete Hegseth at Arlington National Cemetery for a wreath laying ceremony at the Tomb of the Unknown Soldier.
 
-Under ATP rules, players are only allowed one bathroom break per match during a set break but Gea later said he was granted special permission because of medical circumstances after dealing with severe sphincter-squeezing stomach pain.
+Trump stepped forward alone to place the wreath at the historic site, which contains the remains of unidentified American soldiers who passed away in World War I, World War II, and the Korean War.
 
-Despite the emergency pit stop, Gea couldn't recover with Khachanov winning in straight sets, 6-3, 7-6 (3), 6-0.
-
-After the match, Gea explained he woke up feeling sick and said the brutal Paris heat made things even worse.
-
-Temperatures reportedly climbed close to 90 degrees during the match ... with fans in the stands fanning themselves while players struggled through the heat.
-
-Better luck next time Gea ... Deuces!
+The Memorial Day ceremony came as Trump spent much of the weekend focused on possible negotiations with Iran, which he cited as a reason he would be unable to attend his son Don Jr.'s wedding on Saturday ... with reports suggesting his administration is working toward a potential agreement.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/arthur-gea-bathroom-incident/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/donald-trump-memorial-day-activities/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Best Memorial Day Deals on Amazon: Gadgets, Tools, Self-Care & More!
-<img src='https://imagez.tmz.com/image/e8/16by9/2026/05/19/e89cdc68434641c497c764d3e752e185_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Top Deals on Sofia Richie Grainge Amazon Essentials Line
+<img src='https://imagez.tmz.com/image/f0/16by9/2025/09/26/f06a5b1d5176431f85130ace126cdf0a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-TMZ may collect a share of sales or other compensation from links on this page.
+Hello ... is it deals you're looking for?
 
-The best thing about Memorial Day is having the day off work. The second-best thing about Memorial Day is the deals!
+Pieces from Sofia Richie Grainge's kids line are a steal right now ... and these items from Lionel Richie's daughter are just too cute to pass up.
 
-From household tools to self-care essentials and more, Amazon is slashing prices for the holiday … and offering up serious savings on some top-tier stuff.
-
-You won't want to miss out on these sales, which is why we rounded up some of the best ones just for you!
+Check out these must-own looks from Grainge's Amazon Essentials line for girls.
 
 Want more great finds? Head to TMZ Deals.
 
-Bose QuietComfort Bluetooth Headphones
+Lightweight Cardigan Sweater
 
-The Bose QuietComfort Bluetooth Headphones are a bit of a splurge … so you're definitely going to want to take advantage of this sale.
+As temps continue to drop, bundle up your little lady in this Lightweight Cardigan Sweater!
 
-The comfortable over-ear design allows you to get the most out of that noise-cancelling setting.
+This knit is made from 100% cotton yarn and has natural stretch, giving a relaxed, comfortable fit. It also features a scalloped detail, and adorable, floral-shaped faux-pearl snaps ... and comes in two other versions, one covered in strawberries and another in light pink.
 
-It comes in a bunch of fun colors ... and you'll be able to hear all the compliments you get when you switch over to Aware Mode.
+Midweight Field Jacket with Ruffle
 
-Chefman Caffeinator Single Serve Coffee Maker
+This absolutely charming Field Jacket with Ruffle is the sweetest piece to add to your little one’s closet.
 
-Can’t function before your morning coffee? That’s where the Chefman Caffeinator Single Serve Coffee Maker comes in!
+While it may be stylish, it’s also been designed for warmth, featuring durable and insulated quilted fabric. It also includes snap button closures, making it easy to put on and take off, even for little hands. Available in a variety of pastel colors and prints, this cute coat is sure to fit right in to your baby's wardrobe.
 
-It’s compatible with your favorite K-cups … but also brews ground coffee.
+Knit Casual Dress
 
-So -- now matter how you take your morning joe -- you won’t want to miss out on this deal!
+Keep the cuteness coming with this Girls' Knit Casual Dress!
 
-Citizen TSUYOSA Automatic Sport Luxury Watch
+Stretchy and breathable, this dress is fitted at the top and flowy below the waist, while the embroidered edges and front buttons give it some quality details that make it feel dressy enough for any occasion.
 
-If you're in the market for some impressive wrist wear, you're in luck. The Citizen TSUYOSA Automatic Sport Luxury Watch is on sale for the holiday! It's an eco-drive which means it is powered by light ... any light and will not require a battery change.
+Non-Slip Mary Jane Shoes
 
-It's got a sleek, sporty style and the dial comes in 5 cool colors … so pick your favorite or collect them all!
+No outfit is complete without some Non-Slip Mary Jane Shoes.
 
-Shark PowerDetect Robot Vacuum
+These cute kicks are made from high quality faux patent leather, with a faux leather lining as well. They also feature brogue detailing, with an adjustable strap and padded insole with memory foam for comfort.
 
-Sometimes you don’t always have time to do the vacuuming yourself.
+Linen Dress
 
-If that’s you … you’re going to want to hop on this Shark PowerDetect Robot Vacuum sale while you can.
+Make you life easier and just pick up this Linen Dress in every color and call it a day!
 
-It's totally worth the splurge, because the NeverStuck Technology ensures you won't have to babysit your vacuum and can actually multitask.
+It's made of a ultra breathable linen, has beautiful accents around the sleeves, includes a slight elastic waist for fit and is complete with buttons in the back for ease of on and off.
 
-NOONI Korean Lip Oil
+Mommy & Me Pajama Set
 
-A good lip oil can really plump up your pout … and that’s why we love that the NOONI Korean Lip Oil is on sale for Memorial Day!
+Last, but not least, these this Mommy and Me Short Sleeve Pajama Set.
 
-The vegan, cruelty-free formula is designed to hydrate your lips while also adding a subtle pop of color.
-
-Anker Soundcore 2 Portable Bluetooth Speaker
-
-The Anker Soundcore 2 Portable Bluetooth Speaker is a much more affordable alternative to big brands like Beats, Bose and Apple.
-
-It’s made with BassUp technology so you can really feel the beat bump. Plus, it’s got waterproof features … so don’t be scared to bring it to your next pool party or beach bash!
-
-Black + Decker Cordless Drill
-
-If you haven’t gotten yourself a good cordless drill … now’s the time!
-
-The Black + Decker Cordless Drill is on sale for the holiday and -- even if you aren’t in immediate need of some home improvement -- it’s a good one to have on hand.
-
-It’s compact, lightweight and has a keyless chuck to make bit changes a breeze!
-
-RELEXNOW Cordless Red Light Therapy Shoulder Wrap
-
-Stiff shoulders getting you down? You’ll want to take advantage of this deal on the RELEXNOW Cordless Red Light Therapy Shoulder Wrap while you can.
-
-With 6 levels of red light therapy and 3 levels of vibration, it’s like getting a massage and wearing a heating pad all at the same time!
-
-Dirt Devil Portable Compact Spot Carpet and Upholstery Cleaner
-
-For the messes you can’t just vacuum away … try the Dirt Devil Portable Compact Spot Carpet and Upholstery Cleaner!
-
-The price tag is seriously slashed for Memorial Day, so you’ll definitely want to jump on this.
-
-The portable carpet cleaner has powerful suction to tackle stubborn stains and spills, even if they’re deep in there!
-
-Apple MagSafe Charger
-
-Charging your Apple devices has never been easier … thanks to the Apple MagSafe Charger.
-
-Whether you’re looking to make the switch to wireless charging or simply stock up on chargers for every room, you can save a few bucks this holiday!
-
-It works with the iPhone 12 or later models, as well as several iterations of AirPods. This charger will have your devices at full battery in no time!
-
-Coleman Portable Camping Chair with Built-In Cooler
-
-If you’re celebrating Memorial Day weekend with cookouts and some fun in the sun, then a good camping chair is a must.
-
-And the Coleman Portable Camping Chair’s got a built-in cooler, so you can stash four cans by your side while you lounge.
-
-That way, you won’t have to get up to grab a cold one!
-
-Bissell PowerClean FurGuard Vacuum
-
-If you’re sick of pet hair taking over your home, we’ve got you! The Bissell PowerClean FurGuard Vacuum has FurFinder Headlights to help you spot any pesky strands you might’ve missed, and the 280W motor will suck it right up.
-
-It’s also got a self-cleaning brushroll … so you won’t have to worry about hair wrapping or clogging up your vacuum.
-
-SLOOSH 2-Pack Inflatable Pool Floats
-
-Summer’s practically here … which means it’s pool party season! And the SLOOSH 2-Pack Inflatable Pool Floats are the perfect aquatic accessories now that the weather’s warmer.
-
-They come in a couple fun colors and are long enough for you to fully lay out!
+With this set, you can twin with your kid -- as the line has seven different designs they've used for matching pajamas for all ages, from babies and toddlers to moms.
 
 For more curated product lists check out TMZ Deals.
 
@@ -660,35 +576,13 @@ All prices &amp; availability subject to change.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/24/amazon-memorial-day-sale-roundup/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2025/09/29/sofia-grainge-amazon-prime-deal-day-sale/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 To Get the Strait Open, Trump Had to Leave the Hardest Issues for Later
-<div align='justify'>
-
-President Trump is hailing the agreement with Iran as groundbreaking, even as he admits it “isn’t even fully negotiated.” But the nuclear stockpile, enrichment and missiles have not been discussed.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/24/us/strait-of-hormuz-reopen-iran-deal.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Even After a Strait of Hormuz Deal, Moving 1,500 Ships Won’t Be Easy
-<div align='justify'>
-
-An agreement to reopen the waterway would be followed by a complicated process of navigating a backlog of vessels stranded for nearly three months.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/business/iran-strait-hormuz-shipping-traffic.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 ### 📰 Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical
 <div align='justify'>
 
@@ -697,6 +591,17 @@ The document marks a powerful foray by the leader of the Roman Catholic Church i
 </div>
 
  [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words
+<div align='justify'>
+
+The American pope wants to take artificial intelligence down a notch. Is he challenging the tech companies, or will tech take over the papacy?
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -711,28 +616,25 @@ Leo XIV issued his thoughts about artificial intelligence in the modern world us
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump’s Self-Indulgent Streak Deepens G.O.P. Fears He Is Risking Losses in Midterms
-<img src='https://wsrv.nl/?url=https://static01.nyt.com/images/2026/05/25/multimedia/25pol-trump-midterms-01-kmfb/25pol-trump-midterms-01-kmfb-facebookJumbo.jpg&w=800' width='100%' style='border-radius:15px;' alt='NY Times Image'>
-
+### 📰 Trump’s Pressure Had Little Effect on Iran’s Terms for a Peace Deal
 <div align='justify'>
 
-A little more than five months ahead of the midterm elections, President Trump seems to be focused on virtually anything other than keeping Republican control of Congress.
-
-He endorsed a MAGA challenger over Texas’s senior Republican senator, ignoring warnings that he could endanger the seat. He has boasted almost daily about his expensive and expansive new White House ballroom. He has minimized rising gas costs, waving off spiking prices at the pump as “peanuts” last week compared to what he is pursuing in Iran. And even as he engaged over the weekend in negotiations to end the Iran war that he began, Mr. Trump has made plain that he prioritizes his record abroad above domestic affordability, which he has dismissed repeatedly as a Democratic “hoax.”
-
-For many, a new jaw-dropper came last week when Mr. Trump created a $1.8 billion fund to pay people who say they have been victims of “weaponization and lawfare,” including those who attacked the Capitol and law enforcement officers there, on Jan. 6, 2021.
-
-Incensed Senate Republicans, many of whom lived through that day, returned home vexed by a president who appears set on pursuing his personal priorities ahead of the November midterm elections, even if doing so undermines his own party. They angrily abandoned Washington on Thursday without funding the president’s immigration crackdown or the $1 billion he wants for his ballroom.
-
-Republicans know that their party’s fate rests with the president, according to interviews with numerous officials in recent weeks. Yet they also know there is not much any of them can do to make him help them.
-
-“The president was elected to juice the economy, to bring down inflation, to stop illegal immigration and to get away from woke culture,” said Whit Ayres, a Republican pollster. “If his highest goal were to maintain control of Congress, he would not be doing what he is doing.”
-
-Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.
+President Trump had sought to force Tehran to accept American demands for a peace deal with a mixture of threats and military operations.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/us/politics/trump-gop-fears-midterms.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Even After a Strait of Hormuz Deal, Moving 1,500 Ships Won’t Be Easy
+<div align='justify'>
+
+An agreement to reopen the waterway would be followed by a complicated process of navigating a backlog of vessels stranded for nearly three months.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/business/iran-strait-hormuz-shipping-traffic.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
