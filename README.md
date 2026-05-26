@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/26 - 17:50`
+**📅 Update (Tehran Time):** `2026/05/27 - 00:32`
 
 ---
 
@@ -19,146 +19,126 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Norway World Cup 2026 preview: Players to watch, group matches, squad list
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a1045fe-1779451390_5a5fae-1779788567.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 US picks potential partners for using Cold War-era plutonium as fuel
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-22T212051Z_1767260352_RC2LELAS71JP_RTRMADP_3_USA-TRUMP-1779769494.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Previous World Cup appearances: 3
-Best performance: Last 16 (1938, 1998)
-First appearance: 1938 (France)
-Top goal scorer: Kjetil Rekdal (2)
-Most appearances: Henning Berg, Stig Inge Bjornebye, Kjetil Rekdal (7)
-Player to watch: Erling Haaland
-FIFA world ranking: 31
+The United States government has chosen five companies, including nuclear energy company Oklo, to enter advanced talks over potentially using its Cold War-era plutonium as a nuclear reactor fuel.
 
-Norway have not played at a World Cup since 1998, as a generation of fans has had to endure a series of near misses and damp squibs.
+The Energy Department holds surplus US plutonium, which has a half-life of 24,000 years and must be handled with protective gear, at heavily guarded weapons facilities in states including South Carolina, Texas and New Mexico.
 
-This Norway side, however, powered by the superstar Erling Haaland alongside a bunch of other huge talents, stormed their qualifying group with eight wins out of eight, including giving Italy home and away drubbings.
+Oklo, whose stock price was up more than 5.5 percent to $69.51 per share, said it plans to develop the fuel with newcleo, a European company that aims to build high-tech nuclear reactors.
 
-Not only are the Scandinavian nation finally back at the World Cup, this time they aim to go far – if not all the way.
+The Reuters news agency reported last year that the administration of US President Donald Trump plans to make about 20 metric tonnes of plutonium from dismantled nuclear warheads available to US power companies.
 
-The squad was announced on Thursday in a video by the country’s King Harald V, who said the country has “waited a long time” to return to the World Cup.
+Last May, Trump ordered the halt of much of a programme to dilute and dispose of surplus plutonium, and instead provide it as a fuel for advanced nuclear technologies, a plan that some Democrats opposed.
 
-“The hope has lived on – on gravel, on grass and artificial turf … Across long distances, ferries and mountain passes,” he said.
+In a letter in September, Senator Edward Markey of Massachusetts and Representatives Don Beyer of Virginia and John Garamendi of California said that 20 metric tonnes of weapons-usable plutonium was enough for approximately 2,000 nuclear bombs. Such a move “raises serious weapons proliferation concerns, makes little economic sense, and may adversely affect the nation’s defense posture”, they wrote, asking the agency to cancel the plan.
 
-The Man City striker ran rampant in qualifying, scoring five goals and grabbing two assists in a 11-1 mauling of Moldova. He also scored a hat-trick in Norway’s 5-0 thrashing of Israel, becoming the fastest player in history to reach 50 international goals, which he scored in just 46 appearances.
+The other companies selected are privately held Exodys Energy, SHINE Technologies, Standard Nuclear and Flibe Energy, the US Energy Department said in a statement.
 
-Haaland’s domestic season has produced another bumper tally of goals, even if they came in fits and starts – he won the Premier League’s golden boot again with 27 goals.
+Oklo said in a statement that newcleo would bring fuel experience and potential project capital, subject to agreements, approvals and US security and safeguards requirements.
 
-The 25 year old also became the fastest player to reach 100 Premier League goals, scored in just 111 appearances.
+“This program creates a pathway to use existing surplus material as bridge fuel for advanced reactors to bring more reactors online sooner,” said Oklo cofounder and CEO Jacob DeWitte. “Material that has been set aside for disposal can instead be converted into fuel to produce electricity.”
 
-Haaland also has an added personal inspiration in this tournament as his father played in the last US World Cup, back in 1994.
+Stefano Buono, newcleo CEO and founder, said using the plutonium as fuel would reduce US nuclear liabilities.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/26/norway-world-cup-2026-preview-players-to-watch-group-matches-squad-list?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/26/us-picks-potential-partners-for-using-cold-war-era-plutonium-as-fuel?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Al Jazeera speaks to Hajj pilgrims about their journey to Mecca
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779802383.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Trump-led push to redraw Congress maps faces setbacks in Southern states
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26127586418853-1779823345.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Pilgrims gather on the Day of Arafah, the spiritual peak of Hajj, retracing the Prophet Muhammad’s final sermon.
+A push by President Donald Trump to redraw congressional district maps across the US to boost the Republican Party before the midterm elections has faced major setbacks in the Southern states of Alabama and South Carolina.
+
+A three-judge federal panel blocked Republicans in Alabama from moving forward with a new map that would eliminate one of the state’s two districts with major Black populations.
+
+“Ultimately, we cannot see our way clear to requiring Alabamians to cast their votes in the 2026 elections under a districting plan tainted by intentional race-based discrimination,” the panel wrote.
+
+Republican officials in Alabama, which had previously postponed scheduled primary elections for four congressional seats to draw up new maps, have said that they will appeal Tuesday’s decision to the US Supreme Court.
+
+Several Republican lawmakers in South Carolina separately joined with Democrats to shoot down a new map that would redraw a district held by the powerful Congressman James Clyburn, a Black Democrat who has been in office for more than 30 years.
+
+Early voting in the June 9 primary was already taking place when state legislators were voting on the new map on Tuesday.
+
+“Neither my conscience nor my common sense will allow me to stop an election that is already underway,” local news outlets quoted Republican state Senator Richard Cash as saying.
+
+The design of congressional district maps is a fraught issue in the United States, where it has historically served as a key tool of efforts to disenfranchise Black voters in states with records of segregation.
+
+Republicans have pushed for years to loosen rules put in place to safeguard against such practices, an effort that was recently boosted by a Supreme Court ruling.
+
+The ruling, hailed by Trump as a “big win”, prompted a dash by several Republican-led states to redraw their maps in time for the upcoming midterm elections, where the party is hoping to defend its majorities in the House and the Senate as Trump struggles with low popularity.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/26/al-jazeera-speaks-to-hajj-pilgrims-about-their-journey-to-mecca?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/26/trump-led-push-to-redraw-congress-maps-faces-setbacks-in-southern-states?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260429__A9CH2CV__v1__HighRes__IsraelLebanonIranUsWarHezbollah-1777614967.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 US Senate confirms veteran naval officer Frank Garcia as top Africa envoy
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/Frank-Garcia-1779825006.jpg?resize=1200%2C675' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Since October 7, 2023, Israeli military control maps in its surrounding areas are no longer merely lines announced in official statements or drawn on military maps.
+The US Senate this week confirmed veteran naval officer Frank Garcia as Assistant Secretary of State for African Affairs, ending a vacancy in Washington’s top Africa-focused diplomatic post that lasted more than a year.
 
-After every ceasefire agreement, a map has emerged, and after every map, questions on the ground arise: Where do the forces actually stand? Do the field markers, demolition operations, and military positions match what is declared on paper?
+The approval came as part of a wider bloc vote covering 49 nominees put forward by the Trump administration.
 
-The Digital Investigations Team at Al Jazeera’s Open Source Unit tracked three areas where new borders for the Israeli military presence have taken shape: the Gaza Strip, southern Lebanon, and southern Syria.
+The role is the most senior US diplomatic position in Africa, overseeing Washington’s foreign policy and managing relations with all 54 African states.
 
-In Gaza, we looked at the “Yellow Line“, which appeared on the ceasefire agreement maps as the limit of Israeli control within the Strip, designated by yellow concrete markers on the ground.
+The post has been held by a series of acting officials, most recently Nick Shikher, a former CIA analyst.
 
-In southern Lebanon, the investigation looked at the military zone declared by Israel following a subsequent ceasefire agreement with that country, before examining what satellite imagery shows as the actual situation in impacted villages and towns.
+Garcia, a former US Navy officer, served for 28 years. He spent approximately 15 years working with the House Intelligence Committee, focusing on African affairs and taking part in multiple visits to the continent alongside congressional delegations.
 
-As for southern Syria, where no similar official Israeli map exists, we looked at fixed military outposts beyond the “Alpha Line” that separates the occupied Golan Heights from the rest of Syria.
+He also served as chief of staff at the National Reconnaissance Office, the US agency responsible for designing and operating intelligence satellites.
 
-Since each area provides a different type of evidence, the investigation combined official maps published by the Israeli army, satellite imagery captured after the ceasefire agreements, spatial calculations using Geographic Information System (GIS) and data from the Armed Conflict Location & Event Data Project (ACLED).
+Between 2016 and 2021, he headed Via Stelle, a defence and intelligence consultancy, according to The Africa Report.
 
-In Gaza, the story begins with a line drawn by the Israeli army on its maps following the “ceasefire” agreement signed on October 10, 2025. Known as the “Yellow Line”, it was presented as the boundary separating Israeli military control zones within Gaza, covering an area estimated at about 200sq km (77sq miles), according to Israeli maps.
+However, his profile has drawn scrutiny in some circles. Nigerian newspaper The Whistler described him as largely unknown among African policy and academic communities, noting that he has no significant published work on African affairs.
 
-However, when Al Jazeera’s team tried to trace the reality on the ground, a gap emerged between what was declared on the maps and what the imagery and field data revealed.
+Garcia’s nomination was approved by the Senate Foreign Relations Committee in March by 16 votes to six, with all opposition coming from Democratic senators at that stage.
 
-The investigation relied on satellite imagery and geolocation of the yellow concrete blocks placed by the Israeli military up to early February 2026.
+He was later confirmed by the full Senate, with several Democrats ultimately supporting the final vote. His appointment fills a longstanding gap in one of Washington’s most strategically important diplomatic roles in Africa, at a time of growing global competition for influence across the continent.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/26/us-senate-confirms-veteran-naval-officer-frank-garcia-as-top-africa-envoy?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Report warns pro-Palestine protesters face legal crackdown: What to know
-<img src='https://www.aljazeera.com/wp-content/uploads/2025/06/13143702-1751026125.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Did Trump oversell a broken Iran ceasefire deal?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779824425.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A new report warns that Britain is undergoing a “deeply troubling transformation” in how it treats political protest as climate activists and pro-Palestine campaigners increasingly face lengthy prison sentences, sweeping legal restrictions and months in jail before trial.
+US President Donald Trump claimed a deal with Iran was “largely negotiated”, before later saying talks were still ongoing. A draft US-Iran memorandum of understanding has sparked backlash in Washington, alarm in Israel and fresh questions over sanctions, nuclear talks and the shaky ceasefire. So how close are the two sides to a real agreement?
 
-The report, Britain’s Political Prisoners, copublished by researchers at the Centre for Climate Crime and Climate Justice at Queen Mary University of London and the campaign group Defend Our Juries, said the UK has “witnessed an increase in anti-protest powers granted to the police and the courts through legislation” that has “created a significantly more repressive legal terrain for activists engaging in civil disobedience and direct action”.
+This episode was produced by David Enders and Sarí el-Khalili with Catherine Nouhan, Tuleen Barakat, and our guest host, Kevin Hirten. It was edited by Tamara Khandaker.
 
-It traces the shift from crackdowns on protests by Extinction Rebellion, Black Lives Matter, Insulate Britain and Just Stop Oil to more recent prosecutions linked to Palestine solidarity actions, including campaigns targeting British factories operated by Elbit Systems, Israel’s largest weapons manufacturer.
-
-The report, released on Tuesday, found that a combination of new laws, broader police powers and increasingly punitive court tactics has reshaped Britain’s protest landscape since 2019.
-
-The United Kingdom has witnessed numerous mass protests and direct actions by activists to pressure the government to stop selling arms to Israel during its genocidal war on Gaza, in which more than 72,000 Palestinians have been killed, including more than 40,000 women, children and elderly.
-
-So what does Britain’s shifting stance on protests mean for civil rights, and what’s behind the legal clampdown on climate and pro-Palestine protests?
-
-The report painted a stark picture of how Britain’s legal system has changed in response to climate and pro-Palestine direct action campaigns through a mix of new laws, expanded police powers and what campaigners describe as increasingly punitive court tactics. What this means for protesters is longer jail sentences, stricter bail conditions and harsher treatment in the courts than was once typical for acts of civil disobedience, according to the report.
-
-At the centre of that shift are two major laws introduced after waves of demonstrations by groups such as Extinction Rebellion and Just Stop Oil, two environmental groups that employ nonviolent civil disobedience tactics to pressure governments to address the climate crisis.
-
-The Police, Crime, Sentencing and Courts Act 2022 transformed the old common law offence of “public nuisance” into a formal criminal offence carrying a sentence of up to 10 years in prison. This means actions that seriously disrupt the public – such as blocking roads, stopping traffic or shutting down infrastructure – can now lead to far more severe criminal penalties than before because the offence was never previously codified into legislation. Campaigners said the law has given prosecutors a powerful new tool to pursue long prison sentences against protesters.
-
-The Public Order Act 2023 introduced a series of protest-specific offences in May of that year, largely in response to climate protests by groups including Just Stop Oil, Insulate Britain and Extinction Rebellion, whose actions included blocking motorways, occupying oil terminals and targeting infrastructure projects in an attempt to pressure the government to halt new oil and gas extraction.
+Our sound designer is Alex Roldan. Our video editors are Hisham Abu Salah and Mohannad al-Melhem. Alexandra Locke is The Take’s executive producer.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/26/report-warns-pro-palestine-protesters-face-legal-crackdown-what-to-know?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/the-take-2/2026/5/26/aje-onl-irn_mou_av_v3-260526?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 French Open: Medvedev shocked by wildcard Walton in first round
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-26T124125Z_2087997960_UP1EM5Q0Z8ZFY_RTRMADP_3_TENNIS-FRENCHOPEN-1779800551.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Children perform ‘mini Hajj’ in Gaza as Israel blocks pilgrims
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779824824.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Daniil Medvedev could not avoid the ⁠French Open ⁠first-round trapdoor as he fell 6-2 1-6 6-1 1-6 6-4 to Australian wildcard Adam Walton in a match marked by sharp swings in momentum on the Parisian clay.
-
-The former world ⁠number one had fallen at the first hurdle in six of his previous nine appearances at the clay court Grand Slam, highlighting his uneasy relationship with Roland Garros and ‌the sport’s slowest surface.
-
-Medvedev showed early signs of frustration on Tuesday when he dropped serve and then allowed Walton to build a 4-2 lead in the opening set, which the 30-year-old relinquished with a forehand that sailed over the baseline.
-
-The recovery was swift ⁠and emphatic as Medvedev regained his ⁠rhythm to wrest control by claiming the next set at the loss of only one game, but the sixth seed could not ⁠maintain his grip and let the third set slip away.
-
-World number 97 ⁠Walton, who was seeking a first ⁠win over a top-10 player, surrendered the fourth set but fought on bravely in the decider to break back at 4-4, before ‌producing a tight hold and then dismissing Medvedev for a famous victory.
-
-“It’s huge,” Walton said of the victory in his on-court interview, adding that a win over Medvedev in Cincinnati last year had given him the confidence to repeat the ‌feat.
-
-“I knew I could do it and I believed, so I’m just happy with my performance. I’m really excited right now.
-
-“It was such an up-and-down match. I’m pretty tired right now. I got off to a hot start, and I felt like the ebbs ‌and flows of the match were quite large.
-
-“I’m just really proud of my efforts in the fifth set, to come from a break ‌down ‌to get the win.”
-
-Up next for the 27-year-old is ‌a ‌second-round meeting with American Zachary Svajda, who beat Australian Alexei Popyrin.
+A Gaza City school taught children how to perform the entire Hajj, as Palestinians miss the pilgrimage for a third year.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/26/medvedev-shocked-by-wildcard-walton-in-french-open-first-round?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/26/children-perform-mini-hajj-in-gaza-as-israel-blocks-pilgrims?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -166,11 +146,11 @@ Up next for the 27-year-old is ‌a ‌second-round meeting with American Zachar
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
 ### 📰 Iran condemns US strikes as 'gross violation' of ceasefire
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1545/live/65ce5bc0-5904-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/60fa/live/b45e44b0-593d-11f1-8f5a-71117a5267dc.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Iran says the US has committed a "gross violation" of the ceasefire with new air strikes it launched on the country in the past 48 hours.
+Iran says the US has committed a "gross violation" of the ceasefire with new air strikes it launched on the country.
 
 The US Central Command (Centcom) said Iranian missile sites and boats attempting to place mines had been targeted with what it called "self-defence strikes" in southern Iran on Monday.
 
@@ -180,19 +160,50 @@ It is unclear what impact the strikes will have on talks aimed to end the confli
 
 "Without a doubt, the Islamic Republic of Iran will not leave any evil unanswered and will not hesitate to defend the Iranian nation," the Iranian statement said.
 
-However, US Secretary of State Marco Rubio said a deal from the talks was still possible, but it would "take a few days".
+The US and Israel started the war with Iran on 28 February with a wave of deadly attacks, including one which killed the country's supreme leader.
 
-One of the stumbling blocks reportedly centres on Tehran's request for the release of frozen Iranian funds held abroad.
+After weeks of fighting, a ceasefire was agreed on 8 April and it has been largely observed ever since, barring one notable clash earlier in May.
 
-However, Iranian negotiators have been taking parts in Qatar this week.
+In its statement, Centcom said US forces "conducted self-defense strikes in southern Iran today to protect our troops from threats posed by Iranian forces".
 
-An official briefed on the Doha visit told Reuters news agency that Iran's central bank governor had attended Monday's talks to discuss the frozen assets, with discussions focusing primarily on Iran's stockpile of highly enriched uranium, and the Strait of Hormuz.
+It did not give details about the location of the strikes, but an official cited by the New York Times said they had targeted an area near Bandar Abbas - a southern port city and home of an Iranian naval base that sits on the Strait of Hormuz.
 
-Iran has effectively blocked the vital shipping lane, through which around one fifth of the world's oil passes, since the US and Israel started the conflict on 28 February.
+Iranian state media had earlier reported that local officials in Bandar Abbas were investigating after explosions were heard.
 
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Russia threatens more Kyiv strikes and tells foreign nationals to leave
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+Russia has threatened to launch a fresh wave of "systematic strikes" against Kyiv, days after carrying out one of its largest attacks on the Ukrainian capital since the start of the war.
+
+The new strikes will target "decision-making centres and command posts", alongside drone manufacturing facilities in the city, Russia's foreign ministry said in a statement.
+
+Moscow has called for foreign nationals and diplomats to leave Kyiv "as soon as possible" and warned citizens to stay away from administrative and military buildings.
+
+Ukraine said Russia's threats were "nothing short of shameless blackmail" and urged allies to increase pressure on Moscow.
+
+With its warning to foreign nationals, Moscow is "effectively admitting that its shelling is aimed, among other things, at intimidating the foreign diplomatic corps", the statement continued.
+
+It said Russian strikes on Kyiv "have not ceased for virtually a single week" since the start of the war, and the overall security threat posed by Moscow "remains the same as in previous years or months".
+
+Large-scale Russian strikes on Saturday night killed four and injured about 100 people in Kyiv and other areas, Ukrainian President Volodymyr Zelensky said.
+
+Moscow said that barrage and threatened further strikes were in response to what it claims was a deliberate Ukrainian attack on a student dormitory in the town of Starobilsk on Friday, in which Russian officials said 21 people were killed.
+
+Ukraine's military said its forces had struck an elite Russian military drone unit in the area, in Russian-occupied eastern Ukraine, and had not targeted civilians.
+
+Russia has launched several waves of deadly missile and drone attacks on Kyiv since a brief ceasefire, that coincided with Moscow's annual Victory Day parade, expired earlier in May.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -203,23 +214,23 @@ Iran has effectively blocked the vital shipping lane, through which around one f
 
 Two children, aged 12 and 15, and two adults have been killed in a collision between a train and a school minibus in Buggenhout, northern Belgium.
 
-The bus was carrying seven children, a driver, 49, and a chaperone, 27, at the time of the collision, which took place shortly after 08:00 local time (06:00 GMT).
+The bus was carrying seven boys, a driver, 49, and a chaperone, 27, at the time of the collision, which took place shortly after 08:00 local time (06:00 GMT).
 
 Federal police spokeswoman An Berger said it had been on its way to a special education school.
 
 Belgian mobility minister Jean-Luc Crucke confirmed reports that the barriers on a level crossing had been down when the crash happened.
 
-The other five children who were on the bus are in a critical but stable condition in hospital, the public prosecutor's spokeswoman said.
+The other five children who were on the bus were in a critical but stable condition in hospital, the public prosecutor's spokeswoman said.
 
-Berger said the minibus had been travelling on a street parallel to the railway and then the driver turned left on to the level crossing while the barrier was already down. At that point, a train was heading through the small town of Buggenhout and ran into the minibus.
+It later emerged that the two boys who died were both from the town of Bornem, 12km (7.5 miles) north of Buggenhout.
 
-The impact of the crash was extremely violent, as the train was travelling at about 90km/h (55mph). The minibus collided with a pole before being thrown some distance into the driveway of a nearby house.
+Berger said the minibus had been travelling on a street parallel to the railway and then the driver turned left on to the level crossing while the barrier was already down.
+
+At that point, a train was heading through the small town of Buggenhout and ran into the minibus.
+
+The impact of the crash was extremely violent, as the train was travelling at about 90km/h. The minibus collided with a pole before being thrown some distance into the driveway of a nearby house.
 
 Nobody on the train was hurt, although one person was being treated for shock, according to Berger.
-
-"What heartbreaking news," Flemish education minister Zuhal Demir posted on social media. "My thoughts are with all the victims, their families and everyone closely involved."
-
-"Today, Europe grieves with Belgium," said European Commission President Ursula von der Leyen.
 
 </div>
 
@@ -232,25 +243,25 @@ Nobody on the train was hurt, although one person was being treated for shock, a
 
 <div align='justify'>
 
-Israel has launched an intensive wave of strikes across swathes of southern and eastern Lebanon, after vowing to step up its military action against Hezbollah.
+Israel has launched an intensive wave of strikes across swathes of southern and eastern Lebanon, after vowing to step up military action against Hezbollah.
 
-The Israeli military said it hit more than 100 Hezbollah infrastructure sites and fighters during what was one of the heaviest nights of bombardment since a US-brokered ceasefire began in mid-April.
+The Israeli military said it hit more than 100 Hezbollah infrastructure sites and fighters in what was one of the heaviest nights of bombardment since a US-brokered ceasefire began in mid-April.
 
-Strikes in the Bekaa Valley village of Mashghara killed 11 people, including two children, Lebanon's health ministry said. The military said it hit sites where "terrorist activity" was identified.
+Strikes in the Bekaa Valley village of Mashghara killed 11 people including two children, Lebanon's health ministry said. The military said it hit sites where "terrorist activity" was identified.
 
-It came after Israel's Prime Minister Benjamin Netanyahu said he had given the instruction to "press the pedal even harder" in targeting Hezbollah.
+It came after Israeli Prime Minister Benjamin Netanyahu said on Monday he had given instructions to "press the pedal even harder" in targeting Hezbollah.
+
+Speaking at a security cabinet meeting on Tuesday, he said Israel was "deepening our operation in Lebanon".
+
+"The IDF [Israel Defense Forces] is operating with large forces on the ground and seizing dominant terrain," he said, adding that they were "fortifying the security zone" to protect communities in northern Israel from Hezbollah attacks.
 
 The ceasefire has been repeatedly violated by both sides, threatening to derail the complex ongoing talks to end the war between the US, Israel and Iran.
 
 Israeli air and artillery strikes have continued daily, especially in the south of Lebanon, while Hezbollah has been launching rockets and drones at communities in northern Israel and Israeli troops occupying parts of southern Lebanon.
 
-On Monday night, Netanyahu said in a video statement that Israel was going to increase the number and intensity of its strikes targeting Hezbollah in response to the Iran-backed Shia Muslim group's attacks, including those involving fibre-optic drones that can evade Israeli defences.
+In Monday's video statement, Netanyahu said that Israel was going to increase the number and intensity of its strikes targeting Hezbollah in response to the Iran-backed Shia Muslim group's attacks, including those involving fibre-optic drones that can evade Israeli defences.
 
 The announcement prompted scenes of panic in Beirut's southern suburbs, a Hezbollah stronghold, where residents were seen fleeing the area following the remarks. Thousands of cars lined the streets with families trying to escape for safety.
-
-Though the overnight strikes spared the capital, Israeli warplanes carried out wave after wave of strikes across Lebanon throughout the evening and into the early hours. The BBC counted dozens of attacks across nearly 50 locations.
-
-A man and his wife were killed in a strike on their home in the southern town of Arab Salim on Monday evening, and two other people were killed in the village of Kauthariyet El Rez, according to Lebanon's state-run National News Agency (NNA).
 
 </div>
 
@@ -258,65 +269,34 @@ A man and his wife were killed in a strike on their home in the southern town of
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ebola needs swift response to prevent catastrophe, says DR Congo governor
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c02f/live/ef4dacc0-58eb-11f1-8409-e1d7d8df4ed8.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Why temperature records are being not only broken but smashed
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/908f/live/0f83b2e0-5924-11f1-8da3-3d26e0ea35c3.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The military governor of the Democratic Republic of Congo's Ituri province, the epicentre of the current Ebola outbreak, has likened the struggle to contain the spread of the virus to a "war" for which they are lacking resources to fight.
+If you take a look across western Europe at the moment, you'll struggle to find many places escaping the heat.
 
-"People in affected areas are not receiving enough food," Johnny Luboya Nkashama told French broadcaster RFI, adding that "other diseases" and "overcrowding" are also issues.
+In the UK, temperatures passed 35C on Tuesday – more than 2C above the  record for May before this year.
 
-He called for a "swift response", including strengthening the capacity of staff to prevent Ituri "from descending into catastrophe".
+This heat would be exceptional even in the middle of summer, let alone spring, the Met Office says.
 
-Officials say there are more than 900 suspected cases of Ebola, and 223 suspected deaths, since the outbreak was declared on 15 May.
+"Absolutely astonishing," says Friederike Otto, professor of climate science at Imperial College London.
 
-The World Health Organization (WHO) said the disease may be spreading faster than originally thought and has declared a public health emergency of international concern.
+"Mind-bogglingly crazy," adds Peter Thorne, director of the Icarus Climate Research Centre at Maynooth University in Ireland.
 
-On Monday, WHO director-general Tedros Adhanom Ghebreyesus, who is due to travel to DR Congo, has said the Ebola outbreak is outpacing urgent efforts to scale up a response adding that responders were "playing catch-up".
+France is also in the midst of an unprecedented early-season heatwave, according to its weather service, Météo-France. Hundreds of heat records have been broken around the country.
 
-Ebola has also been reported in DR Congo's North and South Kivu provinces, as well as in neighbouring Uganda, where there have been seven confirmed cases.
+Ireland's May temperature record has been surpassed by more than 1C, while Germany, Italy, Spain and Switzerland have all faced unusually hot conditions for spring too.
 
-Elaborating on what his province needs, Kashama explained "qualified personnel" should be deployed as soon as possible and "secure treatment centres" established.
+The immediate cause of the heatwave is a "heat dome" – where an area of high pressure gets "stuck" over Europe, trapping warm air underneath.
 
-Angry relatives trying to claim the bodies of loved ones who had reportedly died of Ebola have targeted two treatment centres.
+But scientists have little doubt that human-caused climate change - largely the result of the burning of coal, oil and gas - has supercharged the heat.
 
-"Our existing resources were dedicated to the war, and this second war that is now upon us demands even more," he said on RFI.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Netanyahu says Israel will intensify strikes against Hezbollah
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d385/live/20d8eb10-5879-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-Israel's military says it has begun a wave of strikes across Lebanon following an announcement by Prime Minister Benjamin Netanyahu that his country will intensify its attacks on Hezbollah.
-
-The Israel Defense Forces (IDF) said it had launched strikes against Hezbollah in the eastern Bekaa Valley and other parts of the country.
-
-Hezbollah, a Shia Muslim armed group in Lebanon backed by Iran, said it had retaliated by carrying out 22 drone and rocket attacks and that its targets included Israeli soldiers, tanks, barracks and buildings.
-
-Earlier this month, Lebanon and Israel agreed to extend a 45-day ceasefire which began in mid-April, though attacks between Israel and Hezbollah have continued.
-
-On Tuesday morning, the IDF said it had "struck more than 100 Hezbollah infrastructure sites and terrorists".
-
-Twelve people are said to have been killed in an attack on the village of Mashghara in the Bekaa Valley, Lebanese local media reported.
-
-The IDF said several strikes were conducted "within seconds against Hezbollah infrastructure sites [in Mashghara] where terrorists [sic] activity was identified". It added "the terrorists were eliminated" during the attack.
-
-The Israeli military has issued an evacuation order for the southern town of Nabatieh due to possible strikes.
-
-Hours earlier, in a video statement, Netanyahu said Israel was "at war with Hezbollah" and the military has been told to "deal them a crushing blow".
-
-Netanyahu said Israel's military offensive against Hezbollah had "eliminated... over 600 terrorists in the last few weeks".
+Over the last 30 years, Europe has been warming by 0.56C per decade – more than twice the global average, according to the Copernicus climate service.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -481,158 +461,184 @@ Brockell suspects US officials are using the travel ban as an excuse to not retu
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Matthew Perry's Assistant Faces Claims of Evidence Destruction
-<img src='https://imagez.tmz.com/image/3b/16by9/2026/05/25/3bfbd2fb32634c9da8c069ded5655f83_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Ray J Hospitalized After Being Knocked Out By Supa Hot Fire
+<img src='https://imagez.tmz.com/image/ba/16by9/2026/05/26/ba96203d3f4a4eb083fd8e36dde51590_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Matthew Perry's former assistant Kenneth Iwamasa allegedly cleaned up more than just a house after the actor died ... prosecutors say he also tried wiping away the evidence trail tied to the ketamine conspiracy.
+Ray J checked himself into a Vegas hospital hours after being knocked out by Supa Hot Fire, TMZ has learned.&nbsp;
 
-According to a new court filing, obtained by TMZ, federal prosecutors claim the former live-in assistant went into damage-control mode immediately after the "Friends" star's death -- allegedly directing another person to destroy ketamine evidence, shredding documents, and scrubbing digital records.
+Sources close to Ray J tell TMZ he decided to go to the hospital two hours after the event on Saturday.&nbsp;
 
-The feds say Iwamasa repeatedly lied to investigators, too ... first by allegedly hiding the fact he injected Perry with multiple ketamine shots on the day of his death, then later claiming Perry had hidden ketamine bottles himself.
+The source tells TMZ Ray has been in the hospital for two days as the doctors continue to run tests to figure out what is wrong.&nbsp;
 
-Prosecutors say that wasn't true.
+We're told the medical team is investigating whether Ray had a concussion, and he is also experiencing issues with his heart beating slower.&nbsp;
 
-In the filing, they say Iwamasa instructed a person identified as "B.M." to dispose of ketamine vials and syringes after Perry died. They also allege he ordered the shredding of a ketamine prescription document and a handwritten note identifying Dr. Salvador Plasencia as a ketamine source.
-
-The feds also say Iwamasa later admitted to some of the cleanup in a phone call with middleman Erik Fleming ... allegedly saying he "cleaned up the scene," got rid of bottles and syringes, "deleted everything," and even changed passwords on Perry's devices.
-
-Prosecutors are pushing back hard on Iwamasa's argument that he was simply an assistant following Perry's instructions ... saying he abused the trust placed in him by both Perry and the actor's family, who believed he was supposed to help protect Perry during his addiction struggles.
-
-Back in 2024, Kenneth pleaded guilty to one count of conspiracy to distribute ketamine resulting in death ... cutting a plea deal with federal prosecutors.
-
-As we previously reported ... prosecutors are seeking 41 months behind bars for Iwamasa. He's scheduled for sentencing on Wednesday.
+As TMZ previously reported, Ray J has been experiencing health issues since before the fight. The entertainer was hospitalized earlier this year for heart issues and pneumonia.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/matthew-perry-assistant-accused-of-destroying-evidence/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/ray-j-hospitalized-after-mma-match/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 President Donald Trump Undergoing Another Medical Assessment at Walter Reed
-<img src='https://imagez.tmz.com/image/c3/16by9/2026/05/26/c3a5b0cbec1b4f848ff90ffe74b5eede_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Atlanta Braves Legend Bob Horner Dead at 68
+<img src='https://imagez.tmz.com/image/a9/16by9/2026/05/26/a917fa072ae84b01b2b3a0dc52f65e8d_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-President Donald Trump is headed back to Walter Reed ... and once again, the White House is insisting there's nothing dramatic going on behind the hospital doors.
+Bob Horner, a legendary baseball player with the Atlanta Braves and the first overall pick in the 1978 MLB draft, is dead.
 
-The president is scheduled to undergo what aides are calling a "routine annual dental and medical assessment" Tuesday at the famed military medical center just outside D.C.
+The Braves announced Bob's death Tuesday in a social media post. The cause and manner of death are unclear.
 
-Still, the visit is raising eyebrows because it marks Trump's third publicly known trip to Walter Reed in just over a year ... with the 79-year-old commander-in-chief facing increasing scrutiny over his health heading into his 80th birthday next month.
+Bob was the first Braves player to go straight from the amateur ranks to the Major Leagues without ever playing a Minor League game ... and he played for the Braves from 1978 to 1986 ... earning one All-Star Selection.
 
-The White House has repeatedly defended Trump’s condition as "excellent" ... even after recent public speculation tied to bruising on his hands, swollen ankles and moments critics claimed made him appear sluggish during appearances.
+In his first year in MLB, Bob won the National League Rookie of the Year award ... with a .266 batting average, 23 home runs, and 63 RBIs.
 
-Trump himself previously blamed the bruising on taking too much aspirin and said he regretted undergoing a CT scan last year because it fueled nonstop rumors about his health.
+Bob became the first Braves player to hit four homers in a single game when he accomplished the rare feat in 1986, his final season, in a game against the Montreal Expos.
 
-The Walter Reed trip follows several other medical-related visits during Trump's second term, including an October follow-up exam and a CT scan in late 2025 focused on his cardiovascular and abdominal health.
+All told, Bob finished his career with 1,047 hits, 218 homers, and 685 RBIs.
 
-Of course, Walter Reed has long been the go-to hospital for Presidents ... handling everything from annual physicals to major procedures and emergency care.
+Bob is survived by his wife, Chris, and their two sons, Tyler and Trent.
 
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/donald-trump-walter-reed-medical-exam/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Timothée Chalamet Geeks Out With Knicks Stars After NBA Finals Berth
-<img src='https://imagez.tmz.com/image/e3/16by9/2026/05/26/e3f41804beb14dbaa27aa84558af4fac_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-The New York Knicks are heading to the NBA Finals after destroying the Cleveland Cavaliers in four straight games ... but there's one guy who might be even more excited than the players -- Timothée Chalamet.
-
-Knicks fans invaded northeast Ohio and turned Rocket Arena into their own home on Monday ... and while Timmy C and Kylie Jenner initially had to settle for the second row, they eventually got their feet on wood when the game got out of reach.
-
-As soon as N.Y. clinched its first Finals appearance in more than two decades, Chalamet, Tracy Morgan, Spike Lee and the rest of the star-studded support team celebrated with the players.
-
-Morgan -- who has always stuck by his beloved squad -- was deeply emotional as he stood on the court ... and Chalamet (who was in an Eastern Conference Champs shirt) dapped up all the big winners, even telling Mikal Bridges he's the "GOAT," and revealing he owns one of his jerseys.
-
-Jenner also hugged Karl-Anthony Towns as Chalamet asked about his fiancée, "Where's Jordyn at?!"
-
-Over in NYC, it was absolute chaos ... with Knicks fans flooding the streets and climbing buildings and street poles to celebrate.
-
-Game 1 of the Finals will go down next week ... but the Western Conference still has to figure out who will represent it -- either the Oklahoma City Thunder or San Antonio Spurs, and that series is currently tied up at 2-2.
-
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/timothee-chalamet-celebrates-with-knicks-players/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Miami Dolphins Legend Manny Fernandez Dead at 79
-<img src='https://imagez.tmz.com/image/1a/16by9/2026/05/26/1a2291052a9948e1aecb392bf95d4042_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-Manny Fernandez, a star player with the Miami Dolphins when they won two Super Bowls, has died.
-
-The NFL team announced his passing Tuesday morning ... saying in part, "His consistent and selfless contributions on the field were instrumental to the Dolphins' success."
-
-In addition to his two Super Bowl rings ... the defensive lineman was part of the legendary 1972 perfect team -- as well as a member of the Ring of Honor.
-
-Fernandez attended Chabot Junior College before enrolling at Utah ... and then signed with the Dolphins after he went undrafted.
-
-In 2015, Yahoo! Sports ranked Fernandez as the 10th-best player of all time in Super Bowl history.
-
-Fernandez was 79.
+He was 68.
 
 RIP
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/manny-fernandez-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/bob-horner-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Top Deals on Sofia Richie Grainge Amazon Essentials Line
-<img src='https://imagez.tmz.com/image/f0/16by9/2025/09/26/f06a5b1d5176431f85130ace126cdf0a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Mackenzie Shirilla Had 'So Much Hate' in Texts Sent Before Fatal Crash
+<img src='https://imagez.tmz.com/image/5c/16by9/2026/05/26/5ce9a1f9f9bc4650a32c6a31a3055bb2_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Hello ... is it deals you're looking for?
+Mackenzie Shirilla and Dominic Russo’s relationship was unraveling in the days before the deadly crash, according to text messages obtained by TMZ.
 
-Pieces from Sofia Richie Grainge's kids line are a steal right now ... and these items from Lionel Richie's daughter are just too cute to pass up.
+The heated messages -- exchanged by the couple, roughly a week before the accident which ultimately claimed Dom's life -- show the couple locked in an emotional argument surrounding Dom needing some space from Mackenzie.
 
-Check out these must-own looks from Grainge's Amazon Essentials line for girls.
+In one exchange, Mackenzie tells Dom that she has "so much hate" and claims it stems from everything he put her through ... without getting specific.
+
+Dom responds by begging her to stop and explains his grandparents are in town only for a couple of days and just wants to be able to enjoy his time with them ... but Mackenzie claps back and says, "Maybe you shouldn't have been a f***ing d*ck."
+
+The newly re-surfaced texts are reigniting public debate surrounding Mackenzie’s state of mind in the days leading up to the crash.
+
+As previously reported, Mackenzie was arrested and ultimately convicted in connection with the 2022 high-speed crash that killed Dominic Russo and their friend Davion Flanagan, after prosecutors argued the collision was intentional.
+
+Her defense team maintained it was a tragic accident, and Mackenzie told cameras during the Netflix documentary "The Crash" that the only logical explanation for the fatal incident would be that she experienced a medical emergency. Her next hearing is in 2037.
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/mackenzie-shirillas-hateful-texts/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Courtney Stodden Goes Under the Knife For Breast Reduction, on Video
+<img src='https://imagez.tmz.com/image/38/16by9/2026/05/26/38fbb423efcf4a5cb1f1ef6a108183fb_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+Courtney Stodden is recovering from breast reduction surgery ... and there's video of her going under the knife, plus a look at her old implants.
+
+Courtney's transformation went down Friday at Dr. Stuart Linder's plastic surgery office in Beverly Hills, and footage shows her on an operating table listening to a Britney Spears classic before the anesthesia kicks in.
+
+Once Courtney is out cold, Dr. Linder and his staff go to work ... and at one point, he holds and describes her old breast implant, which is being swapped out for a smaller one.
+
+Courtney tells TMZ ... she's wanted a breast reduction for a while now, and felt it was finally the right time to pull the trigger.
+
+She says when she first got breast implants, it wasn't her sole decision ... and she felt like she got large breast implants back then as a way to prove to her younger self that she was a woman. She was 18 years old at the time, and did it after marrying actor Doug Hutchison when she was 16, and he was 51.
+
+Courtney tells us after years of feeling like her body belonged to the public, she's evolved and wants to take back her look ... by going smaller. She says her new boobs will be better for her body, especially her back. &nbsp;
+
+The breast reduction was a success, and it might not be the last time Courtney goes into the OR ... she told us she might do a full mommy makeover if she ever has a child.
+
+For now, Courtney says she's good with downsizing and didn't want to fully remove her implants because that would require major reconstructive surgery.
+
+Dr. Linder tells TMZ ... Courtney's new boobs are tapered on the sides and provide better proportions to her body, while still giving her plenty of cleavage.
+
+Guess bigger isn't always better.
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/courtney-stodden-breast-reduction-surgery-video/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Cupshe Bikinis and Swimsuits for Summer on Amazon
+<img src='https://imagez.tmz.com/image/e8/16by9/2025/05/15/e8e544f94c01486cad613d4745a0300f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+TMZ may collect a share of sales or other compensation from links on this page.
+
+Swimsuit season is finally here and it’s about time you gave your bikini collection a refresh! Before you know it, you'll be hitting the beach or working on your tan by the pool -- and you're gonna want to be wearing a cute new suit.
+
+Whether you're looking for a flirty two-piece, something that makes a statement or swimwear with a little more coverage, CUPSHE has all the options. Plus, they're all available on Amazon for prices that won't sink your budget, guaranteeing you'll be making a splash this summer.
 
 Want more great finds? Head to TMZ Deals.
 
-Lightweight Cardigan Sweater
+Push Up Bikini Top & High Waisted Bottom Set
 
-As temps continue to drop, bundle up your little lady in this Lightweight Cardigan Sweater!
+You’ll look flirty in florals in this Underwire Top &amp; High Waist Cheeky Bikini Set!
 
-This knit is made from 100% cotton yarn and has natural stretch, giving a relaxed, comfortable fit. It also features a scalloped detail, and adorable, floral-shaped faux-pearl snaps ... and comes in two other versions, one covered in strawberries and another in light pink.
+This super cute two-piece is perfect for summer, with all-over lavender and gold detailing. It comes with an adjustable push-up top with underwire, designed to help enhance the bust. The high-waisted bottoms feature moderate coverage and accentuate the waist with a ruffle trim. Plus, it comes in a variety of colors including a green and purple paisley print as well as basics like hot pink and sky blue.
 
-Midweight Field Jacket with Ruffle
+“MUST BUY FOR THE SUMMER!! I bought this bathing suit with hopes of it being the first two piece I’d wear in 3 years, and it exceeded expectations!! I have a mom pooch and stretch lines and the bottoms fit perfectly high waisted and hug you in all the right places. The top fits perfectly and no loose skin hangs over the sides,” one customer shared.
 
-This absolutely charming Field Jacket with Ruffle is the sweetest piece to add to your little one’s closet.
+Twist Front Cutout One Piece Swimsuit
 
-While it may be stylish, it’s also been designed for warmth, featuring durable and insulated quilted fabric. It also includes snap button closures, making it easy to put on and take off, even for little hands. Available in a variety of pastel colors and prints, this cute coat is sure to fit right in to your baby's wardrobe.
+If you’re skipping the bikinis this season, try out the Essential Space Wrap Front Cutout Ruched One Piece Swimsuit.
 
-Knit Casual Dress
+Featuring a twist front and deep v-neckline, this suit will be so flattering. It comes with removable soft cups for coverage as well as adjustable spaghetti straps and a back hook for support. Available in a wide variety of colors -- from forest green to cherry red -- you’re guaranteed to find something you’ll love.
 
-Keep the cuteness coming with this Girls' Knit Casual Dress!
+One five-star reviewer wrote: “I don’t like wearing bathing suits but after I tried on this one piece, I absolutely loved it! Comfortable, perfect fit…This one piece made me feel beautiful. Great quality, material is not too thin, the cut is also flattering.”
 
-Stretchy and breathable, this dress is fitted at the top and flowy below the waist, while the embroidered edges and front buttons give it some quality details that make it feel dressy enough for any occasion.
+Halter V-Neck Bikini Top & Cutout Cheeky Bottoms
 
-Non-Slip Mary Jane Shoes
+Channel those carefree beach vibes in this Boho Shell Stitch Halter Bikini Top &amp; Cheeky Bottoms Set.
 
-No outfit is complete without some Non-Slip Mary Jane Shoes.
+This cobalt blue two-piece features intricate shell-stitch detailing and a unique cut. With dual halter straps on top and a cutout at the hips, this bikini is sure to stand out from the rest. Plus, with a back hook and an adjustable tie top, you’re sure to get the support you need.
 
-These cute kicks are made from high quality faux patent leather, with a faux leather lining as well. They also feature brogue detailing, with an adjustable strap and padded insole with memory foam for comfort.
+One reviewer raved: “This bikini fits me better than any bikini I’ve ever worn-no exaggeration. I have bigger thighs and hips, and cellulite…Not only do these bottoms keep everything covered, they are comfortable, and they are actually CUTE on me compared to any swim bottom I’ve worn my whole life. This swimsuit is perfection for me and I will definitely be checking out this brand for swimwear in the future!”
 
-Linen Dress
+Underwire Push Up Top & High Waisted Bottoms
 
-Make you life easier and just pick up this Linen Dress in every color and call it a day!
+Hit the beach in style in this Underwire Push Up Top &amp; High Waisted Bikini Set.
 
-It's made of a ultra breathable linen, has beautiful accents around the sleeves, includes a slight elastic waist for fit and is complete with buttons in the back for ease of on and off.
+This black and white bathing suit is perfect for any occasion this summer and will pair so well with all of your coverups. With a basic black base and white contrast piping, this suit is chic and stylish. The V-neck top features the support of an underwire, ensuring a flattering fit that will keep everything in place wherever your summer adventures take you!
 
-Mommy & Me Pajama Set
+Front Cross Bikini Top & Lace Up Bottoms
 
-Last, but not least, these this Mommy and Me Short Sleeve Pajama Set.
+Add a little zest to your bikini collection with this Yellow Wrap Front &amp; Floral Print Tie Side Bikini Set!
 
-With this set, you can twin with your kid -- as the line has seven different designs they've used for matching pajamas for all ages, from babies and toddlers to moms.
+This citrus-inspired bathing suit features a bright yellow bralette top that wraps around and a lemon print bottom. And for some extra detailing, there’s also a lace-up back and two matching ties at the hip of the low-rise bottoms.
+
+One five-star reviewer wrote: “I love the fit of this bathing suit. The material is a good weight and not flimsy. The top gave me support but was not too confining and was easy to swim in. The bottom strings are able to be adjusted to create a nice fit without digging into my skin. This is my second Cupshe swimsuit and will be my go-to brand from now on. Highly recommend!”
+
+Scalloped Bikini Top with Mid Rise Bottoms
+
+Get a little playful with your swimwear in the Hazy Tenderness Flower One-Shoulder Top &amp; Hipster Bikini Set!
+
+With a pastel flower print and scalloped trim detail, this bathing suit is feminine, fun and perfect for summer. It's one shoulder neckline and removable cups provide plenty of support and can even be worn as a crop top throughout the season! Plus the matching mid-rise hipster bottoms are great if you’re looking for a little extra coverage.
+
+V Neck Scalloped Top & High Waisted Bottoms
+
+Put a new spin on the classic black two-piece with this Floral Jacquard Scalloped Bralette &amp; High Waist Bikini Set.
+
+This super chic bathing suit features a textured jacquard fabric that adds a touch of sophisticated detailing to your beach ’fit. The bralette top is accentuated with a scalloped trim as well as an adjustable crisscross back. And the matching bottoms provide coverage with a banded high-rise waist and cheeky high-leg cut. And if you want to make a statement, it comes in plenty of other colors too!
+
+One happy customer wrote: “Holy grail of swimsuits! This covers all the areas needed as a mom but is also just cheeky enough to not feel totally matronly. I love the cut and the straps are adjustable and the material feels super expensive.”
+
+Deep V Neck Crisscross Back One Piece
+
+This Deep V Neck Crisscross Back One Piece Swimsuit will become a staple in your swimwear collection this summer!
+
+While it may be a simple black swimsuit, this one-piece is super flattering and keeps things sexy with a plunging neckline and high-cut leg. It features adjustable crisscross straps as well as padding for extra support. And if black is a little too basic for you, there are plenty of other color options!
+
+“I absolutely love this swimsuit! The perfect V-neck design is both stylish and flattering, and the tummy control provides a smooth, confident fit. The material feels high-quality and comfortable, making it perfect for lounging by the pool or swimming. Highly recommend for anyone looking for a chic and confidence-boosting swimsuit!” One five-star reviewer wrote.
 
 For more curated product lists check out TMZ Deals.
 
@@ -642,53 +648,50 @@ All prices &amp; availability subject to change.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2025/09/29/sofia-grainge-amazon-prime-deal-day-sale/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2025/05/19/cupshe-swimsuits-sale-amazon/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Global Oil Price Rises After U.S. Strikes in Iran Cloud Peace Deal
+### 📰 Judge Lets Stand a Florida House Map That Could Add 4 Republican Seats
 <div align='justify'>
 
-Optimism for a resolution to the conflict and the reopening of the Strait of Hormuz was checked after the United States said it had carried out strikes on missile launch sites in Iran.
+The plaintiffs had argued that the map violated a state ban on partisan gerrymandering that the state’s voters passed in 2010.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/us/florida-congress-map-redistricting.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel Steps Up Strikes in Lebanon as U.S. Pushes for Iran Peace Deal
+### 📰 South Carolina Redistricting: Senate Passes on New Map, Defying Trump
 <div align='justify'>
 
-Hezbollah, the Iran-backed militant group, has also kept up rocket and drone attacks on Israeli troops, as the escalations threaten to complicate diplomatic efforts.
+With early voting already underway, it became clear there was no longer enough support to use new lines before the November midterm elections.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/world/middleeast/israel-strikes-escalation-lebanon.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/us/south-carolina-redistricting-map.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Evolving Warfare Connects the Conflicts in Ukraine and Iran
-<img src='https://wsrv.nl/?url=https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-facebookJumbo.jpg&w=800' width='100%' style='border-radius:15px;' alt='NY Times Image'>
-
+### 📰 Court Rejects Alabama House Map, Calling It Unfair to Black Voters
 <div align='justify'>
 
-The trench warfare and heavy artillery on Ukraine’s battlefields in 2022 don’t look much like the war by air and sea that began when the United States and Israel attacked Iran.
+Alabama is likely to appeal the ruling, which stops an effort to use a new congressional map that would likely cost Democrats a majority-Black district.
 
-But similarities between the two conflicts soon became evident and remain so almost three months later.
+</div>
 
-In both, the country with the more powerful military has been unable to vanquish its adversary. President Vladimir V. Putin of Russia expected a quick victory when he launched his “special military operation,” more than four years ago. President Trump initially vowed that the “little excursion” against Iran, which started on Feb. 28, would last four to five weeks.
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html)
 
-“For both Russia and for the United States, there’s a lot of unmet expectations about their military operations,” said Nicole Grajewski, an expert on Iran and Russia and a professor at Sciences Po, the elite social sciences university in Paris, attributing it to “the hubris on both sides.”
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-Over the last several days, negotiations have produced progress toward an initial plan for peace between Iran and the United States, though with much uncertainty, given the renewed American strikes against Iran on Monday. Whether or not an agreement is reached, the war will have provided lessons, along with the conflict in Ukraine, on the evolution of modern warfare.
+### 📰 The Wars in Ukraine and Iran Are More Alike Than You May Think
+<div align='justify'>
 
-Asymmetrical tactics have helped both Ukraine and Iran hold off stronger forces with which they could not compete in a conventional miliary confrontation.
-
-Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.
+Aspects such as drone technology and diplomacy show how the wars intersect on the battlefield and in global alignments, providing a model for future conflicts.
 
 </div>
 
@@ -696,31 +699,66 @@ Thank you for your patience while we verify access. If you are in Reader mode pl
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 White House Shakes Up Green Card Policy, and the Pope Takes On A.I.
+### 📰 Iran Begins Lifting Monthslong Internet Blackout, Officials Say
 <div align='justify'>
 
-Plus, will anyone want an electric Ferrari?
+Organizations that track online traffic confirmed an uptick in activity on Tuesday, as Iranians reconnected to the global internet after a government-imposed shutdown.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/podcasts/the-headlines/white-house-green-card-pope-ai.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 As Trump Politicizes Justice Dept., Prosecutors Struggle With Grand Juries
-<div align='justify'>
-
-Judges and grand juries have increasingly lost faith in the Justice Department as the president uses it to reward his friends and go after his opponents.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/us/politics/trump-justice-department-grand-juries.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/world/middleeast/iran-internet-blackout-lifting.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 NASA Provides Update on Moon Base Rovers, Landers, Missions
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605260002.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+During a Moon Base event Tuesday at NASA’s Headquarters in Washington, the agency announced new contracts for lunar rovers for crew to drive and uncrewed cargo landers bound for the Moon. NASA leaders also shared target launch timeframes and upcoming milestones for the first Moon Base infrastructure and exploration missions to the lunar South Pole region ahead of Artemis astronaut landings.
+
+“The Moon Base will be America’s and humanity’s first outpost on another celestial world,” said NASA Administrator Jared Isaacman. “Every mission, crewed and uncrewed, will be a learning opportunity as we return to the lunar surface, build the infrastructure to stay, and master the skills required to live and operate in one of the most demanding and dangerous environments imaginable. We will go for the science, for all we stand to gain from an economic and technological perspective, for the innovations that will make life better here on Earth, and to prepare for where we will inevitably go next. We are grateful for President Trump’s leadership, the bipartisan commitment from Congress, our industry and international partners, and the dedicated NASA workforce whose expertise enables us to achieve the near-impossible.”
+
+NASA announced the first three Moon Base missions to begin building sustained operations:
+
+These missions are the first of more than a dozen missions that will be announced this year, each designed to generate operational data and reduce risk ahead of crewed Artemis surface activities.
+
+NASA has awarded Astrolab $219 million and Lunar Outpost $220 million to build and deliver the first phase of LTVs. Awarded under the Phase 1 High Achievability Mission task orders of the Lunar Terrain Vehicle Services contract, these firm-fixed-price, performance-based milestones will enable NASA to deploy crewed and uncrewed mobility systems to the lunar surface by 2028 through the agency’s CLPS (Commercial Lunar Payload Services) initiative. Early surface mobility is a foundational component of the national space policy priority to create an enduring lunar presence.
+
+Astrolab’s Crewed Lunar Vehicle, or CLV‑1, adapted from the company’s FLEX architecture, is a crewed rover designed to transport astronauts, carry supplies, and support remote operations, with a compact stowed configuration, a mass of about 2,000 pounds, and the ability to reach more than 6 mph on level terrain.
+
+Complementing this capability, Lunar Outpost’s Pegasus is a lighter, mission‑ready evolution of its Eagle rover designed explicitly to meet NASA’s updated LTV requirements. Operational for up to a year and capable of manual, autonomous, or teleoperated driving at speeds more than 9 mph, Pegasus incorporates Apollo‑heritage technologies and builds on prototype and flight experience to deliver human‑centered mobility essential for establishing a sustained Moon Base.
+
+Deploying multiple LTVs early in Moon Base development will accelerate technology demonstrations, inform site planning, and reduce operational risk ahead of crewed Artemis missions, enabling NASA to characterize terrain hazards, move materials, pre-stage resources, and mature systems needed for long-duration lunar exploration.
+
+Over the next 18 months, the selected providers will finalize rover designs, conduct crewed evaluations, and qualify flight units for operational readiness, with the resulting LTVs supporting autonomous traverses, terrain preparation, scientific investigations, technology demonstrations, and astronaut transport.
+
+As Moon Base efforts advance, NASA will expand opportunities for additional vendors through on‑ramp competitions, fostering a robust, sustainable approach to lunar mobility and strengthening national priorities in space capability.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Chennai City Lights
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/iss074e0543247orig.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+Chennai, on India’s southern coast along the Bay of Bengal and with a metropolitan population of about 8.7 million, shines with white LED streetlights in this photograph taken at approximately 9:13 p.m. local time on May 2, 2026, from the International Space Station.
+
+Earth observations from the space station let us see how our planet changes over time. In combination with NASA-developed technologies, these observations provide the foundation needed to explore and sustain human life on the Moon, Mars, and beyond.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/chennai-city-lights/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe
 <img src='https://assets.science.nasa.gov/content/dam/science/cds/science-enabling-technology/technology-highlights/2026/PUEO_3_Tech_highlight.JPG' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -813,58 +851,6 @@ The team successfully completed the spacewalk and restored the system. “The ag
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 An Early “Decoration Day” Celebration
-<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/an-early--decoration-day--celebration/charleston_oli2_20260424_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-In a precursor to Memorial Day, people in Charleston, South Carolina, honored fallen Civil War troops with flowers, songs, and marches at an event at a racetrack on May 1, 1865.
-
-The origins of Memorial Day lie in the U.S. Civil War, a conflict that led to the deaths of nearly 700,000 Americans. By the waning days of the war, makeshift military cemeteries had sprung up throughout the country, but especially in the South and Mid-Atlantic, where much of the fighting occurred.
-
-By the time the leader of the veterans' group Grand Army of the Republic declared May 30, 1868, as “Decoration Day”—a day for "strewing with flowers or otherwise decorating the graves of comrades who died in the defense of their country"—informal memorials and commemorative events were already happening.
-
-The U.S. Department of Veterans Affairs notes that at least 25 places played a role in the early years of the holiday, including Columbus, Mississippi; Macon, Georgia; Columbus, Georgia; Richmond, Virginia; Boalsburg, Pennsylvania; and Carbondale, Illinois.
-
-One of the earliest and largest ceremonies documented by historians occurred in Charleston, South Carolina. Confederate control of the badly damaged city had ended in February 1865, and Union troops had emancipated thousands of people there. Among the first tasks taken on was ensuring a proper burial for 257 soldiers found in mass graves near a racetrack at the Washington Race Course and Jockey Club, which had been used as a prison camp during the war.
-
-After these soldiers had been re-interred in a new cemetery nearby, a crowd of roughly 10,000 people, including freedmen, missionaries, teachers, and soldiers, assembled at the racetrack and held a parade on May 1, 1865. The day featured thousands of schoolchildren carrying armloads of roses, women bearing flowers and wreaths, double-time marches by troops, choir performances of the "Star-Spangled Banner," and Bible recitations by local ministers.
-
-Much has changed in Charleston since the Civil War. The city has been rebuilt, and it has grown from a pre-war population of 40,000 to 160,000 today. Yet signs of the racetrack in what is now Hampton Park, where the early memorial event took place, remain visible—even to a sensor orbiting Earth on Landsat 9 (above).
-
-In 1968, the federal government declared Memorial Day an official national holiday with the Uniform Monday Holiday Act, which moved Decoration Day celebrations from May 30 to the last Monday in May. This act followed a congressional resolution in 1966 that recognized a century of Memorial Day events in Waterloo, New York, acknowledging its claim as the "birthplace" of Memorial Day in honor of a commemorative event held there on May 5, 1866.
-
-NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey. Story by Adam Voiland.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/an-early-decoration-day-celebration/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling
-<img src='https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-As NASA pushes the boundaries of exploration and innovation for the benefit of humanity, the agency is looking for partners to share mission stories covering Artemis Moon missions, nuclear propulsion, aeronautics, and more.
-
-NASA published an Announcement for Proposals on May 21 asking filmmakers, documentarians, songwriters, storytellers, poets, and others to submit proposals to partner with the agency by Tuesday, June 30.
-
-In this initial round, NASA is seeking up to 10 partners for unfunded Space Act Agreements to share the stories behind, and insights into, multiple NASA missions, including, but not limited to, the following:
-
-While this opportunity is focused on U.S. creators, the agency will consider proposals with a minority of international participants. Proposals should detail which area of focus is desired, funding and distribution arrangements, and any specifics needs from NASA to move forward (access to facilities, personnel, etc.).
-
-Camille Gallo / Cheryl WarnerHeadquarters, Washington202-358-1600camille.m.gallo@nasa.gov / cheryl.m.warner@nasa.gov
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
