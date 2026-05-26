@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/25 - 23:44`
+**📅 Update (Tehran Time):** `2026/05/26 - 17:50`
 
 ---
 
@@ -19,244 +19,304 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 THE KISWA: BEYOND THE CLOTH
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779737066.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Norway World Cup 2026 preview: Players to watch, group matches, squad list
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a1045fe-1779451390_5a5fae-1779788567.jpg?resize=1200%2C630&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Every Muslim on earth has faced it in prayer. Billions have seen it in photos. Almost nobody knows its story.
+Previous World Cup appearances: 3
+Best performance: Last 16 (1938, 1998)
+First appearance: 1938 (France)
+Top goal scorer: Kjetil Rekdal (2)
+Most appearances: Henning Berg, Stig Inge Bjornebye, Kjetil Rekdal (7)
+Player to watch: Erling Haaland
+FIFA world ranking: 31
+
+Norway have not played at a World Cup since 1998, as a generation of fans has had to endure a series of near misses and damp squibs.
+
+This Norway side, however, powered by the superstar Erling Haaland alongside a bunch of other huge talents, stormed their qualifying group with eight wins out of eight, including giving Italy home and away drubbings.
+
+Not only are the Scandinavian nation finally back at the World Cup, this time they aim to go far – if not all the way.
+
+The squad was announced on Thursday in a video by the country’s King Harald V, who said the country has “waited a long time” to return to the World Cup.
+
+“The hope has lived on – on gravel, on grass and artificial turf … Across long distances, ferries and mountain passes,” he said.
+
+The Man City striker ran rampant in qualifying, scoring five goals and grabbing two assists in a 11-1 mauling of Moldova. He also scored a hat-trick in Norway’s 5-0 thrashing of Israel, becoming the fastest player in history to reach 50 international goals, which he scored in just 46 appearances.
+
+Haaland’s domestic season has produced another bumper tally of goals, even if they came in fits and starts – he won the Premier League’s golden boot again with 27 goals.
+
+The 25 year old also became the fastest player to reach 100 Premier League goals, scored in just 111 appearances.
+
+Haaland also has an added personal inspiration in this tournament as his father played in the last US World Cup, back in 1994.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/the-kiswa-beyond-the-cloth?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/26/norway-world-cup-2026-preview-players-to-watch-group-matches-squad-list?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Kyiv’s Chornobyl Museum devastated in overnight Russian missile attack
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-25T131208Z_926561931_RC2AGLA7DQCD_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KYIV-MUSEUM-1779736643.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Al Jazeera speaks to Hajj pilgrims about their journey to Mecca
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779802383.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-An overnight Russian missile strike on Kyiv has destroyed nearly half of the exhibits at the National Chornobyl Museum, according to officials. The attack comes as Russia threatens systematic and widespread attacks on Ukraine’s capital.
+Pilgrims gather on the Day of Arafah, the spiritual peak of Hajj, retracing the Prophet Muhammad’s final sermon.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/kyivs-chornobyl-museum-devastated-in-overnight-russian-missile-attack?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/26/al-jazeera-speaks-to-hajj-pilgrims-about-their-journey-to-mecca?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Father mourns daughter killed in Israeli strike on Gaza
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Girl-killed-in-Khan-Younis-1779736303.png?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Israel’s occupation of Gaza, Lebanon, Syria extends beyond what maps show
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260429__A9CH2CV__v1__HighRes__IsraelLebanonIranUsWarHezbollah-1777614967.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A six-year-old Palestinian girl was killed by an Israeli strike on a displacement camp in Khan Younis.
+Since October 7, 2023, Israeli military control maps in its surrounding areas are no longer merely lines announced in official statements or drawn on military maps.
+
+After every ceasefire agreement, a map has emerged, and after every map, questions on the ground arise: Where do the forces actually stand? Do the field markers, demolition operations, and military positions match what is declared on paper?
+
+The Digital Investigations Team at Al Jazeera’s Open Source Unit tracked three areas where new borders for the Israeli military presence have taken shape: the Gaza Strip, southern Lebanon, and southern Syria.
+
+In Gaza, we looked at the “Yellow Line“, which appeared on the ceasefire agreement maps as the limit of Israeli control within the Strip, designated by yellow concrete markers on the ground.
+
+In southern Lebanon, the investigation looked at the military zone declared by Israel following a subsequent ceasefire agreement with that country, before examining what satellite imagery shows as the actual situation in impacted villages and towns.
+
+As for southern Syria, where no similar official Israeli map exists, we looked at fixed military outposts beyond the “Alpha Line” that separates the occupied Golan Heights from the rest of Syria.
+
+Since each area provides a different type of evidence, the investigation combined official maps published by the Israeli army, satellite imagery captured after the ceasefire agreements, spatial calculations using Geographic Information System (GIS) and data from the Armed Conflict Location & Event Data Project (ACLED).
+
+In Gaza, the story begins with a line drawn by the Israeli army on its maps following the “ceasefire” agreement signed on October 10, 2025. Known as the “Yellow Line”, it was presented as the boundary separating Israeli military control zones within Gaza, covering an area estimated at about 200sq km (77sq miles), according to Israeli maps.
+
+However, when Al Jazeera’s team tried to trace the reality on the ground, a gap emerged between what was declared on the maps and what the imagery and field data revealed.
+
+The investigation relied on satellite imagery and geolocation of the yellow concrete blocks placed by the Israeli military up to early February 2026.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/father-mourns-daughter-killed-in-israeli-strike-on-gaza?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/26/israels-occupation-of-gaza-lebanon-syria-extends-beyond-what-maps-show?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Lebanon marks Liberation Day under Israeli bombardment
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779735687.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Report warns pro-Palestine protesters face legal crackdown: What to know
+<img src='https://www.aljazeera.com/wp-content/uploads/2025/06/13143702-1751026125.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-People in Lebanon have gathered to observe Liberation Day, which marks the date in 2000 when Israel ended its 22-year occupation of southern Lebanon. Al Jazeera’s Zeina Khodr explains how this year’s celebrations come as occupation returns to the country’s south.
+A new report warns that Britain is undergoing a “deeply troubling transformation” in how it treats political protest as climate activists and pro-Palestine campaigners increasingly face lengthy prison sentences, sweeping legal restrictions and months in jail before trial.
+
+The report, Britain’s Political Prisoners, copublished by researchers at the Centre for Climate Crime and Climate Justice at Queen Mary University of London and the campaign group Defend Our Juries, said the UK has “witnessed an increase in anti-protest powers granted to the police and the courts through legislation” that has “created a significantly more repressive legal terrain for activists engaging in civil disobedience and direct action”.
+
+It traces the shift from crackdowns on protests by Extinction Rebellion, Black Lives Matter, Insulate Britain and Just Stop Oil to more recent prosecutions linked to Palestine solidarity actions, including campaigns targeting British factories operated by Elbit Systems, Israel’s largest weapons manufacturer.
+
+The report, released on Tuesday, found that a combination of new laws, broader police powers and increasingly punitive court tactics has reshaped Britain’s protest landscape since 2019.
+
+The United Kingdom has witnessed numerous mass protests and direct actions by activists to pressure the government to stop selling arms to Israel during its genocidal war on Gaza, in which more than 72,000 Palestinians have been killed, including more than 40,000 women, children and elderly.
+
+So what does Britain’s shifting stance on protests mean for civil rights, and what’s behind the legal clampdown on climate and pro-Palestine protests?
+
+The report painted a stark picture of how Britain’s legal system has changed in response to climate and pro-Palestine direct action campaigns through a mix of new laws, expanded police powers and what campaigners describe as increasingly punitive court tactics. What this means for protesters is longer jail sentences, stricter bail conditions and harsher treatment in the courts than was once typical for acts of civil disobedience, according to the report.
+
+At the centre of that shift are two major laws introduced after waves of demonstrations by groups such as Extinction Rebellion and Just Stop Oil, two environmental groups that employ nonviolent civil disobedience tactics to pressure governments to address the climate crisis.
+
+The Police, Crime, Sentencing and Courts Act 2022 transformed the old common law offence of “public nuisance” into a formal criminal offence carrying a sentence of up to 10 years in prison. This means actions that seriously disrupt the public – such as blocking roads, stopping traffic or shutting down infrastructure – can now lead to far more severe criminal penalties than before because the offence was never previously codified into legislation. Campaigners said the law has given prosecutors a powerful new tool to pursue long prison sentences against protesters.
+
+The Public Order Act 2023 introduced a series of protest-specific offences in May of that year, largely in response to climate protests by groups including Just Stop Oil, Insulate Britain and Extinction Rebellion, whose actions included blocking motorways, occupying oil terminals and targeting infrastructure projects in an attempt to pressure the government to halt new oil and gas extraction.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/25/lebanon-marks-liberation-day-under-israeli-bombardment?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/26/report-warns-pro-palestine-protesters-face-legal-crackdown-what-to-know?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 In Lebanon, everything and nothing has changed since 2000
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a149921-1779734817.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 French Open: Medvedev shocked by wildcard Walton in first round
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-26T124125Z_2087997960_UP1EM5Q0Z8ZFY_RTRMADP_3_TENNIS-FRENCHOPEN-1779800551.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Twenty-six years ago this week, Israel was forced to end an 18-year occupation of south Lebanon. Much has changed since, yet Lebanon and Israel still cling to the very policies that dragged them into today’s war, a war that has engulfed Iran, drawn in the United States, and now threatens the global economy itself.
+Daniil Medvedev could not avoid the ⁠French Open ⁠first-round trapdoor as he fell 6-2 1-6 6-1 1-6 6-4 to Australian wildcard Adam Walton in a match marked by sharp swings in momentum on the Parisian clay.
 
-Palestine remains the central issue reverberating across the region and the world. It is why Israel began attacking pro-Palestine forces in Lebanon in the 1970s, years before Hezbollah formed, and why that local conflict has widened ever since. Iran’s backing of Hezbollah after 1982 turned Lebanon into a front line between Iran and Israel; today, with the United States fighting alongside Israel, that front has grown into a regional war. At its heart stands Hezbollah, the central pillar of the Iran-anchored “Axis of Resistance” that opposes Israeli-American hegemony.
+The former world ⁠number one had fallen at the first hurdle in six of his previous nine appearances at the clay court Grand Slam, highlighting his uneasy relationship with Roland Garros and ‌the sport’s slowest surface.
 
-Lebanon might seem like a sideshow in this regional and global frame. But it deserves greater scrutiny precisely because it was, and remains, the spark that expanded 78 years of Israel-Lebanon-Palestine friction into today’s regional war.
+Medvedev showed early signs of frustration on Tuesday when he dropped serve and then allowed Walton to build a 4-2 lead in the opening set, which the 30-year-old relinquished with a forehand that sailed over the baseline.
 
-Much has changed in Lebanon since 2000. Advanced missile, drone and radar technology now shapes the balance of power, above all Iran and Hezbollah’s growing ability often to evade US-Israeli air defences. Lebanon’s economy has been shattered, its people driven from their homes again and again, and Israel has devastated towns and villages across the south, unleashing the doctrine of urban annihilation it forged in Beirut’s Dahiyeh in 2006, and subsequently applied in Gaza. Hezbollah was hit hard, but has been reborn as a leaner, more agile force that once again thwarts Israel’s drive to subdue Lebanon, or carve out another permanent security zone inside it.
+The recovery was swift ⁠and emphatic as Medvedev regained his ⁠rhythm to wrest control by claiming the next set at the loss of only one game, but the sixth seed could not ⁠maintain his grip and let the third set slip away.
 
-The regional picture has shifted too. Syria’s role as Hezbollah’s link to Iran has collapsed, and Iran itself was damaged by the US-Israeli assault. Yet Tehran seems determined to see Lebanon covered by any regional deal that ends the war. The United States has openly sided with Israel, pressuring President Joseph Aoun and Prime Minister Nawaf Salam to “disarm” Hezbollah and remove a lingering threat to Israel, or else possibly face more Gaza-style destruction across Lebanon. Other powers, including China, Saudi Arabia, Türkiye, Pakistan and Russia, have pressed in different ways to end the war on Iran and restore calm and Lebanese sovereignty.
+World number 97 ⁠Walton, who was seeking a first ⁠win over a top-10 player, surrendered the fourth set but fought on bravely in the decider to break back at 4-4, before ‌producing a tight hold and then dismissing Medvedev for a famous victory.
 
-In the midst of this political whirlwind, several conditions from the pre-2000 era still prevail in Lebanon. The population remains split over Hezbollah’s role as an armed movement offering the only impactful resistance to Israel. The government seems unable to act, politically or militarily, for lack of funds, domestic consensus or military clout. At times it bends to Israeli or American pressure: “disarming” already marginalised Palestinian camps, or meeting Israeli officials in Washington under the aegis of Washington’s pro-Israel bias.
+“It’s huge,” Walton said of the victory in his on-court interview, adding that a win over Medvedev in Cincinnati last year had given him the confidence to repeat the ‌feat.
 
-Washington has also tied financial support for Lebanon’s reconstruction to Beirut’s compliance with US-Israeli terms. Its pro-Israel bias is clear in its readiness to ignore Israeli violations of the last two ceasefires, and in formally backing Israel’s right to attack any Lebanese it deems a threat, while denying Lebanese threatened by Israel the same right.
+“I knew I could do it and I believed, so I’m just happy with my performance. I’m really excited right now.
 
-The Lebanese government also feels the pressure of a disgruntled, deeply impoverished population, exasperated by relentless Israeli attacks that, in 2026 alone, have killed more than 3,000 people, forcibly displaced 1.2 million and devastated dozens of villages and small towns. It justifies its talks with Israel as an attempt to offset its military disadvantage, using US pressure to stop the attacks and let Beirut re-establish sovereign control over all its land.
+“It was such an up-and-down match. I’m pretty tired right now. I got off to a hot start, and I felt like the ebbs ‌and flows of the match were quite large.
 
-Hovering above these old and new dynamics is a historic reality: Iran and Hezbollah, with support from allies abroad, absorbed the devastating Israeli-American assault and twice forced their far more powerful, nuclear-armed adversaries to accept a ceasefire and negotiate anew, first over Iran in early April, then over Lebanon days later. The Lebanon truce is now meant to fold into the wider US-Iran settlement. Both ceasefires seem to herald weakened US-Israeli positions in the region, deep political blows to Israeli Prime Minister Benjamin Netanyahu, and new diplomatic leverage for Iran, Hezbollah and their allies.
+“I’m just really proud of my efforts in the fifth set, to come from a break ‌down ‌to get the win.”
 
-What lesson might we draw from all this? Perhaps that military power, however savage or genocidal, cannot forever dictate realities across the Middle East. Buffer and “security” zones, new Israeli settlements, local pro-Israel accomplices, military outposts, relentless air strikes, the whole US-backed Israeli playbook, may all be consigned to the past if current trends hold.
+Up next for the 27-year-old is ‌a ‌second-round meeting with American Zachary Svajda, who beat Australian Alexei Popyrin.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/sports/2026/5/26/medvedev-shocked-by-wildcard-walton-in-french-open-first-round?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Deal with US not imminent, Iran says
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/a0c1/live/741c5a20-5827-11f1-8df1-478734c7d1a9.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Iran condemns US strikes as 'gross violation' of ceasefire
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1545/live/65ce5bc0-5904-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Iran says some progress has been reached in talks with the US, but a deal "is not imminent".
+Iran says the US has committed a "gross violation" of the ceasefire with new air strikes it launched on the country in the past 48 hours.
 
-Foreign ministry spokesman Esmail Baqai's remarks came after US Secretary of State Marco Rubio said an agreement could possibly be reached on Monday.
+The US Central Command (Centcom) said Iranian missile sites and boats attempting to place mines had been targeted with what it called "self-defence strikes" in southern Iran on Monday.
 
-"It is correct to say that we have reached a conclusion on a large portion of the issues under discussion," Baqai said in Tehran on Monday. "But to say that this means the signing of an agreement is imminent - no-one can make such a claim."
+Iran's foreign ministry said it held the US responsible for the consequences of its "aggressive and unjustified actions" in the Hormozgan region, which has a coast along the Strait of Hormuz - the crucial waterway Iran has blocked causing a spike in world energy prices.
 
-The memorandum of understanding reportedly involves a 60-day ceasefire extension, reopening the Strait of Hormuz and a plan for further negotiations over Iran's nuclear programme.
+It is unclear what impact the strikes will have on talks aimed to end the conflict.
 
-At the weekend, President Donald Trump suggested the sides were closing a deal, even though he later said he had instructed negotiators "not to rush into" one.
+"Without a doubt, the Islamic Republic of Iran will not leave any evil unanswered and will not hesitate to defend the Iranian nation," the Iranian statement said.
 
-On Monday, Rubio told reporters in the Indian capital, Delhi: "We thought we might have some news last night. Maybe today."
+However, US Secretary of State Marco Rubio said a deal from the talks was still possible, but it would "take a few days".
 
-Cautioning "I wouldn't read too much into it", Rubio said: "It takes a little while to hear back from Iran."
+One of the stumbling blocks reportedly centres on Tehran's request for the release of frozen Iranian funds held abroad.
 
-CBS News, the BBC's US partner, has reported that US intelligence believes Iran's Supreme Leader Mojtaba Khamenei - who was injured in an Israeli strike on the first day of the war which killed his father and predecessor - is holed up in an undisclosed location, making communication with his envoys difficult and therefore delaying pace of talks with the US.
+However, Iranian negotiators have been taking parts in Qatar this week.
 
-According to US media, the mooted deal is not a final settlement - instead it leaves some of the thorniest issues to be negotiated later, including the scope and timing of Iranian sanctions relief, the release of frozen Iranian funds, and Washington's demands for Iran to curb its nuclear ambitions.
+An official briefed on the Doha visit told Reuters news agency that Iran's central bank governor had attended Monday's talks to discuss the frozen assets, with discussions focusing primarily on Iran's stockpile of highly enriched uranium, and the Strait of Hormuz.
 
-"So we have, what I think is a pretty solid thing on the table in terms of their ability to open up the Straits," he said referring to the Strait of Hormuz - the crucial waterway where 20% of the world's oil and liquefied natural gas passes and which Iran has been blocking.
+Iran has effectively blocked the vital shipping lane, through which around one fifth of the world's oil passes, since the US and Israel started the conflict on 28 February.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Oil prices slide on hopes of US-Iran peace deal
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/31c2/live/3949aed0-57ea-11f1-8305-4591ea57c76a.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Four killed as school minibus collides with train in Belgium
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/03ad/live/d95a6b60-58e6-11f1-aa85-913b08133db5.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Oil prices have fallen sharply on hopes of a deal that could bring an end to the US-Israel war with Iran.
+Two children, aged 12 and 15, and two adults have been killed in a collision between a train and a school minibus in Buggenhout, northern Belgium.
 
-US Secretary of State Marco Rubio said negotiators had a "pretty solid thing on the table" and an agreement to end the conflict might be reached on Monday.
+The bus was carrying seven children, a driver, 49, and a chaperone, 27, at the time of the collision, which took place shortly after 08:00 local time (06:00 GMT).
 
-On Monday morning, global oil benchmark Brent fell 5.5% to $97.90 a barrel, and remained around $97.70 a barrel in the afternoon.
+Federal police spokeswoman An Berger said it had been on its way to a special education school.
 
-US President Donald Trump said the negotiations were "proceeding nicely" but added it would either be "a great deal for all or no deal at all".
+Belgian mobility minister Jean-Luc Crucke confirmed reports that the barriers on a level crossing had been down when the crash happened.
 
-While Iran says progress has been made, a government spokesman added that a deal was "not imminent".
+The other five children who were on the bus are in a critical but stable condition in hospital, the public prosecutor's spokeswoman said.
 
-Trump had previously said the deal would include the reopening of the key Strait of Hormuz shipping route, without giving further details.
+Berger said the minibus had been travelling on a street parallel to the railway and then the driver turned left on to the level crossing while the barrier was already down. At that point, a train was heading through the small town of Buggenhout and ran into the minibus.
 
-The Strait of Hormuz, through which around a fifth of the world's oil and liquefied natural gas (LNG) usually passes, has been effectively closed since the conflict started on 28 February.
+The impact of the crash was extremely violent, as the train was travelling at about 90km/h (55mph). The minibus collided with a pole before being thrown some distance into the driveway of a nearby house.
 
-Earlier on Monday, Rubio said the talks were "still a work in progress."
+Nobody on the train was hurt, although one person was being treated for shock, according to Berger.
 
-"As I said, you know, we thought we might have some news last night," Rubio said in the Indian capital, Delhi.
+"What heartbreaking news," Flemish education minister Zuhal Demir posted on social media. "My thoughts are with all the victims, their families and everyone closely involved."
 
-His comments came after Trump said he had instructed negotiators "not to rush into a deal", after earlier suggesting one was close.
+"Today, Europe grieves with Belgium," said European Commission President Ursula von der Leyen.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Russia threatens more Kyiv strikes and tells foreign nationals to leave
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/e77a/live/157edd60-585b-11f1-9a33-c313bd26e03f.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Eleven killed in Lebanon village as Israel intensifies strikes
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/1caf/live/cf3a1cc0-58f5-11f1-afe0-d7f70885c2dd.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Russia has threatened to launch a fresh wave of "systematic strikes" against Kyiv, days after carrying out one of its largest attacks on the Ukrainian capital since the start of the war.
+Israel has launched an intensive wave of strikes across swathes of southern and eastern Lebanon, after vowing to step up its military action against Hezbollah.
 
-The new strikes will target "decision-making centres and command posts", alongside drone manufacturing facilities in the city, Russia's foreign ministry said in a statement.
+The Israeli military said it hit more than 100 Hezbollah infrastructure sites and fighters during what was one of the heaviest nights of bombardment since a US-brokered ceasefire began in mid-April.
 
-Moscow has called for foreign nationals and diplomats to leave Kyiv "as soon as possible" and warned citizens to stay away from administrative and military buildings.
+Strikes in the Bekaa Valley village of Mashghara killed 11 people, including two children, Lebanon's health ministry said. The military said it hit sites where "terrorist activity" was identified.
 
-Large-scale Russian strikes on Saturday night killed four and injured about 100 people in Kyiv and other areas, Ukrainian President Volodymyr Zelensky said.
+It came after Israel's Prime Minister Benjamin Netanyahu said he had given the instruction to "press the pedal even harder" in targeting Hezbollah.
 
-Moscow said that barrage and threatened further strikes were in response to what it claims was a deliberate Ukrainian attack on a student dormitory in the town of Starobilsk on Friday, in which Russian officials said 21 people were killed.
+The ceasefire has been repeatedly violated by both sides, threatening to derail the complex ongoing talks to end the war between the US, Israel and Iran.
 
-Ukraine's military said its forces had struck an elite Russian military drone unit in the area, in Russian-occupied eastern Ukraine, and had not targeted civilians.
+Israeli air and artillery strikes have continued daily, especially in the south of Lebanon, while Hezbollah has been launching rockets and drones at communities in northern Israel and Israeli troops occupying parts of southern Lebanon.
 
-Russia has launched several waves of deadly missile and drone attacks on Kyiv since a brief ceasefire, that coincided with Moscow's annual Victory Day parade, expired earlier in May.
+On Monday night, Netanyahu said in a video statement that Israel was going to increase the number and intensity of its strikes targeting Hezbollah in response to the Iran-backed Shia Muslim group's attacks, including those involving fibre-optic drones that can evade Israeli defences.
 
-Shortly after that, Russian strikes on Kyiv killed 24 people, including three children, in a block of flats.
+The announcement prompted scenes of panic in Beirut's southern suburbs, a Hezbollah stronghold, where residents were seen fleeing the area following the remarks. Thousands of cars lined the streets with families trying to escape for safety.
 
-Days later, Russian officials said three people were killed in a large-scale Ukrainian drone attack on the Moscow region, with Zelensky saying the strikes were an "entirely justified" response to deadly Russian attacks.
+Though the overnight strikes spared the capital, Israeli warplanes carried out wave after wave of strikes across Lebanon throughout the evening and into the early hours. The BBC counted dozens of attacks across nearly 50 locations.
 
-Kyiv then suffered one of the biggest aerial assaults of the war overnight on Saturday.
+A man and his wife were killed in a strike on their home in the southern town of Arab Salim on Monday evening, and two other people were killed in the village of Kauthariyet El Rez, according to Lebanon's state-run National News Agency (NNA).
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Ebola needs swift response to prevent catastrophe, says DR Congo governor
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/c02f/live/ef4dacc0-58eb-11f1-8409-e1d7d8df4ed8.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+The military governor of the Democratic Republic of Congo's Ituri province, the epicentre of the current Ebola outbreak, has likened the struggle to contain the spread of the virus to a "war" for which they are lacking resources to fight.
+
+"People in affected areas are not receiving enough food," Johnny Luboya Nkashama told French broadcaster RFI, adding that "other diseases" and "overcrowding" are also issues.
+
+He called for a "swift response", including strengthening the capacity of staff to prevent Ituri "from descending into catastrophe".
+
+Officials say there are more than 900 suspected cases of Ebola, and 223 suspected deaths, since the outbreak was declared on 15 May.
+
+The World Health Organization (WHO) said the disease may be spreading faster than originally thought and has declared a public health emergency of international concern.
+
+On Monday, WHO director-general Tedros Adhanom Ghebreyesus, who is due to travel to DR Congo, has said the Ebola outbreak is outpacing urgent efforts to scale up a response adding that responders were "playing catch-up".
+
+Ebola has also been reported in DR Congo's North and South Kivu provinces, as well as in neighbouring Uganda, where there have been seven confirmed cases.
+
+Elaborating on what his province needs, Kashama explained "qualified personnel" should be deployed as soon as possible and "secure treatment centres" established.
+
+Angry relatives trying to claim the bodies of loved ones who had reportedly died of Ebola have targeted two treatment centres.
+
+"Our existing resources were dedicated to the war, and this second war that is now upon us demands even more," he said on RFI.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ### 📰 Netanyahu says Israel will intensify strikes against Hezbollah
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/05aa/live/288ac730-5869-11f1-be4e-d7a885f34348.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d385/live/20d8eb10-5879-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The Israeli military says it has begun a wave of strikes across Lebanon following an announcement by Prime Minister Benjamin Netanyahu that his country will intensify its attacks on Hezbollah.
+Israel's military says it has begun a wave of strikes across Lebanon following an announcement by Prime Minister Benjamin Netanyahu that his country will intensify its attacks on Hezbollah.
 
-The Israel Defense Forces (IDF) said it had launched strikes against Hezbollah sites in the Bekaa Valley in the east of Lebanon and additional areas across the country.
+The Israel Defense Forces (IDF) said it had launched strikes against Hezbollah in the eastern Bekaa Valley and other parts of the country.
 
-It followed a video statement on Monday evening in which Netanyahu said Israel was "at war with Hezbollah" and that he had given the military instructions to "deal them a crushing blow".
+Hezbollah, a Shia Muslim armed group in Lebanon backed by Iran, said it had retaliated by carrying out 22 drone and rocket attacks and that its targets included Israeli soldiers, tanks, barracks and buildings.
 
-Earlier this month Lebanon and Israel agreed to extend a 45-day ceasefire, though some fighting has continued.
+Earlier this month, Lebanon and Israel agreed to extend a 45-day ceasefire which began in mid-April, though attacks between Israel and Hezbollah have continued.
 
-There will be fears in Beirut that these latest Israeli attacks will widen to include Lebanon's capital city.
+On Tuesday morning, the IDF said it had "struck more than 100 Hezbollah infrastructure sites and terrorists".
 
-Netanyahu said Israel's military offensive against Hezbollah had "eliminated... over 600 terrorists."
+Twelve people are said to have been killed in an attack on the village of Mashghara in the Bekaa Valley, Lebanese local media reported.
 
-He continued: "But what this requires of us now is to increase the strikes, to increase the intensity."
+The IDF said several strikes were conducted "within seconds against Hezbollah infrastructure sites [in Mashghara] where terrorists [sic] activity was identified". It added "the terrorists were eliminated" during the attack.
 
-Since the ceasefire agreement was signed on 16 April, Israeli attacks have been largely confined to the south of the country, where Israeli troops remain and from where Israel says drones and rockets have been launched.
+The Israeli military has issued an evacuation order for the southern town of Nabatieh due to possible strikes.
 
-The Bekaa Valley, which was struck on Monday evening, lies in eastern Lebanon, close to the border with Syria.
+Hours earlier, in a video statement, Netanyahu said Israel was "at war with Hezbollah" and the military has been told to "deal them a crushing blow".
 
-The expansion of Israel's campaign came as the Iranian government insisted that an emerging peace deal with the US should include a complete ceasefire on all fronts in the regional war.
+Netanyahu said Israel's military offensive against Hezbollah had "eliminated... over 600 terrorists in the last few weeks".
 
 </div>
 
  [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 White House gunman had previous run-ins with Secret Service, court documents show
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/7c0d/live/6930aff0-585c-11f1-89a3-d1f559421220.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-The suspect who fired shots outside the White House, striking a bystander before the Secret Service shot and killed him, had previous run-ins with authorities there, court documents show.
-
-Nasire Best, as he has been identified to the BBC by Washington DC's Metropolitan Police Department, previously obstructed a White House entry lane in June of 2025 and told Secret Service agents he was Jesus Christ.
-
-Best is accused of firing shots outside the president's home just after 18:00 EST (23:00 GMT) on Saturday - reporters filming outside ducked and ran for cover inside. US President Donald Trump was at the White House but was unharmed.
-
-Court documents show that during a June 2025 incident with the Secret Service, Best, of Dundalk, Maryland, told agents he wanted to be arrested.
-
-Despite having a mental evaluation, a month later in July, he again tried to access the White House.
-
-Best was arrested by Secret Service agents after that second incident and charged with unlawfully entering a federally controlled property, according to court records.
-
-He was released after being arraigned on the unlawful entry charge, but in August of 2025, he failed to appear for a status hearing, the documents show. That led to a no-bond bench warrant, allowing law enforcement to arrest him.
-
-Then on Saturday, less than a year later, he reappeared outside the White House and began firing at a Secret Service checkpoint at the intersection of 17th Street and Pennsylvania Avenue NW, near the Eisenhower Executive Office Building.
-
-Secret Service officers posted on the corner returned fire, striking the gunman. Best was taken to hospital, where he was pronounced dead.
-
-A bystander was also shot and seriously wounded, but was in stable condition as of Sunday. It's not clear how the bystander was shot. No officers were injured in the attack.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c1l22pg12mpo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -421,101 +481,107 @@ Brockell suspects US officials are using the travel ban as an excuse to not retu
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Lindsie Chrisley Arrested on Suspicion of DUI in Georgia
-<img src='https://imagez.tmz.com/image/cb/16by9/2026/05/25/cb4267a24e054d6cb107e1e604b6c559_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Matthew Perry's Assistant Faces Claims of Evidence Destruction
+<img src='https://imagez.tmz.com/image/3b/16by9/2026/05/25/3bfbd2fb32634c9da8c069ded5655f83_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Lindsie Chrisley is dealing with a new legal headache ... 'cause TMZ has learned she was arrested in Georgia over the weekend.
+Matthew Perry's former assistant Kenneth Iwamasa allegedly cleaned up more than just a house after the actor died ... prosecutors say he also tried wiping away the evidence trail tied to the ketamine conspiracy.
 
-According to jail records, obtained by TMZ, the "Chrisley Knows Best" alum was arrested Saturday night on suspicion of DUI and booked into jail before bonding out early Sunday morning.
+According to a new court filing, obtained by TMZ, federal prosecutors claim the former live-in assistant went into damage-control mode immediately after the "Friends" star's death -- allegedly directing another person to destroy ketamine evidence, shredding documents, and scrubbing digital records.
 
-Lindsie tells TMZ ... "I got pulled over speeding past a car on a two lane road because they almost hit an animal and I was trying to miss hitting them and whatever the animal was."
+The feds say Iwamasa repeatedly lied to investigators, too ... first by allegedly hiding the fact he injected Perry with multiple ketamine shots on the day of his death, then later claiming Perry had hidden ketamine bottles himself.
 
-She says she was booked and immediately released and adds she plans to fight the charge.
+Prosecutors say that wasn't true.
 
-The arrest comes on the heels of Lindsie's messy breakup drama with ex-boyfriend David Landsman.
+In the filing, they say Iwamasa instructed a person identified as "B.M." to dispose of ketamine vials and syringes after Perry died. They also allege he ordered the shredding of a ketamine prescription document and a handwritten note identifying Dr. Salvador Plasencia as a ketamine source.
 
-As TMZ previously reported ... the two recently agreed to a mutual no contact order requiring both sides to stay 500 yards away from each other, their homes and workplaces through May 2027.
+The feds also say Iwamasa later admitted to some of the cleanup in a phone call with middleman Erik Fleming ... allegedly saying he "cleaned up the scene," got rid of bottles and syringes, "deleted everything," and even changed passwords on Perry's devices.
 
-The agreement also settled the battle over the couple's Dachshund, Oliver ... with the dog ultimately being returned to Lindsie.
+Prosecutors are pushing back hard on Iwamasa's argument that he was simply an assistant following Perry's instructions ... saying he abused the trust placed in him by both Perry and the actor's family, who believed he was supposed to help protect Perry during his addiction struggles.
 
-The split turned ugly after both sides accused the other of getting physical during an April altercation. David previously alleged Lindsie punched him during a fight, while Lindsie claimed David attacked and attempted to strangle her.
+Back in 2024, Kenneth pleaded guilty to one count of conspiracy to distribute ketamine resulting in death ... cutting a plea deal with federal prosecutors.
 
-David was later arrested on an aggravated assault-strangulation charge tied to the incident.
+As we previously reported ... prosecutors are seeking 41 months behind bars for Iwamasa. He's scheduled for sentencing on Wednesday.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/lindsie-chrisley-arrested-on-suspicion-of-dui/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/matthew-perry-assistant-accused-of-destroying-evidence/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Pat McAfee's Wife Samantha Welcomes Second Child After Emergency C-Section
-<img src='https://imagez.tmz.com/image/1d/16by9/2026/05/25/1dbcc5acc4b74b86b39524d810b45b19_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 President Donald Trump Undergoing Another Medical Assessment at Walter Reed
+<img src='https://imagez.tmz.com/image/c3/16by9/2026/05/26/c3a5b0cbec1b4f848ff90ffe74b5eede_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Pat McAfee’s got plenty to celebrate -- and exhale over -- after welcoming baby No. 2 with wife Samantha McAfee ... following a scary emergency C-section!
+President Donald Trump is headed back to Walter Reed ... and once again, the White House is insisting there's nothing dramatic going on behind the hospital doors.
 
-In a lengthy X post Monday, Pat announced the arrival of son Midas Robert McAfee -- revealing doctors made the call Friday night after Samantha’s high-risk pregnancy took a turn with severe preeclampsia.
+The president is scheduled to undergo what aides are calling a "routine annual dental and medical assessment" Tuesday at the famed military medical center just outside D.C.
 
-Pat proudly shared ... "Baby boy officially entered the world on May 22nd at 10:42 PM as a 6lb 6oz screaming young legend … 10 toes, 10 fingers, full head of hair."
+Still, the visit is raising eyebrows because it marks Trump's third publicly known trip to Walter Reed in just over a year ... with the 79-year-old commander-in-chief facing increasing scrutiny over his health heading into his 80th birthday next month.
 
-He said he and Samantha got some time with Midas before the newborn was taken to the NICU to help develop his lungs and adjust after arriving a few weeks early.
+The White House has repeatedly defended Trump’s condition as "excellent" ... even after recent public speculation tied to bruising on his hands, swollen ankles and moments critics claimed made him appear sluggish during appearances.
 
-As for Samantha -- Pat had nothing but praise ... writing she was "recovering like a badass" from the major surgery and saying he was blown away by her strength through it all.
+Trump himself previously blamed the bruising on taking too much aspirin and said he regretted undergoing a CT scan last year because it fueled nonstop rumors about his health.
 
-Now, the couple’s looking ahead to bringing little Midas home -- where big sister Mackenzie, 3, is apparently more than ready to meet her baby bro. Big congrats to the growing McAfee crew!
+The Walter Reed trip follows several other medical-related visits during Trump's second term, including an October follow-up exam and a CT scan in late 2025 focused on his cardiovascular and abdominal health.
+
+Of course, Walter Reed has long been the go-to hospital for Presidents ... handling everything from annual physicals to major procedures and emergency care.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/pat-mcafee-and-wife-samantha-have-son-after-emergency-c-section/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/donald-trump-walter-reed-medical-exam/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Bella Hadid Rocks Tiny White String Swimwear For Cannes Yacht Day
-<img src='https://imagez.tmz.com/image/8b/16by9/2026/05/25/8b3d02df6a294aaa8441cbf12a6ff5c1_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Timothée Chalamet Geeks Out With Knicks Stars After NBA Finals Berth
+<img src='https://imagez.tmz.com/image/e3/16by9/2026/05/26/e3f41804beb14dbaa27aa84558af4fac_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-If you needed another reason to question your own life choices after seeing Bella Hadid’s Cannes red carpet slay ... her latest bikini snaps just entered the chat.
+The New York Knicks are heading to the NBA Finals after destroying the Cleveland Cavaliers in four straight games ... but there's one guy who might be even more excited than the players -- Timothée Chalamet.
 
-Yup, Bella turned the heat all the way up in a series of yacht pics shared to her IG Stories -- striking every angle in a tiny white string one-piece that left very little room for distraction.
+Knicks fans invaded northeast Ohio and turned Rocket Arena into their own home on Monday ... and while Timmy C and Kylie Jenner initially had to settle for the second row, they eventually got their feet on wood when the game got out of reach.
 
-Bella was clearly making the most, working those poses as her pal snapped away ... 'cause, LBR, there are only so many hours you can spend sunbathing before you’ve gotta find a side quest.
+As soon as N.Y. clinched its first Finals appearance in more than two decades, Chalamet, Tracy Morgan, Spike Lee and the rest of the star-studded support team celebrated with the players.
 
-As you know, this isn’t her first headline-making look lately -- Bella’s basically become part of the annual Cannes Film Festival scenery, and off-duty season is proving just as strong.
+Morgan -- who has always stuck by his beloved squad -- was deeply emotional as he stood on the court ... and Chalamet (who was in an Eastern Conference Champs shirt) dapped up all the big winners, even telling Mikal Bridges he's the "GOAT," and revealing he owns one of his jerseys.
 
-And judging by these scorching shots on the water ... looks like cowboy on again, off again BF Adan Banuelos might be feeling at least a little (sea) salty.
+Jenner also hugged Karl-Anthony Towns as Chalamet asked about his fiancée, "Where's Jordyn at?!"
+
+Over in NYC, it was absolute chaos ... with Knicks fans flooding the streets and climbing buildings and street poles to celebrate.
+
+Game 1 of the Finals will go down next week ... but the Western Conference still has to figure out who will represent it -- either the Oklahoma City Thunder or San Antonio Spurs, and that series is currently tied up at 2-2.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/bella-hadid-swimwear-yacht-cannes/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/timothee-chalamet-celebrates-with-knicks-players/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 President Trump Honors Fallen Soldiers at Arlington After Memorial Day Rant
-<img src='https://imagez.tmz.com/image/f0/16by9/2026/05/25/f0041526b9cf4f7296de7c2b4f6f4e51_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Miami Dolphins Legend Manny Fernandez Dead at 79
+<img src='https://imagez.tmz.com/image/1a/16by9/2026/05/26/1a2291052a9948e1aecb392bf95d4042_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-President Donald Trump kicked off Memorial Day with a fiery online rant targeting political enemies before heading to Arlington National Cemetery to honor America's fallen service members.
+Manny Fernandez, a star player with the Miami Dolphins when they won two Super Bowls, has died.
 
-Trump started the holiday Monday with a Truth Social post blasting "Dumocrats, RINOS, and Fools" criticizing his administration's ongoing negotiations with Iran.
+The NFL team announced his passing Tuesday morning ... saying in part, "His consistent and selfless contributions on the field were instrumental to the Dolphins' success."
 
-"Happy Memorial Day to all, including the Dumocrats, who disrespect our Military," Trump wrote, while also praising members of the armed forces and honoring Americans who "made the ultimate sacrifice."
+In addition to his two Super Bowl rings ... the defensive lineman was part of the legendary 1972 perfect team -- as well as a member of the Ring of Honor.
 
-The President also mocked critics of the possible Iran deal, calling them "losers" and insisting any agreement would be far stronger than the Obama-era nuclear deal he scrapped during his first term.
+Fernandez attended Chabot Junior College before enrolling at Utah ... and then signed with the Dolphins after he went undrafted.
 
-Later in the day, Trump appeared alongside Vice President J.D. Vance and Defense Secretary Pete Hegseth at Arlington National Cemetery for a wreath laying ceremony at the Tomb of the Unknown Soldier.
+In 2015, Yahoo! Sports ranked Fernandez as the 10th-best player of all time in Super Bowl history.
 
-Trump stepped forward alone to place the wreath at the historic site, which contains the remains of unidentified American soldiers who passed away in World War I, World War II, and the Korean War.
+Fernandez was 79.
 
-The Memorial Day ceremony came as Trump spent much of the weekend focused on possible negotiations with Iran, which he cited as a reason he would be unable to attend his son Don Jr.'s wedding on Saturday ... with reports suggesting his administration is working toward a potential agreement.
+RIP
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/25/donald-trump-memorial-day-activities/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/26/manny-fernandez-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -583,64 +649,204 @@ All prices &amp; availability subject to change.
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Pope Leo Warns of Risks From A.I. in 42,300-Word Encyclical
+### 📰 Global Oil Price Rises After U.S. Strikes in Iran Cloud Peace Deal
 <div align='justify'>
 
-The document marks a powerful foray by the leader of the Roman Catholic Church into the debate about the misuse or overuse of artificial intelligence.
+Optimism for a resolution to the conflict and the reopening of the Strait of Hormuz was checked after the United States said it had carried out strikes on missile launch sites in Iran.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/business/oil-gas-price-iran.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words
+### 📰 Israel Steps Up Strikes in Lebanon as U.S. Pushes for Iran Peace Deal
 <div align='justify'>
 
-The American pope wants to take artificial intelligence down a notch. Is he challenging the tech companies, or will tech take over the papacy?
+Hezbollah, the Iran-backed militant group, has also kept up rocket and drone attacks on Israeli troops, as the escalations threaten to complicate diplomatic efforts.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/technology/pope-ai-silicon-valley.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/world/middleeast/israel-strikes-escalation-lebanon.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Pope Leo Has Released an Encyclical About A.I. Why Is That Important?
+### 📰 Evolving Warfare Connects the Conflicts in Ukraine and Iran
+<img src='https://wsrv.nl/?url=https://static01.nyt.com/images/2026/05/25/multimedia/25int-iran-ukraine-similarities-top-sub-whqf/25int-iran-ukraine-similarities-top-sub-whqf-facebookJumbo.jpg&w=800' width='100%' style='border-radius:15px;' alt='NY Times Image'>
+
 <div align='justify'>
 
-Leo XIV issued his thoughts about artificial intelligence in the modern world using a centuries-old form of papal communication called an encyclical.
+The trench warfare and heavy artillery on Ukraine’s battlefields in 2022 don’t look much like the war by air and sea that began when the United States and Israel attacked Iran.
+
+But similarities between the two conflicts soon became evident and remain so almost three months later.
+
+In both, the country with the more powerful military has been unable to vanquish its adversary. President Vladimir V. Putin of Russia expected a quick victory when he launched his “special military operation,” more than four years ago. President Trump initially vowed that the “little excursion” against Iran, which started on Feb. 28, would last four to five weeks.
+
+“For both Russia and for the United States, there’s a lot of unmet expectations about their military operations,” said Nicole Grajewski, an expert on Iran and Russia and a professor at Sciences Po, the elite social sciences university in Paris, attributing it to “the hubris on both sides.”
+
+Over the last several days, negotiations have produced progress toward an initial plan for peace between Iran and the United States, though with much uncertainty, given the renewed American strikes against Iran on Monday. Whether or not an agreement is reached, the war will have provided lessons, along with the conflict in Ukraine, on the evolution of modern warfare.
+
+Asymmetrical tactics have helped both Ukraine and Iran hold off stronger forces with which they could not compete in a conventional miliary confrontation.
+
+Thank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/world/europe/pope-leo-encyclical-ai.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/world/middleeast/iran-ukraine-wars-similarities.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump’s Pressure Had Little Effect on Iran’s Terms for a Peace Deal
+### 📰 White House Shakes Up Green Card Policy, and the Pope Takes On A.I.
 <div align='justify'>
 
-President Trump had sought to force Tehran to accept American demands for a peace deal with a mixture of threats and military operations.
+Plus, will anyone want an electric Ferrari?
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/world/middleeast/iran-deal-trump-pressure.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/podcasts/the-headlines/white-house-green-card-pope-ai.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Even After a Strait of Hormuz Deal, Moving 1,500 Ships Won’t Be Easy
+### 📰 As Trump Politicizes Justice Dept., Prosecutors Struggle With Grand Juries
 <div align='justify'>
 
-An agreement to reopen the waterway would be followed by a complicated process of navigating a backlog of vessels stranded for nearly three months.
+Judges and grand juries have increasingly lost faith in the Justice Department as the president uses it to reward his friends and go after his opponents.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/25/business/iran-strait-hormuz-shipping-traffic.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/26/us/politics/trump-justice-department-grand-juries.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe
+<img src='https://assets.science.nasa.gov/content/dam/science/cds/science-enabling-technology/technology-highlights/2026/PUEO_3_Tech_highlight.JPG' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+The Payload for Ultrahigh Energy Observations (PUEO) is a NASA Astrophysics Pioneers Program mission designed to detect the most energetic particles in the universe. The PUEO mission flew high above Antarctica on a Long Duration Balloon (LDB) and used the Antarctic ice sheet as an enormous detection volume to look for radio signals generated by the interactions of extremely energetic astrophysical neutrinos as they passed through the ice. In addition to searching for the highest energy neutrinos, PUEO could also detect radio signals from high energy cosmic rays showering in Earth’s atmosphere (a.k.a. air showers), either as the signals entered directly into the instrument or reflected off the ice below. The sensitivity achieved with the PUEO instrument was a result of technology advancements and careful optimization of the experimental design to enable accommodation within the balloon platform’s launch volume.
+
+The ultra-high energy neutrinos that PUEO was searching for carry information from the most extreme places in the universe, including supermassive black holes that accrete matter at the centers of galaxies, neutron star mergers, and other powerful cosmic accelerators. Because these particles travel large distances along straight lines without being absorbed, they provide a unique view of the distant, most energetic universe. Not only will data collected by PUEO reveal the origin and composition of the highest-energy cosmic rays, it will also test fundamental physics at energies far beyond those achievable in human-made particle accelerators on Earth.
+
+The PUEO mission built on heritage from the NASA-sponsored Antarctic Impulsive Transient Antenna (ANITA) mission, which had four successful flights from 2006-2016. Like ANITA, PUEO consisted of an array of radio-frequency antennas, an onboard data acquisition system that is triggered by neutrino-like signals and processes and saves the data, and a navigation and command and control system. From its 120,000-foot altitude, PUEO monitored an extremely large volume of Antarctic ice, looking for signals from very rare, high-energy neutrino interactions.
+
+The first of NASA’s Astrophysics Pioneers missions to launch, PUEO took off Dec. 20, 2025, from NASA’s Long Duration Balloon Facility near McMurdo Station, Antarctica, and flew for 23 days before landing approximately 120 miles (200 km) from the South Pole. The full payload has been recovered, including the data drives. The PUEO team is currently analyzing the data collected—an undertaking that may take up to a year due to the complex nature of the task.
+
+The significant improvement in sensitivity achieved with the PUEO instrument compared to that of ANITA was due to a variety of technology advancements and careful optimization of the experimental design to enable accommodation within the balloon platform’s constrained launch volume.
+
+At the heart of PUEO’s technology advancement was a new type of trigger called an interferometric phased array trigger. The PUEO trigger coherently summed signals from multiple antennas in real time, enabling the instrument to detect weaker signals than previously possible. By lowering the trigger threshold, PUEO could dig further into the noise, and find weaker neutrino and cosmic-ray signals than previous experiments.
+
+The PUEO antenna collecting area for frequencies above 300 MHz was doubled compared to ANITA, improving the sensitivity to radio emission from particle interactions. To ensure the PUEO payload remained within the allowable launch volume, the team increased the low-frequency cutoff of the PUEO antennas, which enabled them to be even smaller than those used on ANITA.
+
+To improve sensitivity to extensive air showers produced by cosmic rays and potentially neutrinos, PUEO incorporated a new low-frequency instrument that deployed once the payload reached float altitude (it would have been much too large to fit in the allowable launch volume in its flight configuration). This new low-frequency instrument incorporated antennas that are sensitive down to 50 MHz, and extended PUEOs sensitivity to air showers.
+
+Many of the technology advancements that were developed for PUEO may also be applicable for mission concepts under development that would use the lunar regolith as a detector for ultra-high energy cosmic rays, and other potential future radio missions on the moon.
+
+Project Lead: Dr. Abigail Vieregg, David N. Schramm Director of the Kavli Institute for Cosmological Physics and professor of Physics, Astronomy & Astrophysics, and the Enrico Fermi Institute, University of Chicago, assisted by graduate student, Rachel Scrandis
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 A Full Moon Checkup
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/a-full-moon-checkup/Landsatcalibration_oli2_20260103_tn.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+Once a month during the full Moon, Landsat 9 turns from Earth to image the lunar surface, helping keep the spacecraft's data accurate and consistent.
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that
+					supports HTML5 video
+
+In April 2026, NASA's Artemis program took humanity back to the Moon, providing a new look at Earth’s only natural satellite. As the world celebrates the return of Artemis II’s four astronauts, the lunar surface continues to play a critical role in missions much closer to Earth.
+
+Since 1972, the NASA/USGS Landsat program has captured the longest continuous record of Earth’s land surface, collecting images that track everything from crop health to glacial change. But with such a long data record, how can scientists trust that images acquired today can be accurately compared to those from days, years, or even decades ago? They look to the Moon.
+
+Unlike Earth, with its constantly changing weather, seasons, and landscape, the Moon is remarkably stable. With no atmosphere and virtually no surface changes, the Moon reflects sunlight in a predictable, consistent way. This stability gives engineers a reference to fine-tune Landsat’s instruments and be confident that the data are accurate.
+
+Once a month, during the full Moon, the spacecraft turns its instruments away from Earth and points them directly at the lunar surface. Over the course of two orbits, the spacecraft maneuvers to image the moon 15 times. During each pass, Landsat captures detailed measurements of light reflected off the Moon’s surface, revealing any unintended sensor change, or “drift,” that needs correction.
+
+The animation above shows the scans acquired by band 4 of the OLI (Operational Land Imager) on Landsat 9 on January 3, 2026. Each parallel scan was acquired by one of the 14 detector modules that comprise the instrument’s focal plane. The satellite maneuvers so that each module images the Moon, with one module capturing it twice.
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that
+					supports HTML5 video
+
+This work is one piece in a complex puzzle called calibration, which is part of what makes NASA the gold standard of science worldwide. From before launch all the way to the end of a satellite’s life, engineers ensure that the data collected by the satellite is accurate and consistent. In addition to looking to the Moon, Landsat also looks to places on Earth where the ground is uniform, like the wide, pale expanse of the White Sands desert in New Mexico.
+
+Scientists also collect measurements on the ground to check against those collected from space. For example, they ensure that surface temperature readings match those recorded by Landsat’s thermal band. All these efforts are part of what make a Landsat image different from photos taken by consumer cameras. Landsat images contain crucial information that scientists can use to map changes in habitats, tree species, agricultural patterns, and more.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/a-full-moon-checkup/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Jaclyn Kagey Shapes Humanity’s Return to the Moon
+<img src='https://www.nasa.gov/wp-content/uploads/2026/01/4-nb2-9930-a.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+For Jaclyn Kagey, preparing astronauts to put boots on the Moon is part of her daily work.
+
+As the Artemis extravehicular activity lead in NASA’s Flight Operations Directorate, Kagey plays a central role in preparing astronauts to safely explore the lunar surface.
+
+During Artemis missions, astronauts will explore the Moon’s South Pole, a region never visited by humans, paving the way for future deep space exploration.
+
+Kagey helps define how astronauts will work on the Moon, from planning detailed spacewalk timelines to guiding real-time operations. Crews will conduct these activities after stepping outside NASA’s human landing system, a commercial lander designed to safely transport astronauts from lunar orbit to the surface and back.
+
+Kagey’s NASA career spans more than 25 years and includes work across some of the agency’s most complex programs.
+
+While studying at Embry-Riddle Aeronautical University, she watched space shuttle launches that solidified her goal of working at NASA. “From a young age, my aspirations were singularly focused on contributing to the nation’s aircraft and spaceflight endeavors,” she said.
+
+That goal became reality through United Space Alliance, where she and her husband began their careers as contractors.
+
+One of her career-defining moments came during a high-pressure operation aboard the International Space Station.
+
+“I’ve planned and executed seven spacewalks, but one that stands out was U.S. EVA 21,” she said. “We had a critical ammonia leak on the station, and from the time the issue was identified, we had just 36 hours to plan, prepare the spacesuits, and execute the repair.”
+
+The team successfully completed the spacewalk and restored the system. “The agility, dedication, and teamwork shown during that operation were remarkable,” Kagey said. “It demonstrated what this team can accomplish under pressure.”
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 An Early “Decoration Day” Celebration
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/an-early--decoration-day--celebration/charleston_oli2_20260424_th.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+In a precursor to Memorial Day, people in Charleston, South Carolina, honored fallen Civil War troops with flowers, songs, and marches at an event at a racetrack on May 1, 1865.
+
+The origins of Memorial Day lie in the U.S. Civil War, a conflict that led to the deaths of nearly 700,000 Americans. By the waning days of the war, makeshift military cemeteries had sprung up throughout the country, but especially in the South and Mid-Atlantic, where much of the fighting occurred.
+
+By the time the leader of the veterans' group Grand Army of the Republic declared May 30, 1868, as “Decoration Day”—a day for "strewing with flowers or otherwise decorating the graves of comrades who died in the defense of their country"—informal memorials and commemorative events were already happening.
+
+The U.S. Department of Veterans Affairs notes that at least 25 places played a role in the early years of the holiday, including Columbus, Mississippi; Macon, Georgia; Columbus, Georgia; Richmond, Virginia; Boalsburg, Pennsylvania; and Carbondale, Illinois.
+
+One of the earliest and largest ceremonies documented by historians occurred in Charleston, South Carolina. Confederate control of the badly damaged city had ended in February 1865, and Union troops had emancipated thousands of people there. Among the first tasks taken on was ensuring a proper burial for 257 soldiers found in mass graves near a racetrack at the Washington Race Course and Jockey Club, which had been used as a prison camp during the war.
+
+After these soldiers had been re-interred in a new cemetery nearby, a crowd of roughly 10,000 people, including freedmen, missionaries, teachers, and soldiers, assembled at the racetrack and held a parade on May 1, 1865. The day featured thousands of schoolchildren carrying armloads of roses, women bearing flowers and wreaths, double-time marches by troops, choir performances of the "Star-Spangled Banner," and Bible recitations by local ministers.
+
+Much has changed in Charleston since the Civil War. The city has been rebuilt, and it has grown from a pre-war population of 40,000 to 160,000 today. Yet signs of the racetrack in what is now Hampton Park, where the early memorial event took place, remain visible—even to a sensor orbiting Earth on Landsat 9 (above).
+
+In 1968, the federal government declared Memorial Day an official national holiday with the Uniform Monday Holiday Act, which moved Decoration Day celebrations from May 30 to the last Monday in May. This act followed a congressional resolution in 1966 that recognized a century of Memorial Day events in Waterloo, New York, acknowledging its claim as the "birthplace" of Memorial Day in honor of a commemorative event held there on May 5, 1866.
+
+NASA Earth Observatory images by Michala Garrison, using Landsat data from the U.S. Geological Survey. Story by Adam Voiland.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/earth-observatory/an-early-decoration-day-celebration/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Call for Creatives: NASA Seeks Help Illuminating Mission Storytelling
 <img src='https://www.nasa.gov/wp-content/uploads/2026/04/nasa-meatball-1.webp' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -659,110 +865,6 @@ Camille Gallo / Cheryl WarnerHeadquarters, Washington202-358-1600camille.m.gallo
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/call-for-creatives-nasa-seeks-help-illuminating-mission-storytelling/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA Sets Coverage for Roscosmos Spacewalk Outside Space Station
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/roscosmosadvisorymay22-4d3cc8.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-NASA will provide live coverage on Wednesday, May 27, as two Roscosmos cosmonauts conduct a spacewalk outside the International Space Station. The spacewalk is scheduled to begin at approximately 10:15 a.m. EDT and last roughly five hours.
-
-Watch NASA’s live coverage beginning at 9:45 a.m. on NASA+, Amazon Prime, and the agency’s YouTube channel. Learn how to watch NASA content through a variety of online platforms, including social media.
-
-International Space Station Expedition 74 commander Sergey Kud-Sverchkov and flight engineer Sergei Mikaev will install a solar radiation experiment on the Zvezda service module and remove other science hardware from the Poisk and Nauka modules of the orbiting complex’s Roscosmos segment. If time allows, the duo also will photograph one of the Progress 94 cargo spacecraft’s Kurs rendezvous antennas, which failed to deploy in March following its launch to the space station.
-
-This Roscosmos spacewalk will be the second for Kud-Sverchkov and the first for Mikaev. Kud-Sverchkov will wear a spacesuit with red stripes, and Mikaev will wear a spacesuit with blue stripes. It will be the 279th spacewalk in support of space station assembly, maintenance, and upgrades.
-
-To learn more about International Space Station research, operations, and its crews, visit:
-
-Josh Finch / Jimi RussellHeadquarters, Washington202-358-1100 joshua.a.finch@nasa.gov / james.j.russell@nasa.gov
-
-Sandra JonesJohnson Space Center, Houston281-483-5111sandra.p.jones@nasa.gov
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-sets-coverage-for-roscosmos-spacewalk-outside-space-station-2/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Webb Studies Star Clusters
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/55252854454-c4ed9aa664-o.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA’s James Webb Space Telescope in a study of nearly 9,000 star clusters.
-
-Data from the study shows that more massive star clusters emerge more quickly from the clouds they are born in. Learning about star formation helps us understand galactic evolution, the dynamics within a galaxy, as well as how and where planets form.
-
-Image credit: ESA/Webb, NASA & CSA, A. Pedrini, A. Adamo (Stockholm University) and the FEAST JWST team
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/webb-studies-star-clusters/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness
-<img src='https://images-assets.nasa.gov/image/AFRC2026-0053-25/AFRC2026-0053-25~large.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready.
-
-At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably.
-
-This year, NASA added two F-15s and a Pilatus PC-12 to its fleet at Armstrong. These aircraft – alongside platforms such as the high-altitude ER-2s and NASA’s newest X-plane, the X-59 – reflect a wide range of capabilities. The maintenance staff is responsible for keeping each one mission ready.
-
-“That’s the beauty of our Armstrong maintenance teams. They adapt to any type of change,” said Jose “Manny” Rodriguez, NASA Armstrong Gulfstream G-IV crew chief. “One day you could have an instrument being loaded, and the next day it may be aircraft reconfiguration, all while other aircraft systems may need fixing. They adapt and they overcome any situation.”
-
-Each aircraft supports a specific mission, whether it’s conducting science research, serving as a support or chase aircraft, or assisting NASA rocket launches. The aircraft fly at different speeds, carry specialized hardware, and require maintenance crews to stay agile with fast-paced changes.
-
-To ensure NASA can make aeronautics and science advancements safely, the crews work continuously, checking on the ejection seats, filling the tanks with fuel, and changing out brakes, wheels, wiring, and hardware constantly, all of which can degrade with each flight.
-
-On any given day, an aircraft may be flight-ready for a mission, undergoing scheduled maintenance or modifications, or down for longer-term care.
-
-There are typically multiple NASA Armstrong aircraft in the air in one day. Currently, the center’s C-20A is flying in Peru and Panama, the X-59 is often  flying twice per day with a chase plane, and the center’s ER-2 is flying in Colorado, supporting the Geological Earth Mapping Experiment (GEMx). All this work is happening at the same time, and Armstrong’s skilled maintenance staff is prepping and fixing aircraft as needed along the way.
-
-The team includes mechanics with both military and civilian backgrounds, and the job involves a lot of on-the-job training.
-
-After the maintenance crew ensures the aircraft is in the best condition possible, the team tows it out to the flightline, and it becomes ready for operations. The NASA pilot assigned to the mission will walk around the aircraft with the assigned crew chief for a final safety check before flight.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA to Compete Contract for Jet Propulsion Laboratory Management
-<img src='https://www.nasa.gov/wp-content/uploads/2022/09/DSC_421543.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers.
-
-The California Institute of Technology (Caltech) has managed the laboratory since its inception in the 1930s, and previous NASA contracts for its management and operations have been awarded sole source to the university since the facility was transferred from the U.S. Army to NASA in 1958.
-
-The rapid growth of the U.S. space economy indicates there may now be a viable competitive market for programmatic and institutional elements of the FFRDC operations.
-
-Conducting a competition for this contract enables NASA to assess the potential benefits of alternative management approaches to the FFRDC, including opportunities to enhance mission performance, innovation, and overall cost and operational efficiency, consistent with federal competition requirements.
-
-This decision is part of a broader governmentwide and agency effort to find efficiencies, strengthen performance, and drive mission outcomes faster and more affordably.
-
-“The Jet Propulsion Laboratory has delivered some of the most extraordinary scientific and engineering achievements in NASA’s history,” said NASA Administrator Jared Isaacman. “As America’s space economy evolves, we have a responsibility to the American people and the scientific community to evaluate how we can execute faster, operate more efficiently, and continue to deliver world-class science and engineering at the highest level. The decision to compete this contract reflects NASA’s commitment to strong stewardship of taxpayer resources and positions Jet Propulsion Laboratory to continue driving world-changing scientific discovery and technological innovation for decades to come.”
-
-The work conducted at JPL remains critically important to the agency, and NASA is committed to maintaining continuity for active and future missions throughout the procurement process. NASA also is committed to maintaining the FFRDC’s existing physical location.
-
-This approach is consistent with broader government practices, including at the Department of Energy, which has held full and open competitions for five of its 16 FFRDC management and operations contracts over the past 10 years.
-
-The current contract with Caltech began Oct. 1, 2018, and runs through Sept. 30, 2028, with a potential maximum value of $30 billion, if all options are exercised. NASA has initiated the procurement process to compete the contract. Beginning this process now allows the agency sufficient time to conduct a comprehensive competition and award cycle while maintaining continuity for ongoing missions and laboratory operations.
-
-George Alderman / Cheryl WarnerHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov / cheryl.m.warner@nasa.gov
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
