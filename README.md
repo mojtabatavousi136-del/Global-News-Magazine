@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/27 - 20:21`
+**📅 Update (Tehran Time):** `2026/05/28 - 02:27`
 
 ---
 
@@ -19,142 +19,165 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Family mourn ‘Hamas leader’ killed in Israeli attack
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779893263.jpg?resize=1696%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Markets rally amid hopes of US-Iran deal
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a1745172441-1779909911.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A funeral has been held for Mohammed Odeh, believed to be the leader of Hamas’s military wing.
+The United States stock market has been hovering near record highs and oil prices have plunged amid new hope that a ceasefire deal between the US and Iran is close.
+
+The rally came on Wednesday as negotiations continued between Washington and Tehran, with markets betting that a deal would reopen the vital Strait of Hormuz, easing oil and gas supply concerns and soothing the deep uncertainty afflicting the global economy.
+
+Oil prices declined sharply after Iran’s state broadcaster said it had obtained a preliminary document outlining a framework for a potential deal.
+
+The price of US crude fell 5.5 percent to settle at $88.68, while Brent crude, the international oil benchmark, decreased to $92 after prices traded above $100 last week.
+
+The report suggested that Iran would allow traffic through the strait at pre-war levels within 30 days. It added that the US would lift its naval blockade on Iranian ports.
+
+Prices remained subdued even after the White House dismissed the report as a “complete fabrication”.
+
+The S&P 500 rose 0.1 percent and added to its all-time high set the day before. The Dow Jones Industrial Average was up 243 points, or 0.5 percent, with an hour remaining in trading, and the Nasdaq composite was 0.1 percent higher.
+
+Wednesday is far from the first time markets have rallied amid reports of a possible end to the war, only to slump once more as negotiations fail to deliver a resolution.
+
+However, the strength of the current surge reflects statements over the past week that suggest the two parties may be closer than ever to reaching a deal.
+
+President Donald Trump said during a cabinet meeting on Wednesday that US officials were not yet satisfied with the agreement, “but we will be”.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/27/family-mourn-hamas-leader-killed-in-israeli-attack?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Mogadishu gathers for Eid with prayers, family meals and outings
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/IMG_0148-1779886572.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Former assistant to TV star Matthew Perry sentenced to 41 months in prison
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a174c0559050-1779911685.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Mogadishu, Somalia- Muslims around the world celebrated Eid al-Adha, the Festival of Sacrifice, which marks the end of the Hajj pilgrimage period.
+The former personal assistant to actor Matthew Perry has been sentenced to 41 months in prison in connection with the television star’s death from a fatal dose of the hallucinogenic drug ketamine.
 
-It is the second major holiday in the Islamic calendar after Eid al-Fitr, which follows the holy month of Ramadan.
+On Wednesday, Judge Sherilyn Garnett issued the sentence against Kenneth Iwamasa in a Los Angeles courtroom.
 
-In Somalia’s capital, Mogadishu, families and communities gathered across the city on Wednesday to celebrate the occasion.
+Iwamasa had testified, as part of a plea agreement, that he injected Perry with ketamine at the actor’s request on October 28, 2023, before leaving to run errands. He had no medical training.
 
-The holiday is typically marked by communal prayers in the morning, family visits, festive meals and outings for children.
+When Iwamasa returned, he found Perry’s lifeless body floating in a hot tub at his home in Los Angeles’s Pacific Palisades neighbourhood. Perry was 54 years old at the time.
 
-Popular locations for the city’s residents include Lido Beach, the Darus Salam Zoo, and Maka al-Mukarama Road, the central business district.
+“I am so sorry to all of you,” Iwamasa told the court. “I’m just so sorry to have done illegal acts I will forever regret. I will take that to my grave.”
 
-More broadly, Mogadishu has been tentatively emerging from the waves of violence that have rocked the city over recent decades.
+The sentencing of Iwamasa concludes the prosecution of five people alleged to have facilitated the actor’s death by helping him access the drug without proper medical supervision.
 
-Since 2006, the government has been battling al-Shabab, a local affiliate of al-Qaeda, for control of the country – a conflict that has made Mogadishu one of the world’s most dangerous capitals.
+Perry, best known as the character Chandler Bing in the sitcom Friends, had been struggling with alcoholism and drug addiction for years.
 
-But improving security has led to a surge of investment in the city, alongside the emergence of new cafes, restaurants and other recreational spaces.
+Prosecutors say he had grown increasingly dependent on ketamine, which is sometimes used to help treat depression. They described Iwamasa as Perry’s “enabler and supplier”, continuing to give him injections despite troubling incidents.
 
-At an Eid speech at the Islamic Solidarity Mosque, Somalia’s President Hassan Sheikh Mohamud said, “We see the change that has happened in Mogadishu’s security,” and called on the public to protect the city’s peace. Ali Jimale Mosque, the country’s largest, usually draws the biggest crowds and serves as a gathering place for the city’s residents.
+Iwamasa allegedly gave Perry more than 25 shots of the drug in the days leading to his death, including three on the day he died.
 
-Central to Eid al-Adha is the ritual sacrifice of livestock, commemorating the Prophet Ibrahim’s willingness to sacrifice his son before God provided a ram in his place.
+Court papers state that the Friends star had asked the 61-year-old Iwamasa to “shoot me up with a big one” in his final moments.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/gallery/2026/5/27/mogadishu-gathers-for-eid-with-prayers-family-meals-and-outings?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/27/former-assistant-to-tv-star-matthew-perry-sentenced-to-41-months-in-prison?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Muslims worldwide celebrate Eid al-Adha, the Festival of Sacrifice
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/AP26147211770065-1779888209.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Why is Israel ramping up attacks in Lebanon despite a ceasefire?
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779912887.jpg?resize=1920%2C1061&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Muslims around the world have begun celebrating Eid al-Adha, the “Festival of Sacrifice”, which falls on the 10th day of Dhul Hijjah, the 12th and final month of the Muslim lunar calendar.
+Israel intensifies its military action in Lebanon, killing and injuring dozens of people, despite a US-brokered ceasefire.
 
-One of the biggest holidays in the Muslim calendar, it coincides with the last day of the annual Hajj pilgrimage in Saudi Arabia.
+Iran insists those attacks must also end as part of any deal with the United States.
 
-In Gaza, where Israel’s months-long offensive has devastated neighbourhoods and displaced most of the population, many families are marking Eid in tents and crowded shelters, with little meat or festive clothing.
+Rami Khouri – Distinguished fellow at the American University of Beirut
 
-More than 1.7 million people are taking part in the Hajj this year, slightly up from 2025, even as a war pitting the United States and Israel against Iran casts a long shadow across the Middle East.
-
-On Tuesday, pilgrims prayed on Mount Arafat, where Prophet Muhammad is believed to have delivered his final sermon. They then spent the night out in the open at Muzdalifah, halfway between Arafat and Mina, where they collected pebbles for the symbolic stoning of the devil.
-
-After the stoning ceremony in Mina, pilgrims return to Mecca for a final circumambulation of the Kaaba, the cube-shaped building at the heart of the Grand Mosque towards which Muslims around the world face when they pray.
-
-Eid al-Adha commemorates the Quranic story of Prophet Ibrahim’s willingness to sacrifice his son Ismail as an act of obedience to God. Islamic tradition holds that God spared the boy, replacing him with a ram.
-
-The day is marked with the sacrifice of an animal – usually a sheep, goat or cow – and the distribution of its meat among family, neighbours and those in need, underlining the festival’s themes of faith, charity and community.
+Michael Mulroy – Former US deputy assistant secretary of defense for the Middle East
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/gallery/2026/5/27/muslims-worldwide-celebrate-eid-al-adha-the-festival-of-sacrifice?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Why is Israel attacking Lebanon’s Nabatieh, the major southern city?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-26T151208Z_380046951_RC22HLAHAPYK_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-NABATIEH-1779851673.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Trump says no one will control Strait of Hormuz
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-trump-Hormuz-open-to-everyone-1779915254.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Beirut, Lebanon – The Israeli military ordered the forced displacement of the population of Lebanon’s southern city of Nabatieh on Tuesday, amid an escalation of its campaign – ostensibly against Hezbollah targets – in Lebanon.
-
-Israel hit towns on the outskirts of Nabatieh on Wednesday with “near continuous artillery shelling”, Al Jazeera’s Zeina Khodor reported, coming as Muslims in the country celebrated the religious holiday of Eid al-Adha.
-
-Local media reported that Israel hit Nabatieh multiple times on Tuesday, including direct air strikes on a cemetery in the city limits. Israel also struck surrounding villages, with the village Yohmor al-Shaqif hit multiple times.
-
-For its part, Hezbollah announced artillery and drone strikes on the advancing Israeli forces around the town of Zawtar al-Sharqiya, in the Nabatieh district.
-
-Israel has killed at least 3,213 people in Lebanon, including paramedics and civilians, since it intensified its war on Lebanon on March 2, expanding its invasion and occupation of southern towns and villages.
-
-Despite US President Donald Trump announcing another ceasefire on April 16, Israel and Hezbollah have continued to trade attacks, while Israel has established an approximately 10km (six-mile) buffer zone whose northern periphery is marked by what Israel calls a “yellow line.”
-
-So why is Israel focusing so heavily on Nabatieh, one of the biggest cities in southern Lebanon?
-
-Nabatieh is a city and a municipality in southern Lebanon that sits above the Litani River, and about 11km (seven miles) from the southern border.
-
-The Litani has been a focal point of past ceasefire and international agreements, often stating that Hezbollah’s presence should retreat to the north of the Litani.
-
-Surrounding Nabatieh city are a number of villages that have also been regularly attacked or destroyed by Israeli attacks.
+Donald Trump says he won’t allow Iran to control ⁠the Strait of ⁠Hormuz under the terms of any deal reached with Tehran.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Bangladesh seeks IMF aid: How badly has Iran war hit its economy?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a16d9d0e15fe-1779882448.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Ghana welcomes first group fleeing South African anti-immigration protests
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a17437bd31c-1779909499.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The International Monetary Fund (IMF) reports that Bangladesh has requested a new assistance programme as it struggles with the economic fallout of the United States-Israel war on Iran.
+A plane carrying 300 Ghanaian nationals evacuated from South Africa due to anti-immigration protests has landed in Accra.
 
-We take a look at what assistance Bangladesh has sought, the South Asian country’s history with the IMF and how the war has hit its economy.
+The group, which included women and children, arrived at the airport in Ghana’s capital on Wednesday. Authorities described their evacuation as a voluntary repatriation process for Ghanaian citizens who no longer feel safe in South Africa amid rising xenophobia that has left migrants facing harassment, job losses and violence.
 
-The IMF’s mission chief for Bangladesh, Ivo Krznar, announced on Tuesday that Bangladesh had requested a new IMF-supported programme.
+South Africa has worked with Ghanaian authorities on a list of approximately 800 people who had indicated they want to leave, as a wave of anti-immigration protests has seen campaigners demanding tighter controls on “undocumented migrants,” and accusing foreigners of contributing to crime and unemployment.
 
-“IMF staff are in discussions with the authorities on their reform agenda and policy priorities,” Krznar said in a statement.
+“Wherever Ghanaians are, we will make sure you are protected,” Foreign Minister Samuel Okudzeto Ablakwa said as he greeted the group at the airport.
 
-“The IMF remains a committed partner to Bangladesh in its efforts to secure lasting macroeconomic and financial stability, strengthen resilience, and support strong, inclusive growth.”
+South Africa’s Border Management Authority said about 90 percent of Wednesday’s travellers were undocumented, with “most” having overstayed a visa by more than 30 days and “some” by a year or more.
 
-Neither side disclosed the size or precise terms of the requested financial aid package.
+Ghana’s high commissioner to South Africa, Benjamin Quashie, however, has criticised South African authorities for backlogs in immigration processing for those seeking to renew their permits.
 
-However, in March, the government of Bangladesh said it was seeking $2bn in loans from various donors as it grappled with an energy crisis caused by the war on Iran.
+The anti-immigrant protests have been accompanied by instances of violence against migrants from other sub-Saharan African countries.
 
-The Iran war, which began on February 28 when the US and Israel launched strikes on Iran, has caused a worldwide energy crisis and sent fuel prices soaring. On April 8, a temporary ceasefire was reached, but a durable peace agreement remains elusive. Furthermore, the Strait of Hormuz – through which before the war one-fifth of the world’s oil and natural gas supplies were shipped, largely to Asian countries – remains under the control of Iran while the US has a naval blockade of Iranian ports in place. All this has caused major disruptions to energy supplies worldwide and caused the price of oil to rise to about $100 a barrel, compared with its pre-war price of about $66.
+One Ghanaian said repeated harassment had driven his decision to leave.
 
-Bangladesh, home to 170 million people, imports 95 percent of the oil and liquefied natural gas (LNG) it needs to meet its energy needs. Demand is especially high during the summer when cooling is required. Much of these imports come from the Middle East.
+“I’m happy that I’m going to my country … it’s not easy to be in someone else’s country and be disturbed all the time,” he told the Reuters news agency.
 
-Dhaka has already taken measures to curb fuel consumption, including halting production at most fertiliser factories. On April 19, Bangladesh raised fuel prices by 10 percent to 15 percent, citing the global crude price surge. It raised the price of petrol from $0.95 per litre to $1.10 per litre. Diesel and kerosene prices also rose.
+“It has never been easy for us in South Africa over the past few weeks,” Victor Atsu Togbe, another of the 300 returnees, told the AFP news agency.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/27/ghana-welcomes-first-group-escaping-south-african-anti-immigrant-protests?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
+### 📰 Israel issues evacuation order for swathes of southern Lebanon
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+
+<div align='justify'>
+
+The Israeli military has issued evacuation orders for large parts of southern Lebanon, declaring the areas "combat zones" ahead of fresh strikes against Hezbollah.
+
+The Israel Defense Forces (IDF) urged residents to move north of the Zahrani River, about 40km (25 miles) from the border. The IDF said it would act "with extreme force", accusing Hezbollah of repeated ceasefire violations.
+
+It is the largest evacuation order since the ceasefire took effect on 17 April, covering about 14% of Lebanese territory.
+
+Earlier on Wednesday, Israel carried out strikes on the southern city of Tyre. Hezbollah, which itself accused Israel of violating the ceasefire, said its fighters had clashed with Israeli troops.
+
+Wednesday's strikes came after Israeli Prime Minister Benjamin Netanyahu announced an expansion of its ground operation following Hezbollah drone attacks on troops occupying part of southern Lebanon and on civilians in northern Israel.
+
+The IDF has issued nine evacuation warnings in the past 24 hours, fuelling fears of a major escalation along the Israel-Lebanon border and the prospect of renewed mass displacement.
+
+Wednesday's order for Tyre, one of the biggest cities in southern Lebanon, was swiftly followed by air strikes. Residents watched with horror from balconies, filming on their phones, as Israeli forces hit the city.
+
+Rida, 52, owned a cafe near the beach that was destroyed alongside his home in an air strike minutes before the ceasefire started last month. He previously told the BBC he would never leave Tyre.
+
+Now, the feeling is different. "I went to the port next to the beach and a lot of people are there," Rida said over the phone on Wednesday. "People packed up their stuff. Everyone is scared."
+
+The later evacuation order for areas south of the Zahrani River covers about 300 towns and villages. Many residents, including those already displaced from other parts of southern Lebanon, have nowhere obvious to go.
+
+</div>
+
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns
 <img src='https://ichef.bbci.co.uk/news/1024/branded_news/6c52/live/87bd2cd0-59e9-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
@@ -162,11 +185,11 @@ Dhaka has already taken measures to curb fuel consumption, including halting pro
 
 Ongoing conflict in the Democratic Republic of Congo is hampering the Ebola outbreak response, the head of the World Health Organization (WHO) has warned.
 
-Dr Tedros Adhanom Ghebreyesus said the east of the country was at the centre of a "catastrophic collision of disease and conflict" with the Ebola outbreak in Ituri province outpacing the response.
+Dr Tedros Adhanom Ghebreyesus said Ituri province in the east of the country was at the centre of a "catastrophic collision of disease and conflict".
 
-In a statement posted on X, Tedros said the WHO "cannot build community trust or isolate the sick while bombs are falling".
+In a statement posted on X, Tedros said the WHO could not "build community trust or isolate the sick while bombs are falling". He is due to travel to DR Congo this week to spearhead efforts to contain the virus.
 
-He is due to arrive in DR Congo on Wednesday to spearhead scaling up efforts to contain the virus. There have been 220 suspected deaths since the outbreak was declared.
+Meanwhile Uganda has announced it is temporarily closing its border with DR Congo. There have been 220 suspected deaths since the outbreak was declared.
 
 Aid workers have been struggling as travel is difficult because of poor road conditions while conflict and mass displacement have also weakened the health system - as have international aid cuts.
 
@@ -186,34 +209,34 @@ He called on all parties to agree to an immediate ceasefire to allow medical tea
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/158e/live/fb10f3c0-59de-11f1-9d25-fb65b8b0488d.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Trump says US 'not satisfied' with Iran deal yet
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/b406/live/4cceef20-59ec-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The Israeli military has ordered the evacuation of the southern Lebanese city of Tyre, after carrying out another wave of air strikes that it said targeted the Iran-backed armed group Hezbollah.
+US President Donald Trump has said he is "not satisfied" yet with the terms of the deal being negotiated with Iran.
 
-The military told residents of Tyre and surrounding areas that it was "compelled to act forcefully" because Hezbollah was violating a US-brokered ceasefire that began five weeks ago.
+He said Tehran was "very much intent" on reaching an agreement to end the conflict, but added "so far they haven't gotten there", repeating Washington's willingness to resume strikes if one is not reached.
 
-Also on Wednesday, Lebanese media reported Israeli strikes across the south and eastern Bekaa Valley, with three people killed in the town of Choukine.
+His remarks came after Iranian state TV reported what it said were details of a draft agreement, which included reopening the Strait of Hormuz and the withdrawal of US forces from the region.
 
-Hezbollah, which has itself accused Israel of breaching the ceasefire, said it was battling Israeli troops north of the Litani river, about 30km (19 miles) from the border.
+Both sides signalled progress had been made towards a deal late last week, prompting speculation an announcement was close.
 
-It came a day after Israel's prime minister announced an expansion of ground operation following Hezbollah drone attacks on troops occupying part of southern Lebanon and on civilians in northern Israel.
+However, Tehran soon cautioned a deal was "not imminent" while Trump said he had instructed his negotiators "not to rush into" one.
 
-The escalation threatens to derail talks aimed at ending the war between the US, Israel and Iran. Iran insists that any deal must also cover Lebanon, but Israel says it reserves the right to continue to fight the threat from Hezbollah.
+Speaking to reporters at a cabinet meeting on Wednesday, the US president said: "They just want to make a deal - I don't think they have a choice."
 
-Lebanon was drawn into the war on 2 March, when Hezbollah launched rockets into Israel in retaliation for an Israeli strike that killed Iran's supreme leader. Israel responded with an air campaign across Lebanon and a ground invasion.
+Trump also said: "Iran is very much intent, they want very much to make a deal.
 
-Both Israel and Hezbollah have continued to exchange fire during the ceasefire, which began on 16 April and has been extended twice since then.
+"So far, they haven't gotten there and we're not satisfied with it, but we will be. Either that or we'll have to just finish the job."
 
-At least 3,213 people have been killed in Lebanon since the start of the war, according to the country's health ministry - its figures do not distinguish between combatants and civilians.
+Secretary of State Marco Rubio said there had been "some progress and some interest" in negotiations, adding: "We'll see over the next few hours and days whether progress could be made."
 
-Israel says 23 of its soldiers and four Israeli civilians have been killed over the same period on both sides of the border.
+While both Trump and Rubio continued to express optimism that talks were progressing well, neither gave any details of which specific disagreements continued between the two sides.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
@@ -224,7 +247,7 @@ Israel says 23 of its soldiers and four Israeli civilians have been killed over 
 
 Rescuers in Laos have found five villagers alive inside a flooded cave after they were trapped for a week following heavy rain and landslides.
 
-Two other villagers who were with them are missing, Laotian and Thai rescue teams involved in the operation said.
+Two other villagers who were with them were missing, Laotian and Thai rescue teams involved in the operation said.
 
 The seven were part of a group of villagers from the central province of Xaysomboun who had gone into the cave on Wednesday last week in search of gold deposits and wildlife, but could not get out as the cave's entrance was blocked.
 
@@ -279,40 +302,40 @@ Footage from the scene showed ambulances and civil defence crews searching throu
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Woman caught after 30 years on the run is jailed for armed robberies
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8154/live/bc0fd240-59a7-11f1-b088-1bced8e5ea68.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
-
-<div align='justify'>
-
-A former member of the German militant group Red Army Faction (RAF) has been jailed for 13 years for carrying out a string of armed robberies between 1999 and 2016.
-
-Daniela Klette, 67, was finally caught in a flat in Berlin in 2024 after more than 30 years on the run. She went on trial last year.
-
-Her defence had called for her acquittal but the court in Verden in Lower Saxony found her guilty on Wednesday of aggravated robbery, violating weapons laws and other offences over a 17-year period.
-
-The RAF, a violent anti-capitalist group also known as the Baader-Meinhof gang, was eventually disbanded after a campaign of murder, kidnapping and bombing from the early 1970s to the early 1990s.
-
-The court found Klette had robbed supermarkets and armoured vans along with two other former members of the RAF faction, Burkhard Garweg and Ernst-Volker Staub, who have not yet been caught.
-
-Dozens of Klette's supporters booed the guilty verdict in court, chanting "freedom for Daniela".
-
-According to Hans-Jakob Schindler, head of the Counter Extremism Project, she has become "a kind of grandmother heroine for the extreme left in Berlin".
-
-Klette did not explicitly admit to being an RAF member during the trial, and Schindler told the BBC she would never face trial for terrorism allegations against her from that period because of the statute of limitations.
-
-However, she could still face a further trial, as federal prosecutors allege she was complicit in three of the group's attacks.
-
-The trial focused on eight robberies across northern and western Germany, beginning in the city of Duisburg in July 1999, when masked attackers rammed a cash transport van and threatened the guards with guns and a grenade-launcher, before making off with a large sum of money.
-
-</div>
-
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 US building Ebola quarantine center in Kenya for Americans amid outbreak
+<img src='https://i.guim.co.uk/img/media/49cebc5fbde5f7071332a394126cf69aff25272f/499_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=260ba163f5ebd368afa7204c912e3424' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Some experts criticize White House approach and say not allowing Americans to return to US hurts treatment efforts
+
+The Trump administration is building a quarantine and treatment center in Kenya for Americans affected by the Ebola outbreak, instead of bringing them home.
+
+The White House on Wednesday confirmed that the US was setting up a facility in Kenya for Americans to quarantine after Ebola exposure in the Democratic Republic of the Congo (DRC).
+
+“The facility is designed to provide access to high-quality care for Americans who would need to quickly get out of DRC and quarantine without the risks of a lengthy transport back to the US,” a White House official told the Guardian.
+
+The center will also treat Americans who contract Ebola, the official said – “including critical care needs, though each case will be evaluated for forward transport for more advanced care as appropriate in order to maximize patient outcomes”.
+
+The official did not clarify whether that further transport would be to the US or to Europe, where other Americans have been taken for quarantine and treatment. The official also did not clarify if Americans were allowed to return to the US if they did not want to go to Kenya.
+
+The US has banned green card holders who recently travelled in DRC, Uganda and South Sudan from returning home, and other recent travellers to these three countries are also banned from entering the US.
+
+“It is shocking to me that the administration is looking to prevent Americans from coming home to receive the proven world-class care that our taxpayer-funded biocontainment and treatment units are equipped to provide,” said Jennifer Nuzzo, an epidemiologist and director of the Pandemic Center at the Brown University School of Public Health.
+
+“There are profound ethical concerns with this approach,” she added. “Without adequate plans for the safe quarantine of exposed individuals and prompt isolation of those who become infected, I fear these facilities could amplify the spread of the virus. The prospect of not being able to come home for safe and effective care may create disincentives for people to disclose having been exposed, which could drive cases underground, and cause the virus to spread even more.”
+
+Americans responding to previous outbreaks – whether they were caring directly for patients or organizing the logistics of contact tracing and safe burial teams – knew that if they fell ill, they could return home to receive some of the best medical care in the world.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/us-news/2026/may/27/trump-administration-ebola-quarantine-kenya)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 WHO chief calls for DRC ceasefire to tackle Ebola outbreak
 <img src='https://i.guim.co.uk/img/media/6d71bcab9a8e240ae722af07541fd0740dab93dc/264_0_6610_5289/master/6610.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e39aa8dae8eec4bf5e1c375fbefd2ba3' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -437,210 +460,158 @@ The first burning of an Ebola centre in Rwampara was by a group of young men try
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows
-<img src='https://i.guim.co.uk/img/media/f428ad0e4cf717eb6e16d62e3d1369c851836ee6/1043_0_5193_4157/master/5193.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=878bf12d2ae0204244ba62304ab986b2' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018
-
-Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in the past eight years, new analysis reveals.
-
-Attacks include 1,261 strikes on markets used by families for daily groceries and 863 incidents in which food distribution systems were targeted and workers killed.
-
-The analysis looked at the period since UN resolution 2417 unanimously condemned the deliberate starvation of civilians in 2018. It found starvation is being increasingly weaponised with the supply of food routinely targeted in Gaza, Sudan, Lebanon and Haiti among others.
-
-Data compiled by Insecurity Insight uncovered 21,403 incidents in 15 countries where food supplies have been deliberately targeted since 2018, when the UN security council unanimously passed a resolution condemning the unlawful denial of humanitarian aid as a tactic of warfare.
-
-Researchers discovered 1,909 military strikes on farmland, and another 563 on water infrastructure vital for crops, which affected food security in more than 42 countries and territories.
-
-States with the highest recorded incidents are the occupied Palestinian Territory with 9,013 attacks, followed by Yemen – 1,863 incidents – and Sudan, where food was targeted in 1,605 strikes. One of the most recent attacks in Sudan occurred on Tuesday when a drone struck a busy market, killing 28 people.
-
-Witnesses said the main market in the town of Ghubaysh, West Kordofan, appeared to have been deliberately targeted by the military while it was crowded with civilians.
-
-Other countries that documented repeated attacks on food supplies include Syria, which saw 1,538 incidents, many attributed to government or Russian military forces before the fall of the Assad regime; and Mali, where 1,415 attacks were recorded as the ruling junta struggled to maintain its grip on power in the west African country.
-
-The research, to be released on Monday to coincide with the anniversary of the UN resolution, describes a “marked increase” in attacks on markets, farmland and food distribution systems.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 Zac Brown Marries Kendra Scott in Greece Wedding Ceremony
-<img src='https://imagez.tmz.com/image/f3/16by9/2026/05/25/f3705e108b8140d483de8eb1d7f82e6e_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 'Storage Wars' Star Darrell Sheets' Autopsy Report Revealed
+<img src='https://imagez.tmz.com/image/de/16by9/2026/05/27/dea67a2d61864c3aad6df853c8d22dc2_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Zac Brown and Kendra Scott made things official overseas ... 'cause TMZ has learned the couple got married during an intimate ceremony in Greece.
+Darrell Sheets' autopsy report shows the toxicology report came back negative ... TMZ has confirmed.
 
-Sources with direct knowledge tell TMZ ... the wedding went down Monday at the luxurious Canaves Epitome Resort in Santorini.
+We obtained the "Storage Wars" star autopsy ... which shows his blood was tested for cocaine, fentanyl, and other drugs, but ultimately officials determined Sheets had no drugs in his system at the time of his death.
 
-We're told the couple's children were all there too ... turning the destination wedding into a full-on blended family affair.
+Sheets was described as a "well-developed, well-nourished adult male" in the report as well. Us Weekly was first to report on the autopsy.
 
-The marriage marks the next step in a whirlwind romance for the pair, who were introduced through mutual friends before quietly dating for months.
+We broke the story ... Sheets was found dead in his Arizona home last month -- with police telling us he was found with what appeared to be self-inflicted gunshot wound to the head.
 
-They eventually went public with the relationship last year at the American Music Awards. Zac later proposed with a massive custom pink diamond ring and the couple announced their engagement in July 2025.
+Other members of the "Storage Wars" family shared loving tributes after Sheets' passing ... with Rene Nezhoda also saying he knew Sheet was being cyberbullied before his passing.
 
-Congrats!!!
+Sheets' son Brandon penned a goodbye letter to his father on social media ... which read, in part, "I love you Dad and I will do my best to live in your honor and respect our Family. Let's all continue to build those memories and keep the legacy that is 'Darrell (The Gambler) Sheets.'"
 
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/zac-brown-kendra-scott-are-married/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Mike Vrabel Praises His Wife After Dianna Russini Scandal, 'I Love Jen'
-<div align='justify'>
-
-Mike Vrabel and Dianna Russini seem to be moving forward with their respective partners ... 'cause the New England Patriots coach raved about his wife in a press conference with reporters on Wednesday. In his media availability, the Super Bowl&hellip;
-
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/mike-vrabel-says-he-loves-his-wife-despite-scandal/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Gayle King Recalls Finding Out Ex-Husband Was Cheating With Her Close Friend
-<img src='https://imagez.tmz.com/image/6b/16by9/2026/05/27/6b4f7c0e774547a8a86a38cdd9b50e51_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-Gayle King is reliving one of the most brutal betrayals of her life -- catching ex-husband William Bumpus cheating ... with her own best friend.
-
-Appearing on the "Call Her Daddy" podcast on Wednesday, Gayle said she got back from the airport earlier than expected one day, and immediately knew something was off when the house alarm was set -- something William apparently never did.
-
-Gayle says William bolted out of the bedroom, wrapped in a towel, and tried to block her from going in -- warning her that someone was inside.
-
-She said she searched the house and found a woman hiding behind the door ... also wrapped in a towel. Then came the gut punch -- the woman was her best friend!
-
-The "CBS Mornings" host says she asked how she could do this to her ... but the real kicker? Gayle says William then drove the woman to the train station so she could get back to her own husband.
-
-Gayle later called Oprah to vent ... and Oprah apparently told her that the incident suggested the betrayal ran way deeper than she realized.
-
-The pair divorced in 1993 after 11 years of marriage.
-
-</div>
-
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/gayle-king-talks-ex-husband-cheating/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Skateboarder Marc Johnson Dead at 49
-<img src='https://imagez.tmz.com/image/29/16by9/2026/05/27/29da2d96dc2d4759bb017bf0234eb8c1_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
-
-<div align='justify'>
-
-Marc Johnson -- a professional skateboarder -- has died ... according to his longtime colleague.
-
-Skateboarder&nbsp;Louie Barletta confirmed Johnson's passing on Thrasher Magazine's Instagram. Johnson's cause of death is not known at this time.
-
-Johnson achieved success during the 2000s ... with Thrasher Magazine naming him its Skateboarder of the Year in 2007.
-
-However, Johnson struggled with addiction during his life and was transparent about his recovery from alcoholism.
-
-Barletta says he saw Johnson shortly before his passing ... and he seemed excited about life ... even handing Barletta a list of his hopes and dreams for the future.
-
-Fellow skateboarder, Steve Caballero, added his own tribute ... writing, “Rest in peace Marc, thank you for your commitment and contribution to skateboarding. Wish this could be avoided and we don’t have to read this but know that you are and were loved. Praying for his close friends and family.”
-
-Johnson was 49.
+Sheets was 67.
 
 RIP
 
+If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat&nbsp;988lifeline.org.
+
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/skateboarder-marc-johnson-dead/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/darrell-sheets-autopsy/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 The Cowboy Jeans Your Favorite Yellowstone Characters Wore
-<img src='https://imagez.tmz.com/image/70/16by9/2026/05/21/70851693caa94e89a5927c7eed8cbc7f_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Adam Carolla Blasts Chelsea Handler, Teases Jimmy Kimmel During Hollywood Star Speech
+<img src='https://imagez.tmz.com/image/7e/16by9/2026/05/27/7e042dfd69354d17b16787447d444e05_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-TMZ may collect a share of sales or other compensation from links on this page.
+Adam Carolla got his star on the Hollywood Walk of Fame today ... and he used his speech to tease an old pal -- and take a few shots at industry libs.
 
-The cast of "Yellowstone" doesn't mess around when it comes to Western fashion … and that includes a good pair of jeans.
+Jimmy Kimmel was one of the presenters, the duo going back for several years and even had a few shows together ... and JK even got a little emotional when talking about how proud he was of Adam -- even if their politics are night and day.
 
-Whether you love Kayce Dutton's classic cowboy style or Beth Dutton's fresh take on ranchwear, we've got you covered with denim looks inspired by the show.
+AC used his time to take shots at Chelsea Handler -- who he included among a list of the worst people in history -- and Mark Ruffalo, who he joked would destroy his star if it was too close to Trump's star. He kidded Kimmel that with Stephen Colbert canned at CBS ... his show has a fighting chance in the ratings.
 
-From OG Wrangler staples to classic Levi's fits, these are the styles bringing cowboy-core straight into your closet.
+The timing for the star is interesting ... because it was just a few weeks ago that Adam came to Jimmy's defense when Trump and MAGA once again demanded the late-night host be fired for a joke he made prior to the shooting at the White House Correspondents' Dinner.
 
-Want more great finds? Head to TMZ Deals.
+That pushback from Adam raised some eyebrows ... because yes, he and Jimmy once co-hosted "The Man Show" on Comedy Central ... but AC has also railed against woke culture and the&nbsp;Biden&nbsp;Administration, thereby becoming&nbsp;embraced by conservatives.
 
-John Dutton's Wrangler Jeans
-
-Rule the ranch like John Dutton in these Wrangler Cowboy Cut Original Fit Jeans. A&nbsp; tried-and-true wardrobe staple for cowboys, ranchers and riders, these comfortable and durable jeans haven’t changed much since they were first designed in 1947.
-
-Fully equipped with all the authentic details you’d expect from a hallmark of cowboy culture, including fully felled side seams and five-pocket styling, the jeans will have you ready for anything that comes your way on the ranch.
-
-Rip Wheeler's Levi's Jeans
-
-It’s all in a hard day’s work for Rip Wheeler. If you’re putting in hours on the ranch like Rip, you’re gonna need these Levi’s 501 Original Fit Jeans.
-
-With a classic straight leg fit and iconic button fly, these are the original blue jeans … and have been a style staple since Levi Strauss introduced them in 1873.
-
-Beth Dutton's Ariat Jeans
-
-These jeans were practically made for Beth Dutton ... or was Beth Dutton made for them?
-
-The Ariat x Yellowstone Rider Straight Leg Jeans are a staple in any cowgirl’s closet and were actually even featured on the show.
-
-As a collaboration with world-renowned “Yellowstone” costume designer, Johnetta Boone, these jeans pair authentic Western styling with a lived-in wash and feature Beth’s go-to high-waist silhouette.
-
-Whether you’re on the ranch or hitting the town, these jeans do it all.
-
-Kayce Dutton's Levi's
-
-Do it like Kayce Dutton in these Levi's 514 Straight Fit Jeans.
-
-Fit for a cowboy (or a U.S. Marshal), these versatile and comfortable jeans are a straight up classic.
-
-Designed for medium and athletic builds, they sit low on the waist and hit the sweet spot of being not too relaxed and not too straight.
-
-Of course, that means there's plenty of room to fit your cowboy boots underneath too.
-
-Wrangler Retro Bailey High Rise Bootcut Jeans
-
-Another Beth Dutton classic? These Wrangler Retro Bailey High Rise Bootcut Jeans look straight out of "Yellowstone."
-
-With a waist cinching silhouette, a close fit through the thigh, and a slightly flared leg opening (that fits perfectly over boots), these jeans deliver the Western authenticity everyone wants.
-
-Plus, it’s got a subtle amount of stretch for comfort for those moments that you need a little flexibility while running around the ranch.&nbsp;
-
-Wrangler Retro Slim Fit Bootcut Jeans
-
-These Wrangler Retro Slim Fit Bootcut Jeans are an updated cowboy classic.
-
-Tip your hat to these jeans that combine the brand’s most iconic features with contemporary fits and washes.
-
-With a streamlined silhouette through the seat, thigh, and knee but a widened cut from the knee downward, these jeans were made for walking … in your favorite boots.
-
-Look no further for your new favorite bootcut jeans.
-
-Levi's 724 High Rise Straight Jeans
-
-Skinny jeans are so back … especially when it comes "Yellowstone" style. These Levi's 724 High Rise Straight Jeans are designed with Stellar Stretch to flatter, hold and lift, all day, every day. Whether you’re going for a ride in a double denim 'fit or are dressing these up in classic Beth style, you can't go wrong with these in your wardrobe.&nbsp;
-
-For more curated product lists check out TMZ Deals.
-
-Sign up for Amazon Prime to get the best deals!
-
-All prices &amp; availability subject to change. Not official merchandise unless explicitly stated.
+Bros before political foes ... are we right?!
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/yellowstone-denim-inspired-finds/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/chelsea-handler-slammed-by-adam-carolla/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Rosie Woods Fires Back at Coach Ed Cooley Affair Rumors, Blames Dave Portnoy
+<img src='https://imagez.tmz.com/image/95/16by9/2026/05/27/953beb93f466448d82173b20e505c469_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+Bravo's newest breakout star is knee-deep in affair rumors, alleged hush money, and reality TV chaos ... and Dave Portnoy is pouring gasoline all over the fire.
+
+"The Real Housewives of Rhode Island" cast member Rosie Woods is firing back after online speculation linked her to Ed Cooley -- the former Providence men's basketball coach who's long faced whispers surrounding his abrupt 2023 exit from the program.
+
+The mess exploded after Rosie's co-star Kelsey Swanson hinted during a recent episode of 'Real Housewives' that Rosie allegedly had an affair with a married basketball coach ... who supposedly helped bankroll her new house. Cooley -- now the coach at Georgetown -- was never named outright on the show, but internet sleuths connected the dots.
+
+Then Dave jumped into the drama with one of his "Tea by the Sea" videos ... openly tying Ed directly to the 'Housewives' storyline.
+
+Rosie wasn't having it.
+
+In a fiery Instagram response, Rosie flat-out denied ever knowing the coach ... saying, "I do not know Ed Cooley. I have never met Ed Cooley. I have never had an affair with Ed Cooley. He has never paid me money."
+
+She also pushed back on claims that her home was secretly funded through hush money ... insisting she and her husband, Rich DiMare, bought the house themselves "with the money we make at our big grown-up jobs."
+
+Meanwhile, Dave repeatedly stressed he had "no proof" of the allegations while recapping the gossip for his followers ... though that didn’t stop the rumor mill.
+
+Now the 'RHORI' drama is dragging Ed right back into Rhode Island basketball gossip ... whether he wants to be or not.
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/rosie-woods-responds-to-ed-cooley-affair-rumors/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Floyd Mayweather's Ex-Friend Fighting Prison Sentence After Fighter Sues
+<img src='https://imagez.tmz.com/image/7d/16by9/2026/05/26/7dd4b036e2a947c1a08804a1d68160b5_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+The money manager whom Floyd Mayweather claims ran a years-long scheme, where he stole $175 million, is fighting a prison sentence handed down in an unrelated case ... TMZ has learned.
+
+According to court docs, obtained by TMZ, Jona Rechnitz was ordered to serve 5 months in prison as part of a case involving allegations of wire fraud … but he is fighting the sentence.
+
+The charges were brought back in 2016. Jona pleaded guilty to honest services fraud and agreed to cooperate with prosecutors on related cases in the hopes of getting a lenient sentence. The case dragged on for years until the codefendants’ cases were resolved.
+
+Jona has been out on release for nearly 10 years since his cooperation began. In February, Jona was finally sentenced to serve five months in prison, and he's currently scheduled to check in on June 26.
+
+On May 14, Jona asked the court to assign him to a specific prison that supports his religious observance.
+
+Jona appealed the 5-month sentence, claiming the judge made errors when ruling on how long to throw him behind bars. He was in court this week, arguing that he should be allowed to remain out on bail while he awaits a decision on his appeal.
+
+As TMZ first reported, Floyd sued Jona for allegedly scamming him out of $175 Million. The famed fighter claimed Jona was a close friend who drained his bank accounts and moved his money around.
+
+Floyd claimed that Jona and others worked together on a scheme to defraud him out of millions.
+
+A rep for Jona and the other defendants told TMZ, “We have thoroughly reviewed Mr. Mayweather’s lawsuit. His claims against our clients are utterly baseless and refuted by substantial documentary evidence, including Mr. Mayweather’s own correspondence."
+
+"Our clients intend to vigorously defend against these claims and are confident that once all of the facts are presented in court, not only will our clients be vindicated, Mr Mayweather’s gambling issues, prolific spending habits, monies owed to third party creditors and IRS tax liens and levys, as well as other unseemly behavior will be exposed and we believe that Mr. Mayweather will be the one paying significant damages to our clients," the rep added.
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/floyd-mayweather-former-manager-going-to-prison/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Cynthia Erivo Says She Doesn't Want to Talk About 'Wicked' Anymore
+<img src='https://imagez.tmz.com/image/bf/16by9/2026/05/27/bf21d4a4212e437d9bcf6ba62a2016ae_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+
+<div align='justify'>
+
+Cynthia Erivo is officially drawing the line on all things 'Wicked,' and she wants it on the record.
+
+During a Variety interview on Wednesday, Cynthia was playing a game of guessing famous lyrics from her past projects ... until the line "you’re the only friend I ever had" from the 'For Good' film had her visibly tense up and ask if they could move on to literally anything else.
+
+Cynthia pointed out she's spent the past two years talking about the 'Wicked' movies, and while she still loves the film, she's discussed it "ad nauseam."
+
+TBH, the accompanying written feature was pretty heavy on 'Wicked' content -- with Cynthia delving into the viral jokes and the backlash to her friendship with her Glinda, Ariana Grande.
+
+Cynthia even alluded to the fact that the conversation about how she defended Ariana against a red-carpet intruder in Singapore turned her off the idea of campaigning for an Oscar for "Wicked: For Good."
+
+So yeah, Cynthia's ready to defy the rules of gravity ... something straight outta "Wicked."
+
+</div>
+
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/cynthia-erivo-awkward-interview/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
+### 📰 Cornyn’s Defeat in Texas Runoff Underscores Trump's Grip on the G.O.P.
+<div align='justify'>
+
+Senator John Cornyn lost to his MAGA-aligned challenger, Ken Paxton, by 28 percentage points. It was a historically poor showing.
+
+</div>
+
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/us/politics/paxton-cornyn-texas-republican-primary.html)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P.
 <div align='justify'>
 
@@ -652,29 +623,18 @@ Senators are angry President Trump turned on a respected former leader whom they
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Paxton’s Texas Victory Opens a New Front in the Battle for the Senate
+### 📰 Meeting Voters, a Republican Tries to Outrun His Party’s Woes
 <div align='justify'>
 
-Many Democrats and some Republicans said the scandal-plagued Ken Paxton’s victory could turn Texas into a battleground state that will determine Senate control.
+Representative Mike Flood of Nebraska is still meeting with constituents long after most G.O.P. members of Congress have concluded it is too politically dangerous to do so.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/us/politics/paxton-talarico-texas-senate-race.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/us/politics/mike-flood-gop-town-hall.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 A Blue Texas May Be More Than a Dream for Democrats
-<div align='justify'>
-
-Ken Paxton’s victory for the Republican nomination and a big shift among Hispanic voters have put a Senate seat within reach.
-
-</div>
-
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/upshot/paxton-talarico-texas-polling.html)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 In Alabama Case, Supreme Court Faces First Major Test of Voting Rights Act Ruling
+### 📰 Alabama Republicans Ask Supreme Court to Allow New Congressional Map in Redistricting Fight
 <div align='justify'>
 
 Republican leaders in the state have asked the justices to clear the way for a congressional map that a lower court found discriminated against Black voters.
@@ -685,20 +645,141 @@ Republican leaders in the state have asked the justices to clear the way for a c
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Global Supply Shortages Deepen as War Drags On, Risking Jobs and Growth
+### 📰 Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal
 <div align='justify'>
 
-After three months, the fallout of the closure of the Strait of Hormuz is spreading, with developing countries bearing the brunt of the shortfall.
+Few in Lebanon believe that diplomatic efforts to end the wider war will bring peace to their country, as clashes between Israel and Hezbollah intensify in the south.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/business/hormuz-global-shortages-gas.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
+### 📰 NASA Develops Sensor to Improve Firefighter Safety
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/firesense-alabama-04232026-loiacono-6083.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire.
+
+In April, researchers and firefighters gathered in southern Alabama to discuss challenges and advances in firefighting, and to demonstrate the new technology. The event was part of a collaboration between NASA and the Alabama Forestry Commission (AFC). The goal: to make firefighting safer and gather critical data on fire behavior.
+
+“As we try to develop technologies that allow us to understand and respond to wildfires with our partners, ground observations are vital to provide context for what we are seeing from space,” said Ian Brosnan, program manager for wildland fires at NASA’s Ames Research Center in California’s Silicon Valley.
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that
+supports HTML5 video
+
+Firefighters nationwide use bulldozers, colloquially referred to as fire dozers, on the front line of a fire to clear vegetation and to create fire breaks, which slow or stop a wildfire’s spread. This often puts dozers and their operators within feet of the flames.
+
+The AFC is switching its fleet to a model of bulldozer that has an enclosed cab called an “envirocab.” While envirocabs are safer for operators than open cabs, the enclosure makes it more difficult to gauge when radiant heat from the fire has reached a dangerous temperature.
+
+“It’s not so much about what’s going to burn the tractor up as what’s going to shut the tractor down,” said Ethan Barrett, AFC fire analyst. The electrical wiring can short or even melt from high heat, stranding the operator in a dangerous environment.
+
+That’s where NASA comes in. According to Brosnan, developing thermal sensors for the AFC was an opportunity to create technology that has immediate impact on firefighter safety, while also providing scientists with valuable information about what happens on the ground during a fire.
+
+The AFC’s requirements for a sensor were simple: it needed to be low-cost and easy to operate.
+
+“We used commercial, off-the-shelf components to make this,” said Jennifer Fowler, science integration manager for the wildland fires program at NASA’s Langley Research Center in Hampton, Virginia. “The thermocouple that sits in the window to measure temperature, for example, is the same one used in an oven or a kiln.”
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft
+<img src='https://assets.science.nasa.gov/content/dam/science/missions/landsat/landsat-10/landsat_timeline_May2026.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov as of May 18, 2026. This solicitation marks a major milestone in continuing the decades-long partnership between NASA and the U.S. Geological Survey (USGS) to acquire, archive, and distribute multispectral imagery of Earth’s global landmasses and coastal regions.
+
+Potential offerors may comment on all aspects of the draft solicitation by June 2, 2026. The final Request for Proposal (RFP) is currently expected to be released at the end of June 2026, with proposals due roughly 30 days thereafter.
+
+The scope of work includes the end-to-end design and fabrication of the satellite bus, comprehensive observatory-level performance testing, development of high-fidelity simulators, launch vehicle integration support, and post-launch on-orbit commissioning. Beyond building the bus, the contractor will lead the mechanical and electrical integration of the government-furnished Landsat Instrument Suite (LandIS).
+
+Recently re-architected as a single-observatory, Landsat 10 will fly in a 653-kilometer sun-synchronous, near-polar orbit with a repeating ground track every 18 days. Key technical specifications of this Class C mission require the spacecraft to support a maximum launch mass of 4,000 kilograms, feature advanced onboard autonomy and fault management, and ensure a minimum 5-year design life plus commissioning. Landsat 10 operations will ultimately transition to the USGS following its on-orbit checkout.
+
+Landsat 10 provides improvements in both spectral and spatial capabilities compared to its predecessor missions, Landsats 8 and 9, all while guaranteeing critical data continuity with the legacy archive at the USGS Earth Resources Observation and Science (EROS) Center. The mission will ensure that researchers, resource managers, and policymakers worldwide continue to receive consistent, freely available data to monitor natural and human-induced environmental changes for years to come.
+
+The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov.
+
+The volcano on Indonesia’s Halmahera Island routinely ejects ash, volcanic gases, and volcanic bombs.
+
+DIST-ALERT, a global land change monitoring system, is revolutionizing forest management.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605260002.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer los plazos de lanzamiento previstos y los próximos hitos para las primeras misiones de infraestructura de Base Lunar y de exploración a la región del Polo Sur de la Luna, como paso previo a la llegada de los astronautas del programa Artemis.
+
+“La Base Lunar será el primer puesto de avanzada de Estados Unidos y de la humanidad en otro mundo celeste”, dijo el administrador de la NASA, Jared Isaacman. “Cada misión, tripulada o no, será una oportunidad de aprendizaje a medida que regresemos a la superficie lunar, construyamos la infraestructura necesaria para permanecer allí y dominemos las destrezas necesarias para vivir y trabajar en uno de los entornos más exigentes y peligrosos que se pueda imaginar. Iremos en busca de la ciencia, por todo lo que tenemos que ganar desde una perspectiva económica y tecnológica, por las innovaciones que mejorarán la vida aquí en la Tierra y para prepararnos para el próximo destino al que inevitablemente nos dirigiremos a continuación. Agradecemos el liderazgo del presidente Trump, el compromiso bipartidista del Congreso, a nuestros socios de la industria e internacionales, y a la dedicada fuerza laboral de la NASA, cuya pericia nos permite lograr lo casi imposible”.
+
+La NASA anunció las tres primeras misiones de Base Lunar para comenzar a establecer operaciones sostenidas.
+
+Estas misiones son las primeras de más de una docena de misiones que serán anunciadas este año; cada una está diseñada para producir datos operativos y reducir riesgos en anticipación a las actividades en la superficie de las misiones tripuladas de Artemis.
+
+La NASA ha adjudicado contratos a Astrolab por 219 millones de dólares y a Lunar Outpost 220 millones de dólares para la construcción y entrega de la primera fase de los LTV. Adjudicados en el marco de las órdenes de trabajo de la Fase 1 de la Misión de Alta Viabilidad del contrato de Servicios de Vehículos de Terreno Lunar, estos hitos de costo fijo y basados en el desempeño permitirán a la NASA desplegar sistemas de movilidad, tanto tripulados como no tripulados, en la superficie lunar para 2028, mediante la iniciativa de Servicios Comerciales de Carga Útil Lunar (CLPS, por sus siglas en inglés) de la agencia. La movilidad inicial en la superficie es un componente fundamental en las prioridades de la política espacial nacional de establecer una presencia lunar duradera.
+
+El Vehículo Lunar Tripulado (CLV 1) de Astrolab, adaptado a partir de la arquitectura FLEX de esa compañía, es un rover diseñado para transportar astronautas, trasladar suministros y dar apoyo en operaciones remotas; cuenta con una configuración compacta en estiba (en estado replegado), tiene una masa de aproximadamente 907 kilogramos (2.000 libras) y la capacidad de alcanzar más de 9,6 kilómetros por hora (6 mi/h) en terreno llano.
+
+Como complemento a esta capacidad, el Pegasus de Lunar Outpost es una evolución de su rover Eagle más ligera y lista para la misión, y está diseñado explícitamente para cumplir con los requisitos actualizados para LTV de la NASA. Con una autonomía operativa de hasta un año y capaz de conducir de forma manual, autónoma o teleoperada a velocidades superiores a los 14 km/h (9 mph), Pegasus incorpora tecnologías heredadas del programa Apolo y se basa en una amplia experiencia en prototipos y vuelos para ofrecer una movilidad confiable y centrada en el ser humano, esencial para el establecimiento de una base lunar sostenida.
+
+El despliegue de múltiples LTV en las etapas iniciales del desarrollo de Base Lunar acelerará las demostraciones tecnológicas, orientará la planificación de los emplazamientos y reducirá los riesgos operativos en anticipación de las misiones tripuladas de Artemis, lo que permitirá a la NASA caracterizar los peligros del terreno, transportar materiales, posicionar de antemano los recursos y madurar los sistemas necesarios para la exploración lunar de larga duración.
+
+Durante los próximos dieciocho meses, los proveedores seleccionados finalizarán el diseño de los rovers, llevarán a cabo evaluaciones con tripulación y certificarán las unidades de vuelo para su operatividad. Los LTV resultantes darán apoyo a desplazamientos autónomos, la preparación del terreno, investigaciones científicas, demostraciones de tecnología y el transporte de astronautas.
+
+A medida que avancen los esfuerzos para el establecimiento de la Base Lunar, la NASA ampliará las oportunidades para proveedores adicionales mediante concursos de acceso por etapas, fomentando un enfoque sólido y sostenible para la movilidad lunar y fortaleciendo las prioridades nacionales en materia de capacidades espaciales.
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+### 📰 Girl Scouts Event Brings Space Science to the Next Generation
+<img src='https://assets.science.nasa.gov/content/dam/science/cds/learn/science-activation-stories/2026/girlscouts_spacescience.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+
+<div align='justify'>
+
+In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments. The event took place from May 1-3 at Camp Conowingo, a Girl Scouts of Central Maryland camping property on the Susquehanna River north of Baltimore, and brought together participants from across the region.
+
+With support from the Heliophysics Education Activation Team (HEAT) and the outreach program from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, NASA heliophysicist Nicholeen Viall led a camping trip on which 165 Girl Scouts earned their Space Science badge and Ancient and Modern Sun-Watching patch.
+
+The badge and patch were earned over the course of the weekend through a series of activity stations that included hands-on examples of how scientists study the Sun, Heliosphere, Moon, planets, and stars. In particular, these creative experiments allowed attendees to learn about space weather and see firsthand how the Sun impacts our lives, which is a cornerstone of HEAT education goals.
+
+The activities were set up in seven stations. Girl Scout troops were split into 7 groups, plus an 8th group of high school seniors who ran the stations. Each group was named after a constellation (Ursa Major, Leo, Orion, Cassiopeia, Pegasus, Cygnus, Lyra, and Canis Major).
+
+On the morning and afternoon of Saturday May 2, each group spent about 45 minutes per station doing activities to earn a space science badge.
+
+On Friday and Saturday evenings, the groups participated in a star and Moon gazing nighttime astronomy activity and were able to find Jupiter.
+
+These activities were made possible in part thanks to time contributed by members of NASA Solar System Ambassadors and the National Capitol Astronomers. Station 3 from the daytime events also had Sunspotter telescopes for the Girl Scouts to try out, which were provided by HEAT with help from team member Carolyn Ng.
+
+Fellow HEAT team member Laura-Ashley Alegbeleye was also onsite leading activities, where  her expertise in classroom education really shined. Laura-Ashley attended as a representative of HEAT, which allowed her to share HEAT resources and educational content with the Girl Scout attendees at several stations, including Station 1.
+
+Viall describes the Space Science Career station by pointing out that the event coordinators leveraged HEAT educational materials, as well as activities designed for the Ancient and Modern Sun Watching patch by the PUNCH team, to show that even a NASA mission requires many different skill sets. “It's not just scientists and the engineers,” says Viall. “It is financial analysts, it's communications people, it's good writers, it's good artists. All of these different people have to be a part of the team.”
+
+One of the standout moments of the weekend was the campfire at the end of Saturday, which is a tradition for Girl Scout camping events, according to Viall. “One of the traditions of the campfire is that we all sing songs and the Girl Scouts put on skits,” explains Viall. “I want to say about half of the skits that the Girl Scouts made were about space, the Sun, astronauts, or about exploring Mars.”
+
+</div>
+
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
 <img src='https://www.nasa.gov/wp-content/uploads/2026/05/cropped-nasa-meatball-1.webp' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
@@ -723,103 +804,6 @@ Anna SchneiderCentro Espacial Johnson+1 281-483-5111anna.c.schneider@nasa.gov
 </div>
 
  [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260519-ph-jbs01-0032orig.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunabotics Challenge competition on Tuesday, May 19, 2026, at the Kennedy Space Center Visitor Complex in Florida.
-
-Forty-seven teams from around the U.S. designed and built remote-controlled robots capable of traversing challenging lunar terrain while constructing regolith-based berm under conditions similar to those the agency will face as it returns to the lunar surface through Artemis.
-
-The Lunabotics Challenge invites students from higher education institutions to apply NASA’s Systems Engineering principles to design and build a prototype off-world construction robot. Participants will develop a robot capable of performing construction operations that support future space exploration objectives.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA-European Sea Level Mission Homes in on El Niño
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/1-pia26710-el-niNo-enso-20260302-20260518.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-To view this video please enable JavaScript, and consider upgrading to a web browser that
-supports HTML5 video
-
-Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Pacific Ocean off the coast of South America, a sign that El Niño will likely emerge later in the year. Because water expands as it warms, a rise in elevation of an area of the ocean indicates increasing ocean temperatures.
-
-El Niños can cause heavy precipitation in some regions and deficits in others, influencing daily life and commerce around the world.
-
-Launched in 2020 by NASA and led by ESA (European Space Agency) for the E.U. Copernicus Programme, the Sentinel-6 Michael Freilich satellite measures and maps water height for the entire ocean every 10 days, down to fractions of an inch. In the case of El Niño, the satellite tracks what are called warm Kelvin waves.
-
-These waves typically form after brief periods when winds over the far western equatorial Pacific Ocean shift from prevailing easterlies — moving from east to west — to westerlies. That effect, combined with a general weakening of easterly winds along the equator, causes water in the tropics of the western Pacific to get warmer and sea levels to rise. The wave that forms then propagates east for several weeks, eventually reaching South America and causing water off the coast to heat up and rise. An El Niño develops as multiple Kelvin waves appear over the course of several months, and the warm water accumulates off the shores of Colombia, Ecuador, and Peru.
-
-“While this year’s event started a bit later than the big El Niños of 2015 and 1997, it’s beginning to catch up,” said Josh Willis, a sea level researcher at NASA’s Jet Propulsion Laboratory in Southern California and project scientist for Sentinel-6 Michael Freilich. “We’ll see how big it gets.”
-
-Measurements from Sentinel-6 Michael Freilich show a small Kelvin wave forming around Micronesia in late January and dissipating by mid-February. A new wave emerged in early March, then moved east over time. By mid-May, the seas around Peru were more than 5.9 inches (15 centimeters) higherthan long-term averages.
-
-“NASA’s observation of El Niño uses sea level satellites like Sentinel-6 Michael Freilich to track massive Kelvin waves as they cross the Pacific, capture changes in Earth’s ocean thermodynamics, improve forecasts of weather extremes, and help communities prepare for potential coastal hazards,” said Nadya Vinogradova Shiffer, lead program scientist at NASA Headquarters in Washington. “Stay tuned as more ocean stories continue to unfold.”
-
-Fishermen in the 1600s coined the name El Niño — Spanish for “the boy,” a reference to the birth of baby Jesus — because it tended to intensify around Christmastime. Warmer waters meant they would catch fewer fish.
-
-Warmer sea surface temperatures in the central and eastern Pacific affect atmospheric circulation patterns worldwide by shifting the jet stream, which impacts storm tracks. This can lead to heavy rain and snow in some areas and unusual heat and dryness in others. How far away those impacts appear depends on the strength of the El Niño.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 Webinar 6/17: Discover, Access, and Task Commercial Data with NASA’s Satellite Data Explorer
-<img src='https://science.nasa.gov/wp-content/uploads/2026/05/sdx-webinar-banner-17-june-2026.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-Join us for an CSDA program webinar on Wednesday, June 17, 2026, to learn how to use the Satellite Data Explorer(SDX) to search, access, and task commercial Earth Observation data available through NASA's Commercial Satellite Data Acquisition (CSDA) program.
-
-The SDX is a web-based data discovery, access, and data tasking platform developed under the CSDA program that enables approved users to discover, access, task, and download commercial Earth observation data available through the program.
-
-During this webinar event, data users will learn how to use the SDX to streamline their data workflow. A live demonstration will focus on the key features and functionalities of the tool from searching and filtering capabilities (e.g., by area-of-interest, product type, vendor) to visualizing query results through interactive maps and quick-look browse imagery. Webinar participants will also learn how to use the new Data Acquisition Request System to submit and track commercial data tasking requests for future acquisitions.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/science-research/earth-science/webinar-6-17-discover-access-and-task-commercial-data-with-nasas-satellite-data-explorer/)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-### 📰 NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/webb/science/2026/05/STScI-01KR482A7ZQEB4NJCM25BP8GA8.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
-
-<div align='justify'>
-
-Which comes first, the galaxy or the black hole? We don’t know, but scientists have long thought it could be the galaxy: Large stars within an existing galaxy consume their fuel and collapse to form black holes, which can gobble up surrounding material and merge over time to form more massive entities.
-
-But it’s hard to figure out how black holes millions to billions of times the mass of the Sun, thousands of which have now been detected in the early universe, could have grown so quickly from such small seeds.
-
-Now, researchers using NASA’s James Webb Space Telescope have detected clear evidence that some supermassive black holes were enormous from the beginning, forming without a stellar collapse phase, and without a significantly more massive host galaxy to feed them.
-
-“This is a remarkable finding,” said Roberto Maiolino of University of Cambridge in the United Kingdom, co-author of studies published in Nature and the Monthly Notices of the Royal Astronomical Society. “It’s a paradigm shift, a total revisiting of the classical scenarios of how black holes form and grow.”
-
-The team’s conclusion is based on detailed observations of Abell2744-QSO1 (QSO1), a prototypical Little Red Dot that existed just 700 million years after the big bang.
-
-Although QSO1 is only 1,300 light-years across, and its light has been traveling for more than 13 billion years, it is easier to study than most other Little Red Dots because it is gravitationally lensed by galaxy cluster Abell 2744 (Pandora’s Cluster). QSO1 is both magnified and triply imaged, appearing in three different locations in the sky.
-
-Initial studies of QSO1 revealed compelling evidence that it may be little more than a cloud of glowing hydrogen and helium gas circling a supermassive black hole estimated at 40 million times the mass of the Sun. But as with other early black holes discovered by Webb, there was uncertainty about whether it really was that massive.
-
-“Before now, all of the mass measurements of black holes in the early universe have been indirect, based on assumptions from what we know about them in the local universe. We didn’t know if those assumptions really apply to the distant universe,” said co-author Francesco D’Eugenio, also of the University of Cambridge.
-
-The team recognized that if QSO1’s black hole is as massive as it looks, they should be able to use the integral field unit (IFU) on Webb’s NIRSpec (Near Infrared Spectrograph) to trace the effects of its gravity on the gas swirling around it, while also mapping the distribution of various elements in the gas.
-
-Cambridge graduate student Ignas Juodžbalis and Cosimo Marconcini of the University of Florence, lead authors on one of the studies, used the IFU observations to map motions of hydrogen gas surrounding the black hole. When they plotted the rotation velocity as a function of distance from the center, they found that the gas has Keplerian motion: It orbits a central point in the same way that planets in our solar system orbit the Sun.
-
-</div>
-
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
