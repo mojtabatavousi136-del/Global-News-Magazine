@@ -4,7 +4,7 @@
 
 **Powered by: [Mahoor](https://github.com/mojtabatavousi136-del)**
 
-**📅 Update (Tehran Time):** `2026/05/28 - 02:27`
+**📅 Update (Tehran Time):** `2026/05/28 - 21:16`
 
 ---
 
@@ -19,292 +19,317 @@
 </div>
 
 ## <a name='al-jazeera'></a>🌍 Al Jazeera
-### 📰 Markets rally amid hopes of US-Iran deal
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a1745172441-1779909911.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 UN ‘adds Israel to blacklist’ for conflict-related sexual violence
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a186e529095d-1779986002.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The United States stock market has been hovering near record highs and oil prices have plunged amid new hope that a ceasefire deal between the US and Iran is close.
+The United Nations has “added Israel to the blacklist of sexual violence in conflict zones”, prompting Israel to cut ties with UN chief Antonio Guterres, the country’s ambassador to the UN says.
 
-The rally came on Wednesday as negotiations continued between Washington and Tehran, with markets betting that a deal would reopen the vital Strait of Hormuz, easing oil and gas supply concerns and soothing the deep uncertainty afflicting the global economy.
+“We are done with this secretary-general,” Israeli ambassador Danny Danon added in a video posted on X on Thursday, denouncing the upcoming report from Guterres’s office.
 
-Oil prices declined sharply after Iran’s state broadcaster said it had obtained a preliminary document outlining a framework for a potential deal.
+The UN secretary-general’s annual report on conflict-related sexual violence is customarily presented to relevant states before publication. Last August, the report warned that Israel could be added to the list of parties suspected of, or responsible for, sexual violence in situations of armed conflict.
 
-The price of US crude fell 5.5 percent to settle at $88.68, while Brent crude, the international oil benchmark, decreased to $92 after prices traded above $100 last week.
+“The decision to blacklist Israel and accuse us of using sexual violence as a weapon of war is an outrageous decision,” Danon said.
 
-The report suggested that Iran would allow traffic through the strait at pre-war levels within 30 days. It added that the US would lift its naval blockade on Iranian ports.
+“The secretary-general and his team continue to spread lies against Israel. To put us and Hamas terrorists on the same list, that’s unacceptable.”
 
-Prices remained subdued even after the White House dismissed the report as a “complete fabrication”.
+The Israeli mission to the UN said in a statement that it will have no contact with the secretary-general’s office as long as Guterres serves as head of the organisation.
 
-The S&P 500 rose 0.1 percent and added to its all-time high set the day before. The Dow Jones Industrial Average was up 243 points, or 0.5 percent, with an hour remaining in trading, and the Nasdaq composite was 0.1 percent higher.
+The country’s foreign ministry also expressed anger over the upcoming report.
 
-Wednesday is far from the first time markets have rallied amid reports of a possible end to the war, only to slump once more as negotiations fail to deliver a resolution.
+“The shameful and absurd UN decision to include Israeli entities in the annex to the CRSV (conflict-related sexual violence) report is further proof of the UN’s true nature: a politicised and corrupt organisation that has abandoned its founding principles and systematically targets Israel as its primary mission,” Oren Marmorstein, a spokesperson for the Israeli foreign ministry, said on X.
 
-However, the strength of the current surge reflects statements over the past week that suggest the two parties may be closer than ever to reaching a deal.
+“For our part, the secretary-general’s door remains open,” Stephane Dujarric said.
 
-President Donald Trump said during a cabinet meeting on Wednesday that US officials were not yet satisfied with the agreement, “but we will be”.
+Last August, the UN cited “credible information” regarding sexual violence committed by Israeli security forces against Palestinian detainees in prisons and other detention centres, and said UN inspectors had been denied access to the facilities.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/28/un-adds-israel-to-blacklist-for-sexual-violence-in-war-zones?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Former assistant to TV star Matthew Perry sentenced to 41 months in prison
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a174c0559050-1779911685.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Latvia parliament approves new gov’t after drone dispute toppled coalition
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a1864fa13ea-1779983610.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-The former personal assistant to actor Matthew Perry has been sentenced to 41 months in prison in connection with the television star’s death from a fatal dose of the hallucinogenic drug ketamine.
+Latvia’s parliament has approved a new coalition government that will lead the European Union and NATO member country in the coming months after its predecessor collapsed following an argument over its handling of stray drones suspected to be from Ukraine.
 
-On Wednesday, Judge Sherilyn Garnett issued the sentence against Kenneth Iwamasa in a Los Angeles courtroom.
+By a margin of 66 deputies in the 100-seat assembly, lawmakers on Thursday confirmed 47-year-old centrist Andris Kulbergs as prime minister, who will lead the Baltic nation of more than 1.8 million people until parliamentary elections on October 3.
 
-Iwamasa had testified, as part of a plea agreement, that he injected Perry with ketamine at the actor’s request on October 28, 2023, before leaving to run errands. He had no medical training.
+Evika Silina resigned in mid-May after one of her coalition partners withdrew its support and left her without a majority. She quit after Defence Minister Andris Spruds, a member of the Progressives Party, was forced to resign over the government’s handling of multiple incidents involving stray drones suspected to be from Ukraine crossing into Latvian territory.
 
-When Iwamasa returned, he found Perry’s lifeless body floating in a hot tub at his home in Los Angeles’s Pacific Palisades neighbourhood. Perry was 54 years old at the time.
+Silina accused the minister of not deploying anti-drone defences fast enough to parry two wayward Ukraine attack drones, which are thought to have been knocked off course by Russian jamming. At the time, she said Spruds had lost her trust and that of the public. Still, her three-party coalition had been under strain for months over multiple issues.
 
-“I am so sorry to all of you,” Iwamasa told the court. “I’m just so sorry to have done illegal acts I will forever regret. I will take that to my grave.”
+The drones caused minimal damage but sparked widespread concern in the former Soviet republic, which is now a member of NATO and the EU.
 
-The sentencing of Iwamasa concludes the prosecution of five people alleged to have facilitated the actor’s death by helping him access the drug without proper medical supervision.
+Earlier this month, President Edgars Rinkevics backed opposition lawmaker Kulbergs to replace Silina for the top job of prime minister.
 
-Perry, best known as the character Chandler Bing in the sitcom Friends, had been struggling with alcoholism and drug addiction for years.
+“The duty of the government is to ensure Latvia’s security in the broadest sense. That means guaranteeing the external security of the state, economic security, energy security, but also people’s sense of security in their own country,” Kulbergs said in a speech in the run-up to Thursday’s parliamentary vote.
 
-Prosecutors say he had grown increasingly dependent on ketamine, which is sometimes used to help treat depression. They described Iwamasa as Perry’s “enabler and supplier”, continuing to give him injections despite troubling incidents.
+He also confirmed outgoing foreign minister Baiba Braze would remain in her post and appointed a military officer, Colonel Raivis Melnis, as defence minister.
 
-Iwamasa allegedly gave Perry more than 25 shots of the drug in the days leading to his death, including three on the day he died.
+Several Russian and Ukrainian drones have crashed in Latvia – and neighbouring Lithuania and Estonia – since Russia invaded Ukraine in 2022.
 
-Court papers state that the Friends star had asked the 61-year-old Iwamasa to “shoot me up with a big one” in his final moments.
+Ukrainian President Volodymyr Zelenskyy has offered to send experts to Latvia to help it boost its air defences.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/27/former-assistant-to-tv-star-matthew-perry-sentenced-to-41-months-in-prison?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/28/latvia-parliament-approves-new-govt-after-drone-dispute-toppled-coalition?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Why is Israel ramping up attacks in Lebanon despite a ceasefire?
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779912887.jpg?resize=1920%2C1061&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 US inflation surges to three-year high amid tensions with Iran
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a186b97-1779985303.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Israel intensifies its military action in Lebanon, killing and injuring dozens of people, despite a US-brokered ceasefire.
+United States inflation jumped at its fastest pace in three years as the ongoing US-Israel war on Iran fuelled higher energy prices.
 
-Iran insists those attacks must also end as part of any deal with the United States.
+Personal consumption expenditures — the US Federal Reserve’s preferred measure for assessing inflation — rose by 3.8 percent over the last year in April, following a 3.5 percent increase in March, according to the Department of Commerce’s Bureau of Economic Analysis report released on Thursday.
 
-Rami Khouri – Distinguished fellow at the American University of Beirut
+On a month-over-month basis, the PCE (Personal Consumption Expenditures Price Index) rose by 0.4 percent in April following a 0.7 percent increase in March.
 
-Michael Mulroy – Former US deputy assistant secretary of defense for the Middle East
+Overall, goods prices ticked up by 0.7 percent. The biggest jump was at petrol pumps, with prices rising 5.5 percent as tensions with Iran strained global energy markets. The average price for a gallon of petrol (3.78 litres) is $4.42, up from $4.17 this time last month, and up from $2.98 per gallon on February 28, when the US and Israel struck Iran.
+
+Food prices also rose by 0.5 percent, marking the largest monthly price increase since November 2022.
+
+Housing and utility costs jumped by 0.6 percent as well. Consumer spending also increased by 0.5 percent following a 1 percent increase in March. More consumers are also tapping into their savings, with the savings rate falling by 2.6 percent last month.
+
+The rising inflation puts pressure on the Federal Reserve ahead of the central bank’s first policy meeting under new Chair Kevin Warsh, which is slated for June 16-17. The central bank tracks PCE  inflation as it tries to reach its 2 percent target.
+
+“The inflation picture is becoming increasingly uncomfortable for the Fed,” Olu Sonola, head of US economics at Fitch Ratings, told the Reuters news agency. “Price pressures are likely to persist over the next few months, and while the Fed cannot fix a supply shock, it cannot ignore one that is feeding into underlying inflation.”
+
+It is widely expected that the central bank will maintain the 3.50-3.75 percent range well into 2027. A recent JPMorgan Chase analysis suggested that rates will hold steady until mid-2027, when a rate hike rather than a cut is expected.
+
+That is reflected in the central bank’s minutes from its April 28-29 meeting, which showed policymakers leaning towards rate hikes.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/inside-story/2026/5/27/why-is-israel-ramping-up-attacks-in-lebanon-despite-a-ceasefire?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump says no one will control Strait of Hormuz
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-trump-Hormuz-open-to-everyone-1779915254.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Smoke rises over Beirut after Israeli strike
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779986507.jpg?resize=1620%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-Donald Trump says he won’t allow Iran to control ⁠the Strait of ⁠Hormuz under the terms of any deal reached with Tehran.
+Footage shows smoke billowing over south Beirut following an Israeli attack on the Lebanese capital.
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/27/trump-says-no-one-will-control-strait-of-hormuz?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/28/smoke-rises-over-beirut-after-israeli-strike?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ghana welcomes first group fleeing South African anti-immigration protests
-<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a17437bd31c-1779909499.jpg?resize=1920%2C1440' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
+### 📰 Hundreds flee India crackdown on undocumented migrants
+<img src='https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779986449.jpg?resize=1920%2C1080&quality=80' width='100%' style='border-radius:15px;' alt='Al Jazeera Image'>
 
 <div align='justify'>
 
-A plane carrying 300 Ghanaian nationals evacuated from South Africa due to anti-immigration protests has landed in Accra.
-
-The group, which included women and children, arrived at the airport in Ghana’s capital on Wednesday. Authorities described their evacuation as a voluntary repatriation process for Ghanaian citizens who no longer feel safe in South Africa amid rising xenophobia that has left migrants facing harassment, job losses and violence.
-
-South Africa has worked with Ghanaian authorities on a list of approximately 800 people who had indicated they want to leave, as a wave of anti-immigration protests has seen campaigners demanding tighter controls on “undocumented migrants,” and accusing foreigners of contributing to crime and unemployment.
-
-“Wherever Ghanaians are, we will make sure you are protected,” Foreign Minister Samuel Okudzeto Ablakwa said as he greeted the group at the airport.
-
-South Africa’s Border Management Authority said about 90 percent of Wednesday’s travellers were undocumented, with “most” having overstayed a visa by more than 30 days and “some” by a year or more.
-
-Ghana’s high commissioner to South Africa, Benjamin Quashie, however, has criticised South African authorities for backlogs in immigration processing for those seeking to renew their permits.
-
-The anti-immigrant protests have been accompanied by instances of violence against migrants from other sub-Saharan African countries.
-
-One Ghanaian said repeated harassment had driven his decision to leave.
-
-“I’m happy that I’m going to my country … it’s not easy to be in someone else’s country and be disturbed all the time,” he told the Reuters news agency.
-
-“It has never been easy for us in South Africa over the past few weeks,” Victor Atsu Togbe, another of the 300 returnees, told the AFP news agency.
+Hundreds flee India crackdown on undocumented migrants
 
 </div>
 
- [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/news/2026/5/27/ghana-welcomes-first-group-escaping-south-african-anti-immigrant-protests?traffic_source=rss)
+ [🔗 Read Full Story on Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/5/28/hundreds-flee-india-crackdown-on-undocumented-migrants?traffic_source=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='bbc-world'></a>🌍 BBC World
-### 📰 Israel issues evacuation order for swathes of southern Lebanon
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/5ca5/live/c0cb97e0-59ef-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/ac09/live/d65f99a0-5aa1-11f1-9626-f75d5d5577d2.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The Israeli military has issued evacuation orders for large parts of southern Lebanon, declaring the areas "combat zones" ahead of fresh strikes against Hezbollah.
+At least 10 people, including five children, were killed in an Israeli strike on a building in Gaza City late on Wednesday, according to local hospitals.
 
-The Israel Defense Forces (IDF) urged residents to move north of the Zahrani River, about 40km (25 miles) from the border. The IDF said it would act "with extreme force", accusing Hezbollah of repeated ceasefire violations.
+The target of the attack appeared to have been a local Hamas battalion commander Imad Asleem, who was killed alongside his teenage daughter Israa and buried on Thursday.
 
-It is the largest evacuation order since the ceasefire took effect on 17 April, covering about 14% of Lebanese territory.
+The Israeli military has released a short statement saying it struck "two central Hamas terrorists in the northern Gaza Strip", without disclosing their identities.
 
-Earlier on Wednesday, Israel carried out strikes on the southern city of Tyre. Hezbollah, which itself accused Israel of violating the ceasefire, said its fighters had clashed with Israeli troops.
+It is the latest Israeli strike targeting senior Hamas figures in Gaza in recent days.
 
-Wednesday's strikes came after Israeli Prime Minister Benjamin Netanyahu announced an expansion of its ground operation following Hezbollah drone attacks on troops occupying part of southern Lebanon and on civilians in northern Israel.
+Footage from Thursday's attack showed a badly damaged residential building in central Gaza City and destroyed tents in a neighbouring displaced people's camp.
 
-The IDF has issued nine evacuation warnings in the past 24 hours, fuelling fears of a major escalation along the Israel-Lebanon border and the prospect of renewed mass displacement.
+Raslan Bajou, who was asleep in his tent at the time of the latest strike, said: "This is a sin, I swear it's a sin."
 
-Wednesday's order for Tyre, one of the biggest cities in southern Lebanon, was swiftly followed by air strikes. Residents watched with horror from balconies, filming on their phones, as Israeli forces hit the city.
+He told BBC News his "neighbours were in pieces" as he described the chaotic aftermath of the attack in which his wife was injured.
 
-Rida, 52, owned a cafe near the beach that was destroyed alongside his home in an air strike minutes before the ceasefire started last month. He previously told the BBC he would never leave Tyre.
+"We didn't know what was going on," said Um Azzam al-Zaim, whose relative was visiting her for the Muslim Eid al-Adha holiday.
 
-Now, the feeling is different. "I went to the port next to the beach and a lot of people are there," Rida said over the phone on Wednesday. "People packed up their stuff. Everyone is scared."
+She continued: "We were soaked when a water tank on the roof above was hit.
 
-The later evacuation order for areas south of the Zahrani River covers about 300 towns and villages. Many residents, including those already displaced from other parts of southern Lebanon, have nowhere obvious to go.
+"Our tent broke and rubble fell on me from outside. It was difficult for us to get out of the tent."
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/6c52/live/87bd2cd0-59e9-11f1-b682-cf91850925ea.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Are US and Iran close to peace or sliding back to war?
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/4b47/live/14febc40-5a9d-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Ongoing conflict in the Democratic Republic of Congo is hampering the Ebola outbreak response, the head of the World Health Organization (WHO) has warned.
+A ceasefire "hanging by a thread". A diplomatic process "making progress". A president "not satisfied". And explosions echoing around the Gulf.
 
-Dr Tedros Adhanom Ghebreyesus said Ituri province in the east of the country was at the centre of a "catastrophic collision of disease and conflict".
+What to make of the current, confusing state of relations between the US and Iran - are we close to peace or sliding back to war?
 
-In a statement posted on X, Tedros said the WHO could not "build community trust or isolate the sick while bombs are falling". He is due to travel to DR Congo this week to spearhead efforts to contain the virus.
+The latest word from the White House is that negotiators from both sides have agreed a framework for a 60-day extension of the ceasefire, to allow room for further talks - but that this still needs US President Donald Trump's approval. This has not been confirmed by Iran.
 
-Meanwhile Uganda has announced it is temporarily closing its border with DR Congo. There have been 220 suspected deaths since the outbreak was declared.
+It comes towards the end of a week that has tested the ceasefire, which came into effect on 8 April and has now lasted considerably longer than the active phase of fighting which preceded it.
 
-Aid workers have been struggling as travel is difficult because of poor road conditions while conflict and mass displacement have also weakened the health system - as have international aid cuts.
+Iran responded to the latest US strikes - which included what US Central Command (Centcom) described as a "ground control site" in the southern Iranian port city of Bandar Abbas - with a warning that "aggression will not go unanswered".
 
-Ituri, where most of the cases have been reported, has been under military rule since 2021, when the civilian authority was replaced by a military general in an attempt to neutralise dozens of armed groups that operate there.
+Its Islamic Revolutionary Guard Corps (IRGC) then said it had attacked an American air base. It did not say which, but Centcom later said a ballistic missile had been intercepted over Kuwait, where the US has several bases.
 
-Tedros said stopping transmission in the region "depends entirely on humanitarian access".
+Echoing Tehran's language, Centcom called the attack "an egregious ceasefire violation".
 
-"Yet ongoing clashes are driving mass displacement, pushing exposed contacts into overcrowded camps and severing critical containment corridors," he added.
+It all sounds ominous, but this is still a far cry from the furious exchanges that characterised the first five-and-a-half weeks of this conflict. In that time, the US and Israel launched thousands of sorties against targets all across Iran, and Tehran responded with volleys of drones and ballistic missiles against US bases, Gulf countries and Israel.
 
-"Frontline workers are risking everything, while attacks on health facilities make tracking cases and their contacts nearly impossible."
+The US said on Thursday it had shot down five Iranian drones which "posed a threat around the Strait of Hormuz", suggesting shipping - commercial or military - was once again the focus of concern.
 
-He called on all parties to agree to an immediate ceasefire to allow medical teams safe access.
+But neither side seems to regard the sort of tit for tat exchanges we have seen this week as marking a return to all-out war.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Trump says US 'not satisfied' with Iran deal yet
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/b406/live/4cceef20-59ec-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Iran says it targeted American base after fresh US strikes
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/fccc/live/6b387cc0-5a9f-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-US President Donald Trump has said he is "not satisfied" yet with the terms of the deal being negotiated with Iran.
+Iran's Islamic Revolutionary Guard Corps (IRGC) has said it targeted an American air base in the region, after fresh US strikes on southern Iran overnight.
 
-He said Tehran was "very much intent" on reaching an agreement to end the conflict, but added "so far they haven't gotten there", repeating Washington's willingness to resume strikes if one is not reached.
+Kuwait, which hosts a US base, said it had intercepted "hostile missile and drone threats", but did not confirm the target.
 
-His remarks came after Iranian state TV reported what it said were details of a draft agreement, which included reopening the Strait of Hormuz and the withdrawal of US forces from the region.
+The Iranian missile launch came after the US shot down Iranian drones over the Strait of Hormuz and struck a military site in Bandar Abbas, a strategic port city in southern Iran.
 
-Both sides signalled progress had been made towards a deal late last week, prompting speculation an announcement was close.
+It is the second time in three days that the US has attacked targets in Iran - saying they were conducted in self-defence. The renewed hostilities threaten a fragile ceasefire between Washington and Tehran.
 
-However, Tehran soon cautioned a deal was "not imminent" while Trump said he had instructed his negotiators "not to rush into" one.
+The IRGC said the attack on the US air base took place in the early hours of Thursday morning and targeted "the source" of earlier US strikes on Iran, according to state broadcaster IRIB.
 
-Speaking to reporters at a cabinet meeting on Wednesday, the US president said: "They just want to make a deal - I don't think they have a choice."
+US Central Command (Centcom) said Iran's attack on Kuwait was an "egregious ceasefire violation" that occurred "hours after Iranian forces launched five one-way attack drones that posed a clear threat in and near the Strait of Hormuz".
 
-Trump also said: "Iran is very much intent, they want very much to make a deal.
+It said all the drones were intercepted and that a sixth drone launched from an Iranian ground control site in Bandar Abbas was also prevented.
 
-"So far, they haven't gotten there and we're not satisfied with it, but we will be. Either that or we'll have to just finish the job."
+Centcom described its actions as "measured, purely defensive, and intended to maintain the ceasefire".
 
-Secretary of State Marco Rubio said there had been "some progress and some interest" in negotiations, adding: "We'll see over the next few hours and days whether progress could be made."
+Iranian foreign ministry spokesman Esmail Baqai meanwhile condemned the US strikes and said they constituted a violation of the ceasefire.
 
-While both Trump and Rubio continued to express optimism that talks were progressing well, neither gave any details of which specific disagreements continued between the two sides.
+He added that the Islamic republic would "take all necessary measures to defend its national sovereignty", according to quotes cited by IRIB.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Five people found alive after week trapped in flooded Laos cave
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/d95f/live/53325ed0-59c7-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Israel hits Lebanese capital in 'targeted strike'
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/2412/live/e8e37ed0-5a9b-11f1-9626-f75d5d5577d2.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-Rescuers in Laos have found five villagers alive inside a flooded cave after they were trapped for a week following heavy rain and landslides.
+Israel has hit the Lebanese capital, Beirut, for only the second time since the start of a ceasefire last month.
 
-Two other villagers who were with them were missing, Laotian and Thai rescue teams involved in the operation said.
+The Israel Defense Forces (IDF) said the attack at about 14:00 (11:00 GMT) was  carried out in a "targeted manner", but gave no details. Israeli media cited unnamed sources as saying the target of the strike had been the head of an Iranian militia.
 
-The seven were part of a group of villagers from the central province of Xaysomboun who had gone into the cave on Wednesday last week in search of gold deposits and wildlife, but could not get out as the cave's entrance was blocked.
+Israel had spared Beirut at the request of the US and the attack came after waves of Israeli strikes aimed at Hezbollah infrastructure in southern Lebanon, according to the IDF.
 
-Footage shared by the rescuers showed cave divers crawling through narrow, muddy passageways that were almost completely flooded.
+Both Israel and Hezbollah - the powerful Shia group supported by Iran - have accused each other of repeated violations of a ceasefire.
 
-Bounkham Luanglath of the Laotian organisation Rescue Volunteer for People told the Associated Press the search for the missing would continue.
+Thick smoke was seen billowing across residential buildings in Dahieh, the densely populated Shia suburb that serves as Hezbollah's stronghold in the capital, after the latest Israeli attack.
 
-"I'm still shaking," he said in a voice message. "Our team made it happen."
+Residents could be heard calling out to neighbours and relatives to check on their safety as rescue crews rushed in.
 
-The cave system, which extends deep underground, is also extremely narrow, with some chambers measuring only about 50cm (20in) wide, rescuers say.
+Mohamad was asleep when the strike hit. He said he came running downstairs and found a three month old baby on the ground. He took her to hospital, but she didn't survive.
 
-"We've found five people alive and all safe," Rescue Volunteer for People said in a social media post.
+"There's nothing here!" he said, waving his hands.  "Everything happening here- all this pressure on people - is just to make us hate Hezbollah, but that's not going to happen. We're not the kind of people who turn against others like that."
 
-Thai rescuer Kengkach Bangkawong said on Facebook that the villagers had been found at 16:30 local time (09:30 GMT).
+According to Israeli media, the target of the strike was Ali al-Husni, head of the missile force in the Imam Hossein Division - an Iranian militia allied to Hezbollah.
 
-Specialist rescue diver Mikko Paasi from Finland said earlier on Wednesday that rescuers needed to "navigate hundreds of metres of constant restrictions, flood waters, collapse hazards and high risk of contaminated air quality" inside the cave, which he called an "abandoned gold mine".
+The strikes came after Israeli Prime Minister Benjamin Netanyahu announced an expansion of a ground operation following Hezbollah drone attacks on troops occupying part of southern Lebanon and on civilians in northern Israel.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Israeli strike in Gaza City kills new head of Hamas's military wing
-<img src='https://ichef.bbci.co.uk/news/1024/branded_news/8016/live/92d75020-59ab-11f1-8b8c-6d33e1d5abb6.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
+### 📰 Villas, cars and cash: Italy seizes dead Mafia mobster's millions
+<img src='https://ichef.bbci.co.uk/news/1024/branded_news/cdae/live/4e668fc0-5a94-11f1-b5ae-83d5964726ad.jpg' width='100%' style='border-radius:15px;' alt='BBC World Image'>
 
 <div align='justify'>
 
-The commander of Hamas's military wing, Mohammed Odeh, has been killed in a strike in the Gaza Strip on Tuesday - days after his predecessor died in a similar attack.
+Anti-mafia investigators in Italy have seized cash, companies and other assets worth more than €200m (£175m) in an operation they say targeted the network of notorious late Sicilian mafia boss Matteo Messina Denaro.
 
-Dozens more were injured in the attack, which hit a residential building in one of Gaza City's busiest market areas, local medics and witnesses said.
+The funds, described as "huge amounts of capital" by the financial police in Palermo, are said to be proceeds from over four decades of drugs trafficking linked to the presumed former head of the Cosa Nostra group.
 
-Israel's military and Shin Bet security service and said buildings that served as a hideout for Odeh were targeted after his movements were tracked for several months.
+Announcing their results in Sicily on Thursday, investigators released a video showing masked police officers, some in riot gear, barging down doors and scaling walls to raid a series of vast luxury villas surrounded by palm tree-lined lawns.
 
-On Wednesday, Hamas confirmed that Odeh had been killed, along with his wife and two of his children.
+Messina Denaro spent three decades on the run until his arrest in 2023 as he left a clinic where he was being treated for cancer. He died in custody soon after.
 
-Despite the Israel-Hamas ceasefire agreed in October, violence in Gaza has continued on a near-daily basis.
+Whilst a fugitive, he had been sentenced to life for multiple murders including the assassination of two anti-mafia prosecutors in 1992 in bomb attacks several weeks apart.
 
-Tuesday's strike hit the upper three floors of the al-Kayali building in the centre of Gaza City, where streets were busy with shoppers ahead of the Muslim holiday of Eid al-Adha.
+He was also convicted of kidnapping and killing the 12-year-old son of a mafia man-turned-informer. After two years in captivity, the child was strangled and his body dissolved in acid so it could never be found.
 
-Rescue teams rushed to the scene of the strikes but struggled to reach the upper floors because of the scale of the damage and congestion in the area.
+Police say their latest investigation follows some of the Cosa Nostra money trail. It spanned multiple countries including Spain and Switzerland as well as the Cayman Islands.
 
-Witnesses said at least five missiles struck the building almost simultaneously from different directions.
+Three people have been arrested and eight firms identified, including real estate companies said to be tied to the illicit funds.
 
-One resident said he heard the sound of a helicopter hovering overhead before the attack.
+The head of the National Anti-Mafia Prosecutor's Office, Giovanni Melillo, called the operation "strategically significant", not only because of the recovered cash.
 
-Footage from the scene showed ambulances and civil defence crews searching through the damaged building as crowds gathered nearby.
+"It also aims to prevent the reformation of a criminal organisation that existed until a few years ago," he told a news conference.
 
 </div>
 
- [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss)
+ [🔗 Read Full Story on BBC World](https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='the-guardian'></a>🌍 The Guardian
+### 📰 Dormitory fire at Kenyan girls’ school kills at least 16 students
+<img src='https://i.guim.co.uk/img/media/13dc2ef33ef6526bddb9ed93272f693e6a2b6680/1220_0_4280_3424/master/4280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7695a11326a9c218907c0b932dcac81e' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
+
+<div align='justify'>
+
+Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county
+
+A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students.
+
+The fire broke out just after midnight at Utumishi girls academy in Gilgil, Nakuru county, about 76 miles north-west of Nairobi, police said.
+
+The education minister, Julius Migos Ogamba, told reporters that 79 other students were injured, although 71 of them have already been discharged from hospital. Ogamba said: “Investigations are ongoing, but the ... cause of the fire is not yet identified.”
+
+Students at the school are between 15 and 18, and about 220 girls were sleeping in the dormitory when the fire started on the building’s second floor. Doors on that floor were initially locked and some girls died while jumping out of the windows, a first responder said.
+
+Multiple survivors told first responders that a student had lit a mattress with a match, the first responder told Reuters. They did not know what the student’s motive may have been.
+
+The tragedy is the latest fatal fire at a school in Kenya in recent years. In 2024, 21 boys were killed at a boarding school in central Kenya when a fire tore through their dormitory, while in 2017 nine girls died in a blaze at a school in Kibera, the largest slum in Nairobi.
+
+In 2016, there were about 120 incidents of students setting fire to their sleeping quarters, many in protest at strict discipline and bad conditions. A 2022 report by the country’s auditor general found that most state secondary schools were not prepared to deal with fires.
+
+The Kenyan Red Cross said on X that the blaze in Gilgil was reported at about 3.30am on Thursday. “Several students have been evacuated and are receiving treatment in various hospitals,” it said. “A multi-agency response involving the county fire brigade, county disaster response teams, @PoliceKE and Kenya Red Cross remains ongoing.”
+
+Dozens of parents gathered at the school on Thursday morning, frantically searching for news of their children. Some injured students were carried out of the school by police officers, while others limped.
+
+</div>
+
+ [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil)
+
+<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
 ### 📰 US building Ebola quarantine center in Kenya for Americans amid outbreak
 <img src='https://i.guim.co.uk/img/media/49cebc5fbde5f7071332a394126cf69aff25272f/499_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=260ba163f5ebd368afa7204c912e3424' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
 
@@ -347,19 +372,19 @@ The head of the World Health Organization has called for an immediate ceasefire 
 
 Tedros Adhanom Ghebreyesus posted on social media that the region was in the midst of a “catastrophic collision of disease and conflict with the Ebola outbreak in Ituri province outpacing the response”. Tedros said on Monday that he would travel to the DRC this week.
 
-As of Sunday there had been 900 suspected cases and 223 suspected Ebola deaths in the DRC and seven confirmed cases and one death in Uganda, WHO data shows.
+The number of suspected cases in eastern DRC is nearing 1,000, with at least 220 suspected deaths. The country’s health ministry said on Tuesday that 101 cases had been confirmed, and it was looking into more than 3,000 possible contacts.
+
+In Uganda there seven confirmed cases and one death as of Sunday, WHO data showed.
+
+Aid group Save the Children said on Wednesday that a quarter of the confirmed deaths were children, calling for infection prevention measures to be urgently scaled up.
+
+Aid groups are rushing staff and equipment to eastern DRC but attacks on medics due to community distrust have hampered efforts, they say.
 
 The outbreak was confirmed on 15 May in Ituri, the DRC’s most north-eastern province, which borders South Sudan and Uganda.
 
 Diana Atwine, a senior Ugandan health official, told a press conference on Wednesday that Uganda’s border would be closed for four weeks, except to Ebola response teams, humanitarian and security operations and food and cargo transport.
 
 Any person who was authorised to enter Uganda from the DRC would be required to undergo mandatory self-isolation for 21 days, she said.
-
-Earlier this month, the WHO advised countries against closing their borders, saying it would push people to use informal border crossings, making it harder to monitor and stop the spread of the disease.
-
-Eastern DRC has a number of armed groups. Though the government still largely controls Ituri, insecurity had been worsening there before the Ebola outbreak. Almost 1 million people in the province have been displaced by conflict, according to the UN humanitarian office.
-
-The outbreak has spread south to rebel-held areas of North Kivu and South Kivu provinces, where the Rwandan-backed M23 group controls large swathes of the region.
 
 </div>
 
@@ -429,381 +454,405 @@ Selelo and Kumile argued that another law, the Interpretation Act, supports thei
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Suspected Ebola cases in DRC pass 900 as health workers face attacks and shortages
-<img src='https://i.guim.co.uk/img/media/8355603236b6205fbdf5131669437d4b19be02f9/430_0_3768_3016/master/3768.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2b458c18d0709c15061779b0c71a2cc' width='100%' style='border-radius:15px;' alt='The Guardian Image'>
-
-<div align='justify'>
-
-WHO says outbreak poses ‘very high’ risk for country, but risk of disease spreading globally remains low
-
-Authorities in the Democratic Republic of the Congo say that suspected Ebola cases have now passed 900 in the ongoing outbreak in the east of the country.
-
-The DRC’s ministry of communication said in a post on X on Sunday that there were 904 suspected cases and 119 suspected deaths.
-
-Authorities had previously announced more than 700 suspected Ebola cases and more than 170 suspected deaths, mostly in Ituri province, where the outbreak is centred.
-
-The World Health Organization has said the outbreak now poses a “very high” risk for the DRC, but that the risk of the disease spreading globally remains low.
-
-Health authorities in the country are facing serious challenges as they try to stem the outbreak, which has been declared a global health emergency.
-
-There have been arson attacks on Ebola treatment centres in the country’s east – two centres in two towns were hit last week, exposing the anger in a region beset by violence linked to armed rebel groups, the displacement of a large number of people, the failure of local government and international aid cuts that experts say have stripped health facilities in vulnerable communities.
-
-Colin Thomas-Jensen, director of impact at the Aurora Humanitarian Initiative, said the attacks may reflect the “built-in skepticism and anger” of people in eastern Congo over how the region has been treated, with years of violence from foreign-linked rebel groups and a failure of their government and international peacekeepers to protect them.
-
-Another source of anger has been the strict protocols around the burial of suspected victims of Ebola, which authorities are taking charge of wherever they can to prevent further spread of the disease during traditional burials – where families prepare the bodies and people gather for a funeral.
-
-The first burning of an Ebola centre in Rwampara was by a group of young men trying to retrieve a friend’s body, according to witnesses and police. The witnesses said the crowd accused the foreign aid group operating there of lying about Ebola.
-
-</div>
-
- [🔗 Read Full Story on The Guardian](https://www.theguardian.com/world/2026/may/24/suspected-ebola-cases-congo-health-workers-attacks)
-
-<p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
 
 ---
 ## <a name='tmz'></a>🌍 TMZ
-### 📰 'Storage Wars' Star Darrell Sheets' Autopsy Report Revealed
-<img src='https://imagez.tmz.com/image/de/16by9/2026/05/27/dea67a2d61864c3aad6df853c8d22dc2_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Claude Lemieux, Former NHL Star, Dead At 60
+<img src='https://imagez.tmz.com/image/02/16by9/2026/05/28/02ab455d42db453b8ea83f94b6d0e275_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Darrell Sheets' autopsy report shows the toxicology report came back negative ... TMZ has confirmed.
+Former NHL star Claude Lemieux is dead at the age of 60, TMZ Sports has learned.
 
-We obtained the "Storage Wars" star autopsy ... which shows his blood was tested for cocaine, fentanyl, and other drugs, but ultimately officials determined Sheets had no drugs in his system at the time of his death.
+The cause of death is unclear.
 
-Sheets was described as a "well-developed, well-nourished adult male" in the report as well. Us Weekly was first to report on the autopsy.
+Lemieux -- known for his fiery and aggressive play on the ice -- spent 21 seasons in the league, playing for the Montreal Canadiens, New Jersey Devils, Colorado Avalanche, Phoenix Coyotes, Dallas Stars, and San Jose Sharks.
 
-We broke the story ... Sheets was found dead in his Arizona home last month -- with police telling us he was found with what appeared to be self-inflicted gunshot wound to the head.
+He won four Stanley Cups ('86, '95, '96, '00) ... and won the Conn Smythe Trophy with the Devils in 1995, awarded to the best playoff performer.
 
-Other members of the "Storage Wars" family shared loving tributes after Sheets' passing ... with Rene Nezhoda also saying he knew Sheet was being cyberbullied before his passing.
+Claude played 1,215 regular-season and 234 playoff games over his two-plus-decade career, accounting for 944 points.
 
-Sheets' son Brandon penned a goodbye letter to his father on social media ... which read, in part, "I love you Dad and I will do my best to live in your honor and respect our Family. Let's all continue to build those memories and keep the legacy that is 'Darrell (The Gambler) Sheets.'"
+Lemieux was the 26th overall pick in the 1983 NHL draft.
 
-Sheets was 67.
+Claude was present at the Canadiens' playoff game on Monday, carrying the torch into the Bell Centre in a pregame ceremony.
 
-RIP
+The National Hockey League Alumni Association released a lengthy statement on the tragic news, saying they were "devastated" by the death.
 
-If you or someone you know is struggling or in crisis, help is available. Call or text 988 or chat&nbsp;988lifeline.org.
+Claude is survived by his wife, Deborah, and their four children.
+
+R.I.P.
+
+Story developing ...
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/darrell-sheets-autopsy/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/28/claude-lemieux-dead/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Adam Carolla Blasts Chelsea Handler, Teases Jimmy Kimmel During Hollywood Star Speech
-<img src='https://imagez.tmz.com/image/7e/16by9/2026/05/27/7e042dfd69354d17b16787447d444e05_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Ray J Cleared By Doctors, Underwent Physical Before Supa Hot Fire Fight
+<img src='https://imagez.tmz.com/image/f6/16by9/2026/05/28/f62bfd0453284003add1b943a3c6b9bf_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Adam Carolla got his star on the Hollywood Walk of Fame today ... and he used his speech to tease an old pal -- and take a few shots at industry libs.
+Ray J underwent a medical evaluation and was cleared by doctors before his fight with Supa Hot Fire -- despite checking himself into a hospital after the event, TMZ has learned.&nbsp;
 
-Jimmy Kimmel was one of the presenters, the duo going back for several years and even had a few shows together ... and JK even got a little emotional when talking about how proud he was of Adam -- even if their politics are night and day.
+Sources connected with the fight tell TMZ that Ray J was “fully cleared” to fight following an “extensive medical evaluation process” overseen by both independent physicians and the athletic commission.&nbsp;
 
-AC used his time to take shots at Chelsea Handler -- who he included among a list of the worst people in history -- and Mark Ruffalo, who he joked would destroy his star if it was too close to Trump's star. He kidded Kimmel that with Stephen Colbert canned at CBS ... his show has a fighting chance in the ratings.
+The source tells TMZ that Ray J submitted to an MRA, an MRI, a chest x-ray, an eye exam, an EKG, and a full physical exam. The test results were submitted to the athletic commission, where the commission doctor separately reviewed the findings and cleared Ray J.&nbsp;
 
-The timing for the star is interesting ... because it was just a few weeks ago that Adam came to Jimmy's defense when Trump and MAGA once again demanded the late-night host be fired for a joke he made prior to the shooting at the White House Correspondents' Dinner.
+Another exam was conducted the day of the weigh-in and another after the fight, the source added.&nbsp;
 
-That pushback from Adam raised some eyebrows ... because yes, he and Jimmy once co-hosted "The Man Show" on Comedy Central ... but AC has also railed against woke culture and the&nbsp;Biden&nbsp;Administration, thereby becoming&nbsp;embraced by conservatives.
+A rep for the promoter tells TMZ, “The health and well-being of our fighters will always come first. It is protocol for all fighters to be medically evaluated and cleared by independent physicians and the athletic commission at every stage of the process - in the lead up to an event, again on the day of competition, and following the conclusion of the fight.”
 
-Bros before political foes ... are we right?!
+The rep added, “We are deeply thankful for the level of care that Ray J has received and join the many well-wishers continuing to send support, concern, and prayers for his well-being.”
+
+As TMZ first reported, Ray J checked himself into the hospital after the fight due to alleged issues he was having with his heart.&nbsp;He has since been released.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/chelsea-handler-slammed-by-adam-carolla/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/28/ray-j-declared-medically-fit-before-mma-match/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Rosie Woods Fires Back at Coach Ed Cooley Affair Rumors, Blames Dave Portnoy
-<img src='https://imagez.tmz.com/image/95/16by9/2026/05/27/953beb93f466448d82173b20e505c469_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Zohran Mamdani Says He'd Avoid Joining Trump at Knicks Finals Game
+<img src='https://imagez.tmz.com/image/bb/16by9/2026/05/28/bbcb7555cdb5499ea34b3b03e5d44d06_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Bravo's newest breakout star is knee-deep in affair rumors, alleged hush money, and reality TV chaos ... and Dave Portnoy is pouring gasoline all over the fire.
+NYC Mayor Zohran Mamdani says he's down to watch the Knicks in the NBA Finals, but don't expect to see him sitting courtside with President Trump ... that's IF the commander-in-chief shows up at Madison Square Garden.
 
-"The Real Housewives of Rhode Island" cast member Rosie Woods is firing back after online speculation linked her to Ed Cooley -- the former Providence men's basketball coach who's long faced whispers surrounding his abrupt 2023 exit from the program.
+Jacob caught up with Mamdani Thursday in Queens, and asked him about Trump saying he plans to attend a Finals game after being invited by&nbsp;Knicks owner James Dolan.
 
-The mess exploded after Rosie's co-star Kelsey Swanson hinted during a recent episode of 'Real Housewives' that Rosie allegedly had an affair with a married basketball coach ... who supposedly helped bankroll her new house. Cooley -- now the coach at Georgetown -- was never named outright on the show, but internet sleuths connected the dots.
+Mamdani doesn't sound too interested in making it a bipartisan basketball outing ... saying, "If the president went to a game, that's his decision to make. If I go to the game, I’ll be doing so separately."
 
-Then Dave jumped into the drama with one of his "Tea by the Sea" videos ... openly tying Ed directly to the 'Housewives' storyline.
+We also asked how Trump would be received by the MSG crowd -- in the heart of deeply Democratic Manhattan -- but Mamdani said he didn't want to "make a fool" of himself trying to predict how New Yorkers might react.
 
-Rosie wasn't having it.
+The mayor sounded fired up about the Knicks' playoff run, though ... joking he hopes the Western Conference finalists "keep going double OT" so whoever survives comes into the Finals exhausted.
 
-In a fiery Instagram response, Rosie flat-out denied ever knowing the coach ... saying, "I do not know Ed Cooley. I have never met Ed Cooley. I have never had an affair with Ed Cooley. He has never paid me money."
+It does sound like he has a preference, though, about which team ends up playing the Knicks ... check out the video.
 
-She also pushed back on claims that her home was secretly funded through hush money ... insisting she and her husband, Rich DiMare, bought the house themselves "with the money we make at our big grown-up jobs."
+As for whether he'd even have a chance interaction with Trump, Mamdani said he's still trying to figure it out, if he's gonna attend ... or just watch on TV.
 
-Meanwhile, Dave repeatedly stressed he had "no proof" of the allegations while recapping the gossip for his followers ... though that didn’t stop the rumor mill.
-
-Now the 'RHORI' drama is dragging Ed right back into Rhode Island basketball gossip ... whether he wants to be or not.
+While they made nice back in November during Mamdani's Oval Office visit ... it's a winning bet that -- if they go -- the Mayor and the Prez won't be sharing a jumbo pretzel at MSG
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/rosie-woods-responds-to-ed-cooley-affair-rumors/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/28/mamdani-wont-sit-with-trump-at-nba-finals/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Floyd Mayweather's Ex-Friend Fighting Prison Sentence After Fighter Sues
-<img src='https://imagez.tmz.com/image/7d/16by9/2026/05/26/7dd4b036e2a947c1a08804a1d68160b5_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Boy From Viral Ring Camera Clip Has Pizza Party With Neighbors
+<img src='https://imagez.tmz.com/image/75/16by9/2026/05/28/753e2095c81f4931b39f46ba2f168462_xl.png' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-The money manager whom Floyd Mayweather claims ran a years-long scheme, where he stole $175 million, is fighting a prison sentence handed down in an unrelated case ... TMZ has learned.
+The young boy who went viral for asking his neighbors if they had any BBQ leftovers just struck gold ... because those same neighbors had him over for a pizza party, and only TMZ has the video!
 
-According to court docs, obtained by TMZ, Jona Rechnitz was ordered to serve 5 months in prison as part of a case involving allegations of wire fraud … but he is fighting the sentence.
+Ariel Smith, the neighbor who sent Jacquez -- the young boy -- home earlier this week with a couple bags of Cheetos, tells TMZ ... the pizza party was amazing, and Jacquez's family was super sweet.
 
-The charges were brought back in 2016. Jona pleaded guilty to honest services fraud and agreed to cooperate with prosecutors on related cases in the hopes of getting a lenient sentence. The case dragged on for years until the codefendants’ cases were resolved.
+It's funny ... Ariel says they were all sitting around eating Domino's pizza and Takis and drinking Capri Sun when Jacquez asked his mother, "Mama, are you cooking dinner tonight?"
 
-Jona has been out on release for nearly 10 years since his cooperation began. In February, Jona was finally sentenced to serve five months in prison, and he's currently scheduled to check in on June 26.
+Ariel says she playfully reminded him he was already eating, and his mom told her Jacquez wasn't really hungry when he came over to ask for BBQ leftovers -- he'd just smelled food and wanted to try some. As Jacquez's mom put it ... her son "just likes to eat."
 
-On May 14, Jona asked the court to assign him to a specific prison that supports his religious observance.
+The Ring camera clip went viral earlier this week after Jacquez politely asked if Ariel and her boyfriend had leftovers from their cookout ... with some viewers calling the interaction wholesome, while others questioned why a child was going door-to-door to ask strangers for food.
 
-Jona appealed the 5-month sentence, claiming the judge made errors when ruling on how long to throw him behind bars. He was in court this week, arguing that he should be allowed to remain out on bail while he awaits a decision on his appeal.
+Ariel says Jacquez's mom told her she used the online commentary as a teachable moment for her kids ... and it sounds like the mom was tickled when she first saw her baby going viral.
 
-As TMZ first reported, Floyd sued Jona for allegedly scamming him out of $175 Million. The famed fighter claimed Jona was a close friend who drained his bank accounts and moved his money around.
-
-Floyd claimed that Jona and others worked together on a scheme to defraud him out of millions.
-
-A rep for Jona and the other defendants told TMZ, “We have thoroughly reviewed Mr. Mayweather’s lawsuit. His claims against our clients are utterly baseless and refuted by substantial documentary evidence, including Mr. Mayweather’s own correspondence."
-
-"Our clients intend to vigorously defend against these claims and are confident that once all of the facts are presented in court, not only will our clients be vindicated, Mr Mayweather’s gambling issues, prolific spending habits, monies owed to third party creditors and IRS tax liens and levys, as well as other unseemly behavior will be exposed and we believe that Mr. Mayweather will be the one paying significant damages to our clients," the rep added.
+The only question now ... what's on the menu tonight?!?
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/floyd-mayweather-former-manager-going-to-prison/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/28/child-from-ring-camera-bbq-gets-pizza-party/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Cynthia Erivo Says She Doesn't Want to Talk About 'Wicked' Anymore
-<img src='https://imagez.tmz.com/image/bf/16by9/2026/05/27/bf21d4a4212e437d9bcf6ba62a2016ae_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
+### 📰 Shop the Best UFC Shirts Inspired by Today's Biggest Names
+<img src='https://imagez.tmz.com/image/ad/16by9/2026/05/21/ad69f34c24be478b82fb23c09b1c446a_xl.jpg' width='100%' style='border-radius:15px;' alt='TMZ Image'>
 
 <div align='justify'>
 
-Cynthia Erivo is officially drawing the line on all things 'Wicked,' and she wants it on the record.
+TMZ may collect a share of sales or other compensation from links on this page.
 
-During a Variety interview on Wednesday, Cynthia was playing a game of guessing famous lyrics from her past projects ... until the line "you’re the only friend I ever had" from the 'For Good' film had her visibly tense up and ask if they could move on to literally anything else.
+If your fight-night 'fit needs an update, there's never been a better time to rep your favorite MMA fighters.
 
-Cynthia pointed out she's spent the past two years talking about the 'Wicked' movies, and while she still loves the film, she's discussed it "ad nauseam."
+From champs to action fighters, repping your favorite athlete is easier than ever. These shirts blend streetwear style with hardcore fandom. So whether you're backing Islam Makhachev's dominance, Sean Strickland reclaiming the middleweight belt, or legends and rising contenders across the roster, the right shirt lets everyone know who you're riding with when the Octagon door closes.
 
-TBH, the accompanying written feature was pretty heavy on 'Wicked' content -- with Cynthia delving into the viral jokes and the backlash to her friendship with her Glinda, Ariana Grande.
+Inspired by some of the sport's biggest personalities -- from Max Holloway to Conor McGregor -- these graphic tees are a must-have for every UFC fan's wardrobe.&nbsp;
 
-Cynthia even alluded to the fact that the conversation about how she defended Ariana against a red-carpet intruder in Singapore turned her off the idea of campaigning for an Oscar for "Wicked: For Good."
+Want more great finds? Head to TMZ Deals.
 
-So yeah, Cynthia's ready to defy the rules of gravity ... something straight outta "Wicked."
+Sean Strickland T-Shirt
+
+Sean Strickland has never been one to hold back ... whether in the cage or out in the wild … so let everyone know you mean business with this Sean Strickland T-Shirt.
+
+Featuring an illustration of Sean in the ring with fireworks popping off in the background, you can wear your fandom in this tee.
+
+Islam Makhachev T-shirt
+
+Islam Makhachev is calm, calculated, and absolutely dominant ... and you can be too in this Islam Makhachev T-shirt.
+
+With three different images featuring the champ, everyone will know exactly who you support, so it's an absolute must-have for all of your upcoming viewing parties.&nbsp;
+
+Hasbulla T-shirt
+
+Hasbulla has made his mark on the fight world … without even stepping in the cage as a prizefighter.
+
+The viral social media star, AKA "mini Khabib", was even signed to a promotional and ambassador contract with the UFC.
+
+And while he may not actually be fighting, he's become a fixture in the sport.
+
+Support the "undisputed champ" in this Hasbulla T-shirt, repping one of MMA's most beloved personalities.&nbsp;
+
+Justin Gaethje T-shirt
+
+What's a fight night wardrobe without a little chaos?
+
+Justin Gaethje, AKA "The Highlight," doesn't play it safe and you don't have to either in this Justin Gaethje T-shirt.
+
+With a photo of Justin front and center, it highlights the athlete standing in front of the American flag.
+
+Max Holloway T-shirt
+
+Bless up! This Max Holloway T-shirt is all about his championship-level energy.
+
+Inspired by one of the UFC's most beloved fighters, this tee features Max at his best -- calling for a "stand and bang" moment.
+
+It's the perfect fit for anyone who wants to bring the Waiʻanae local's blessed energy with them in their everyday life.
+
+Dustin Poirier T-shirt
+
+Diamonds are forever … and so is Dustin Poirier's legacy.
+
+He may be retired, but you can still show your support for the legendary fighter in this Dustin Poirier T-shirt.
+
+It's also a&nbsp; reminder for those tough moments that diamonds are forged under pressure and you can shine through it all.
+
+Alex Pereira T-shirt
+
+Show your Poatan power in this Alex Pereira T-shirt, inspired by one of the scariest strikers in combat sports.
+
+Featuring an illustration of the fighter with his stone hands on full display and proudly repping his heritage, this tee hits almost as hard as his left hook.
+
+Conor McGregor T-shirt
+
+Even if you don't know a thing about MMA … you probably know his name.
+
+While he may be a polarizing figure, this Conor McGregor T-shirt is a staple for fans of the sport.
+
+Love him or hate him, the former champ knows how to make a statement … and so does this tee that brings the same bold energy that made him a global icon.
+
+Khamzat Chimaev T-shirt
+
+Wolf mentality only.
+
+Fans know Khamzat Chimaev as Borz … which translates to “wolf” in Chechen, his native language. Rep him in this Khamzat Chimaev T-shirt, which hardcore fight fans will spot instantly.
+
+And if you just want to rep UFC Freedom 250 then check out that link. Remember to sign up for Amazon Prime to get the best deals!
+
+For more curated product lists check out TMZ Deals.
+
+All prices &amp; availability subject to change.
 
 </div>
 
- [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/27/cynthia-erivo-awkward-interview/)
+ [🔗 Read Full Story on TMZ](https://www.tmz.com/2026/05/28/fighter-merch-worth-buying/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='ny-times'></a>🌍 NY Times
-### 📰 Cornyn’s Defeat in Texas Runoff Underscores Trump's Grip on the G.O.P.
+### 📰 Iran War Live Updates: U.S. and Iran Trade Strikes, Further Threatening Negotiations
 <div align='justify'>
 
-Senator John Cornyn lost to his MAGA-aligned challenger, Ken Paxton, by 28 percentage points. It was a historically poor showing.
+The U.S. military said Iran had launched a ballistic missile toward Kuwait. Iran’s Revolutionary Guards said it had targeted an unspecified U.S. base in retaliation for earlier strikes.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/us/politics/paxton-cornyn-texas-republican-primary.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/live/2026/05/28/world/iran-war-us-trump-deal)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P.
+### 📰 The Mideast Is Baffled by Trump’s Call to Expand Abraham Accords
 <div align='justify'>
 
-Senators are angry President Trump turned on a respected former leader whom they consider a loyal Republican. Now Mr. Trump faces resistance from his own embittered ranks.
+The president said more countries should be required to recognize Israel as part of a deal to end the war with Iran. Analysts say the chances of that happening are close to zero.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/us/trump-cornyn-paxton-senate-republicans.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/28/world/middleeast/trump-abraham-accords.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Meeting Voters, a Republican Tries to Outrun His Party’s Woes
+### 📰 Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll, Who Accused Trump of Rape
 <div align='justify'>
 
-Representative Mike Flood of Nebraska is still meeting with constituents long after most G.O.P. members of Congress have concluded it is too politically dangerous to do so.
+Ms. Carroll, who prevailed in a civil trial after accusing President Trump of sexual abuse, is the latest target in a Justice Department campaign going after his perceived enemies.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/us/politics/mike-flood-gop-town-hall.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/us/politics/criminal-inquiry-e-jean-carroll-trump-accusations.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Alabama Republicans Ask Supreme Court to Allow New Congressional Map in Redistricting Fight
+### 📰 These Are Some of the Trump Justice Dept.’s Targets
 <div align='justify'>
 
-Republican leaders in the state have asked the justices to clear the way for a congressional map that a lower court found discriminated against Black voters.
+When he returned to office, President Trump vowed revenge against those he said had challenged or defied him. Here’s an incomplete list of the people his Justice Department has targeted.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/us/politics/supreme-court-alabama-voting-maps.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/28/us/trump-justice-dept-criminal-investigations.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal
+### 📰 ‘Both Parties Kind of Get It Wrong’: The Young Men Who May Swing the Midterms
 <div align='justify'>
 
-Few in Lebanon believe that diplomatic efforts to end the wider war will bring peace to their country, as clashes between Israel and Hezbollah intensify in the south.
+Many Gen Z men who voted for Donald Trump are dismayed by his time in office. But they say they are not hearing an appealing pitch from Democrats, either.
 
 </div>
 
- [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/27/world/middleeast/lebaon-war-deal-iran-us.html)
+ [🔗 Read Full Story on NY Times](https://www.nytimes.com/2026/05/28/us/politics/up-for-grabs-can-democrats-sway-young-men-who-have-soured-on-trump.html)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 
 ---
 ## <a name='nasa-news'></a>🌍 NASA News
-### 📰 NASA Develops Sensor to Improve Firefighter Safety
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/firesense-alabama-04232026-loiacono-6083.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 Contractor to Civil Servant: NASA Welcomes Kenny Heckle
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/ksc-20260526-ph-jbs01-0002.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire.
+Kenny Heckle grew up in Orlando, just west of NASA’s Kennedy Space Center in Florida. An 80s child, he comes from a long line of union pipefitters and fabricators.
 
-In April, researchers and firefighters gathered in southern Alabama to discuss challenges and advances in firefighting, and to demonstrate the new technology. The event was part of a collaboration between NASA and the Alabama Forestry Commission (AFC). The goal: to make firefighting safer and gather critical data on fire behavior.
+Heckle recalls the day 42 years ago at KARS Park, which is a NASA Exchange–run recreation area for the agency’s workforce and their guests, when he attended an office party with his father. Heckle had his German Shepherd with him when a man who seemed to be enamored with the canine asked him who he was. “I’m Kenny Heckle, Wayne’s son,” he said. And the man who knew his dad well replied, “Why don’t you work for us (at NASA)?”
 
-“As we try to develop technologies that allow us to understand and respond to wildfires with our partners, ground observations are vital to provide context for what we are seeing from space,” said Ian Brosnan, program manager for wildland fires at NASA’s Ames Research Center in California’s Silicon Valley.
+Heckle wasn’t a typical new employee. At 19, he already had seven years of mechanical experience, working on his father’s short-track stock cars, building and fabricating parts they needed. He later attended welding school before arriving for his first job as a contractor at NASA Kennedy’s Launch Equipment Test Facility (LETF) in 1984.
 
-To view this video please enable JavaScript, and consider upgrading to a web browser that
-supports HTML5 video
+Since the 1970s, the LETF has provided NASA a place to safely assess machinery and designs to support launches through a unique set of structures, equipment, and tools to test full-scale umbilicals and release mechanisms.
 
-Firefighters nationwide use bulldozers, colloquially referred to as fire dozers, on the front line of a fire to clear vegetation and to create fire breaks, which slow or stop a wildfire’s spread. This often puts dozers and their operators within feet of the flames.
+Today, Heckle serves as the mechanical operations lead at NASA Kennedy’s LETF.
 
-The AFC is switching its fleet to a model of bulldozer that has an enclosed cab called an “envirocab.” While envirocabs are safer for operators than open cabs, the enclosure makes it more difficult to gauge when radiant heat from the fire has reached a dangerous temperature.
+During the past four decades, Heckle has helped numerous NASA programs and commercial partners test their equipment ahead of launch, and in some instances, during and after liftoff. In his early years, his job was to test every umbilical on the launch pad and all the ground support equipment needed for Launch Complex 39A and B, even for Vandenberg Space Force Base in California.
 
-“It’s not so much about what’s going to burn the tractor up as what’s going to shut the tractor down,” said Ethan Barrett, AFC fire analyst. The electrical wiring can short or even melt from high heat, stranding the operator in a dangerous environment.
+Just two years into his career, Space Shuttle Challenger had a failure of the O-ring seals and broke apart just over a minute into its flight. Heckle remembered watching the catastrophic liftoff that morning, and hearing the broadcaster say Challenger was lost. A couple of weeks later, his team was tasked with helping to figure out what happened.
 
-That’s where NASA comes in. According to Brosnan, developing thermal sensors for the AFC was an opportunity to create technology that has immediate impact on firefighter safety, while also providing scientists with valuable information about what happens on the ground during a fire.
+“You know, there’s always risk with spaceflight,” Heckle said. “But we got so consistent that we didn’t think something like that could happen and it hit hard. But then being able to come back and get the program going again, and being successful, that makes you proud.”
 
-The AFC’s requirements for a sensor were simple: it needed to be low-cost and easy to operate.
+Nearly two decades later, Heckle’s team was asked to help with yet another investigation. After the Colombia accident, Heckle and his team were charged with showing how severe the damage was through their testing, and how to mitigate ice hitting a wing in the future. They spent hours shooting projectiles at thermal tiles, using ultrasonic sensors to track the data.
 
-“We used commercial, off-the-shelf components to make this,” said Jennifer Fowler, science integration manager for the wildland fires program at NASA’s Langley Research Center in Hampton, Virginia. “The thermocouple that sits in the window to measure temperature, for example, is the same one used in an oven or a kiln.”
+In recent years, Heckle has helped work on the first two Artemis missions. During the Artemis II wet dress rehearsal, there was a liquid hydrogen leak. Heckle was working long days, troubleshooting and fabricating possible solutions with Kennedy’s Prototype Lab. For Artemis I they had a similar leak, and Heckle’s team developed a process to slow fill the cryogenics and the LETF sent that information to the Artemis I launch team to implement.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/general/contractor-to-civil-servant-nasa-welcomes-kenny-heckle/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft
-<img src='https://assets.science.nasa.gov/content/dam/science/missions/landsat/landsat-10/landsat_timeline_May2026.png' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA Astronaut Andrew Morgan Retires
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/andrew-morgan-eva-.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov as of May 18, 2026. This solicitation marks a major milestone in continuing the decades-long partnership between NASA and the U.S. Geological Survey (USGS) to acquire, archive, and distribute multispectral imagery of Earth’s global landmasses and coastal regions.
+After a 12-year career at NASA, U.S. Army Brig. Gen. Andrew R. Morgan has retired from the agency to continue his military service. Morgan spent 272 days in space aboard the International Space Station.
 
-Potential offerors may comment on all aspects of the draft solicitation by June 2, 2026. The final Request for Proposal (RFP) is currently expected to be released at the end of June 2026, with proposals due roughly 30 days thereafter.
+NASA selected Morgan to join its 21st astronaut class in August 2013. He launched to the space station aboard a Soyuz MS-13 spacecraft on July 20, 2019, the same day as the 50th anniversary of the Apollo 11 Moon landing, from the Baikonur Cosmodrome in Kazakhstan.
 
-The scope of work includes the end-to-end design and fabrication of the satellite bus, comprehensive observatory-level performance testing, development of high-fidelity simulators, launch vehicle integration support, and post-launch on-orbit commissioning. Beyond building the bus, the contractor will lead the mechanical and electrical integration of the government-furnished Landsat Instrument Suite (LandIS).
+Morgan served as a flight engineer on International Space Station Expeditions 60, 61, and 62, contributing to hundreds of scientific experiments, technology demonstrations, and space station maintenance activities. He traveled over 115 million miles (about 185 million km) while completing more than 4,300 Earth orbits over the course of his mission.
 
-Recently re-architected as a single-observatory, Landsat 10 will fly in a 653-kilometer sun-synchronous, near-polar orbit with a repeating ground track every 18 days. Key technical specifications of this Class C mission require the spacecraft to support a maximum launch mass of 4,000 kilograms, feature advanced onboard autonomy and fault management, and ensure a minimum 5-year design life plus commissioning. Landsat 10 operations will ultimately transition to the USGS following its on-orbit checkout.
+“Drew’s leadership and commitment to human spaceflight exemplify the very best of NASA,” said Vanessa Wyche, director of NASA’s Johnson Space Center in Houston. “From his service aboard the International Space Station to his continued passion for exploration, Drew’s impact across the agency has been profound. His steadfast dedication to the agency will continue to inspire generations to come.”
 
-Landsat 10 provides improvements in both spectral and spatial capabilities compared to its predecessor missions, Landsats 8 and 9, all while guaranteeing critical data continuity with the legacy archive at the USGS Earth Resources Observation and Science (EROS) Center. The mission will ensure that researchers, resource managers, and policymakers worldwide continue to receive consistent, freely available data to monitor natural and human-induced environmental changes for years to come.
+During his nine months aboard the station, Morgan conducted seven spacewalks for a total of 45 hours and 48 minutes of spacewalking time, breaking the record for a single spaceflight by a U.S. astronaut. Four of his spacewalks were dedicated to repairing the Alpha Magnetic Spectrometer, a particle physics detector designed to search for evidence of antimatter and dark matter.
 
-The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov.
+“Drew approached every challenge with quiet confidence, sharp judgment, and an unwavering commitment to his team,” said Scott Tingle, chief of the Astronaut Office at NASA Johnson. “Whether serving in orbit or strengthening crew readiness here on the ground, he consistently elevated the people and missions around him. His leadership and example will continue to resonate across the astronaut corps for years to come.”
 
-The volcano on Indonesia’s Halmahera Island routinely ejects ash, volcanic gases, and volcanic bombs.
+Morgan’s career at NASA also included serving as the Astronaut Office’s mission support branch chief, crew operations officer, astronaut mission control team liaison for Expeditions 67 and 68, and Army detachment commander. In his final two years at NASA, Morgan served a rotational assignment back to the U.S. Army as commander of U.S. Army Garrison Kwajalein Atoll, and senior military advisor for the U.S. Ambassador to the Republic of the Marshall Islands.
 
-DIST-ALERT, a global land change monitoring system, is revolutionizing forest management.
+Morgan was born in Morgantown, West Virginia, but considers New Castle, Pennsylvania, his hometown. At the time of his NASA astronaut selection, he was a board-certified emergency physician and had served in elite special forces units around the globe. He is a graduate of the United States Military Academy at West Point, the Uniformed Services University of the Health Sciences, and the U.S. Army War College. He is currently serving as the commanding general of White Sands Missile Range in New Mexico.
+
+“It has been an honor to serve in the nation’s space program,” Morgan said. “I am proud to have represented my country on an international mission that brings the best of humanity together for a shared purpose. I will miss the camaraderie of my incredible NASA teammates and their unparalleled expertise. While leaving the astronaut corps is bittersweet, I’m excited to continue serving our country as a leader in the U.S. Army.”
+
+To learn more about how NASA explores the unknown and innovates for the benefit of humanity, visit:
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/nasa-astronaut-andrew-morgan-retires/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 La NASA ofrece información actualizada sobre rovers, módulos de alunizaje y misiones de Base Lunar
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605260002.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 Going Low and Slow in Testing
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/afrc2026-0100-73-48ea27.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-Durante una sesión informativa sobre el programa Base Lunar, celebrada en la sede de la NASA en Washington, la agencia anunció nuevos contratos para el desarrollo de vehículos lunares con capacidad para transportar tripulación y módulos de aterrizaje de carga no tripulados con destino a la Luna. Directivos de la NASA también dieron a conocer los plazos de lanzamiento previstos y los próximos hitos para las primeras misiones de infraestructura de Base Lunar y de exploración a la región del Polo Sur de la Luna, como paso previo a la llegada de los astronautas del programa Artemis.
+NASA’s X-59 quiet supersonic research aircraft flies above NASA’s Armstrong Flight Research Center in Edwards, California, on April 28, 2026, during testing focused on lower-speed and altitude flight conditions in support of NASA’s Quesst mission.
 
-“La Base Lunar será el primer puesto de avanzada de Estados Unidos y de la humanidad en otro mundo celeste”, dijo el administrador de la NASA, Jared Isaacman. “Cada misión, tripulada o no, será una oportunidad de aprendizaje a medida que regresemos a la superficie lunar, construyamos la infraestructura necesaria para permanecer allí y dominemos las destrezas necesarias para vivir y trabajar en uno de los entornos más exigentes y peligrosos que se pueda imaginar. Iremos en busca de la ciencia, por todo lo que tenemos que ganar desde una perspectiva económica y tecnológica, por las innovaciones que mejorarán la vida aquí en la Tierra y para prepararnos para el próximo destino al que inevitablemente nos dirigiremos a continuación. Agradecemos el liderazgo del presidente Trump, el compromiso bipartidista del Congreso, a nuestros socios de la industria e internacionales, y a la dedicada fuerza laboral de la NASA, cuya pericia nos permite lograr lo casi imposible”.
-
-La NASA anunció las tres primeras misiones de Base Lunar para comenzar a establecer operaciones sostenidas.
-
-Estas misiones son las primeras de más de una docena de misiones que serán anunciadas este año; cada una está diseñada para producir datos operativos y reducir riesgos en anticipación a las actividades en la superficie de las misiones tripuladas de Artemis.
-
-La NASA ha adjudicado contratos a Astrolab por 219 millones de dólares y a Lunar Outpost 220 millones de dólares para la construcción y entrega de la primera fase de los LTV. Adjudicados en el marco de las órdenes de trabajo de la Fase 1 de la Misión de Alta Viabilidad del contrato de Servicios de Vehículos de Terreno Lunar, estos hitos de costo fijo y basados en el desempeño permitirán a la NASA desplegar sistemas de movilidad, tanto tripulados como no tripulados, en la superficie lunar para 2028, mediante la iniciativa de Servicios Comerciales de Carga Útil Lunar (CLPS, por sus siglas en inglés) de la agencia. La movilidad inicial en la superficie es un componente fundamental en las prioridades de la política espacial nacional de establecer una presencia lunar duradera.
-
-El Vehículo Lunar Tripulado (CLV 1) de Astrolab, adaptado a partir de la arquitectura FLEX de esa compañía, es un rover diseñado para transportar astronautas, trasladar suministros y dar apoyo en operaciones remotas; cuenta con una configuración compacta en estiba (en estado replegado), tiene una masa de aproximadamente 907 kilogramos (2.000 libras) y la capacidad de alcanzar más de 9,6 kilómetros por hora (6 mi/h) en terreno llano.
-
-Como complemento a esta capacidad, el Pegasus de Lunar Outpost es una evolución de su rover Eagle más ligera y lista para la misión, y está diseñado explícitamente para cumplir con los requisitos actualizados para LTV de la NASA. Con una autonomía operativa de hasta un año y capaz de conducir de forma manual, autónoma o teleoperada a velocidades superiores a los 14 km/h (9 mph), Pegasus incorpora tecnologías heredadas del programa Apolo y se basa en una amplia experiencia en prototipos y vuelos para ofrecer una movilidad confiable y centrada en el ser humano, esencial para el establecimiento de una base lunar sostenida.
-
-El despliegue de múltiples LTV en las etapas iniciales del desarrollo de Base Lunar acelerará las demostraciones tecnológicas, orientará la planificación de los emplazamientos y reducirá los riesgos operativos en anticipación de las misiones tripuladas de Artemis, lo que permitirá a la NASA caracterizar los peligros del terreno, transportar materiales, posicionar de antemano los recursos y madurar los sistemas necesarios para la exploración lunar de larga duración.
-
-Durante los próximos dieciocho meses, los proveedores seleccionados finalizarán el diseño de los rovers, llevarán a cabo evaluaciones con tripulación y certificarán las unidades de vuelo para su operatividad. Los LTV resultantes darán apoyo a desplazamientos autónomos, la preparación del terreno, investigaciones científicas, demostraciones de tecnología y el transporte de astronautas.
-
-A medida que avancen los esfuerzos para el establecimiento de la Base Lunar, la NASA ampliará las oportunidades para proveedores adicionales mediante concursos de acceso por etapas, fomentando un enfoque sólido y sostenible para la movilidad lunar y fortaleciendo las prioridades nacionales en materia de capacidades espaciales.
+The X-59 has completed initial test flights at high altitudes and near-supersonic speeds, opening the door for additional flights focused on its full operating range. These more recent, lower-altitude flights at lesser speeds are helping to confirm the X-plane’s performance across a wide range of conditions, including flying with the landing gear both retracted and extended.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/la-nasa-ofrece-informacion-actualizada-sobre-rovers-modulos-de-alunizaje-y-misiones-de-base-lunar/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/image-article/going-low-and-slow-in-testing/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 Girl Scouts Event Brings Space Science to the Next Generation
-<img src='https://assets.science.nasa.gov/content/dam/science/cds/learn/science-activation-stories/2026/girlscouts_spacescience.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds
+<img src='https://www.nasa.gov/wp-content/uploads/2026/05/milky-way-zones-mkv.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments. The event took place from May 1-3 at Camp Conowingo, a Girl Scouts of Central Maryland camping property on the Susquehanna River north of Baltimore, and brought together participants from across the region.
+NASA’s Nancy Grace Roman Space Telescope is poised to make a major leap in the hunt for worlds outside our solar system, known as exoplanets. Scientists expect the mission to reveal around 100,000 worlds — a staggering leap compared to the nearly 6,300 found so far thanks to NASA missions working in tandem with other observatories. And Roman will primarily find them in underexplored regions of the Milky Way.
 
-With support from the Heliophysics Education Activation Team (HEAT) and the outreach program from NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission, NASA heliophysicist Nicholeen Viall led a camping trip on which 165 Girl Scouts earned their Space Science badge and Ancient and Modern Sun-Watching patch.
+“Our galaxy is home to a variety of different environments, but when it comes to hunting for exoplanets, we’ve really only explored one: our own neighborhood,” said Elisa Quintana, an exoplanet researcher at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Quintana leads a team focused on building software and simulations to help prepare for Roman’s exoplanet transit observations. “Roman will extend the search far enough to encompass other galactic habitats, which could help us learn how planet formation varies across different regions of the Milky Way.”
 
-The badge and patch were earned over the course of the weekend through a series of activity stations that included hands-on examples of how scientists study the Sun, Heliosphere, Moon, planets, and stars. In particular, these creative experiments allowed attendees to learn about space weather and see firsthand how the Sun impacts our lives, which is a cornerstone of HEAT education goals.
+Most known exoplanets are located within a couple thousand light-years of Earth. But  one of Roman’s core surveys will peer all the way through the Milky Way’s galactic bulge, the central hub where stars are packed more densely than anywhere else, to the fringes of the far side of the galaxy.
 
-The activities were set up in seven stations. Girl Scout troops were split into 7 groups, plus an 8th group of high school seniors who ran the stations. Each group was named after a constellation (Ursa Major, Leo, Orion, Cassiopeia, Pegasus, Cygnus, Lyra, and Canis Major).
+Roman will monitor stars scattered throughout a deep slice of the galaxy to watch for any that change in brightness. Some stars periodically dim as orbiting planets cross in front of, or transit, them. Others temporarily appear to brighten as the gravity of an intervening star and orbiting planets magnify a farther star’s light, thanks to a phenomenon called microlensing.
 
-On the morning and afternoon of Saturday May 2, each group spent about 45 minutes per station doing activities to earn a space science badge.
+These two methods tend to reveal very different types of planets. The transit method, which Roman will use to reveal around 100,000 worlds, is best at finding gigantic, scorching worlds since they block the most starlight and transit more frequently.
 
-On Friday and Saturday evenings, the groups participated in a star and Moon gazing nighttime astronomy activity and were able to find Jupiter.
+Microlensing, which Roman will use to find more than 1,000 worlds, is better suited to finding planets with larger orbits, like those in our solar system, whose gravity can be more easily separated from the gravity of their host stars. Microlensing can find planets as small as Earth and Mars and can find them within their star’s habitable zone and even farther out. Such planets are almost undetectable by other methods and are virtually unknown outside of our own solar system. Pairing the two techniques will help astronomers explore planet formation throughout the galaxy, including Earth’s birthplace and beyond.
 
-These activities were made possible in part thanks to time contributed by members of NASA Solar System Ambassadors and the National Capitol Astronomers. Station 3 from the daytime events also had Sunspotter telescopes for the Girl Scouts to try out, which were provided by HEAT with help from team member Carolyn Ng.
+Today, our solar system is located about 27,000 light-years from the center of the Milky Way. However, scientists think it formed about 10,000 light-years closer in and then migrated out to its current position.
 
-Fellow HEAT team member Laura-Ashley Alegbeleye was also onsite leading activities, where  her expertise in classroom education really shined. Laura-Ashley attended as a representative of HEAT, which allowed her to share HEAT resources and educational content with the Girl Scout attendees at several stations, including Station 1.
+The Sun’s chemical makeup is the primary clue. Most stars that form in the outskirts of the galaxy are low in heavy elements, which is a blanket term for any elements other than hydrogen and helium, which formed with the birth of the universe. Heavy elements are forged by stars, so they’re more common in places that have seen successive generations of stars.
 
-Viall describes the Space Science Career station by pointing out that the event coordinators leveraged HEAT educational materials, as well as activities designed for the Ancient and Modern Sun Watching patch by the PUNCH team, to show that even a NASA mission requires many different skill sets. “It's not just scientists and the engineers,” says Viall. “It is financial analysts, it's communications people, it's good writers, it's good artists. All of these different people have to be a part of the team.”
+Stars in the galactic bulge are much older than those in the disk of the Milky Way and thus have a slightly different chemical mixture that is richer in elements like silicon, oxygen, and magnesium.
 
-One of the standout moments of the weekend was the campfire at the end of Saturday, which is a tradition for Girl Scout camping events, according to Viall. “One of the traditions of the campfire is that we all sing songs and the Girl Scouts put on skits,” explains Viall. “I want to say about half of the skits that the Girl Scouts made were about space, the Sun, astronauts, or about exploring Mars.”
+Those differences matter because planets form out of the same material as their host stars. Stars with different compositions may host planets that are different too, perhaps rockier or larger. It could even influence whether planets form at all, or how many coalesce with each star.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/)
+ [🔗 Read Full Story on NASA News](https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-### 📰 La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión
-<img src='https://www.nasa.gov/wp-content/uploads/2026/05/cropped-nasa-meatball-1.webp' width='100%' style='border-radius:15px;' alt='NASA News Image'>
+### 📰 How NASA Uses Light to Detect Waste From Mines
+<img src='https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/153000/153862/iss071e615072_lrg.jpg' width='100%' style='border-radius:15px;' alt='NASA News Image'>
 
 <div align='justify'>
 
-La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston.
+Tens of thousands of abandoned mines threaten waterways across the American West, but identifying which sites urgently need cleanup is slow and expensive. Now, NASA’s EMIT instrument can analyze the unique light signatures of mine waste from space to help focus remediation efforts where they're needed most.
 
-Siga la rueda de prensa en vivo a través de la aplicación NASA+ y el canal de YouTube de la agencia. Descubra cómo ver el contenido de la NASA en diversas plataformas en línea, incluidas las redes sociales (información ofrecida en inglés).
+Wild disturbances are on the rise, while land disturbed by human activity has been decreasing.
 
-Tras el evento, la tripulación de Artemis III estará disponible para un número limitado de entrevistas presenciales y virtuales.
+With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors…
 
-Las solicitudes de entrevista deben enviarse a la sala de prensa del centro Johnson antes de las 5 p.m. del 4 de junio. Los periodistas que no son ciudadanos estadounidenses interesados en asistir deben comunicarse, en inglés, con la sala de prensa de Johnson mediante correo electrónico (jsccommu@mail.nasa.gov) antes de las 5 p.m. del jueves 28 de mayo. Los periodistas estadounidenses deben comunicarse con la sala de prensa antes de las 5 p.m. del jueves 4 de junio. Los medios registrados recibirán la confirmación y detalles adicionales del evento por correo electrónico. La política de acreditación de medios de la NASA está disponible en línea.
+Sea level data from a satellite launched by NASA and European partners shows that a…
 
-Artemis III lanzará a cuatro astronautas desde el Centro Espacial Kennedy de la NASA en Florida en la nave espacial Orion, la cual viajará a bordo del cohete SLS (Sistema de Lanzamiento Espacial, por sus siglas en inglés). La misión pondrá a prueba las capacidades críticas de encuentro y acoplamiento entre Orion y los sistemas comerciales de aterrizaje humano necesarios para llevar a los astronautas a la superficie lunar. Basándose en el exitoso vuelo de prueba tripulado de Artemis II en abril, Artemis III allanará el camino para futuras misiones a la Luna.
+Your home. Our Mission. And the one planet that NASA studies more than any other.
 
-Como parte de una edad de oro de innovación y exploración, la NASA enviará astronautas en misiones cada vez más complejas para explorar más de la Luna con fines de descubrimiento científico y beneficios económicos, y para continuar sentando las bases para las primeras misiones tripuladas a Marte.
+NASA's Earth Observatory brings you the Earth, every day: images, stories, and discoveries about the environment, Earth systems, and climate.
 
-Rachel Kraft / María José ViñasSede central, Washington+1 202-358-1600rachel.h.kraft@nasa.gov  / maria-jose.vinasgarcia@nasa.gov
+NASA Earth Science helps Americans respond to challenges and societal needs — such as wildland fires, hurricanes, and water supplies…
 
-Anna SchneiderCentro Espacial Johnson+1 281-483-5111anna.c.schneider@nasa.gov
+Collection of Earth science videos explaining a variety of concepts and activities performed by NASA's Earth Science Division.
 
 </div>
 
- [🔗 Read Full Story on NASA News](https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/)
+ [🔗 Read Full Story on NASA News](https://science.nasa.gov/earth/how-nasa-uses-light-to-detect-waste-from-mines/)
 
 <p align='center'>━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
