@@ -2,8 +2,8 @@ name: Update Global Magazine
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
-  workflow_dispatch:
+    - cron: '0 */4 * * *' # هر 4 ساعت یکبار اجرا می‌شود
+  workflow_dispatch: # امکان اجرای دستی
 
 jobs:
   build:
@@ -21,15 +21,32 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install feedparser requests beautifulsoup4 jdatetime pytz
+        run: |
+          pip install feedparser requests beautifulsoup4 jdatetime pytz
 
-      - name: Run Global Scraper
-        run: python global_news.py # مطمئن شوید نام فایل پایتون در مخزن همین است
+      - name: Run Scraper
+        run: |
+          # جستجو برای اجرای فایل پایتون
+          if [ -f global_news.py ]; then
+            echo "Running global_news.py..."
+            python global_news.py
+          elif [ -f main.py ]; then
+            echo "Running main.py..."
+            python main.py
+          else
+            echo "Searching for any python file..."
+            python *.py || echo "No python file found!"
+          fi
 
       - name: Commit and push changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
-          git add index.html
-          git commit -m "Update News" || exit 0
-          git push
+          # اضافه کردن فایل index.html تولید شده
+          if [ -f index.html ]; then
+            git add index.html
+            git commit -m "Update Global News Content [$(date)]" || echo "No changes to commit"
+            git push
+          else
+            echo "index.html not found, nothing to commit."
+          fi
