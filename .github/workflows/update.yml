@@ -1,4 +1,4 @@
-name: Update Mahoor News Magazine
+name: Update Global Magazine
 
 on:
   schedule:
@@ -21,18 +21,15 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: |
-          pip install feedparser requests beautifulsoup4 jdatetime pytz
+        run: pip install feedparser requests beautifulsoup4 jdatetime pytz
 
-      - name: Run Scrapers
-        run: |
-          python fetch_news.py
-          python global_news.py
+      - name: Run Global Scraper
+        run: python global_news.py # مطمئن شوید نام فایل پایتون در مخزن همین است
 
       - name: Commit and push changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Action"
-          git add index.html global.html
-          git commit -m "Update Persian and Global news" || echo "No changes to commit"
+          git add index.html
+          git commit -m "Update News" || exit 0
           git push
