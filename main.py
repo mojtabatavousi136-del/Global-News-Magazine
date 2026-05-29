@@ -23,8 +23,6 @@ def get_full_content(url):
         soup = BeautifulSoup(response.text, 'html.parser')
         img_meta = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
         img_url = urljoin(url, img_meta.get('content')) if img_meta else None
-        
-        # تلاش برای استخراج متن کامل از تگ‌های اصلی خبر
         content_area = soup.select_one('article, section[class*="body"], div[class*="content"]')
         if content_area:
             p_tags = content_area.find_all(['p', 'h2'])
@@ -34,12 +32,7 @@ def get_full_content(url):
     except: return None, ""
 
 def main():
-    sources = {
-        "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
-        "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "NASA News": "https://www.nasa.gov/news-release/feed/"
-    }
-    
+    sources = {"Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml", "BBC World": "https://feeds.bbci.co.uk/news/world/rss.xml", "The Guardian": "https://www.theguardian.com/world/rss"}
     gold = get_tgju_price("https://www.tgju.org/profile/geram18")
     dollar = get_tgju_price("https://www.tgju.org/profile/price_dollar_rl")
     tehran_tz = pytz.timezone('Asia/Tehran')
@@ -51,20 +44,11 @@ def main():
     for name, url in sources.items():
         feed = feedparser.parse(url)
         news_cards += f"<h2 class='source-title'>🌍 {name}</h2>"
-        for entry in feed.entries[:5]:
+        for entry in feed.entries[:6]:
             img, content = get_full_content(entry.link)
             if not content: content = entry.get('summary', '')[:300]
             formatted_content = content.replace('\n\n', '<br><br>')
-            
-            news_cards += f"""
-            <div class='card'>
-                {f"<div class='card-img-wrap'><img src='{img}'></div>" if img else ""}
-                <div class='card-content'>
-                    <h3>{entry.title}</h3>
-                    <div class='full-text'>{formatted_content}</div>
-                    <a href='{entry.link}' target='_blank' class='read-btn'>Read on {name} →</a>
-                </div>
-            </div>"""
+            news_cards += f"<div class='card'>{f'<div class=\'card-img-wrap\'><img src=\'{img}\'></div>' if img else ''}<div class='card-content'><h3>{entry.title}</h3><div class='full-text'>{formatted_content}</div><a href='{entry.link}' target='_blank' class='read-btn'>Full Story on {name} →</a></div></div>"
 
     full_html = f"""
     <!DOCTYPE html>
@@ -76,13 +60,13 @@ def main():
             body {{ background: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; margin: 0; }}
             .header {{ background: linear-gradient(135deg, #1f6feb, #111418); padding: 30px; text-align: center; border-bottom: 2px solid #30363d; }}
             .stats-container {{ display: flex; flex-direction: column; align-items: center; gap: 10px; margin-top: 15px; }}
-            .stats-row {{ display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }}
+            .stats-row {{ display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; align-items: center; }}
             .stat-box {{ background: rgba(0,0,0,0.3); padding: 5px 15px; border-radius: 20px; border: 1px solid var(--accent); font-size: 0.9em; }}
             .price-box {{ border-color: #f1c40f; color: #f1c40f; }}
-            .switch-btn {{ background: #c0392b; color: white; text-decoration: none; padding: 6px 18px; border-radius: 20px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2); }}
+            .switch-btn {{ background: #c0392b; color: white; text-decoration: none; padding: 6px 18px; border-radius: 20px; font-weight: bold; border: 1px solid rgba(255,255,255,0.2); font-size: 0.85em; }}
             .container {{ width: 90%; max-width: 800px; margin: 20px auto; }}
             .source-title {{ color: var(--accent); border-left: 5px solid var(--accent); padding-left: 15px; margin-top: 40px; }}
-            .card {{ background: var(--card); border: 1px solid #30363d; border-radius: 12px; margin-bottom: 30px; overflow: hidden; }}
+            .card {{ background: var(--card); border: 1px solid #30363d; border-radius: 12px; margin-bottom: 30px; overflow: hidden; display: flex; flex-direction: column; }}
             .card-img-wrap img {{ width: 100%; max-height: 400px; object-fit: cover; }}
             .card-content {{ padding: 20px; }}
             .full-text {{ text-align: justify; line-height: 1.6; color: #b1bac4; }}
@@ -91,10 +75,10 @@ def main():
     </head>
     <body>
         <div class="header">
-            <h1>🌐 MAHOOR GLOBAL</h1>
+            <h1>🌐 MAHOOR GLOBAL MAGAZINE</h1>
             <div class="stats-container">
                 <div class="stats-row">
-                    <a href="index.html" class="switch-btn">🇮🇷 Persian Version (فارسی)</a>
+                    <a href="https://mojtabatavousi136-del.github.io/my-news-feed/" class="switch-btn">🇮🇷 مشاهده نسخه فارسی</a>
                     <div class="stat-box">📅 {jalali_date}</div>
                     <div class="stat-box">⏰ {update_time} (Tehran)</div>
                 </div>
@@ -107,6 +91,6 @@ def main():
         <div class="container">{news_cards}</div>
     </body>
     </html>"""
-    with open("global.html", "w", encoding="utf-8") as f: f.write(full_html)
+    with open("index.html", "w", encoding="utf-8") as f: f.write(full_html)
 
 if __name__ == "__main__": main()
