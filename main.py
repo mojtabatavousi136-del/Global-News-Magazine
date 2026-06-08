@@ -49,7 +49,7 @@ def extract_content(entry):
         html = entry.content[0].value
     elif hasattr(entry, "summary"):
         html = entry.summary
-    soup = BeautifulSoup(html, "lxml")
+    soup = BeautifulSoup(html, "html.parser")
     lines = [p.get_text(" ", strip=True) for p in soup.find_all(["p", "li"])]
     lines = [l for l in lines if not is_junk_line(l)]
     return "<br><br>".join(lines) if lines else soup.get_text(" ", strip=True)[:400]
