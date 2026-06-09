@@ -13,10 +13,13 @@ SOURCES = {
 
 def get_tgju_price(url):
     try:
-        r = requests.get(url, timeout=8, headers={"User-Agent": "Mozilla/5.0"})
+        r = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
         soup = BeautifulSoup(r.text, "html.parser")
-        val = soup.select_one(".info-price span")
-        return val.text.strip() if val else "N/A"
+        for sel in [".info-price span", ".price-value", ".market-price", "strong"]:
+            val = soup.select_one(sel)
+            if val and val.text.strip():
+                return val.text.strip()
+        return "N/A"
     except:
         return "N/A"
 
@@ -30,12 +33,17 @@ def fetch_feed(name, url):
                 img = e.media_thumbnail[0].get("url", "")
             elif hasattr(e, "media_content"):
                 img = e.media_content[0].get("url", "")
+            # full summary, no truncation
+            summary = e.get("summary", "")
+            soup = BeautifulSoup(summary, "html.parser")
+            summary = soup.get_text(separator=" ").strip()
             articles.append({
                 "source": name,
                 "title": e.get("title", ""),
                 "link": e.get("link", ""),
-                "summary": e.get("summary", "")[:200],
-                "image": img,})
+                "summary": summary,
+                "image": img,
+            })
         return articles
     except:
         return []
@@ -69,7 +77,6 @@ def main():
 
     gold = gold_f.result()
     dollar = dollar_f.result()
-
     cards = "\n".join(build_card(a) for a in all_articles)
 
     html = f"""<!DOCTYPE html>
@@ -80,32 +87,44 @@ def main():
 <title>Global News Magazine</title>
 <style>
   body {{ font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; }}
-  header {{ background: #1a1a2e; color: white; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }}
-  header h1 {{ margin: 0; font-size: 1.4rem; }}
-  .header-links a {{ color: #aad4f5; text-decoration: none; margin-left: 16px; font-size: 0.9rem; }}
+  header {{
+    background: #1a1a2e; color: white; padding: 16px 24px;
+    display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 8px;
+  }}
+  .header-left {{ display: flex; justify-content: flex-start; }}
+  .header-center {{ text-align: center; font-size: 1.5rem; font-weight: bold; white-space: nowrap; }}
+  .header-right {{ display: flex; justify-content: flex-end; align-items: center; gap: 8px; font-size: 0.85rem; color: #aaa; }}
+  .header-right a {{ color: #aad4f5; text-decoration: none; }}
   .ticker {{ background: #16213e; color: #f5c518; padding: 8px 24px; font-size: 0.9rem; }}
-  .grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; padding: 24px; max-width: 1400px; margin: auto; }}
-  .card {{ background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,.1); }}
-  .card img {{ width: 100%; height: 180px; object-fit: cover; }}
-  .card-body {{ padding: 12px; }}
+  .feed {{ display: flex; flex-direction: column; gap: 16px; padding: 24px; max-width: 860px; margin: auto; }}
+  .card {{ background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,.1); display: flex; gap: 16px; }}
+  .card img {{ width: 220px; min-width: 220px; height: 150px; object-fit: cover; }}
+  .card-body {{ padding: 14px; flex: 1; }}
   .badge {{ background: #1a1a2e; color: white; font-size: 0.7rem; padding: 2px 8px; border-radius: 12px; }}
-  h3 {{ font-size: 0.95rem; margin: 8px 0; }}
+  h3 {{ font-size: 1rem; margin: 8px 0; }}
   h3 a {{ color: #1a1a2e; text-decoration: none; }}
   h3 a:hover {{ text-decoration: underline; }}
-  p {{ font-size: 0.82rem; color: #555; margin: 0; }}
+  p {{ font-size: 0.88rem; color: #444; margin: 0; line-height: 1.6; }}
   footer {{ text-align: center; padding: 16px; font-size: 0.8rem; color: #888; }}
+  @media(max-width: 600px) {{
+    .card {{ flex-direction: column; }}
+    .card img {{ width: 100%; height: 180px; min-width: unset; }}
+    header {{ grid-template-columns: 1fr; text-align: center; }}
+    .header-left, .header-right {{ justify-content: center; }}
+  }}
 </style>
 </head>
 <body>
 <header>
-  <h1>🌍 Global News Magazine</h1>
-  <div class="header-links">
+  <div class="header-left"></div>
+  <div class="header-center">🌍 Global News Magazine</div>
+  <div class="header-right">
     <a href="https://mojtabatavousi136-del.github.io/my-news-feed/" target="_blank">🇮🇷 Persian Edition</a>
-    <span style="color:#aaa">| Updated: {timestamp}</span>
+    <span>| {timestamp}</span>
   </div>
 </header>
 <div class="ticker">💵 Dollar: {dollar} IRR &nbsp;|&nbsp; 🥇 Gold (18K): {gold} IRR</div>
-<div class="grid">
+<div class="feed">
 {cards}
 </div>
 <footer>Auto-updated via GitHub Actions</footer>
