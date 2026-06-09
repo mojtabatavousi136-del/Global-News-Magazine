@@ -6,39 +6,51 @@
 <title>Global News Magazine</title>
 <style>
   body { font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; }
-  header { background: #1a1a2e; color: white; padding: 16px 24px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
-  header h1 { margin: 0; font-size: 1.4rem; }
-  .header-links a { color: #aad4f5; text-decoration: none; margin-left: 16px; font-size: 0.9rem; }
+  header {
+    background: #1a1a2e; color: white; padding: 16px 24px;
+    display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 8px;
+  }
+  .header-left { display: flex; justify-content: flex-start; }
+  .header-center { text-align: center; font-size: 1.5rem; font-weight: bold; white-space: nowrap; }
+  .header-right { display: flex; justify-content: flex-end; align-items: center; gap: 8px; font-size: 0.85rem; color: #aaa; }
+  .header-right a { color: #aad4f5; text-decoration: none; }
   .ticker { background: #16213e; color: #f5c518; padding: 8px 24px; font-size: 0.9rem; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; padding: 24px; max-width: 1400px; margin: auto; }
-  .card { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,.1); }
-  .card img { width: 100%; height: 180px; object-fit: cover; }
-  .card-body { padding: 12px; }
+  .feed { display: flex; flex-direction: column; gap: 16px; padding: 24px; max-width: 860px; margin: auto; }
+  .card { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 6px rgba(0,0,0,.1); display: flex; gap: 16px; }
+  .card img { width: 220px; min-width: 220px; height: 150px; object-fit: cover; }
+  .card-body { padding: 14px; flex: 1; }
   .badge { background: #1a1a2e; color: white; font-size: 0.7rem; padding: 2px 8px; border-radius: 12px; }
-  h3 { font-size: 0.95rem; margin: 8px 0; }
+  h3 { font-size: 1rem; margin: 8px 0; }
   h3 a { color: #1a1a2e; text-decoration: none; }
   h3 a:hover { text-decoration: underline; }
-  p { font-size: 0.82rem; color: #555; margin: 0; }
+  p { font-size: 0.88rem; color: #444; margin: 0; line-height: 1.6; }
   footer { text-align: center; padding: 16px; font-size: 0.8rem; color: #888; }
+  @media(max-width: 600px) {
+    .card { flex-direction: column; }
+    .card img { width: 100%; height: 180px; min-width: unset; }
+    header { grid-template-columns: 1fr; text-align: center; }
+    .header-left, .header-right { justify-content: center; }
+  }
 </style>
 </head>
 <body>
 <header>
-  <h1>🌍 Global News Magazine</h1>
-  <div class="header-links">
+  <div class="header-left"></div>
+  <div class="header-center">🌍 Global News Magazine</div>
+  <div class="header-right">
     <a href="https://mojtabatavousi136-del.github.io/my-news-feed/" target="_blank">🇮🇷 Persian Edition</a>
-    <span style="color:#aaa">| Updated: 1405/03/19 | 2026-06-09 01:42 Tehran</span>
+    <span>| 1405/03/19 | 2026-06-09 10:32 Tehran</span>
   </div>
 </header>
-<div class="ticker">💵 Dollar: N/A IRR &nbsp;|&nbsp; 🥇 Gold (18K): N/A IRR</div>
-<div class="grid">
+<div class="ticker">💵 Dollar: شما اینجا هستید: IRR &nbsp;|&nbsp; 🥇 Gold (18K): شما اینجا هستید: IRR</div>
+<div class="feed">
 
 <div class="card">
   
   <div class="card-body">
     <span class="badge">Al Jazeera</span>
-    <h3><a href="https://www.aljazeera.com/news/2026/6/8/un-human-rights-leader-calls-for-cuba-sanctions-to-be-lifted-immediately?traffic_source=rss" target="_blank">UN human rights leader calls for Cuba sanctions to be ‘lifted immediately’</a></h3>
-    <p>Volker Turk, the UN&#039;s high commissioner for human rights, warns that &#039;children are dying&#039; as result of US oil blockade.</p>
+    <h3><a href="https://www.aljazeera.com/features/2026/6/9/irans-lakes-are-vanishing-satellite-images-show-a-deepening-water-crisis-2?traffic_source=rss" target="_blank">Iran’s lakes are vanishing: Satellite images show a deepening water crisis</a></h3>
+    <p>Years of drought, falling rainfall and unsustainable water use have been worsened further by the US-Israel war.</p>
   </div>
 </div>
 
@@ -46,8 +58,8 @@
   
   <div class="card-body">
     <span class="badge">Al Jazeera</span>
-    <h3><a href="https://www.aljazeera.com/news/2026/6/8/us-confirms-denying-entry-to-somali-referee-set-to-take-part-in-world-cup?traffic_source=rss" target="_blank">US confirms it denied entry to Somali referee set to take part in World Cup</a></h3>
-    <p>Award-winning referee Omar Artan was &#039;determined to be inadmissible due to vetting concerns&#039; after arriving in Miami.</p>
+    <h3><a href="https://www.aljazeera.com/news/2026/6/9/race-to-find-survivors-as-philippines-quake-toll-rises-to-37?traffic_source=rss" target="_blank">Race to find survivors as Philippines quake toll rises to 37</a></h3>
+    <p>The quake inflicted some of the worst damage on General Santos, a city of about 720,000 people in southern Mindanao.</p>
   </div>
 </div>
 
@@ -55,8 +67,8 @@
   
   <div class="card-body">
     <span class="badge">Al Jazeera</span>
-    <h3><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/pope-leo-makes-visit-to-spains-almudena-cathedral?traffic_source=rss" target="_blank">Pope Leo makes visit to Spain’s Almudena Cathedral</a></h3>
-    <p>Crowds in Madrid were delighted to see Pope Leo make a visit to Santa Maria de la Almudena Cathedral with Queen Sofia.</p>
+    <h3><a href="https://www.aljazeera.com/economy/2026/6/9/nuclear-weapons-spending-surges-to-record-high-of-119bn-report-says?traffic_source=rss" target="_blank">Nuclear weapons spending surges to record high of $119bn, report says</a></h3>
+    <p>International Campaign to Abolish Nuclear Weapons says states spent an extra $16.8bn on their nuclear arsenals in 2025.</p>
   </div>
 </div>
 
@@ -64,8 +76,8 @@
   
   <div class="card-body">
     <span class="badge">Al Jazeera</span>
-    <h3><a href="https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss" target="_blank">EU planning to add to $1.5 trillion sanctions hit on Russia</a></h3>
-    <p>New proposed listings target Russia&#039;s &#039;military industrial complex, human rights violators and propagandists&#039;.</p>
+    <h3><a href="https://www.aljazeera.com/news/2026/6/9/as-close-as-lips-and-teeth-the-highs-and-lows-of-china-north-korea-ties?traffic_source=rss" target="_blank">‘As close as lips and teeth’: The highs and lows of China-North Korea ties</a></h3>
+    <p>Chinese President Xi has been welcomed in Pyongyang for his first visit since 2019.</p>
   </div>
 </div>
 
@@ -73,8 +85,8 @@
   
   <div class="card-body">
     <span class="badge">Al Jazeera</span>
-    <h3><a href="https://www.aljazeera.com/news/2026/6/8/italian-prosecutors-to-probe-israeli-minister-ben-gvir-over-flotilla-abuse?traffic_source=rss" target="_blank">Italian prosecutors to probe Israeli minister Ben-Gvir over flotilla abuse</a></h3>
-    <p>Rome is the second in Europe to launch a probe into Israel&#039;s treatment of activists detained as they headed to Gaza.</p>
+    <h3><a href="https://www.aljazeera.com/features/2026/6/9/two-years-after-israels-nuseirat-rescue-success-we-are-still-bleeding?traffic_source=rss" target="_blank">Two years after Israel’s Nuseirat ‘rescue’ success, we are still bleeding</a></h3>
+    <p>My family survived the massacre that freed four captives. Its wounds and nightmares have not left us.</p>
   </div>
 </div>
 
@@ -82,8 +94,8 @@
   
   <div class="card-body">
     <span class="badge">Al Jazeera</span>
-    <h3><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/could-iran-and-the-us-play-each-other-at-the-world-cup?traffic_source=rss" target="_blank">Could Iran and the US play each other at the World Cup?</a></h3>
-    <p>Could Iran and the US play each other at the World Cup?</p>
+    <h3><a href="https://www.aljazeera.com/news/2026/6/9/indias-fertility-rate-falls-below-replacement-level-why-it-matters?traffic_source=rss" target="_blank">India’s fertility rate falls below replacement level: Why it matters</a></h3>
+    <p>India's fertility rate falls to 1.9 children per woman, with consequences for the workforce, the elderly and economy.</p>
   </div>
 </div>
 
@@ -91,8 +103,8 @@
   
   <div class="card-body">
     <span class="badge">Al Jazeera</span>
-    <h3><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/we-basically-lost-tel-aviv-residents-react-after-israel-iran-strikes?traffic_source=rss" target="_blank">‘We basically lost’: Tel Aviv residents react after Israel-Iran strikes</a></h3>
-    <p>Residents in Tel Aviv voiced mixed reactions after a day of missile exchanges between Israel and Iran.</p>
+    <h3><a href="https://www.aljazeera.com/news/2026/6/9/ebola-death-toll-in-dr-congo-climbs-to-101?traffic_source=rss" target="_blank">Ebola death toll in DR Congo climbs to 101</a></h3>
+    <p>The Democratic Republic of the Congo is grappling with its 17th Ebola outbreak since virus was first identified in 1976.</p>
   </div>
 </div>
 
@@ -100,13 +112,13 @@
   
   <div class="card-body">
     <span class="badge">Al Jazeera</span>
-    <h3><a href="https://www.aljazeera.com/video/newsfeed/2026/6/8/gaza-cancer-patient-waits-for-a-chance-at-life?traffic_source=rss" target="_blank">Gaza cancer patient waits for a chance at life</a></h3>
-    <p>A school director and novelist in Gaza needs urgent life-saving cancer surgery that she cannot access inside the Strip.</p>
+    <h3><a href="https://www.aljazeera.com/video/newsfeed/2026/6/9/fifa-drops-somali-world-cup-referee-after-us-denies-him-entry?traffic_source=rss" target="_blank">FIFA drops Somali World Cup referee after US denies him entry</a></h3>
+    <p>Award-winning Somali referee, Omar Artan, has been removed from the World Cup roster after being denied entry into US</p>
   </div>
 </div>
 
 <div class="card">
-  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46dd/live/0b779580-6361-11f1-8e1d-bbbb1017d210.jpg" onerror="this.style.display='none'">
+  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff3/live/e3def430-63c6-11f1-8e1d-bbbb1017d210.jpg" onerror="this.style.display='none'">
   <div class="card-body">
     <span class="badge">BBC World</span>
     <h3><a href="https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss" target="_blank">Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again</a></h3>
@@ -115,11 +127,29 @@
 </div>
 
 <div class="card">
-  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10c/live/6800e1d0-6339-11f1-8546-8f19e4fe30f4.jpg" onerror="this.style.display='none'">
+  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/305a/live/a96b31c0-6389-11f1-8546-8f19e4fe30f4.jpg" onerror="this.style.display='none'">
   <div class="card-body">
     <span class="badge">BBC World</span>
-    <h3><a href="https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss" target="_blank">Iran's strike on Israel suggests the regime's sense of resilience is growing</a></h3>
-    <p>Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.</p>
+    <h3><a href="https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss" target="_blank">Trump tells BBC Netanyahu did not defy him</a></h3>
+    <p>In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.</p>
+  </div>
+</div>
+
+<div class="card">
+  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ce/live/a28bc000-63c9-11f1-8546-8f19e4fe30f4.jpg" onerror="this.style.display='none'">
+  <div class="card-body">
+    <span class="badge">BBC World</span>
+    <h3><a href="https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss" target="_blank">Israel and Iran flare-up could strengthen Tehran's negotiating hand</a></h3>
+    <p>Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.</p>
+  </div>
+</div>
+
+<div class="card">
+  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7227/live/3f8dbf70-6325-11f1-b1db-af71d47507d6.jpg" onerror="this.style.display='none'">
+  <div class="card-body">
+    <span class="badge">BBC World</span>
+    <h3><a href="https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss" target="_blank">SpaceX's stock market blast-off could be Musk's biggest gamble yet</a></h3>
+    <p>SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.</p>
   </div>
 </div>
 
@@ -133,38 +163,11 @@
 </div>
 
 <div class="card">
-  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1783/live/0075ad00-630e-11f1-89a3-d1f559421220.jpg" onerror="this.style.display='none'">
+  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86d1/live/baf29970-63ce-11f1-8546-8f19e4fe30f4.jpg" onerror="this.style.display='none'">
   <div class="card-body">
     <span class="badge">BBC World</span>
-    <h3><a href="https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss" target="_blank">Armenia's pro-West government wins election despite Russian pressure</a></h3>
-    <p>Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.</p>
-  </div>
-</div>
-
-<div class="card">
-  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93c/live/afe5dd80-6365-11f1-8546-8f19e4fe30f4.jpg" onerror="this.style.display='none'">
-  <div class="card-body">
-    <span class="badge">BBC World</span>
-    <h3><a href="https://www.bbc.com/news/articles/cnv9dz3reego?at_medium=RSS&at_campaign=rss" target="_blank">Malawians repatriated from South Africa amid xenophobia concerns</a></h3>
-    <p>Malawi is among several African nations transporting their citizens out of the country following reports of violence against migrants.</p>
-  </div>
-</div>
-
-<div class="card">
-  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a742/live/c593be00-6355-11f1-8b15-6100cfbc3083.jpg" onerror="this.style.display='none'">
-  <div class="card-body">
-    <span class="badge">BBC World</span>
-    <h3><a href="https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss" target="_blank">Jailed crypto founder Sam Bankman-Fried seeks Trump pardon</a></h3>
-    <p>The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.</p>
-  </div>
-</div>
-
-<div class="card">
-  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf96/live/b9dbcd80-6366-11f1-b1db-af71d47507d6.jpg" onerror="this.style.display='none'">
-  <div class="card-body">
-    <span class="badge">BBC World</span>
-    <h3><a href="https://www.bbc.com/news/videos/cr5j4e4r3v9o?at_medium=RSS&at_campaign=rss" target="_blank">Watch: Southern Lights timelapse filmed from space</a></h3>
-    <p>This occurrence of aurora australis, or Southern Lights, was captured by NASA astronaut Jessica Meir.</p>
+    <h3><a href="https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss" target="_blank">Trump booed in New York as he becomes first US president to attend NBA Finals</a></h3>
+    <p>The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden.</p>
   </div>
 </div>
 
@@ -178,11 +181,29 @@
 </div>
 
 <div class="card">
+  <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa4/live/426f4c70-62e1-11f1-9a4b-dd5933001427.jpg" onerror="this.style.display='none'">
+  <div class="card-body">
+    <span class="badge">BBC World</span>
+    <h3><a href="https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss" target="_blank">Stock market jitters remain amid tech fears and renewed Middle East attacks</a></h3>
+    <p>Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other.</p>
+  </div>
+</div>
+
+<div class="card">
+  <img src="https://i.guim.co.uk/img/media/bfe8b8d91bf1f350712b4ebdb6ea705ae11a17a0/561_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=c6d5ec8341cd29a029f9dbf34fdac419" onerror="this.style.display='none'">
+  <div class="card-body">
+    <span class="badge">The Guardian</span>
+    <h3><a href="https://www.theguardian.com/world/2026/jun/08/bandits-in-north-west-nigeria-abduct-villagers-they-invited-to-discuss-peace-talks" target="_blank">Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks</a></h3>
+    <p>Thirty-nine people taken near Magamin Diddi village in Maradun municipality, north-west Zamfara state, police say Armed bandits in north-west Nigeria abducted dozens of villagers whom they invited to a meeting about potential peace negotiations, authorities and residents said on Monday, highlighting the region’s worsening security. According to local police, 39 people were seized on Sunday during a meeting in the forest near Magamin Diddi village in the Maradun municipality of north-west Zamfara state. But some residents and officials believe the number of those abducted could be as high as 50.   Continue reading...</p>
+  </div>
+</div>
+
+<div class="card">
   <img src="https://i.guim.co.uk/img/media/c8555db2643a02f1e8c0e23a9a8a18efa17b1037/670_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b09e12b9fd2d04a29610baa0977f233c" onerror="this.style.display='none'">
   <div class="card-body">
     <span class="badge">The Guardian</span>
     <h3><a href="https://www.theguardian.com/world/2026/jun/08/extreme-fear-among-immigrants-as-backlash-sweeps-south-africa" target="_blank">‘Extreme fear’ among immigrants as backlash sweeps South Africa</a></h3>
-    <p><p>African migrants say legal status offers little protection as rallies against illegal immigration gain momentum</p><p>African migrants in South Africa say they are living in fear after a series of </p>
+    <p>African migrants say legal status offers little protection as rallies against illegal immigration gain momentum African migrants in South Africa say they are living in fear after a series of marches calling for illegal immigrants to leave reignited long-held xenophobic sentiment in the country. March & March, a campaign group at the forefront of recent protests, has given people living illegally in the country until 30 June to leave, without specifying what will happen to those who do not.   Continue reading...</p>
   </div>
 </div>
 
@@ -191,7 +212,7 @@
   <div class="card-body">
     <span class="badge">The Guardian</span>
     <h3><a href="https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say" target="_blank">Ebola spread in central Africa could match 2014 record outbreak, US health officials say</a></h3>
-    <p><p>Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predict</p><p><a href="https://www.theguardian.com/world/2026/may/29/who-</p>
+    <p>Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predict Central Africa’s Ebola outbreak  could spread to be similar in scale to the worst outbreak in history,  west Africa’s 2014-2016 outbreak  that killed more than 11,000 people, according to a new analysis by US health officials. The US Centers for Disease Control and Prevention (CDC) on Friday published a range of scenarios generated by computer models, from 10,000 cases to more than 20,000. In the west Africa outbreak, more than 28,000 cases were reported.   Continue reading...</p>
   </div>
 </div>
 
@@ -200,7 +221,7 @@
   <div class="card-body">
     <span class="badge">The Guardian</span>
     <h3><a href="https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights" target="_blank">‘Family values’ African charter condemned by rights groups as regressive and dangerous</a></h3>
-    <p><p>Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family</p><p>An African treaty that rejects longstanding international human rights obligation</p>
+    <p>Draft treaty claims sexual and reproductive health and rights are an existential threat to the African family An African treaty that rejects longstanding international human rights obligations moved a step closer to becoming policy this week as governments across the continent met in Ghana. The draft African charter on family, sovereignty and values, seen by the Guardian, asserts that African values and culture are under attack from “foreign ideologies” and urges states to withdraw from any agreements that do not align with the principles of the charter, including the 2003  Maputo protocol , which promotes gender equality and protects the reproductive and health rights of women and girls.   Continue reading...</p>
   </div>
 </div>
 
@@ -209,16 +230,16 @@
   <div class="card-body">
     <span class="badge">The Guardian</span>
     <h3><a href="https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya" target="_blank">Experts criticise plan for American-only Ebola quarantine centre in Kenya</a></h3>
-    <p><p>Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers</p><p>Former top US officials and other experts are urging the Trump administratio</p>
+    <p>Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and treatment centre in Kenya, as the union for workers with the US Centers for Disease Control and Prevention (CDC) calls for Americans exposed to Ebola to be brought home for treatment. Soon after the US revealed it was setting up a field hospital in Kenya for the Ebola quarantine and treatment of Americans, the Kenyan high court blocked the order – but the Kenyan and US governments moved forward anyway, with the first American responders reportedly landing at the Laikipia airbase on Saturday.   Continue reading...</p>
   </div>
 </div>
 
 <div class="card">
-  <img src="https://i.guim.co.uk/img/media/a068b997478b489d0239c7b8e77d58bf6a3042f5/142_0_4583_3666/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ecf7d516dbe8a24d1d4393b5b1354c9f" onerror="this.style.display='none'">
+  <img src="https://i.guim.co.uk/img/media/a72726bba34a9f479021c8e7a8d98c5b2d3ff920/1380_0_6606_5282/master/6606.jpg?width=140&quality=85&auto=format&fit=max&s=7a03c8154373362373e21affab8ed626" onerror="this.style.display='none'">
   <div class="card-body">
     <span class="badge">The Guardian</span>
-    <h3><a href="https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire" target="_blank">Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu</a></h3>
-    <p><p>Violence flares before protests on Thursday over president’s decision to remain in office after his term expired</p><p>Fierce clashes have taken place between government troops and militias allied </p>
+    <h3><a href="https://www.theguardian.com/news/audio/2026/jun/09/the-criminal-cartels-cashing-in-on-the-world-cup-podcast" target="_blank">The criminal cartels cashing in on the World Cup – podcast</a></h3>
+    <p>Football fans are celebrating the tournament coming to Guadalajara. But with a brutal crime syndicate holding sway there, what are the risks for fans – and the government? Excitement is mounting in Mexico as the World Cup opens in Mexico City, then heads to the city of Guadalajara. Mexican journalist  Leon Krauze  is a fan. He was there the last time the World Cup came to Mexico and will be watching again. The city of Guadalajara has a mythical footballing past: “Pele’s Brazil played there in 1970, then Zico and Socrates played there in 1986. There is a real football memory there, a love affair between Guadalajara and football in general, and I expect it to be a wonderful party.”   Continue reading...</p>
   </div>
 </div>
 
@@ -227,7 +248,7 @@
   <div class="card-body">
     <span class="badge">The Guardian</span>
     <h3><a href="https://www.theguardian.com/us-news/2026/jun/08/us-pilots-killed-plane-crash-dominican-republic" target="_blank">Two US pilots killed after plane bound to pick up former MLB star crashes</a></h3>
-    <p><p>Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilot</p><p>A pilot and co-pilot from the United States have died in a fiery plane crash as </p>
+    <p>Plane on way to pick up Yadier Molina and his family crashed in Dominican Republic, killing pilot and co-pilot A pilot and co-pilot from the United States have died in a fiery plane crash as they attempted an emergency landing in the  Dominican Republic , authorities said. Former major league baseball all-star catcher Yadier Molina said on social media that the plane was bound for Texas to pick him up, along with family and friends.   Continue reading...</p>
   </div>
 </div>
 
@@ -236,16 +257,7 @@
   <div class="card-body">
     <span class="badge">The Guardian</span>
     <h3><a href="https://www.theguardian.com/world/2026/jun/07/peru-election-voters-face-straight-left-right-choice-keiko-fujimori" target="_blank">Peru’s discontented voters face straight left-right choice in election runoff</a></h3>
-    <p><p>Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade</p><p>Peruvians go to the polls on Sunday in an election runoff tha</p>
-  </div>
-</div>
-
-<div class="card">
-  <img src="https://i.guim.co.uk/img/media/6d4eb289a2933ae869b59dd03b0c288ef5355904/158_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=440ea96f4945cfe6f73307be933b6012" onerror="this.style.display='none'">
-  <div class="card-body">
-    <span class="badge">The Guardian</span>
-    <h3><a href="https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal" target="_blank">‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart</a></h3>
-    <p><p>Union says collective agreement is just the start of a broader fight to unionize major employers across the country</p><p>Canadian warehouse workers have <a href="https://www.unifor.org/news/all-ne</p>
+    <p>Keiko Fujimori, the daughter of 1990s leader Alberto, is vying with a congressman to become country’s ninth president in a decade Peruvians go to the polls on Sunday in an election runoff that pits a perennial rightwing candidate, Keiko Fujimori, against a leftist congressman, Roberto Sánchez. Amid rising crime, chronic political instability, corruption scandals and voter apathy, they are vying to become Peru’s ninth president in a decade. Fujimori, who is the daughter of the late president Alberto Fujimori, won 17% of the vote in the  first round in April . Sánchez, a former trade and tourism minister, took 12 % of the vote, edging out Rafael López Aliaga, an ultra-conservative former Lima mayor. The stage is set for a polarised left-right replay of the country’s last election in 2021.   Continue reading...</p>
   </div>
 </div>
 
@@ -253,8 +265,8 @@
   <img src="https://static01.nyt.com/images/2026/06/08/multimedia/08mideast-600-kvcq/08mideast-600-kvcq-mediumSquareAt3X.jpg" onerror="this.style.display='none'">
   <div class="card-body">
     <span class="badge">New York Times</span>
-    <h3><a href="https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks" target="_blank">Live Updates: Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say</a></h3>
-    <p>Prime Minister Benjamin Netanyahu said that Israel’s “fire is on hold” after a phone call with President Trump. Iran also said it would cease its attacks but, like Israel, warned it was ready to resum</p>
+    <h3><a href="https://www.nytimes.com/live/2026/06/08/world/iran-israel-lebanon-attacks" target="_blank">Israel Halts Iran Strikes After Trump Claims Progress Toward Nuclear Talks, Officials Say</a></h3>
+    <p>Prime Minister Benjamin Netanyahu said that Israel’s “fire is on hold” after a phone call with President Trump. Iran also said it would cease its attacks but, like Israel, warned it was ready to resume.</p>
   </div>
 </div>
 
@@ -322,11 +334,20 @@
 </div>
 
 <div class="card">
+  
+  <div class="card-body">
+    <span class="badge">NASA</span>
+    <h3><a href="https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/" target="_blank">San Francisco’s Metropolitan Mosaic</a></h3>
+    <p>Urban development, green spaces, and maritime activity converge in this Northern California city.</p>
+  </div>
+</div>
+
+<div class="card">
   <img src="https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0361795.jpg" onerror="this.style.display='none'">
   <div class="card-body">
     <span class="badge">NASA</span>
     <h3><a href="https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/" target="_blank">How NASA Science and Artemis Are Shaping the 2026 FIFA World Cup</a></h3>
-    <p>As&#160;the FIFA World Cup&#160;approaches, NASA is bringing&#160;space science and&#160;engineering&#160;to soccer fans&#160;worldwide.&#160;From&#160;June 11&#160;to July 19,&#160;2026,&#160;NASA wi</p>
+    <p>As the FIFA World Cup approaches, NASA is bringing space science and engineering to soccer fans worldwide. From June 11 to July 19, 2026, NASA will host an exhibit at FIFA Fan Festival™ Houston where visitors can learn how research aboard the International Space Station benefits life on Earth and experience missions in low Earth orbit, the Moon, and beyond through the Artemis program.  On June 11, as the FIFA World Cup begins, NASA’s exhibit […]</p>
   </div>
 </div>
 
@@ -335,7 +356,7 @@
   <div class="card-body">
     <span class="badge">NASA</span>
     <h3><a href="https://www.nasa.gov/image-article/supersonic/" target="_blank">Supersonic!</a></h3>
-    <p>On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA t</p>
+    <p>On June 5, 2026, NASA’s experimental X-59 aircraft flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph). The flight lasted 81 minutes, with the team focusing on flying qualities at both […]</p>
   </div>
 </div>
 
@@ -344,7 +365,7 @@
   <div class="card-body">
     <span class="badge">NASA</span>
     <h3><a href="https://science.nasa.gov/photojournal/nasas-incus-satellites-progress-toward-launch/" target="_blank">NASA’s INCUS Satellites Progress Toward Launch</a></h3>
-    <p>Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado.</p>
+    <p>Description One of the three satellites that make up NASA’s INCUS (Investigation of Convective Updrafts) mission sits on a fixture at the facilities of Blue Canyon Technologies in Lafayette, Colorado. The satellite completed testing in preparation for launch in late May 2026. The mission will make the first space-based survey of the dynamics of tropical […]</p>
   </div>
 </div>
 
@@ -362,7 +383,7 @@
   <div class="card-body">
     <span class="badge">NASA</span>
     <h3><a href="https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/" target="_blank">NASA’s X-59 Aircraft Flies Supersonic for First Time</a></h3>
-    <p>NASA’s&#160;experimental&#160;X-59&#160;aircraft&#160;marked&#160;a major milestone&#160;Friday,&#160;June&#160;5,&#160;when it&#160;flew faster than the speed of sound for the first time,&#160;settin</p>
+    <p>NASA’s experimental X-59 aircraft marked a major milestone Friday, June 5, when it flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year.  NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph) and altitude of 43,400 feet. The X-59’s flight began at 11:08 a.m. PDT and lasted 81 minutes, with the team focusing on flying qualities at both subsonic and then […]</p>
   </div>
 </div>
 
@@ -371,7 +392,7 @@
   <div class="card-body">
     <span class="badge">NASA</span>
     <h3><a href="https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/" target="_blank">NASA Announces Winners of 2026 University Innovation Competition</a></h3>
-    <p>NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Aca</p>
+    <p>NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new system concepts and prototypes.  Another team from the same university won second place overall for their project, Mars Exploration Layered Infrastructure for Operations, Research, and Advancement, while Virginia Polytechnic Institute and State University took third place with the Mars […]</p>
   </div>
 </div>
 
@@ -380,16 +401,7 @@
   <div class="card-body">
     <span class="badge">NASA</span>
     <h3><a href="https://science.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-moon-mission-research-continues-on-earth/" target="_blank">NASA’s Artemis II Moon Mission Research Continues on Earth</a></h3>
-    <p>Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NAS</p>
-  </div>
-</div>
-
-<div class="card">
-  
-  <div class="card-body">
-    <span class="badge">NASA</span>
-    <h3><a href="https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/" target="_blank">NASA Concludes Antenna Mishap Investigation, Releases Report</a></h3>
-    <p>NASA has completed the investigation into the damage sustained last year at its 70-meter radio-frequency antenna, known as the Deep Space Station 14 (DSS-14), at the Goldstone Deep Space Communication</p>
+    <p>Results from Artemis II’s science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there.</p>
   </div>
 </div>
 </div>
